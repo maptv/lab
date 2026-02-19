@@ -319,20 +319,20 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 **Table 1.2**. Identification of Organs and their Function
 
-| Organ<br>System | Function | Organs |
-|-----------------|----------|--------|
-| 1 Nervous       |          | Brain  |
-| 2               |          |        |
-| 3               |          |        |
-| 4               |          |        |
-| 5               |          |        |
-| 6               |          |        |
-| 7               |          |        |
-| 8               |          |        |
-| 9               |          |        |
-| 10              |          |        |
-| 11a             |          |        |
-| 11b             |          |        |
+| Organ<br>System | Function | Organs  |
+|-----------------|----------|---------|
+| 1 Nervous       |          | Brain   |
+| 2 Digestive     |          | Stomach |
+| 3               |          |         |
+| 4               |          |         |
+| 5               |          |         |
+| 6               |          |         |
+| 7               |          |         |
+| 8               |          |         |
+| 9               |          |         |
+| 10              |          |         |
+| 11a             |          |         |
+| 11b             |          |         |
 
 ## **Lab Activities**
 
