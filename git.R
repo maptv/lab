@@ -27,3 +27,4 @@ usethis::use_git_remote(url = "https://github.com/maptv/lab", overwrite = TRUE)
 usethis::use_github(
   "maptv/lab"
 )
+
