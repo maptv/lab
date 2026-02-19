@@ -1,0 +1,1012 @@
+---
+title: "01"
+format: html
+editor: visual
+---
+
+## Quarto
+
+***Quarto*** enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+# **Introduction to Human Biology Laboratory Workbook Version 4**
+
+## **George Mateja**
+
+The Community College of Baltimore County
+
+![](_page_0_Picture_3.jpeg)
+
+Introduction to Human Biology Laboratory Workbook; an Open Education Resource. First Edition © 2024 by George Mateja is licensed under CC BY-SA 4.0. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/>
+
+# **Table of Contents**
+
+| Acknowledgements iii                                              |     |
+|-------------------------------------------------------------------|-----|
+| Chapter 1: Anatomical Language1                                   |     |
+| Chapter 2: Use of the Microscope 30                               |     |
+| Chapter 3: Cells40                                                |     |
+| Chapter 4: Histology/Tissues73                                    |     |
+| Chapter 5: Integumentary<br>System95                              |     |
+| Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy123    |     |
+| Chapter 7: Skeletal System –Axial Division151                     |     |
+| Chapter 8: Skeletal System -<br>Appendicular Division193          |     |
+| Chapter 9. The Articulations and Joints224                        |     |
+| Chapter 10: Skeletal Muscle<br>Histology and Microanatomy245      |     |
+| Chapter 11: Muscular system; Gross Anatomy268                     |     |
+| Chapter 12: Nervous System; Microanatomy305                       |     |
+| Chapter 13: Nervous System; Gross Anatomy326                      |     |
+| Chapter 14: Special Senses375                                     |     |
+| Chapter 15: Endocrine System409                                   |     |
+| Chapter 16 Cardiovascular System: The Blood and Heart440          |     |
+| Chapter 17: Cardiovascular system; The Arteries and Veins474      |     |
+| Chapter 18: Lymphatic System509                                   |     |
+| Chapter 19: Respiratory System531                                 |     |
+| Chapter 20: Digestive System561                                   |     |
+| Chapter 21: Urinary System612                                     |     |
+| Chapter 22: Reproductive System: Male Reproductive System643      |     |
+| Chapter 23: Reproductive System: Female Reproductive<br>System663 |     |
+| Attributions692                                                   |     |
+
+# **Acknowledgments**
+
+This manual includes original content by George Mateja, Professor of Biology at Community College of Baltimore County. Its creation also contains a variety of remixed and revised content from other resources. These sources are noted in the attributions section for each lab.
+
+A considerable amount of gratitude is owed to those who have offered their time to review this work. They have generously offered their time, expertise, and ideas to assist in the creation and/or editing of this work.
+
+-   Julie Robinson, DC. River Valley Community College
+-   Christine Mirbaha, Community College of Baltimore County
+-   Michael Losinger, Community College of Baltimore County
+
+I would like to thank the library staff who supported the creation of this work. Their role as advisors to answer questions concerning copyright and attribution questions patiently and earnestly in a timely manner was greatly appreciated.
+
+-   Jenn Ditkoff, Head Librarian, Dundalk
+-   Jean Boggs, Reference Librarian
+-   Shaune Pyle, OER and Online Learning Librarian
+-   Cheryl Kantorski, Administrative Support Assistant III; Library Services
+
+This lab manual was written for a one-semester Anatomy and Physiology course such as the Biology 109 Introduction to Human Biology taught at the Community College of Baltimore County. This workbook is written to complement a onesemester Anatomy and Physiology text. The subject material is based on the course objectives developed by the Community College of Baltimore County's Biology 109 course committee.
+
+The completion of this work was supported by a Community College of Baltimore County Summer Grant during the summer of 2024. A special note of thanks goes to President Sandra Kurtinitis, Ph.D. and the Provost & Vice President of Academics and Student Joaquin Martinez, Ph.D. of the Community College of Baltimore County for their constant support and encouragement for those who create OER and open pedagogy curriculum.
+
+# **Chapter 1: Anatomical language**
+
+## **Your objectives for this lab are to:**
+
+-   Define and demonstrate the anatomical position.
+-   Use the correct terminology to describe the planes of the body.
+-   Identify the planes of view is several different views of the body.
+-   Define and demonstrate the different anatomical positions.
+-   Define and demonstrate the directional terms used in anatomy.
+-   Define and apply the different anatomical regions.
+-   Locate the major cavities and describe several of the organs that lie within each.
+-   Identify the abdominopelvic cavities':
+    -   o Four quadrants and their organs
+    -   o Nine regions and their organs
+-   Identify the serous membranes within the body and their respective layers.
+
+## **Terms to learn:**
+
+## **Regional Terms**
+
+## *Anterior View*
+
+-   Abdominal
+
+-   Antebrachial
+
+-   Antecubital
+
+-   Axillary
+
+-   Brachial
+
+-   Buccal
+
+-   Carpal
+
+-   Cervical
+
+-   Thoracic
+
+-   Crural
+
+-   Deltoid
+
+-   Digital
+
+-   Femoral
+
+-   Frontal
+
+-   Inguinal
+
+-   Nasal
+
+-   Oral
+
+-   Orbital
+
+-   Palmar
+
+-   Patellar
+
+-   Pectoral
+
+-   Pedal
+
+-   Pelvic
+
+-   Pubic
+
+-   Sternal
+
+-   Tarsal
+
+### **Posterior View**
+
+-   Calcaneal
+
+-   Cephalic
+
+-   Gluteal
+
+-   Lumbar
+
+-   Occipital
+
+-   Plantar
+
+-   Sacral
+
+-   Vertebral
+
+## **Directional Terms**
+
+-   Superior (cranial, cephalic)
+
+-   Inferior (caudal)
+
+-   Anterior (ventral)
+
+-   Posterior (dorsal)
+
+-   Medial
+
+-   Lateral
+
+-   Proximal
+
+-   Distal
+
+-   Intermediate
+
+-   Superficial (external)
+
+-   Deep (internal)
+
+## **Planes**
+
+-   Sagittal
+
+-   Midsagittal
+
+-   Parasagittal
+
+-   Frontal (coronal)
+
+-   Transverse (horizontal)
+
+-   Oblique section
+
+-   Cross-section vs. Longitudinal section
+
+## **Body Cavities, Membranes, and Abdominopelvic Quadrants**
+
+Be able to identify cavities, as well as organs found in each cavity.
+
+## **Cavities**
+
+-   Dorsal cavity
+    -   o Cranial cavity
+    -   o Spinal cavity
+-   Ventral cavity
+    -   o Thoracic cavity
+        -   Pleural cavities
+        -   Pericardial cavity
+        -   Mediastinum
+    -   o Abdominopelvic cavity
+        -   Abdominal cavity
+        -   Pelvic cavity
+
+## **Abdominopelvic Quadrants – identify organs within each quadrant.**
+
+-   Right upper quadrant
+
+-   Left upper quadrant.
+
+-   Right lower quadrant
+
+-   Left lower quadrant.
+
+## **Organ Systems**
+
+**Know what organs are in each system, as well as the general functions of the system.**
+
+-   Integumentary
+-   Skeletal
+-   Muscular
+-   Nervous
+-   Endocrine
+-   Cardiovascular
+-   Lymphatic
+-   Respiratory
+-   Digestive
+-   Urinary
+-   Reproductive
+
+## **Prelab Activities**
+
+## **Prelab Activity 1.1**
+
+Definitions: define the terms that are essential to this chapter.
+
+| Deminio | me. define the terms that are essential to this enapter. |   |   |
+|------------------|------------------|------------------|------------------|
+| Directional terms: |  |  |  |
+| • Ai | nterior (or ventral) |  |  |
+| • Po | osterior (or dorsal) |  |  |
+| • St | uperior (or cranial) |  |  |
+| • In | ferior (or caudal) |  |  |
+| • La | ateral |  |  |
+| • M | edial |  |  |
+|  | oximal |  |  |
+|  | stal |  |  |
+|  | uperficial |  |  |
+| • D | eep |  |  |
+| Body Cavities • Cranial |  |  |  |
+| • | Abdominal |  |  |
+|  | Pericardial |  |  |
+| • | Pleural |  |  |
+| • | Ventral |  |  |
+| Body Planes • Sagittal plane |  |  |  |
+| • | Midsagittal plane |  |  |
+| • | Parasagittal plane |  |  |
+| • | Frontal plane |  |  |
+| • | Transverse plane |  |  |
+
+Oblique plane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **Prelab Activity 1.2**
+
+## **Identification**
+
+Identify the following cavities or structures in the body.
+
+![](_page_6_Figure_3.jpeg)
+
+**Figure 1.1** Diagram of labeled body cavities.
+
+**Table 1.1 Identification Table for Figure 1.1.**
+
+| Cavity<br>number | Cavity or structures |
+|------------------|----------------------|
+| 1                |                      |
+| 2                |                      |
+| 3                |                      |
+| 4                |                      |
+| 5                |                      |
+| 6                |                      |
+| 7                |                      |
+| a                |                      |
+| b                |                      |
+| c                |                      |
+| d                |                      |
+| e                |                      |
+
+## **Prelab Activity 1.3**
+
+## **Identification**
+
+Using the lab manual or your textbook, list the 12 organ systems of the body below and the major functions and organs in each: (Note: Male and female reproductive systems are counted as two systems, 11a and 11b, respectively).
+
+**Table 1.2**. Identification of Organs and their Function
+
+| Organ<br>System | Function | Organs |
+|-----------------|----------|--------|
+| 1               |          |        |
+| 2               |          |        |
+| 3               |          |        |
+| 4               |          |        |
+| 5               |          |        |
+| 6               |          |        |
+| 7               |          |        |
+| 8               |          |        |
+| 9               |          |        |
+| 10              |          |        |
+| 11a             |          |        |
+| 11b             |          |        |
+
+## **Lab Activities**
+
+### **Lab Activity 1.1**
+
+## **Body Organization and Terminology Review**
+
+**Anatomical Terminology**: Using the information in your textbook define the following anatomical terms:
+
+### **Anatomical position**
+
+![](_page_8_Picture_5.jpeg)
+
+**Figure 1.2**. Anatomical position.
+
+#### **Prone and supine positions**
+
+![](_page_8_Picture_8.jpeg)
+
+**Figure 1.3** Prone and supine diagrams.
+
+## **Applying Directional Terms**; label the diagrams below:
+
+## **List of directional terms**
+
+-   Right
+
+-   Left
+
+-   superior
+
+-   inferior
+
+-   anterior
+
+-   posterior
+
+-   dorsal
+
+-   ventral
+
+-   cranial
+
+-   caudal
+
+-   medial
+
+-   lateral
+
+-   proximal
+
+-   distal
+
+-   superficial
+
+-   deep
+
+In the image below label the directional terms that are listed above
+
+![](_page_9_Picture_20.jpeg)
+
+**Figure 1.4** Unlabeled directional terms diagram.
+
+Indicate in the boxes provided the deep and superficial positions.
+
+![](_page_10_Picture_1.jpeg)
+
+**Figure 1.5** Sagittal section of the head. The subject is an 18-year-old male who had blunt trauma to the head after a 25 m long jump during [motocross.](https://en.wikipedia.org/wiki/Motocross)
+
+## **Lab Activity 1.3**
+
+## **Labeling Anatomical and Regional Terminology**
+
+-   Obtain labeling tape and one of the models or skeletons ( e.g., a torso model, mini muscle person torso, skeleton)
+-   Write the directional terms from activity 1.2 on the model.
+-   Once you are done, have another group check your accuracy. Make corrections if needed.
+-   Then, have your instructor or Lab Instructor check your accuracy.
+-   Take pictures of your work to use as a study guide.
+
+## **Applying Anatomical and Regional Terminology**
+
+Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
+
+| 1\. | The elbow is located to the wrist. |   |
+|------------------------|------------------------|------------------------|
+| 2\. | The umbilicus is located to the sternum. |  |
+| 3\. | The nose is located and |  |
+|  | to the ears. |  |
+| 4\. | The mouth is located to the chin. |  |
+| 5\. | A papercut that does not penetrate the skin would be considered as a |  |
+|  | wound; however, a puncture wound from a |  |
+|  | nail penetrating the skin would be considered as a |  |
+|  | wound. |  |
+| 6\. | A wound on the elbow would be to the elbow. |  |
+
+## **Lab Activity 1.5**
+
+## **Applying Anatomical and Regional Terminology**
+
+Next, using the definition of anatomical position and correct anatomical language, take turns with your lab partner to give simple, one-movement verbal instructions to transition from the given starting positions (listed in the table below), so that the other person ends up in anatomical position. Write your detailed step-by-step instructions on the provided table.
+
+| Starting Position | Instructions Given to Move to<br>Anatomical Position |
+|------------------------------------|------------------------------------|
+| Example: Standing from a<br>Half Spinal Twist<br>with the<br>feet placed to the left, the<br>torso twisted away from you<br>and the head facing at a<br>slight angle to the right,<br>away from you.<br>Figure 1.6 | Example:<br>•<br>Rotate the mental region<br>anteriorly and medially.<br>•<br>Rotate the entire body 180<br>degrees to the left.<br>•<br>Position palmar region<br>anteriorly |
+| 1: From lying face-up on the<br>ground with their head,<br>back, hands, and feet on the<br>floor with both knees bent<br>Figure 1.7 |  |
+| 2: From a seated position<br>on the floor with their legs<br>straight and arms folded<br>across their chest<br>Figure 1.8 |  |
+
+## **Sectioning/Body Planes**
+
+Using your text, label the planes in the figure below. Draw an oblique plane in the brachial area of the right arm.
+
+## **Body Planes**
+
+-   Sagittal plane
+
+-   Midsagittal plane
+
+-   Parasagittal plane
+
+-   Transverse plane
+
+-   Coronal plane
+
+-   Oblique plane
+
+![](_page_13_Figure_10.jpeg)
+
+**Figure 1.9**. Human Anatomical Planes.
+
+Indicate what type of planes were used in the following demonstrations:
+
+![](_page_13_Picture_13.jpeg)
+
+**Figure 1.10** Human Head slice.
+
+Plane:
+
+![](_page_13_Picture_16.jpeg)
+
+**Figure 1.11** An anatomical illustration from Sobotta's Human Anatomy 1908.
+
+Plane:
+
+## **Regional Terminology**
+
+-   Obtain tape and any of the following models (a torso model, mini muscle person torso, skeleton)
+-   Write the following terms and attach them to your models.
+
+## **Regions of the body,**
+
+## **Axial Region:**
+
+-   **Cephalic (head)**
+    -   o Cranial
+    -   o Pectoral
+    -   o Facial
+    -   o Frontal forehead
+    -   o Orbital eye
+    -   o Nasal nose
+    -   o Buccal cheek
+    -   o Oral mouth
+    -   o Mental chin
+    -   o Cervical/Nuchal neck
+
+## **Appendicular:**
+
+-   **Upper Extremity**
+    -   o Axillary armpit
+    -   o Brachial arm
+    -   o Cubital elbow
+    -   o Antebrachial forearm
+    -   o Carpal wrist
+    -   o Manual hand
+    -   o Digital finger
+
+## • **Trunk**
+
+-   o Thoracic chest
+-   o Sternal Clavicular
+-   o Acromial shoulder
+-   o Abdominal belly
+-   o Inguinal groin
+-   o Pubic genital
+-   o Coxal hip
+-   o Vertebral Vertebral column
+-   o Lumbar lower back
+-   o Sacral
+-   o Gluteal (buttocks)
+
+## • **Lower Extremity**
+
+-   o Femoral thigh
+-   o Popliteal back of knee
+-   o Patellar kneecap
+-   o Crural leg
+-   o Calcaneal heel
+-   o Tarsal ankle
+-   o Pedal foot
+
+![](_page_15_Figure_0.jpeg)
+
+**Figure 1.12** The human body is shown in an anatomical position in an (a) anterior view and a (b) posterior view. The regions of the body are labeled in bold face.
+
+## **Body Cavities and Associated Serous Membranes**
+
+-   **Dorsal Cavity:**
+    -   o Cranial cavity
+    -   o Vertebral cavity
+
+## • **Ventral Cavity:**
+
+-   o Thoracic cavity
+    -   Mediastinum
+    -   Pleural cavities
+    -   Pericardial cavity
+    -   Diaphragm
+-   o Abdominopelvic cavity
+    -   Abdominal cavity
+    -   Pelvic cavity
+
+## **Body Cavities and Associated Serous Membranes Continued**
+
+## **Viscera:**
+
+Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissue:
+
+-   **Visceral Membranes** cover the organs
+-   **Parietal Membranes** line the body cavity
+    -   o There is a space between a visceral and parietal membrane, the **serous cavity**, into which **serous fluid** is secreted for **lubrication**.
+-   Cavities referenced to the membranes.
+    -   o Pleura
+    -   o Pericardial
+    -   o Peritoneum
+
+![](_page_16_Picture_10.jpeg)
+
+**Figure 1.13** Labeled body cavities.
+
+## **Abdominopelvic Cavity Regions and Quadrants**
+
+-   [**Abdominal**](https://commons.wikimedia.org/w/index.php?curid=29624323Abdominal) **quadrants**
+    -   o Right upper quadrant
+    -   o Right lower quadrant
+    -   o Left upper quadrant
+    -   o Left Lower Quadrant
+-   **Abdominal regions**
+    -   o Epigastric
+    -   o Left and right hypochondriac
+    -   o Umbilical
+    -   o Left and right lumbar
+    -   o Hypogastric
+    -   o Left and right iliac
+
+![](_page_17_Figure_14.jpeg)
+
+**Figure 1.14** Abdominal quadrants and regions with labels for identification.
+
+## **Learning the Quadrants and Planes**
+
+-   Obtain a large torso model.
+-   Using the information in activity 1.7 and the torso:
+    -   o Properly identify the quadrant and the region
+    -   o Fill in the tables below. If there is more than one organ in a cavity, list at least two organs.
+
+#### **Table 1.3. [Abdominal](https://commons.wikimedia.org/w/index.php?curid=29624323Abdominal) Quadrants**
+
+| Quadrants   | Organs |
+|-------------|--------|
+| Right upper |        |
+| quadrant    |        |
+| Right lower |        |
+| quadrant    |        |
+| Left upper  |        |
+| quadrant    |        |
+| Left lower  |        |
+| quadrant    |        |
+
+#### **Table 1.4. Abdominal Regions**
+
+| Regions             | Organs |
+|---------------------|--------|
+| left hypochondriac: |        |
+| Epigastric          |        |
+| right hypochondriac |        |
+| left lumbar         |        |
+| umbilical           |        |
+| right lumbar        |        |
+| left iliac          |        |
+| hypogastric         |        |
+| right iliac         |        |
+
+![](_page_19_Figure_0.jpeg)
+
+Figure 1.15 Organ Systems I.
+
+![](_page_20_Figure_0.jpeg)
+
+Figure 1.16 Organ Systems II.
+
+## **Lab Activity 1.9: Organ Systems**
+
+Using your textbook, list the 12 organ systems of the body below and the organs in each: (Note: Male and female reproductive systems are counted as two systems here (i.e., 11a and 11b).
+
+**Table 1.5 Organ systems and their Organs**
+
+| Organ  | Organs |
+|--------|--------|
+| System |        |
+| 1      |        |
+| 2      |        |
+| 3      |        |
+| 4      |        |
+| 5      |        |
+| 6      |        |
+| 7      |        |
+| 8      |        |
+| 9      |        |
+| 10     |        |
+| 11a    |        |
+| 11b    |        |
+|        |        |
+
+# **Post Lab Activity: Review material**
+
+## **Post Lab Activity 1.1**
+
+|     |     | Fill in the blanks.   |     |     |     |
+|-----|-----|-----------------------|-----|-----|-----|
+| --  | --  | --------------------- | --  | --  | --  |
+
+| Systems |   |   |   |   |   |   |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| • | The system forms the external body covering. |  |  |  |  |  |
+| • | The system protects deeper tissues from injury. |  |  |  |  |  |
+| • | The system synthesizes vitamin D. |  |  |  |  |  |
+| •<br>blood. | Organs of the system secrete chemicals called hormones into the |  |  |  |  |  |
+| •<br>unwanted carbon dioxide. | The system keeps blood supplied with oxygen and disposes of |  |  |  |  |  |
+| •<br>The system produces sperm or eggs and sex hormones. |  |  |  |  |  |  |
+| Homeostasis |  |  |  |  |  |  |
+| •<br>amplified. | In a(n) feedback system, a change in a condition is sensed and |  |  |  |  |  |
+| •<br>returned toward its previous level. | In a(n) feedback system, a change in a condition is sensed and |  |  |  |  |  |
+| Position terms review: |  |  |  |  |  |  |
+| •<br>The knees are to the<br>ankles. | •<br>The thumbs are to the pinky<br>fingers. |  |  |  |  |  |
+| •<br>The spine is to the<br>breastbone. | •<br>The chest is to the shoulder<br>blades. |  |  |  |  |  |
+| •<br>The pinky fingers are<br>to the thumbs. | •<br>The navel is to the lower<br>back. |  |  |  |  |  |
+| •<br>The eyes are to the<br>bridge of the nose. | •<br>The breasts are to the lungs.<br>•<br>The intestines are to the |  |  |  |  |  |
+| •<br>The nose is to the | neck. |  |  |  |  |  |
+| mouth. | •<br>The elbows are to the wrists. |  |  |  |  |  |
+| •<br>The mouth is to the | •<br>The calf is to the shin. |  |  |  |  |  |
+| forehead. | •<br>The heart is to the ribcage. |  |  |  |  |  |
+| •<br>The genitals are to the | •<br>The ankles are to the shins. |  |  |  |  |  |
+| hips. | •<br>The nipples are to the knees. |  |  |  |  |  |
+| •<br>The lips are and | •<br>The brain is to the skull. |  |  |  |  |  |
+| to the ears. | •<br>The thighs are to the feet. |  |  |  |  |  |
+| •<br>The lower back is to | •<br>The ribcage is to the lungs. |  |  |  |  |  |
+| the navel. | •<br>The skin is to the muscles. |  |  |  |  |  |
+
+| Regional terms review<br>•<br>''Nasal'' refers to the | •<br>''Palmar'' refers to the |
+|------------------------------------|------------------------------------|
+| •<br>''Oral'' refers to the | •<br>''Digital'' refers to the |
+|  |  |
+| •<br>''Cervical'' refers to the | •<br>''Pubic'' refers to the |
+| •<br>''Acromial'' refers to the | •<br>''Patellar'' refers to the |
+| •<br>''Axillary'' refers to the | •<br>''Crural'' refers to the |
+| •<br>''Abdominal'' refers to the | •<br>''Pedal'' refers to the |
+| •<br>''Brachial'' refers to the | •<br>''Tarsal'' refers to the |
+| •<br>''Antecubital'' refers to the | •<br>''Frontal'' refers to the |
+| •<br>''Antebrachial'' refers to the | •<br>''Orbital'' refers to the |
+| •<br>''Pelvic'' refers to the | •<br>''Buccal'' refers to the |
+| •<br>''Carpal'' refers to the |  |
+| Planes |  |
+| •<br>The or plane separates the anterior and posterior portions of an<br>object.<br>•<br>The or plane separates the superior and inferior portions of an<br>object. |  |
+| Cavities |  |
+| •<br>The cranial cavity is within the cavity. |  |
+| •<br>The spinal or vertebral cavity is within the cavity. |  |
+| •<br>The thoracic cavity is within the cavity. |  |
+| •<br>The abdominopelvic cavity is within the cavity. |  |
+| •<br>The brain is found in the cavity. (Use the most specific, i.e., smallest,<br>cavity that is appropriate.) |  |
+| •<br>The spinal cord is found in the cavity. (Use the most specific, i.e., smallest, |  |
+| cavity that is appropriate.) |  |
+| Post Lab Activity 1.2: Multiple choice questions |  |
+| 1.<br>The coronal plane is also | 2.<br>The diaphragm separates the: |
+| called the | a.<br>Cranial and spinal cavities |
+| a.<br>Sagittal plane | b.<br>Thoracic and abdominal cavities |
+| b.<br>Transverse plane | c.<br>Abdominal and pelvic cavities |
+| c.<br>Oblique plane | d.<br>Dorsal and ventral cavities |
+| d.<br>Frontal plane |  |
+
+| 3\. | To make a banana split, you halve<br>a banana into two long, thin, right,<br>and left sides along the | 8\. |   | What is the position of the body<br>when it is in the "normal<br>anatomical position?" |
+|---------------|---------------|---------------|---------------|---------------|
+|  | a.<br>coronal plane |  | a\. | The person is prone with upper |
+|  | b.<br>longitudinal plane |  |  | limbs, including palms, touching |
+|  | c.<br>midsagittal plane |  |  | sides and lower limbs touching at |
+|  | d.<br>transverse plane |  |  | sides. |
+|  |  |  | b\. | The person is standing facing the<br>observer, with upper limbs |
+| 4\. | The heart is within the |  |  | extended out at a ninety-degree |
+|  | a.<br>cranial cavity |  |  | angle from the torso and lower |
+|  | b.<br>mediastinum |  |  | limbs in a wide stance with feet |
+|  | c.<br>posterior (dorsal) cavity |  |  | pointing laterally. |
+|  | d.<br>All the above |  | c\. | The person is supine with upper |
+|  |  |  |  | limbs, including palms, touching |
+| 5\. | The naval is found in. |  |  | sides and lower limbs touching at |
+|  | a.<br>the iliac region |  |  | sides. |
+|  | b.<br>The lumbar region |  | d\. | None of the above |
+|  | c.<br>The umbilical region |  |  |  |
+|  | d.<br>The hypochondriac region | 9\. |  | Portion of a serous membrane |
+|  |  |  |  | that is in contact with an organ. |
+| 6\. | The thyroid and the adrenal glands |  | a\. | Mesentery |
+|  | compose the |  | b\. | Parietal |
+|  | a.<br>Lymphatic system |  | c\. | Pleural |
+|  | b.<br>integumentary system |  | d\. | Visceral |
+|  | c.<br>nervous system |  | e\. | Mediastinal |
+|  | d.<br>endocrine system |  |  |  |
+|  |  | 10\. |  | Away from the midline |
+| 7\. | The body system responsible for |  | a\. | Inferior |
+|  | structural support and movement is |  | b\. | Medial |
+|  | the |  | c\. | Lateral |
+|  | a.<br>cardiovascular system |  | d\. | Distal |
+|  | b.<br>endocrine system |  |  |  |
+|  | c.<br>muscular system |  |  |  |
+
+d.  skeletal system
+
+## **Post Lab Activity 1.3: Crossword Puzzles**
+
+![](_page_25_Picture_1.jpeg)
+
+**Figure 1.17** Systems of the body.
+
+### **Across**
+
+-   Is affected by the removal of the thyroid gland (9)
+
+-   Includes the heart (14)
+
+-   Protects underlying organs from drying out and mechanical damage (13)
+
+-   Moves the limbs (8)
+
+-   Provides for conception and childbearing (12)
+
+-   Brain, nerves, sensory receptors (7)
+
+-   Rids the body of nitrogen-containing wastes (7)
+
+-   Breaks down food into small particles that can be absorbed (9)
+
+-   Provides support and levers on which the muscular system can act (8)
+
+-   Provides oxygen into the blood (11)
+
+![](_page_26_Picture_0.jpeg)
+
+**Figure 1.18** Body cavities.
+
+Note: The clues include the number of letters in a word in the parentheses at the end of the clue: e.g., "for one word; includes the heart (14)" or for two words; "a large organelle in eukaryotic organisms which protects the DNA (4,7)."
+
+## **Across**
+
+-   **4** Cavity surrounded by the rib cage, bounded inferiorly by the diaphragm.
+
+-   
+
+    (8) 
+
+-   **5** Cavities lateral to the heart which contain the lungs (7)
+
+-   **1** Medial portion of the thoracic cavity; consists of heart, thymus gland, trachea, and blood vessels (11)
+
+-   **2** Small space enclosed by the pelvic bones. (6)
+
+-   **3** Cavity bounded by the abdominal muscles (9)
+
+## **Additional Learning Resources: (Robinson, 2019)**
+
+-   **Watch** these three (3) videos to learn more about these critical, introductory concepts of A&P listed above.
+    -   o [https://www.youtube.com/watch?v=D4vayAF4atI&feature=yout](https://www.youtube.com/watch?v=D4vayAF4atI&feature=youtu.be) [u.be](https://www.youtube.com/watch?v=D4vayAF4atI&feature=youtu.be)
+    -   o [https://www.youtube.com/watch?v=4UJ4sylQsEM&feature=yo](https://www.youtube.com/watch?v=4UJ4sylQsEM&feature=youtu.be) [utu.be](https://www.youtube.com/watch?v=4UJ4sylQsEM&feature=youtu.be)
+    -   o Review of anatomical position, directional terms, and planes/sections. <https://www.youtube.com/watch?v=f6rZw7QkGLw> -
+-   **Practice** anatomical terminology and labeling of regions, cavities, and membranes here:
+    -   o <https://webanatomy.umn.edu/ch1-topics> (regions and cavities)
+
+### **Other resources**
+
+-   **OpenStax:**
+    -   o <https://openstax.org/details/anatomy-and-physiology> OpenStax Anatomy & Physiology e-book. Not to be used as replacement for the required textbook but as an additional source of information, including chapter questions at the end of chapters. Unless otherwise noted, all content on [Open](http://faq.openoregon.org/openoregon.org) Oregon [Educational](http://faq.openoregon.org/openoregon.org) Resources is licensed under a [Creative](http://creativecommons.org/licenses/by/4.0/) Commons Attribution 4.0 [International](http://creativecommons.org/licenses/by/4.0/) License.
+-   **KenHub:**
+    -   o [https://www.kenhub.com](https://www.kenhub.com/) Online anatomy tutorials, videos, and quizzes. Free registration. Many may be more detailed than might be needed at this level but professionally created and accurate.
+-   **Miscellaneous:**
+    -   o [http://www.sumanasinc.com/webcontent/animations/biology.ht](http://www.sumanasinc.com/webcontent/animations/biology.html) [ml](http://www.sumanasinc.com/webcontent/animations/biology.html) – many links to video animations that have simple animations and explanations for some processes (i.e., Synaptic transmission, Action potential conduction (explaining changes that occur in voltage-controlled Na gates, etc.)
+
+### **Answer Keys:**
+
+### **Crosswords:**
+
+**Systems of the body**
+
+-   **Across: 2** Endocrine, **6** Cardiovascular, **8** Integumentary, **10** Muscular.
+-   **Down: 1** Reproductive, **3** Nervous, **4** Urinary, **5** Digestive, **7** Skeletal, **9** Respiratory.
+
+### **Body cavities:**
+
+-   **Across: 4** Thoracic, **5** Pleural.
+-   **Down: 1** Mediastinum, **2** Pelvic, **3** Abdominal.
+
+| Chapter 1: Anatomical Language Glossary |   |   |   |   |
+|---------------|---------------|---------------|---------------|---------------|
+| Key Terms | Definitions |  |  |  |
+| abdominal | of or pertaining to the abdomen; ventral. |  |  |  |
+| Abdominal cavity | General region bounded by the abdominal wall and the pelvis. It contains the |  |  |  |
+|  | peritoneal cavity and the viscera |  |  |  |
+| abdominopelvic | division of the anterior (ventral) cavity that houses the abdominal and pelvic |  |  |  |
+| cavity | viscera |  |  |  |
+| anabolism | assembly of more complex molecules from simpler molecules |  |  |  |
+| anatomical position | standard reference position used for describing locations and directions on the |  |  |  |
+|  | human body |  |  |  |
+| anatomy | science that studies the form and composition of the body's structures |  |  |  |
+| antebrachial | relating to the forearm. |  |  |  |
+| antecubital | pertaining to the surface of the arm in front of the elbow. |  |  |  |
+| anterior | describes the front or direction toward the front of the body; also referred to as |  |  |  |
+|  | ventral |  |  |  |
+| anterior cavity | larger body cavity located anterior to the posterior (dorsal) body cavity; includes |  |  |  |
+|  | the serous membrane-lined pleural cavities for the lungs, pericardial cavity for |  |  |  |
+|  | the heart, and peritoneal cavity for the abdominal and pelvic organs; also |  |  |  |
+|  | referred to as ventral cavity |  |  |  |
+| axillary | of or pertaining to the armpit. |  |  |  |
+| brachial | pertaining to the upper limb |  |  |  |
+| buccal | pertaining to or directed toward the cheek. |  |  |  |
+| calcaneal | Of or pertaining to the calcaneus (heel bone). |  |  |  |
+| cardiovascular | System containing the heart and the blood vessels |  |  |  |
+| system |  |  |  |  |
+| carpal | pertaining to the carpus, or wrist. |  |  |  |
+| catabolism | breaking down of more complex molecules into simpler molecules |  |  |  |
+| caudal | describes a position below or lower than another part of the body proper; near |  |  |  |
+|  | or toward the tail (in humans, the coccyx, or lowest part of the spinal column); |  |  |  |
+|  | also referred to as inferior |  |  |  |
+| cell | smallest independently functioning unit of all organisms; in animals, a cell |  |  |  |
+|  | contains cytoplasm, composed of fluid and organelles |  |  |  |
+| cephalic | Of or relate to the head |  |  |  |
+| cervical | pertaining to the neck or cervix of any organ or structure. |  |  |  |
+| control center | compares values to their normal range; deviations cause the activation of an |  |  |  |
+|  | effector |  |  |  |
+| cranial | describes a position above or higher than another part of the body proper; also |  |  |  |
+|  | referred to as superior |  |  |  |
+| cranial cavity | division of the posterior (dorsal) cavity that houses the brain |  |  |  |
+| cross section | A section formed by a plane cutting through an object, usually at right angles to |  |  |  |
+|  | an axis. |  |  |  |
+| crural | of or relating to the leg, shank, or thigh. |  |  |  |
+| deep | describes a position farther from the surface of the body |  |  |  |
+| deltoid |  |  |  |  |
+| development | changes an organism goes through during its life |  |  |  |
+| differentiation | process by which unspecialized cells become specialized in structure and |  |  |  |
+|  | function |  |  |  |
+| digestive system | a complex network of organs that breaks down food into nutrients. It consists of |  |  |  |
+|  | the gastrointestinal tract plus the accessory organs of digestion. |  |  |  |
+| distal | describes a position farther from the point of attachment or the trunk of the body |  |  |  |
+| dorsal | describes the back or direction toward the back of the body; also referred to as |  |  |  |
+|  | posterior |  |  |  |
+| dorsal cavity | posterior body cavity that houses the brain and spinal cord; also referred to the |  |  |  |
+|  |  |  |  |  |
+|  | posterior body cavity |  |  |  |
+
+| effector | effector organ that can cause a change in a value |
+|------------------------------------|------------------------------------|
+| endocrine system | a network of glands that produce and release hormones into the bloodstream, |
+|  | which help regulate various bodily functions. |
+| external | Relating to, existing on, or connected with the outside or an outer part |
+| femoral | Pertaining to the femur or thigh. |
+| frontal | of, relating to, or situated at the front |
+| frontal plane | two-dimensional, vertical plane that divides the body or organ into anterior and |
+|  | posterior portions |
+| gluteal | of or relating to the buttocks |
+| growth | process of increasing in size |
+| homeostasis | steady state of body systems that living organisms maintain |
+| horizontal plane | a flat surface that is everywhere perpendicular to the vertical direction, |
+| inferior | describes a position below or lower than another part of the body proper; near |
+|  | or toward the tail (in humans, the coccyx, or lowest part of the spinal column); |
+|  | also referred to as caudal |
+| inguinal | of, relating to, or situated in the region of the groin |
+| Integumentary | the body's outer layer, consisting of the skin, hair, nails, and glands. |
+| system |  |
+| intermediate | One that is in a middle position or state. |
+| internal | Of or situated on the inside. |
+| lateral | Describes the side or direction toward the side of the body |
+| left lower quadrant | The region of the body that contains the left ovary, Fallopian tubes, and ovaries |
+|  | and rectosigmoid colon |
+| left upper quadrant | The region of the body containing the stomach, spleen, and tail of pancreas |
+| longitudinal section | a view or cut along the long axis of a structure, showing its lengthwise profile |
+| lymphatic system | a part of the immune system and complementary to the circulatory system. |
+| medial | describes the middle or direction toward the middle of the body |
+| mediastinum | The region in mammals between the pleural sacs |
+| metabolism | sum of all of the body's chemical reactions |
+| midsagittal | divides the body into two parts, it vertically splits any object or organism into two |
+|  | relatively equal halves –<br>left and right |
+| muscular system | a set of tissues in the body with the ability to change shape |
+| nasal | Of or related to the nose |
+|  |  |
+| negative feedback | homeostatic mechanism that tends to stabilize an upset in the body's |
+|  | physiological condition by preventing an excessive response to a stimulus, |
+|  | typically as the stimulus is removed |
+| nervous system | the bodily system in vertebrates made up of the brain and spinal cord, nerves, |
+|  | ganglia, and parts of the receptor organs and that receives and interprets stimuli<br>and transmits impulses to the effector organs |
+|  |  |
+| oblique section | a plane that can literally be any type of angle other than a horizontal or vertical |
+|  | angle. |
+| occipital | Of or pertaining to the occiput, or back part of the head |
+| oral | something that can relate to the mouth |
+| orbital | relating to, or located near the orbit of the eye |
+| organ | functionally distinct structure composed of two or more types of tissues |
+| organ system | group of organs that work together to carry out a particular function |
+| organism | living being that has a cellular structure and that can independently perform all |
+|  | physiologic functions necessary for life |
+| palmar | relating to, or involving the palm of the hand |
+| parasagittal | Situated alongside of or adjacent to a sagittal location or a sagittal plane |
+| patellar | Relating to the circular-triangular bone which articulates with the femur, covers, |
+|  | and protects the anterior articular surface of the knee joint. |
+| pectoral |  |
+|  | of, situated in or on, or worn on the chest |
+
+| pelvic | of, relating to, or located in or near the pelvis |
+|------------------------------------|------------------------------------|
+| Pelvic cavity<br>the body cavity that is bounded by the bones of the pelvis. |  |
+| plantar | Of or relating to the sole of the foot |
+| proximal | Situated close to |
+| pubic | of, relating to, or situated in or near the region of the pubes or the pubis |
+| pericardial cavity | the fluid-filled space between the two layers of the pericardium |
+| pericardium | sac that encloses the heart peritoneum serous membrane that lines the |
+|  | abdominopelvic cavity and covers the organs found there |
+| physiology | science that studies the chemistry, biochemistry, and physics of the body's |
+|  | functions |
+| plane | imaginary two-dimensional surface that passes through the body |
+| pleura | serous membrane that lines the pleural cavity and covers the lungs |
+| pleural cavities | the space that is formed when the two layers of the pleura spread apart |
+| positive feedback | mechanism that intensifies a change in the body's physiological condition in |
+|  | response to a stimulus |
+| posterior | describes the back or direction toward the back of the body; also referred to as |
+|  | dorsal |
+| posterior cavity | posterior body cavity that houses the brain and spinal cord; also referred to as |
+|  | dorsal cavity |
+| pressure | force exerted by a substance in contact with another substance |
+| prone | face down |
+| proximal | describes a position nearer to the point of attachment or the trunk of the body |
+|  |  |
+| regional anatomy | study of the structures that contribute to specific body regions |
+| renewal | process by which worn-out cells are replaced |
+| reproduction | process by which new organisms are generated |
+| reproductive | the system of organs and parts which function in reproduction |
+| system |  |
+| respiratory system | a system of organs functioning in respiration |
+| responsiveness | ability of an organisms or a system to adjust to changes in conditions |
+| right lower | The region of the abdomen that contains the terminal ileum, appendix, and |
+| quadrant | cecum |
+| right upper | The abdominal region that contains the liver, duodenum, and head of pancreas |
+| quadrant |  |
+| sacral | of, relating to, or lying near the sacrum |
+| sagittal plane | two-dimensional, vertical plane that divides the body or organ into right and left<br>sides |
+| section | in anatomy, a single flat surface of a three-dimensional structure that has been<br>cut through |
+| sensor (also, | reports a monitored physiological value to the control center |
+| receptor) |  |
+| serosa |  |
+|  |  |
+|  | serosa membrane that covers organs and reduces friction; also referred to as |
+|  | serous membrane |
+| serous membrane | membrane that covers organs and reduces friction; also referred to as serosa |
+| set point | ideal value for a physiological parameter; the level or small range within which a |
+|  | physiological parameter such as blood pressure is stable and optimally |
+|  | healthful, that is, within its parameters of homeostasis |
+| Skeletal system | the framework of bones and connective tissues that supports the body, protects<br>vital organs, and allows for movement. |
+| spinal cavity | division of the dorsal cavity that houses the spinal cord; also referred to as |
+|  |  |
+|  | vertebral cavity |
+| sternal | relating to or near the sternum (i.e., the main bone at the center of the chest) |
+| superficial<br>superior | describes a position nearer to the surface of the body<br>describes a position above or higher than another part of the body proper; also |
+
+| supine | face up |
+|------------------------------------|------------------------------------|
+| systemic anatomy | study of the structures that contribute to specific body systems |
+| tarsal | of or relating to the tarsus |
+| thoracic | of, relating to, located within, or involving the thorax |
+| thoracic cavity | division of the anterior (ventral) cavity that houses the heart, lungs, esophagus,<br>and trachea |
+| tissue | group of similar or closely related cells that act together to perform a specific<br>function |
+| transverse plane | two-dimensional, horizontal plane that divides the body or organ into superior<br>and inferior portions |
+| ventral | describes the front or direction toward the front of the body; also referred to as<br>anterior |
+| ventral cavity | larger body cavity located anterior to the posterior (dorsal) body cavity; includes<br>the serous membrane-lined pleural cavities for the lungs, pericardial cavity for<br>the heart, and peritoneal cavity for the abdominal and pelvic organs; also<br>referred to as anterior body cavity |
+| vertebral | of, relating to, or being vertebrae or the vertebral column |
