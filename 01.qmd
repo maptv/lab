@@ -4,10 +4,6 @@ format: html
 editor: visual
 ---
 
-## Quarto
-
-***Quarto*** enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
 # **Introduction to Human Biology Laboratory Workbook Version 4**
 
 ## **George Mateja**
@@ -252,19 +248,18 @@ Definitions: define the terms that are essential to this chapter.
 
 ### Directional terms
 
-|                       |     |     |     |
-|-----------------------|-----|-----|-----|
-|                       |     |     |     |
-| Anterior (or ventral) |     |     |     |
-| Posterior (or dorsal) |     |     |     |
-| Superior (or cranial) |     |     |     |
-| Inferior (or caudal)  |     |     |     |
-| Lateral               |     |     |     |
-| Medial                |     |     |     |
-| Proximal              |     |     |     |
-| Distal                |     |     |     |
-| Superficial           |     |     |     |
-| Deep                  |     |     |     |
+|                       |       |
+|-----------------------|-------|
+| Anterior (or ventral) | front |
+| Posterior (or dorsal) | back  |
+| Superior (or cranial) | upper |
+| Inferior (or caudal)  | lower |
+| Lateral               |       |
+| Medial                |       |
+| Proximal              |       |
+| Distal                |       |
+| Superficial           |       |
+| Deep                  |       |
 
 ### Body Cavities
 
