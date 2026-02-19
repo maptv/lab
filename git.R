@@ -16,6 +16,7 @@ usethis::use_git_remote(
   name = "origin",
   url = "https://github.com/maptv/lab",
 )
+
 usethis::git_remotes()
 usethis::git_default_branch_configure("main")
 
@@ -27,4 +28,3 @@ usethis::use_git_remote(url = "https://github.com/maptv/lab", overwrite = TRUE)
 usethis::use_github(
   "maptv/lab"
 )
-
