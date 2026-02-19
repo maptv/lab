@@ -254,7 +254,7 @@ Definitions: define the terms that are essential to this chapter.
 | Posterior (or dorsal) | back  |
 | Superior (or cranial) | upper |
 | Inferior (or caudal)  | lower |
-| Lateral               |       |
+| Lateral               | side  |
 | Medial                |       |
 | Proximal              |       |
 | Distal                |       |
@@ -265,7 +265,6 @@ Definitions: define the terms that are essential to this chapter.
 
 |             |     |     |     |
 |-------------|-----|-----|-----|
-|             |     |     |     |
 | Cranial     |     |     |     |
 | Abdominal   |     |     |     |
 | Pericardial |     |     |     |
