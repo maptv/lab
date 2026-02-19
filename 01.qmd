@@ -408,7 +408,7 @@ Indicate in the boxes provided the deep and superficial positions.
 
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
-| 1\. | The elbow is located to the wrist. |   |
+| 1\. | The elbow is located to the wrist. | superficial |
 |------------------------|------------------------|------------------------|
 | 2\. | The umbilicus is located to the sternum. |  |
 | 3\. | The nose is located and |  |
