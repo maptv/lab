@@ -252,40 +252,41 @@ Definitions: define the terms that are essential to this chapter.
 
 ### Directional terms
 
-| | |   |   |
-|------------------|------------------|------------------|------------------|
-| |  |  |  |
-| Anterior (or ventral) |  |  |
-| Posterior (or dorsal) |  |  |
-| Superior (or cranial) |  |  |
-| Inferior (or caudal) |  |  |
-| Lateral |  |  |
-| Medial |  |  |
-|  Proximal |  |  |
-|  Distal |  |  |
-| Superficial |  |  |
-| Deep |  |  |
+|                       |     |     |     |
+|-----------------------|-----|-----|-----|
+|                       |     |     |     |
+| Anterior (or ventral) |     |     |     |
+| Posterior (or dorsal) |     |     |     |
+| Superior (or cranial) |     |     |     |
+| Inferior (or caudal)  |     |     |     |
+| Lateral               |     |     |     |
+| Medial                |     |     |     |
+| Proximal              |     |     |     |
+| Distal                |     |     |     |
+| Superficial           |     |     |     |
+| Deep                  |     |     |     |
 
-### Body Cavities 
+### Body Cavities
 
-| | |   |   |
-|------------------|------------------|------------------|------------------|
-| |  |  |  |
-| Cranial |  |  |  |
-| Abdominal |  |  |
-| Pericardial |  |  |
-| Pleural |  |  |
-| Ventral |  |  |
+|             |     |     |     |
+|-------------|-----|-----|-----|
+|             |     |     |     |
+| Cranial     |     |     |     |
+| Abdominal   |     |     |     |
+| Pericardial |     |     |     |
+| Pleural     |     |     |     |
+| Ventral     |     |     |     |
 
-### Body Planes 
-| | |   |   |
-|------------------|------------------|------------------|------------------|
-| |  |  |  |
-| Sagittal plane |  |  |  |
-| Midsagittal plane |  |  |
-| Parasagittal plane |  |  |
-| Frontal plane |  |  |
-| Transverse plane |  |  |
+### Body Planes
+
+|                    |     |     |     |
+|--------------------|-----|-----|-----|
+|                    |     |     |     |
+| Sagittal plane     |     |     |     |
+| Midsagittal plane  |     |     |     |
+| Parasagittal plane |     |     |     |
+| Frontal plane      |     |     |     |
+| Transverse plane   |     |     |     |
 
 Oblique plane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -643,22 +644,21 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 **Table 1.5 Organ systems and their Organs**
 
-| Organ  | Organs |
-|--------|--------|
-| System |        |
-| 1      |        |
-| 2      |        |
-| 3      |        |
-| 4      |        |
-| 5      |        |
-| 6      |        |
-| 7      |        |
-| 8      |        |
-| 9      |        |
-| 10     |        |
-| 11a    |        |
-| 11b    |        |
-|        |        |
+| Organ System     | Organs |
+|------------------|--------|
+| 1 Cardiovascular | Heart  |
+| 2                |        |
+| 3                |        |
+| 4                |        |
+| 5                |        |
+| 6                |        |
+| 7                |        |
+| 8                |        |
+| 9                |        |
+| 10               |        |
+| 11a              |        |
+| 11b              |        |
+|                  |        |
 
 # **Post Lab Activity: Review material**
 
@@ -673,7 +673,7 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 | • | The system forms the external body covering. |  |  |  |  |  |
 | • | The system protects deeper tissues from injury. |  |  |  |  |  |
 | • | The system synthesizes vitamin D. |  |  |  |  |  |
-| •<br>blood. | Organs of the system secrete chemicals called hormones into the |  |  |  |  |  |
+| •<br>. | Organs of the system secrete chemicals called hormones into the blood. |  |  |  |  |  |
 | •<br>unwanted carbon dioxide. | The system keeps blood supplied with oxygen and disposes of |  |  |  |  |  |
 | •<br>The system produces sperm or eggs and sex hormones. |  |  |  |  |  |  |
 | Homeostasis |  |  |  |  |  |  |
