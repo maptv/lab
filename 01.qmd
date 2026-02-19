@@ -250,29 +250,42 @@ Be able to identify cavities, as well as organs found in each cavity.
 
 Definitions: define the terms that are essential to this chapter.
 
-| Deminio | me. define the terms that are essential to this enapter. |   |   |
+### Directional terms
+
+| | |   |   |
 |------------------|------------------|------------------|------------------|
-| Directional terms: |  |  |  |
-| • Ai | nterior (or ventral) |  |  |
-| • Po | osterior (or dorsal) |  |  |
-| • St | uperior (or cranial) |  |  |
-| • In | ferior (or caudal) |  |  |
-| • La | ateral |  |  |
-| • M | edial |  |  |
-|  | oximal |  |  |
-|  | stal |  |  |
-|  | uperficial |  |  |
-| • D | eep |  |  |
-| Body Cavities • Cranial |  |  |  |
-| • | Abdominal |  |  |
-|  | Pericardial |  |  |
-| • | Pleural |  |  |
-| • | Ventral |  |  |
-| Body Planes • Sagittal plane |  |  |  |
-| • | Midsagittal plane |  |  |
-| • | Parasagittal plane |  |  |
-| • | Frontal plane |  |  |
-| • | Transverse plane |  |  |
+| |  |  |  |
+| Anterior (or ventral) |  |  |
+| Posterior (or dorsal) |  |  |
+| Superior (or cranial) |  |  |
+| Inferior (or caudal) |  |  |
+| Lateral |  |  |
+| Medial |  |  |
+|  Proximal |  |  |
+|  Distal |  |  |
+| Superficial |  |  |
+| Deep |  |  |
+
+### Body Cavities 
+
+| | |   |   |
+|------------------|------------------|------------------|------------------|
+| |  |  |  |
+| Cranial |  |  |  |
+| Abdominal |  |  |
+| Pericardial |  |  |
+| Pleural |  |  |
+| Ventral |  |  |
+
+### Body Planes 
+| | |   |   |
+|------------------|------------------|------------------|------------------|
+| |  |  |  |
+| Sagittal plane |  |  |  |
+| Midsagittal plane |  |  |
+| Parasagittal plane |  |  |
+| Frontal plane |  |  |
+| Transverse plane |  |  |
 
 Oblique plane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
