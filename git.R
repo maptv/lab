@@ -4,7 +4,6 @@ install.packages("gitcreds")
 usethis::use_git_config(
   user.name = "maptv",
   user.email = "mlaptev@ccbcmd.edu",
-  core.editor = "nano",
 )
 
 usethis::create_github_token()
@@ -28,4 +27,3 @@ usethis::use_git_remote(url = "https://github.com/maptv/lab", overwrite = TRUE)
 usethis::use_github(
   "maptv/lab"
 )
-
