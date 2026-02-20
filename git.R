@@ -25,8 +25,10 @@ usethis::git_default_branch_rename("master")
 
 usethis::use_git_remote(url = "https://github.com/maptv/lab", overwrite = TRUE)
 
+
 usethis::use_github(
   "maptv/lab"
 )
 
 usethis::git_default_branch_configure("main")
+
