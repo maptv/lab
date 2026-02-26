@@ -76,8 +76,8 @@ The completion of this work was supported by a Community College of Baltimore Co
 -   Define and apply the different anatomical regions.
 -   Locate the major cavities and describe several of the organs that lie within each.
 -   Identify the abdominopelvic cavities':
-    -   o Four quadrants and their organs
-    -   o Nine regions and their organs
+    -   Four quadrants and their organs
+    -   Nine regions and their organs
 -   Identify the serous membranes within the body and their respective layers.
 
 ## **Terms to learn:**
@@ -203,14 +203,14 @@ Be able to identify cavities, as well as organs found in each cavity.
 ## **Cavities**
 
 -   Dorsal cavity
-    -   o Cranial cavity
-    -   o Spinal cavity
+    -   Cranial cavity
+    -   Spinal cavity
 -   Ventral cavity
-    -   o Thoracic cavity
+    -   Thoracic cavity
         -   Pleural cavities
         -   Pericardial cavity
         -   Mediastinum
-    -   o Abdominopelvic cavity
+    -   Abdominopelvic cavity
         -   Abdominal cavity
         -   Pelvic cavity
 
@@ -416,17 +416,14 @@ Indicate in the boxes provided the deep and superficial positions.
 
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
-| 1\. | The elbow is located to the wrist. | superficial |
-|------------------------|------------------------|------------------------|
-| 2\. | The umbilicus is located to the sternum. |  |
-| 3\. | The nose is located and |  |
-|  | to the ears. |  |
-| 4\. | The mouth is located to the chin. |  |
-| 5\. | A papercut that does not penetrate the skin would be considered as a |  |
-|  | wound; however, a puncture wound from a |  |
-|  | nail penetrating the skin would be considered as a |  |
-|  | wound. |  |
-| 6\. | A wound on the elbow would be to the elbow. |  |
+| Index | Fill in the blank                                              |
+| ----- | -------------------------------------------------------------- |
+|   1   | The elbow is located _______________ to the wrist.             |
+|   2   | The umbilicus is located to the sternum.                       |
+|   3   | The nose is located and _______________ to the ears.           |
+|   4   | The mouth is located _______________ to the chin.              |
+|   5   | A papercut that does not penetrate the skin would be considered as a _______________ wound; however, a puncture wound from a nail penetrating the skin would be considered as a _______________ wound. |
+|   6   | A wound on the elbow would be _______________ to the elbow.    |
 
 ## **Lab Activity 1.5**
 
@@ -434,8 +431,8 @@ Use appropriate anatomical and regional terminology to fill in the blanks in the
 
 Next, using the definition of anatomical position and correct anatomical language, take turns with your lab partner to give simple, one-movement verbal instructions to transition from the given starting positions (listed in the table below), so that the other person ends up in anatomical position. Write your detailed step-by-step instructions on the provided table.
 
-| Starting Position | Instructions Given to Move to<br>Anatomical Position |
-|------------------------------------|------------------------------------|
+| Starting Position                  | Instructions Given to Move to<br>Anatomical Position                  |
+|------------------------------------| ----------------------------------------------------------------------|
 | Example: Standing from a<br>Half Spinal Twist<br>with the<br>feet placed to the left, the<br>torso twisted away from you<br>and the head facing at a<br>slight angle to the right,<br>away from you.<br>Figure 1.6 | Example:<br>•<br>Rotate the mental region<br>anteriorly and medially.<br>•<br>Rotate the entire body 180<br>degrees to the left.<br>•<br>Position palmar region<br>anteriorly |
 | 1: From lying face-up on the<br>ground with their head,<br>back, hands, and feet on the<br>floor with both knees bent<br>Figure 1.7 |  |
 | 2: From a seated position<br>on the floor with their legs<br>straight and arms folded<br>across their chest<br>Figure 1.8 |  |
