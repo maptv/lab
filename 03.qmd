@@ -1,0 +1,645 @@
+# **Cells**
+
+## **Introduction:**
+
+In this lab you will learn to identify the principle internal and external structures of the cell. The cell is the smallest structural and functional component of a living organism. During this session you will learn to identify the organelles, the subcomponents of the cell, from models and diagrams. You will also review the function of the cells as and the process of cell division. Finally, you will be using the microscope to review a select number of cell types.
+
+### **Cellular Identification**
+
+- Identify organelles that are visible through a microscope.
+- Identify a function with each organelle.
+- Human cheek cell: Identify the nucleus, nucleolus, and plasma membrane.
+- Neuron: Identify endoplasmic reticulum
+
+## **Terms to Learn: Model of typical animal cell. Identify the organelles and their function.**
+
+- Nucleus
+- Nucleolus
+- Plasma membrane/ cell membrane
+- Cytoplasm
+- Ribosomes
+- Smooth endoplasmic reticulum
+- Rough endoplasmic reticulum
+
+- Golgi apparatus
+- Vesicles
+- Lysosomes
+- Peroxisomes
+- Mitochondria
+- Centrioles
+- Cytoskeleton filaments
+
+### **Plasma Membrane**
+
+- Describe the overall construction of the plasma membrane.
+- Identify the components of a plasma membrane.
+
+## **Cell Cycle and Mitosis**
+
+- Identify the stages of the cell cycle.
+- Interphase
+  - o G1
+  - o S
+  - o G2
+
+- M-phase: Mitosis
+  - o Prophase
+  - o Metaphase
+  - o Anaphase
+  - o Telophase
+  - o Cytokinesis
+- Identify the function of the stages of the cell cycle.
+- Identify the events occurring during each stage of mitosis.
+
+# **Prelab Activities**
+
+## **Prelab Activity 3.1**
+
+Define the terms that are essential to this chapter.
+
+| CELL STR | UCTURE | AND F | UNCTION |
+|----------|--------|-------|---------|
+|----------|--------|-------|---------|
+
+| •     | Cytoplasm                    |
+|-------|------------------------------|
+| •     | Cytosol                      |
+| •     | Organelles                   |
+| Orgar | nelle Types:                 |
+| •     | Rough Endoplasmic Reticulum  |
+| •     | Smooth Endoplasmic reticulum |
+| •     | Golgi apparatus              |
+| •     | Mitochondrion                |
+| •     | Lysosomes                    |
+| •     | Peroxisomes                  |
+| •     | Microfilaments               |
+| •     | Microtubules                 |
+| •     | Cilia                        |
+| •     | Flagella                     |
+| •     | Nucleus                      |
+| •     | Nucleolus                    |
+
+# **Membrane Transport** • Passive Transport \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • Active Transport \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • Diffusion \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • Osmosis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • Cell Cycle \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • Interphase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • Mitosis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Stages of Interphase and Mitosis** • Interphase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • G1 phase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+• S phase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • G2 phase \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **Prelab Activity 3.2**
+
+Identify the stages of mitosis and briefly describe their appearance.
+
+**Table 3.1 Table of Events and Cell Characteristics**
+
+| Stage       | Events | Appearance of cell |
+|-------------|--------|--------------------|
+| Prophase    |        |                    |
+| Metaphase   |        |                    |
+| Anaphase    |        |                    |
+| Telophase   |        |                    |
+| Cytokinesis |        |                    |
+
+# Prelab Activity 3.3
+
+Using your textbook identify the following structures of the cell.
+
+![](_page_47_Picture_2.jpeg)
+
+Figure 3.1 Diagram of the cell.
+
+| 1 | - 8             |
+|---|-----------------|
+| 2 |                 |
+| 3 |                 |
+| 4 |                 |
+| 5 | - 12            |
+| 6 | <del>-</del> 13 |
+| 7 | - 14            |
+
+### **Prelab Activity 3.4**
+
+Cell Membrane Structure; Label the structures in this diagram of a typical cell membrane.
+
+![](_page_48_Picture_2.jpeg)
+
+**Figure 3.2** Diagram of the cell membrane.
+
+a) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ b) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ c) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ d) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ e) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ f) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ g) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **Prelab Activity 3.5**
+
+Cell Cycle: In the space below draw the phases and stages of the cell cycle:
+
+![](_page_49_Picture_2.jpeg)
+
+Define the following terms associated with the cell cycle.
+
+- Cytokinesis: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ • Interphase: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- M-phase: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Chromosome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Chromatin: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Mitosis:** List the stages and processes of mitosis in M-phase:
+
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## **Lab Activities:**
+
+## **Cell structure**
+
+## **Lab Activity 3.1**
+
+- Identify and label all of the reproductive structures listed in the lists below for figures 3.3 to 3.4.
+- Ask your instructor to confirm the correctness of your identifications.
+- Create an enumerated model using the labeling tape to use as a practice quiz. Invite the neighboring group to take the practice quiz during the lab.
+- Photograph your work for later use as a study guide.
+- If time allows create a five-minute video reviewing the parts and functions of the male reproductive system.
+
+## **Terms: Parts of the Cell**
+
+- Cell membrane
+- Cytoplasm (cytosol)
+- Chromatin
+- Chromosomes
+- Nucleus
+- Nuclear envelope
+- Nucleolus
+
+- Cytoskeleton
+- Lysosome
+- Centrioles
+- Flagellum
+- Microvilli
+- Cilia
+- Golgi apparatus
+- Rough endoplasmic reticulum
+- Smooth endoplasmic reticulum
+- Ribosome
+- Mitochondria
+- Peroxisome
+
+![](_page_50_Figure_28.jpeg)
+
+**Figure 3.3** A Typical Animal Cell with Labeled Organelles.
+
+![](_page_51_Picture_0.jpeg)
+
+**Figure 3.4** Diagram of the Cell.
+
+Organelles in the cell above are labelled as follows:
+
+| 1. | Nucleolus                    | 6.  | Golgi apparatus<br>(or Golgi | 11.<br>Cytosol<br>(fluid that |
+|----|------------------------------|-----|------------------------------|-------------------------------|
+| 2. | Nucleus                      |     | body)                        | contains organelles; with     |
+| 3. | Ribosome<br>(dots as part of | 7.  | Cytoskeleton                 | which, comprises              |
+|    | 5)                           | 8.  | Smooth endoplasmic           | cytoplasm)                    |
+| 4. | Vesicle                      |     | reticulum                    | 12.<br>Lysosome               |
+| 5. | Rough endoplasmic            | 9.  | Mitochondrion                | 13.<br>Centrosome             |
+|    | reticulum                    | 10. | Vacuole                      | 14.<br>Cell membrane          |
+
+### **Membrane Structure**
+
+Review the material related to the composition of a cell's membrane. You should be able to answer the following questions.
+
+- What are the primary macromolecules that make up the membrane?
+- What are the functions of the following components:
+  - o Phospholipids
+  - o Cholesterol
+  - o Proteins
+
+## **Components of the cell membrane continued.**
+
+![](_page_52_Picture_1.jpeg)
+
+**Figure 3.5** The Cell Membrane, also called the Plasma Membrane or Plasmalemma.
+
+## **Lab Activity 3.1 continued**
+
+- Obtain tape and one of the models of the cell.
+- Identify and label the cell organelles on the model.
+- Complete the table below (Table 3.1)
+- Once you are done, have another group check your accuracy. Make corrections if needed.
+- Then, have your Instructor or Lab Instructor check your accuracy. Identify the following structures and their function in the model below:
+
+![](_page_53_Figure_6.jpeg)
+
+**Figure 3.6** Classroom Model of an Animal Cell: 3B Scientific
+
+Using the information in table 3.2 review the cells structures and function(s) then complete the table below.
+
+**Table 3.1 Identify the Organelles and their Function.**
+
+| Structure                       | Model<br>Number | Organelle function |
+|---------------------------------|-----------------|--------------------|
+| Plasma membrane                 |                 |                    |
+| Cilia                           |                 |                    |
+| Microvilli                      |                 |                    |
+| Nucleolus                       |                 |                    |
+| Nucleus                         |                 |                    |
+| Nuclear envelope                |                 |                    |
+| Nuclear pore                    |                 |                    |
+| Ribosome                        |                 |                    |
+| Vesicle                         |                 |                    |
+| Peroxisome                      |                 |                    |
+| Lysosome                        |                 |                    |
+| Golgi apparatus                 |                 |                    |
+| Mitochondrion                   |                 |                    |
+| Rough Endoplasmic<br>reticulum  |                 |                    |
+| Smooth Endoplasmic<br>reticulum |                 |                    |
+| Centriole                       |                 |                    |
+
+**Table 3.2 Parts of a Typical Animal Cell**
+
+| Organelle/   | Function                                                                                                                                                                                                                                                                                                               | Features                                                                                                            | Appearance  |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------|
+| structure    |                                                                                                                                                                                                                                                                                                                        |                                                                                                                     |             |
+| Centriole    | Anchor for cytoskeleton,<br>organizes cell division by<br>forming spindle fibers                                                                                                                                                                                                                                       | Visible only<br>when active<br>nuclear division<br>takes place<br>(mitosis)                                         | Figure 3.7  |
+| Chromatin    | A complex of DNA<br>and<br>protein<br>found in eukaryotic<br>cells whose primary function<br>is to package long DNA<br>molecules into more compact,<br>denser structures                                                                                                                                               | Most of the<br>coloration of<br>the nucleus is<br>from the<br>chromatin,<br>except for that<br>of the<br>nucleolus. | Figure 3.8  |
+| Cytoplasm    | All of the material within a<br>eukaryotic<br>cell, enclosed by<br>the cell membrane, except for<br>the cell nucleus                                                                                                                                                                                                   | A clear sol-gel<br>that may<br>contain<br>granular<br>substances in<br>it.                                          | Figure 3.9  |
+| Cytoskeleton | A complex, dynamic network<br>of protein filaments<br>present in<br>the cytoplasm<br>of all cells,<br>excluding bacteria<br>and<br>archaea. Primary function is<br>to organize cell constituents,<br>give the cell its shape and is<br>responsible for locomotion<br>within the cell as well as of<br>the cell itself. | Not visible<br>under a light<br>microscope.                                                                         | Figure 3.10 |
+
+**Table 3.2 Parts of a Typical Animal Cell Continued**
+
+| Rough<br>Endoplasmic<br>Reticulum | Translation and folding of<br>new proteins (rough<br>endoplasmic reticulum)                                                        | Not visible<br>under a light<br>microscope. |             |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|
+| Smooth                            | Site of lipid synthesis                                                                                                            | Not visible                                 | Figure 3.11 |
+| Endoplasmic<br>Reticulum          | (Smooth Endoplasmic<br>Reticulum) and<br>detoxification of metabolic<br>byproducts.                                                | under a light<br>microscope.                |             |
+|                                   |                                                                                                                                    |                                             | Figure 3.12 |
+| Golgi<br>Apparatus                | Processes, modifies, and<br>packages proteins and<br>lipids for transport within the<br>cell or for secretion outside<br>the cell. | Not visible<br>under a light<br>microscope  | Figure 3.13 |
+| Lysosome                          | Breakdown of large                                                                                                                 | Not visible                                 |             |
+|                                   | molecules (e.g., proteins +<br>polysaccharides)                                                                                    | under a light<br>microscope                 | Figure 3.14 |
+| Mitochondrion                     | Generate energy for the cell                                                                                                       | Not visible                                 |             |
+|                                   |                                                                                                                                    | under a light<br>microscope                 |             |
+|                                   |                                                                                                                                    |                                             | Figure 3.15 |
+
+**Table 3.2 Parts of a Typical Animal Cell Continued**
+
+| Nucleolus<br>Nucleus | A specialized region within<br>the nucleus; pre-ribosome<br>production<br>DNA maintenance, controls<br>all activities of the cell, RNA<br>transcription | A small dark<br>circular<br>structure under<br>a light<br>microscope<br>Stains the<br>darkest of all of<br>the structures | Figure 3.16 |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------|
+| Peroxisome           | A membrane-bound<br>organelle, breakdown of<br>metabolic hydrogen peroxide                                                                              | Not visible<br>under a light<br>microscope                                                                                | Figure 3.17 |
+| Plasma<br>Membrane   | Separates the interior of all<br>cells from the outside<br>environment (the extracellular<br>space) which protects the cell<br>from its environment.    | The outer<br>border of the<br>cell is often<br>visible with the<br>light<br>microscope.                                   | Figure 3.18 |
+| Ribosome             | Site where protein synthesis<br>takes place                                                                                                             | Not visible<br>under a light<br>microscope                                                                                | Figure 3.19 |
+
+### **Microscope Review of Prepared slides**:
+
+- Blood
+- Cardiac Muscle
+- Motor Neuron
+- Simple Cuboidal Epithelium
+- Simple Squamous Epithelium
+
+## **Lab Activity 3.3**
+
+In the spaces provided below draw the cell at 400X. Label the parts of the cell that you can see; for example, the nucleus, nucleolus, striations, intercalated disc, cytoplasm, dendrite(s), axon, and plasma membrane. When possible, indicate the color of stain used on the tissue.
+
+![](_page_58_Picture_8.jpeg)
+
+![](_page_59_Picture_0.jpeg)
+
+Simple Cuboidal Epithelium
+
+## **Cell cycle**
+
+## **Lab Activity 3.4**
+
+Examine the phases of the cell cycle.
+
+![](_page_60_Figure_5.jpeg)
+
+**Figure 3.20:**The Eukaryotic Cell Cycle.
+
+### **Mitosis and Meiosis**
+
+Be able to identify mitosis and meiosis and distinguish them from one another.
+
+- Interphase
+- Prophase
+- Metaphase
+
+- Anaphase
+- Telophase
+- Cytokinesis
+
+![](_page_60_Figure_20.jpeg)
+
+**Figure 3.21 A series of cell diagrams showing the mitosis division of eukaryotic cells.** 
+
+## **Lab Activity 3.5 Examine the phases of the mitosis from the figures below.**
+
+On this page you will find two photos of cells undergoing mitosis in the whitefish blastula. Use these images to test your ability to recognize the phases of mitosis. Identify and label the five stages of mitosis as well as interphase.
+
+![](_page_61_Figure_2.jpeg)
+
+a
+
+**Figure 3.22a** Bright Field Microscopy Image of Root Meristem of Onion Showing Cells in Prophase, Metaphase, Anaphase, Telophase of Mitosis (Magnification: 1600x)
+
+![](_page_61_Picture_5.jpeg)
+
+b
+
+**Figure 3.22b** [Mitosis:](https://en.wikipedia.org/wiki/Mitosis) Pressed, Root Meristem of Onion.
+
+Examine the phases of mitosis from the figures below.
+
+- Obtain a slide of whitefish blastulas. View the slide using a total magnification of 100X, then 400X.
+- Search through the blastula cells and locate **two (2)** of each phase: interphase, prophase, metaphase, and anaphase. As you work, have a fellow classmate and/or your instructor verify your accuracy.
+
+![](_page_62_Figure_4.jpeg)
+
+**Figure 3.23** Stages of Mitosis and Cytokinesis.
+
+## **Post Lab Activities: material review**
+
+## **Post Lab Activity 3.1**
+
+|          | Fill in the blanks:                                                                                                                                                                                                                   |    |                                                                                                                                                                                                                                                |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.       | The smallest independent unit that is alive is the                                                                                                                                                                                    |    |                                                                                                                                                                                                                                                |
+| 2.       | The region in a human cell that houses the bulk of the genetic material is the                                                                                                                                                        |    |                                                                                                                                                                                                                                                |
+| 3.       | Most of the cellular machinery in human cells is in the                                                                                                                                                                               |    |                                                                                                                                                                                                                                                |
+| 4.       | The basic structure of a cell's membrane is a(n) bilayer with associated<br>proteins that can be either or                                                                                                                            |    |                                                                                                                                                                                                                                                |
+|          | Post Lab Activity 3.2                                                                                                                                                                                                                 |    |                                                                                                                                                                                                                                                |
+| 1)       | Multiple choice questions:<br>Because they are embedded<br>within the membrane, ion channels<br>are examples of<br>a)<br>receptor proteins<br>b)<br>integral proteins<br>c)<br>peripheral proteins<br>d)<br>glycoproteins             | 4) | The rough ER has its name due to<br>what associated structures?<br>a)<br>Golgi apparatus<br>b)<br>ribosomes<br>c)<br>lysosomes<br>d)<br>proteins                                                                                               |
+| 2)<br>3) | Which of the following structures<br>could be found within the<br>nucleolus?<br>a)<br>chromatin<br>b)<br>histones<br>c)<br>ribosomes<br>d)<br>nucleosomes<br>Choose the term that best                                                | 5) | Which of the following is a function<br>of the rough ER?<br>a)<br>production of proteins<br>b)<br>detoxification of certain<br>substances<br>c)<br>synthesis of steroid hormones<br>d)<br>regulation of intracellular<br>calcium concentration |
+|          | completes the following analogy:<br>Cytoplasm is to cytosol as a<br>swimming pool containing chlorine<br>and flotation toys is to<br>a)<br>the walls of the pool<br>b)<br>the chlorine<br>c)<br>the flotation toys<br>d)<br>the water | 6) | Which of the following organelles<br>produces large quantities of ATP<br>when both glucose and oxygen are<br>available to the cell?<br>a)<br>mitochondria<br>b)<br>peroxisomes<br>c)<br>lysosomes<br>d)<br>ER                                  |
+
+- 7) Which of the following phases is characterized by preparation for DNA synthesis?
+  - a) G0
+  - b) G1
+  - c) G2
+  - d) S
+
+## **Post Lab Activity 3.3 Matching**
+
+## **Table 3.2 Complete the Matching Activity**
+
+| 1)       | Interphase            | a) | The first stage of mitosis                                                                                        |
+|----------|-----------------------|----|-------------------------------------------------------------------------------------------------------------------|
+|          |                       | b) | The division of the cytoplasm of a cell                                                                           |
+| 2)<br>3) | G2 Phase<br>Metaphase | c) | The cell grows physically larger,<br>making the molecular building blocks it<br>will need in later steps.         |
+| 4)       | S phase               | d) | Occurs when the cell synthesizes a<br>complete copy of the DNA.                                                   |
+| 5)       | Mitosis or M phase    | e) | The cell grows a second time to<br>reorganize its contents in preparation<br>for mitosis.                         |
+| 6)       | Prophase              | f) | The summary of the G1, S, G2 phases                                                                               |
+| 7)       | G1<br>phase           | g) | The process when the cell separates<br>its DNA into two sets and divides its<br>cytoplasm, forming two new cells. |
+| 8)       | Cytokinesis           | h) | Observed when the chromosomes<br>move toward opposite ends of the<br>nuclear spindle                              |
+| 9)       | Telophase             | i) | Occurs when the cell's chromosomes                                                                                |
+|          | 10) Anaphase          |    | condense and move together, aligning<br>in the center of the dividing cell.                                       |
+|          |                       | j) | The final stage in cell division                                                                                  |
+
+## **Post Lab Activity 3.4 Crosswords**
+
+Complete the crosword activity.
+
+![](_page_65_Picture_2.jpeg)
+
+**Figure 3.24** The Cell.
+
+- **3** a large organelle in eukaryotic organisms which protects the DNA (4,7)
+- **5** a network of lipids and proteins that forms the boundary between a cell's contents and the outside of the cell. (6,8)
+- **6** specialized vesicles within cells that digest large molecules using hydrolytic enzymes. (8)
+- **7** membrane-bound organelles involved in lipid metabolism and the conversion of reactive oxygen species such as hydrogen peroxide into safer molecules like water and oxygen. (10)
+
+- **1** the site in the nucleus where the several different parts of ribosomes are produced and exported (9)
+- **2** small structures made of microtubules which exists as part of the centrosome (9)
+- **4** an organelle in eukaryotic organisms that moves molecules from the endoplasmic reticulum to their destination. (5,9)
+- **8** an organelle in the cytoplasm of a living cell; the site of protein synthesis (8)
+
+## **Post Lab Activity 3.5 Matching**
+
+## **Table 3.3 Complete the Matching Activity**
+
+|             | 11) Interphase                | k) | The first stage of mitosis                                                                                        |
+|-------------|-------------------------------|----|-------------------------------------------------------------------------------------------------------------------|
+|             |                               | l) | The division of the cytoplasm of a cell                                                                           |
+|             | 12) G2 Phase<br>13) Metaphase | m) | The cell grows physically larger,<br>making the molecular building blocks it<br>will need in later steps.         |
+| 14) S phase |                               | n) | Occurs when the cell synthesizes a<br>complete copy of the DNA.                                                   |
+|             | 15) Mitosis or M phase        | o) | The cell grows a second time to<br>reorganize its contents in preparation<br>for mitosis.                         |
+|             | 16) Prophase                  | p) | The summary of the G1, S, G2 phases                                                                               |
+| 17) G1      | phase                         | q) | The process when the cell separates<br>its DNA into two sets and divides its<br>cytoplasm, forming two new cells. |
+|             | 18) Cytokinesis               | r) | Observed when the chromosomes<br>move toward opposite ends of the<br>nuclear spindle                              |
+|             | 19) Telophase                 | s) | Occurs when the cell's chromosomes                                                                                |
+|             | 20) Anaphase                  |    | condense and move together, aligning<br>in the center of the dividing cell.                                       |
+|             |                               | t) | The final stage in cell division                                                                                  |
+
+### **Labeling**
+
+### **Post Lab Activity 3.6**
+
+Label the following stages of the nucleus and of mitosis
+
+### **Cell nucleus**
+
+![](_page_68_Picture_4.jpeg)
+
+**Figure 3.25** The Cell Nucleus.
+
+**Table 3.4 Answers for Figure 3.25 above**
+
+| Number | Structure |
+|--------|-----------|
+| 1a     |           |
+| 1b     |           |
+| 2      |           |
+| 3      |           |
+| 4a     |           |
+| 4b     |           |
+| 5      |           |
+| 6      |           |
+
+### **Strages of Mitosis**
+
+![](_page_69_Picture_1.jpeg)
+
+**Figure 3.26** Label the Stages of the Cell Cycle and Mitosis.
+
+**Table 3.5 Matching Answers for the Stages of Mitosis**
+
+| letter | Stage of mitosis |
+|--------|------------------|
+| a      |                  |
+| b      |                  |
+| c      |                  |
+| e      |                  |
+
+## **Additional Learning Resources:**
+
+## **Cells:**
+
+- **Watch** this video for cell model #1: <https://youtu.be/Pl4vA35FfXA>
+- **Watch** this video for cell model #2: <https://www.youtube.com/watch?v=MKUzCNjNTVw>
+- **Watch** this video to learn about comparisons/contrasts between specialized cells (RBCs, neurons, simple squamous cells, and sperm): <https://www.youtube.com/watch?v=ESIX4P-mnNQ>
+- **Anatomy and Physiology - Bit by Bit. Podcast from Dr. Steven Sullivan of Bucks County Community College. He has others as well**
+
+**(homeostasis; membrane transport, etc.) that are good for A&P students:** [https://podcasts.apple.com/us/podcast/episode-3-cells-and-the](https://podcasts.apple.com/us/podcast/episode-3-cells-and-the-plasma-membrane/id1480060049?i=1000453911723)[plasma-membrane/id1480060049?i=1000453911723](https://podcasts.apple.com/us/podcast/episode-3-cells-and-the-plasma-membrane/id1480060049?i=1000453911723)
+
+• **Watch** this video<https://youtu.be/UAaTEjYmxso> to learn about the endomembrane system. What is the primary role of the endomembrane system?
+
+## **Mitosis**
+
+- **Watch** this video for the whitefish blastula slide: <http://youtu.be/42IkhVM7YKA?hd=1>
+- **Watch** this video to learn about mitosis: <https://www.youtube.com/watch?v=C6hn3sA0ip0>
+- **Tutorial:** University of Arizona: [http://www.biology.arizona.edu/cell\\_bio/tutorials/cell\\_cycle/main.html](http://www.biology.arizona.edu/cell_bio/tutorials/cell_cycle/main.html)
+- **Tutorial:** Cells alive mitosis animation;<https://www.cellsalive.com/mitosis.htm>
+
+## **Membrane transport:**
+
+- **Play this interactive cell membrane simulation:** [https://contrib.pbslearningmedia.org/WGBH/conv19/tdc02-int](https://contrib.pbslearningmedia.org/WGBH/conv19/tdc02-int-membraneweb/index.html)[membraneweb/index.html](https://contrib.pbslearningmedia.org/WGBH/conv19/tdc02-int-membraneweb/index.html)
+- **Cell Membrane Transport - Transport Across A Membrane - How Do Things Move Across A Cell Membrane**: <https://www.youtube.com/watch?v=J5pWH1r3pgU> Published by What's Up Dude, Jan 15, 2018.
+- **Play this interactive osmosis simulation:** <https://nhpbs.pbslearningmedia.org/resource/arct15-sci-osmosis/osmosis/>
+- **Open this website to review the structure of the cell membrane and transport.** Multiple videos created by Wendy Riggs: [https://www.youtube.com/playlist?list=PL5GRRRmaGVqUASeRrzWFlmqoj2x](https://www.youtube.com/playlist?list=PL5GRRRmaGVqUASeRrzWFlmqoj2xPcWoXI) [PcWoXI](https://www.youtube.com/playlist?list=PL5GRRRmaGVqUASeRrzWFlmqoj2xPcWoXI) -,
+- **Play** a simplified video of types of movement across a cell membrane: [https://www.youtube.com/watch?v=Ptmlvtei8hw](https://www.youtube.com/watch?v=Ptmlvtei8hw )
+
+## **Answers**
+
+#### **Crossword puzzle:**
+
+The Cell:
+
+- **Across: 3** Cell nucleus, **5** Plasma membrane, **6** Lysosome, **7** Peroxisome.
+- **Down: 1** Nucleolus, **2** Centriole, **4** Golgi apparatus, **8** Ribosome.
+
+| Chapter 3: Cells<br>Glossary |                                                                                                                                            |  |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Terms                        | Definitions                                                                                                                                |  |
+| active transport             | form of transport across the cell membrane that requires input of cellular                                                                 |  |
+|                              | energy                                                                                                                                     |  |
+| amphipathic                  | describes a molecule that exhibits a difference in polarity between its two                                                                |  |
+|                              | ends, resulting in a difference in water solubility                                                                                        |  |
+| anaphase                     | third stage of mitosis (and meiosis), during which sister chromatids separate<br>into two new nuclear regions of a dividing cell           |  |
+| anticodon                    | consecutive sequence of three nucleotides on a tRNA molecule that is<br>complementary to a specific codon on an mRNA molecule              |  |
+| autolysis                    | breakdown of cells by their own enzymatic action                                                                                           |  |
+| autophagy                    | lysosomal breakdown of a cell's own components                                                                                             |  |
+| cell cycle                   | life cycle of a single cell, from its birth until its division into two new daughter<br>cells                                              |  |
+| cell membrane                | membrane surrounding all animal cells, composed of a lipid bilayer<br>interspersed with various molecules; also known as plasma membrane   |  |
+| centriole                    | small, self-replicating organelle that provides the origin for microtubule                                                                 |  |
+|                              | growth and moves DNA during cell division                                                                                                  |  |
+| centromere                   | region of attachment for two sister chromatids                                                                                             |  |
+| centrosome                   | cellular structure that organizes microtubules during cell division                                                                        |  |
+| channel protein              | membrane-spanning protein that has an inner pore which allows the passage                                                                  |  |
+|                              | of one or more substances                                                                                                                  |  |
+| checkpoint                   | progress point in the cell cycle during which certain conditions must be met<br>in order for the cell to proceed to a subsequence phase    |  |
+| chromatin                    | substance consisting of DNA and associated proteins                                                                                        |  |
+| chromosome                   | condensed version of chromatin                                                                                                             |  |
+| cilia                        | small appendage on certain cells formed by microtubules and modified for<br>movement of materials across the cellular surface              |  |
+| cleavage furrow              | contractile ring that forms around a cell during cytokinesis that pinches the<br>cell into two halves                                      |  |
+| codon                        | consecutive sequence of three nucleotides on an mRNA molecule that<br>corresponds to a specific amino acid                                 |  |
+| concentration                | difference in the concentration of a substance between two regions                                                                         |  |
+| gradient                     |                                                                                                                                            |  |
+| cytokinesis                  | final stage in cell division, where the cytoplasm divides to form two separate<br>daughter cells                                           |  |
+| cytoplasm                    | internal material between the cell membrane and nucleus of a cell, mainly                                                                  |  |
+|                              | consisting of a water-based fluid called cytosol, within which are all the other<br>organelles and cellular solute and suspended materials |  |
+| cytoskeleton                 | "skeleton" of a cell; formed by rod-like proteins that support the cell's shape                                                            |  |
+|                              | and provide, among other functions, locomotive abilities                                                                                   |  |
+| cytosol                      | clear, semi-fluid medium of the cytoplasm, made up mostly of water                                                                         |  |
+| diffusion                    | movement of a substance from an area of higher concentration to one of                                                                     |  |
+|                              | lower concentration                                                                                                                        |  |
+| diploid                      | condition marked by the presence of a double complement of genetic                                                                         |  |
+|                              | material (two sets of chromosomes, one set inherited from each of two                                                                      |  |
+|                              | parents)                                                                                                                                   |  |
+| DNA polymerase               | enzyme that functions in adding new nucleotides to a growing strand of DNA                                                                 |  |
+|                              | during DNA replication                                                                                                                     |  |
+| DNA replication              | process of duplicating a molecule of DNA                                                                                                   |  |
+| electrical gradient          | difference in the electrical charge (potential) between two regions                                                                        |  |
+| endocytosis                  | import of material into the cell by formation of a membrane-bound vesicle                                                                  |  |
+
+| endoplasmic                  | cellular organelle that consists of interconnected membrane-bound tubules,                                                                                                     |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| reticulum (ER)               | which may or may not be associated with ribosomes (rough type or smooth                                                                                                        |
+|                              | type, respectively)                                                                                                                                                            |
+| exocytosis                   | export of a substance out of a cell by formation of a membrane-bound<br>vesicle                                                                                                |
+| exon                         | one of the coding regions of an mRNA molecule that remain after splicing                                                                                                       |
+| extracellular fluid          | fluid exterior to cells; includes the interstitial fluid, blood plasma, and fluid                                                                                              |
+| (ECF)                        | found in other reservoirs in the body                                                                                                                                          |
+| facilitated diffusion        | diffusion of a substance with the aid of a membrane protein                                                                                                                    |
+| flagellum                    | appendage on certain cells formed by microtubules and modified for<br>movement                                                                                                 |
+| G0<br>phase                  | phase of the cell cycle, usually entered from the G1 phase; characterized by<br>long or permanent periods where the cell does not move forward into the<br>DNA synthesis phase |
+| G1<br>phase                  | first phase of the cell cycle, after a new cell is born                                                                                                                        |
+| G2<br>phase                  | third phase of the cell cycle, after the DNA synthesis phase                                                                                                                   |
+| gene                         | functional length of DNA that provides the genetic information necessary to<br>build a protein                                                                                 |
+| gene expression              | active interpretation of the information coded in a gene to produce a<br>functional gene product                                                                               |
+| genome                       | entire complement of an organism's DNA; found within virtually every cell                                                                                                      |
+| glycocalyx                   | coating of sugar molecules that surrounds the cell membrane                                                                                                                    |
+| glycoprotein                 | protein that has one or more carbohydrates attached                                                                                                                            |
+| Golgi apparatus              | cellular organelle formed by a series of flattened, membrane-bound sacs that                                                                                                   |
+|                              | functions in protein modification, tagging, packaging, and transport                                                                                                           |
+| helicase                     | enzyme that functions to separate the two DNA strands of a double helix                                                                                                        |
+|                              | during DNA replication                                                                                                                                                         |
+| histone                      | family of proteins that associate with DNA in the nucleus to form chromatin                                                                                                    |
+| homologous                   | describes two copies of the same chromosome (not identical), one inherited<br>from each parent                                                                                 |
+| hydrophilic                  | describes a substance or structure attracted to water                                                                                                                          |
+| hydrophobic                  | describes a substance or structure repelled by water                                                                                                                           |
+| hypertonic                   | describes a solution concentration that is higher than a reference<br>concentration                                                                                            |
+| hypotonic                    | describes a solution concentration that is lower than a reference<br>concentration                                                                                             |
+| integral protein             | membrane-associated protein that spans the entire width of the lipid bilayer                                                                                                   |
+| intermediate                 | type of cytoskeletal filament made of keratin, characterized by an                                                                                                             |
+| filament                     | intermediate thickness, and playing a role in resisting cellular tension                                                                                                       |
+| interphase                   | entire life cycle of a cell, excluding mitosis                                                                                                                                 |
+| interstitial fluid (IF)      | fluid in the small spaces between cells not contained within blood vessels                                                                                                     |
+| intracellular fluid<br>(ICF) | fluid in the cytosol of cells                                                                                                                                                  |
+| intron                       | non-coding regions of a pre-mRNA transcript that may be removed during<br>splicing                                                                                             |
+| isotonic                     | describes a solution concentration that is the same as a reference<br>concentration                                                                                            |
+| kinetochore                  | region of a centromere where microtubules attach to a pair of sister<br>chromatids                                                                                             |
+| ligand                       | molecule that binds with specificity to a specific receptor molecule                                                                                                           |
+| lysosome                     | membrane-bound cellular organelle originating from the Golgi apparatus and<br>containing digestive enzymes                                                                     |
+| messenger RNA<br>(mRNA)      | nucleotide molecule that serves as an intermediate in the genetic code<br>between DNA and protein                                                                              |
+
+| metaphase                        | second stage of mitosis (and meiosis), characterized by the linear alignment<br>of sister chromatids in the center of the cell                                                               |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| metaphase plate                  | linear alignment of sister chromatids in the center of the cell, which takes<br>place during metaphase                                                                                       |
+| microfilament                    | the thinnest of the cytoskeletal filaments; composed of actin subunits that<br>function in muscle contraction and cellular structural support                                                |
+| microtubule                      | the thickest of the cytoskeletal filaments, composed of tubulin subunits that<br>function in cellular movement and structural support                                                        |
+| microvilli                       |                                                                                                                                                                                              |
+| mitochondrion                    | one of the cellular organelles bound by a double lipid bilayer that function<br>primarily in the production of cellular energy (ATP)                                                         |
+| mitosis                          | division of genetic material, during which the cell nucleus breaks down and<br>two new, fully functional, nuclei are formed                                                                  |
+| mitotic phase                    | phase of the cell cycle in which a cell undergoes mitosis                                                                                                                                    |
+| mitotic spindle                  | network of microtubules, originating from centrioles, which arranges and<br>pulls apart chromosomes during mitosis                                                                           |
+| mutation                         | change in the nucleotide sequence in a gene within a cell's DNA                                                                                                                              |
+| nuclear envelope                 | membrane that surrounds the nucleus, consisting of a double lipid-bilayer                                                                                                                    |
+| nuclear pore                     | one of the small, protein-lined openings found scattered throughout the<br>nuclear envelope                                                                                                  |
+| nucleolus                        | small region of the nucleus that functions in ribosome synthesis                                                                                                                             |
+| nucleosome                       | unit of chromatin consisting of a DNA strand wrapped around histone<br>proteins                                                                                                              |
+| nucleus                          | cell's central organelle; contains the cell's DNA                                                                                                                                            |
+| organelle                        | any of several different types of membrane-enclosed specialized structures                                                                                                                   |
+|                                  | in the cell that perform specific functions for the cell                                                                                                                                     |
+| osmosis                          | diffusion of water molecules down their concentration gradient across a<br>selectively permeable membrane                                                                                    |
+| passive transport                | form of transport across the cell membrane that does not require input of<br>cellular energy                                                                                                 |
+| peripheral protein               | membrane-associated protein that does not span the width of the lipid<br>bilayer, but is attached peripherally to integral proteins, membrane lipids, or<br>other components of the membrane |
+| peroxisome                       | membrane-bound organelle that contains enzymes primarily responsible for<br>detoxifying harmful substances                                                                                   |
+| phagocytosis                     | endocytosis of large particles                                                                                                                                                               |
+| pinocytosis                      | endocytosis of fluid                                                                                                                                                                         |
+| polypeptide                      | chain of amino acids linked by peptide bonds                                                                                                                                                 |
+| polyribosome                     | simultaneous translation of a single mRNA transcript by multiple ribosomes                                                                                                                   |
+| promoter                         | region of DNA that signals transcription to begin at that site within the gene                                                                                                               |
+| prophase                         | first stage of mitosis (and meiosis), characterized by breakdown of the<br>nuclear envelope and condensing of the chromatin to form chromosomes                                              |
+| proteome                         | full complement of proteins produced by a cell (determined by the cell's<br>specific gene expression)                                                                                        |
+| reactive oxygen<br>species (ROS) | a group of extremely reactive peroxides and oxygen-containing radicals that<br>may contribute to cellular damage                                                                             |
+| receptor protein                 | molecule that contains a binding site for another specific molecule (called a<br>ligand)                                                                                                     |
+| receptor-mediated<br>endocytosis | endocytosis of ligands attached to membrane-bound receptors                                                                                                                                  |
+| ribosomal RNA<br>(rRNA)          | RNA that makes up the subunits of a ribosome                                                                                                                                                 |
+| ribosome                         | cellular organelle that functions in protein synthesis                                                                                                                                       |
+|                                  |                                                                                                                                                                                              |
+
+| rough endoplasmic<br>reticulum                    | an organelle with ribosomes on its surface that synthesizes proteins and<br>enzymes.                                                             |
+|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| RNA polymerase                                    | enzyme that unwinds DNA and then adds new nucleotides to a growing<br>strand of RNA for the transcription phase of protein synthesis             |
+| S phase                                           | stage of the cell cycle during which DNA replication occurs                                                                                      |
+| selective<br>permeability                         | feature of any barrier that allows certain substances to cross but excludes<br>others                                                            |
+| sister chromatid                                  | one of a pair of identical chromosomes, formed during DNA replication                                                                            |
+| sodium-potassium<br>pump (also,<br>Na+/K+ ATP-ase | membrane-embedded protein pump that uses ATP to move Na+ out of a cell<br>and K+ into the cell                                                   |
+| pump)                                             |                                                                                                                                                  |
+| somatic cell                                      | all cells of the body excluding gamete cells                                                                                                     |
+| smooth<br>endoplasmic<br>reticulum                | the region of the endoplasmic reticulum that is not occupied by ribosomes<br>and is involved in the formation of distinct lipids.                |
+| splicing                                          | the process of modifying a pre-mRNA transcript by removing certain,<br>typically non-coding, regions                                             |
+| stem cell                                         | cell that is oligo-, multi-, or pluripotent that has the ability to produce<br>additional stem cells rather than becoming further specialized    |
+| telophase                                         | final stage of mitosis (and meiosis), preceding cytokinesis, characterized by<br>the formation of two new daughter nuclei                        |
+| transcription                                     | process of producing an mRNA molecule that is complementary to a<br>particular gene of DNA                                                       |
+| transcription factor                              | one of the proteins that regulate the transcription of genes                                                                                     |
+| transfer RNA                                      | molecules of RNA that serve to bring amino acids to a growing polypeptide                                                                        |
+| (tRNA)                                            | strand and properly place them into the sequence                                                                                                 |
+| translation                                       | process of producing a protein from the nucleotide sequence code of an<br>mRNA transcript                                                        |
+| triplet                                           | consecutive sequence of three nucleotides on a DNA molecule that, when<br>transcribed into an mRNA codon, corresponds to a particular amino acid |
+| vesicle                                           | membrane-bound structure that contains materials within or outside of the<br>cell                                                                |
+

@@ -1,0 +1,831 @@
+# **Skeletal System, the Axial Skeleton**
+
+![](_page_153_Picture_1.jpeg)
+
+**Figure 7.1** Human Skeleton.
+
+## **Objectives**
+
+**This lab will introduce you to the axial skeleton. You will review anatomy and physiology.**
+
+## **Your objectives for this lab are:**
+
+- Identify the major divisions of the skeleton, axial vs appendicular, and which bones belong to each group.
+- Provide examples of each type of bone classification by shape
+- Identify disarticulated bones as left or right. Be able to describe how you made this determination.
+- Identify the axial bones and the specific bone markings required for each bone.
+
+## **Cranial and Facial Bones of the Skull**
+
+- Frontal bone
+- Parietal bones
+- Occipital bone
+  - o Foramen magnum
+  - o Occipital condyles.
+- Temporal bone
+  - o Mastoid process
+  - o Styloid process
+  - o External auditory canal (external acoustic meatus)
+
+- Ethmoid bone
+  - o Perpendicular plate
+  - o Nasal conchae
+  - o Cribriform plate
+  - o olfactory foramina
+- Sphenoid bone
+  - o Sella turcica
+- Nasal bones
+- Maxilla(e)
+- Lacrimal bones
+- Zygomatic bones
+- Palatine bones
+
+- Mandible
+  - o Mental foramen
+  - o Mandibular condyles
+
+## **Sutures (these are joints between bones, but not bones themselves)**
+
+- Coronal suture (frontal suture)
+- Squamous suture
+
+• Sagittal suture
+
+• Lambdoidal suture
+
+## **Vertebral column**
+
+- a) Identify vertebrae by name and number if articulated
+- b) Identify vertebra from different regions by their characteristic features if articulated or disarticulated
+- Body/centrum
+- Vertebral arch
+  - o Pedicles
+  - o Lamina
+  - o spinous process
+- Transverse processes
+- Transverse foramen (what structures pass through here?)
+- Vertebral foramen (what structure passes through here?)
+- Cervical vertebrae (C1-C7), you should also be able to identify C1 and C2 as disarticulated bones.
+  - o Atlas (C1)
+  - o Axis (C2)
+    - Dens/Odontoid process
+- Thoracic vertebrae (T1-T12)
+  - o Articulating facets (for ribs)
+- Lumbar vertebrae (L1-L5)
+- Sacrum
+- Coccyx
+- Intervertebral discs (an important structural component of the spine, but not a bone)
+
+### **The Thorax**
+
+- Sternum,
+  - o Manubrium,
+  - o Body,
+  - o Xyphoid process
+- Ribs
+- o Costal cartilages (an important structural component of the thorax, but not a bone)
+- o Identify ribs as True, False, and/or Floating ribs.
+
+# **Prelab Activities**
+
+## **Prelab Activity 7.1**
+
+## **Definitions**
+
+Define the following key terms: axial skeleton.
+
+| • | Axial        | keleton  |  |
+|---|--------------|----------|--|
+|   |              | l bones  |  |
+|   | Facial bones |          |  |
+|   | Suture       |          |  |
+|   | Hyoid bone   |          |  |
+|   | Vertebrae    |          |  |
+|   | 0            | Cervical |  |
+|   |              | Thoracic |  |
+|   | 0            | Lumbar   |  |
+|   | 0            | Sacrum   |  |
+|   | 0            | Coccyx   |  |
+
+## **Prelab Activity 7.2:**
+
+## **Labeling**
+
+## **Label the following diagrams:**
+
+On the image below circle and label the axial and appendicular portions of the skeleton.
+
+![](_page_156_Picture_4.jpeg)
+
+**Figure 7.2** Anterior Aspect of a Human Skeleton.
+
+Identify and label the following bones in the axial skeleton.
+
+- Skull
+  - o Frontal bone
+  - o Nasal bones
+  - o Mandible
+  - o Maxilla(e)
+- Thorax
+  - o Ribs
+  - o Costal cartilages
+  - o Sternum
+- Vertebral column
+  - o Cervical vertebrae
+  - o Thoracic vertebrae
+  - o Lumbar vertebrae
+  - o Coccyx
+
+![](_page_157_Picture_15.jpeg)
+
+**Figure 7.3** Unlabeled Axial Skeleton.
+
+Label the bones, sutures, and the features of the diagrams 7.4 and 7.5.
+
+![](_page_158_Picture_1.jpeg)
+
+**Figure 7.4** Adult Skulls (Frontal and Lateral Views).
+
+![](_page_159_Figure_0.jpeg)
+
+**Figure 7.5** Superior View of the Cranium
+
+## **Lab Activities**
+
+## **Lab Activity 7.1**
+
+Bone Features: Review the information in table 7.1 before moving on to the next activity.
+
+| Table 7.1 General Types Bone Features |                                |                                 |  |  |  |
+|---------------------------------------|--------------------------------|---------------------------------|--|--|--|
+| Marking                               | Description                    | Example                         |  |  |  |
+| Head                                  | Prominent rounded surface      | Head of femur                   |  |  |  |
+| Facet                                 | Flat surface                   | Articular facets of vertebrae   |  |  |  |
+| Condyle                               | Rounded surface                | Occipital condyle               |  |  |  |
+| Process                               | Projection from the bone       | Spinous process of vertebrae    |  |  |  |
+| Spine                                 | Short, sharp projection        | Transverse process of vertebrae |  |  |  |
+| Tubercle                              | Small, rounded process         | Ischial spine                   |  |  |  |
+| Tuberosity                            | Large, rough surface of a bone | Tubercle of humerus             |  |  |  |
+| Line                                  | Smaller elevated ridge of bone | Temporal lines of parietal bone |  |  |  |
+| Crest                                 | Larger elevated ridge of bone  | Iliac crest                     |  |  |  |
+| Fossa                                 | Larger pit in a bone           | Mandibular fossa                |  |  |  |
+| Fovea                                 | Smaller pit in a bone          | Fovea capitis of femur          |  |  |  |
+| Sulcus                                | Groove                         | Sigmoid sulcus of temporal bone |  |  |  |
+| Canal                                 | Small passage in bone          | Auditory canal                  |  |  |  |
+| Fissure                               | Slit through bone              | Inferior orbital fissure        |  |  |  |
+| Foramen                               | Hole through bone              | Foramen magnum                  |  |  |  |
+| Meatus                                | Opening into a canal           | External auditory meatus        |  |  |  |
+| Sinus                                 | Open space in bone             | Nasal sinus                     |  |  |  |
+
+## **Lab Activity 7.1 continued.**
+
+## **Classifications of Bones**
+
+- Review the material in your text on the classification of bones based on shape and structure, section 6-2, p143 and 144.
+- Obtain an articulated skeleton and a box of bones from the classroom lab supplies.
+- Use the information from the previous lab (i.e., Lab 6), your text, Figure 7.6 below, and your skeleton to fill in the table below.
+
+Note if you are part of an online course and are completing this lab remotely, you can use a diagram as a substitute. (e.g.,: [https://commons.wikimedia.org/wiki/File:701\\_Axial\\_Skeleton-](https://commons.wikimedia.org/wiki/File:701_Axial_Skeleton-01.jpg#/media/File:701_Axial_Skeleton-01.jpg)
+
+[01.jpg#/media/File:701\\_Axial\\_Skeleton-01.jpg\)](https://commons.wikimedia.org/wiki/File:701_Axial_Skeleton-01.jpg#/media/File:701_Axial_Skeleton-01.jpg)
+
+| Table 7.2 Review of the Appendicular and Axial Bones |                                 |                                           |  |  |  |
+|------------------------------------------------------|---------------------------------|-------------------------------------------|--|--|--|
+| Bone Name                                            | Classification of Bone<br>Shape | Is this an axial or<br>appendicular bone? |  |  |  |
+| Facial bone, e.g., maxilla                           |                                 |                                           |  |  |  |
+| Thoracic vertebra                                    |                                 |                                           |  |  |  |
+| Scapula ("shoulder"<br>bone)                         |                                 |                                           |  |  |  |
+| Radius (lateral forearm<br>bone)                     |                                 |                                           |  |  |  |
+| Tarsal bones (7 bones of<br>the ankle)               |                                 |                                           |  |  |  |
+| Phalanges ("finger and<br>toe" bones)                |                                 |                                           |  |  |  |
+| Ribs                                                 |                                 |                                           |  |  |  |
+| Patella ("knee" bone)                                |                                 |                                           |  |  |  |
+
+## **Organization of the Skeletal System**
+
+## **Overview of the Whole Skeletal System**
+
+The skeletal system can be divided into two divisions, the axial and the appendicular divisions. The axial skeleton forms the main axis of the body. It includes the skull, the vertebral column, and the rib cage (see Figure 7.6). The appendicular skeleton consists of all of the bones of the limbs , including the girdles.
+
+![](_page_162_Picture_3.jpeg)
+
+**Figure 7.6** Organization of the Skeleton.
+
+## **Axial Skeleton**
+
+![](_page_163_Picture_1.jpeg)
+
+**Figure 7.7** Labeled Diagram of the Axial Skeleton.
+
+## **The Skull**
+
+Activity: In this exercise the objective is to do the following:
+
+- List and identify the cranial and facial bones.
+- Locate the major suture lines of the skull and name the bones associated with each.
+- Define the paranasal sinuses and identify the location of each.
+- Name the bones that make up the walls of the orbit and identify the openings associated with the orbit.
+- Identify the bones and structures that form the nasal septum and nasal conchae and locate the hyoid bone.
+- Identify the bony openings and markings of the skull.
+
+![](_page_163_Picture_11.jpeg)
+
+**Figure 7.8** Cranial Bones and Suture (Lateral View).
+
+### **Skull**
+
+## **Cranial Bones of the Skull**
+
+- Frontal bone
+- Parietal bones 2
+- Temporal bones 2
+- Occipital bone
+
+## **Major Skull Sutures**
+
+- Coronal suture
+- Sagittal suture
+
+### **Other Skull Features**
+
+- Temporal bones:
+  - o Mastoid process
+  - o Styloid process
+  - o External auditory meatus
+  - o Mandibular fossa
+- Sphenoid bone:
+  - o Sella turcica
+  - o Optic canal
+- Hard palate
+- Zygomatic arch
+
+## **Facial Bones of the Skull**
+
+- Maxillae (maxillary bones) 2
+- Zygomatic bones 2
+- Lacrimal bones 2
+- Nasal bones 2
+
+## **Hyoid bone** (not attached to the skull)
+
+### **Activity**
+
+During this period, you need to identify the bones on the articulated skeleton, disarticulated bones as well as on a picture or diagram. Pair up into working groups. Use the information and figures that follow to identify the bones and required bone markings for the axial skeleton and label them for later review. These are listed in the objectives above and at the beginning of this lab. Use labelling tape to identify the bones and markings. Have another group come to your demonstration table to review your identifications. Once finished ask your lab instructor to review your identifications.
+
+As you prepare for the upcoming lab practical you should take pictures of the skeleton and disarticulated bones. Later you should identify and label the bones and their features. Include these identifications in your study guide.
+
+- Maxillae (maxillary bones)
+- Sphenoid bone
+- Ethmoid bone
+- Squamous sutures
+- Lambdoid suture
+- Occipital bone:
+  - o Occipital condyles
+  - o Foramen magnum
+- Ethmoid bone:
+  - o Cribriform plate
+  - o Crista galli
+  - o Perpendicular plate
+- Mandible:
+  - o Coronoid process
+  - o Mandibular condyle
+- Palatine bones 2
+- Vomer
+- Mandible
+
+![](_page_165_Picture_0.jpeg)
+
+**Figure 7.9** Anterior View of the Skull**.**
+
+![](_page_166_Picture_0.jpeg)
+
+**Figure 7.10** Lateral View of the Skull.
+
+![](_page_166_Picture_2.jpeg)
+
+**Figure 7.11** Illustration of the Temporal Bone.
+
+![](_page_167_Figure_0.jpeg)
+
+**Figure 7.12** Posterior View of the Skull.
+
+![](_page_168_Figure_0.jpeg)
+
+**Figure 7.13** Superior and Inferior Views of the Skull.
+
+### **The Sphenoid Bone**
+
+![](_page_169_Picture_1.jpeg)
+
+![](_page_169_Picture_3.jpeg)
+
+**Figure 7.14** Illustration of the Sphenoid Bone.
+
+![](_page_170_Figure_0.jpeg)
+
+**Figure 7.15 Sagittal Section of the Skull: Cranial and Facial Bones**
+
+## **Skull: Facial Bones**
+
+![](_page_170_Picture_3.jpeg)
+
+**Figure 7.16** Facial Bones.
+
+## **Medial Views of the Nasal Cavity**
+
+![](_page_171_Picture_1.jpeg)
+
+**Figure 7.17** Nasal Cavity.
+
+![](_page_171_Picture_3.jpeg)
+
+**Figure 7.18** Nasal Cavity Bones.
+
+## **Maxilla**
+
+![](_page_172_Picture_1.jpeg)
+
+**Figure 7.19** The Maxilla.
+
+## **Mandible**
+
+![](_page_172_Picture_5.jpeg)
+
+**Figure 7.20** Mandible
+
+## **Orbital Socket**
+
+![](_page_173_Picture_1.jpeg)
+
+**Figure 7.21** Bones Forming the Orbit.
+
+## **Hyoid Bone**
+
+![](_page_173_Picture_4.jpeg)
+
+**Figure 7.22** Hyoid Bone.
+
+## **Lab Activities**
+
+During this period, you need to identify the bones on the articulated skeleton, disarticulated bones as well as on a picture or diagram. Pair up into working groups. Use the information and figures that follow to identify the bones and required bone markings for the axial skeleton. These are listed in the objectives below and at the beginning of this lab. Use labelling tape to identify the bones and markings. Have another group come to your demonstration table to review your identifications. Once finished ask your lab instructor to review your identifications.
+
+As you prepare for the upcoming lab practical you should take pictures of the skeleton and disarticulated bones. Later you should identify and label the bones and their features. Include these identifications in your study guide.
+
+## **Vertebral Column and Bony Thorax**
+
+Transverse foramina
+
+### **General Vertebral Features**
+
+Body Vertebral canal Transverse processes Spinous process Intervertebral discs
+
+## **Specific Vertebrae**
+
+Cervical vertebrae Atlas (C1) Axis (C2) Odontoid process Thoracic vertebrae Lumbar vertebrae Sacrum Coccyx
+
+#### **Ribs Sternum**
+
+True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid process
+
+## **Vertebral Column**
+
+![](_page_175_Picture_1.jpeg)
+
+**Figure 7.23** Vertebral Column with Labelled Curves.
+
+## **Vertebrae**
+
+![](_page_176_Picture_2.jpeg)
+
+**Figure 7.24** Types of Vertebrae.
+
+## **General Markings and Projections**
+
+![](_page_176_Picture_5.jpeg)
+
+**Figure 7.25** Vertebral Markings and Projections.
+
+## **Cervical Vertebrae**
+
+![](_page_177_Picture_1.jpeg)
+
+![](_page_177_Picture_2.jpeg)
+
+![](_page_177_Picture_4.jpeg)
+
+![](_page_177_Picture_5.jpeg)
+
+![](_page_177_Picture_7.jpeg)
+
+**Figure 7.26** Cervical Vertebrae.
+
+## **Thoracic Vertebrae**
+
+![](_page_178_Picture_1.jpeg)
+
+**Figure 7.27** Thoracic Vertebrae.
+
+### **Lumbar Vertebrae**
+
+![](_page_178_Picture_4.jpeg)
+
+**Figure 7.28** Lumbar Vertebrae.
+
+## **Sacrum and Coccyx**
+
+![](_page_179_Picture_1.jpeg)
+
+**Figure 7.29** Sacrum and Coccyx.
+
+## **Rib Cage**
+
+![](_page_179_Picture_4.jpeg)
+
+**Figure 7.30** Ribs and Sternum.
+
+### **Axial Skeleton Videos**
+
+- **Watch** these videos to learn about bones and markings of the axial skeleton:
+  - o <https://youtu.be/kJNilqGxW3g>
+  - o <https://youtu.be/LiLrDTcIbkQ>
+  - o Watch this video [\(http://openstax.org/l/skull1\)](http://openstax.org/l/skull1) to view a rotating and exploded skull, with color-coded bones. Which bone (yellow) is centrally located and joins with most of the other bones of the skull?
+- Use this tool (**http://openstax.org/l/vertcolumn**) to identify the bones, intervertebral discs, and ligaments of the vertebral column. The thickest portions of the anterior longitudinal ligament and the supraspinous ligament are found in which regions of the vertebral column?
+- **More Practice** identifying bones and markings with these websites:
+  - <https://webanatomy.umn.edu/various-bones>
+  - <https://webanatomy.umn.edu/skulls-skeletons>
+  - <http://academic.pgcc.edu/~aimholtz/AandP/Practicals.html>
+  - <https://pierceanatomy.weebly.com/>
+  - <https://www.getbodysmart.com/skeletal-system>
+- **Watch** this video to learn about the bones and markings of the **vertebrae:**  <https://www.youtube.com/watch?v=V4qkP8nFMys>
+
+## **Other related videos:**
+
+- Visit this website **(http://openstax.org/l/fracturequiz)** to review different types of fractures and then take a short self-assessment quiz.
+- View this animation (**http://openstax.org/l/headblow**) to see how a blow to the head may produce a contrecoup (counterblow) fracture of the basilar portion of the occipital bone on the base of the skull. Why may a basilar fracture be life threatening?
+- Osteoporosis is a common age-related bone disease in which bone density and strength is decreased. Watch this video (**http://openstax.org/l/osteoporosis**) to get a better understanding of how thoracic vertebrae may become weakened and may fracture due to this disease. How may vertebral osteoporosis contribute to kyphosis?
+- Watch this video (**http://openstax.org/l/herndisc1)** to learn about a herniated disc. Watch this second video.
+- (**http://openstax.org/l/herndisc2**) to see one possible treatment for a herniated disc, removing the damaged portion of the disc. How could lifting a heavy object produce pain in the lower limb?
+- Sternal video: [https://en.wikipedia.org/wiki/File:Sternum\\_Anatomy\\_by\\_Jason\\_Christian.web](https://en.wikipedia.org/wiki/File:Sternum_Anatomy_by_Jason_Christian.webm) [m](https://en.wikipedia.org/wiki/File:Sternum_Anatomy_by_Jason_Christian.webm)
+
+## **Post Lab Activities: Check Your Understanding**
+
+## **Post Lab Activity 7.1 Matching**
+
+**Table 7.3 Match the Term with the Best Definition.**
+
+| Letter | Definition                                                                                                                            | Term                         |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| 1.     | The cribriform plate is a surface filled with small<br>foramina on the bone                                                           | a.<br>turbulence             |
+| 2.     | The nasal conchae create, which increases<br>the ability of the nose to trap dust.                                                    | b.<br>zygomatic              |
+| 3.     | The of the mandible articulate with the<br>temporal bone.                                                                             | c.<br>nasal                  |
+| 4.     | Blood vessels and nerves reach the chin and lower<br>lip through the of the mandible                                                  | d.<br>mandibular<br>condyles |
+| 5.     | The bones are found deep to the upper lip;<br>they form part of the 'cheekbone' and the lateral<br>aspects of the bridge of the nose. | e.<br>mental<br>foramina     |
+| 6.     | The bone, together with the temporal bone<br>and maxilla, forms the bony part of each cheek.                                          | f.<br>ethmoid                |
+| 7.     | The mirror-image bones that form the anterior<br>aspect of the bridge of the nose are the<br>bones.                                   | g.<br>maxilla                |
+
+**Table 7.4 Match the Term with the Best Definition.**
+
+| Letter | Definition                                                                       |    | Term                 |
+|--------|----------------------------------------------------------------------------------|----|----------------------|
+| 1.     | Main weight bearing portion of the vertebrae                                     | a. | axis                 |
+| 2.     | Two parts of the vertebral arch that protect the<br>spinal cord                  | b. | Thoracic<br>vertebra |
+| 3.     | Contains the spinal cord                                                         | c. | lumbar<br>vertebrae  |
+| 4.     | Type of vertebra(e) containing foramina in the<br>transverse processes.          | d. | Articular<br>process |
+| 5.     | Tailbone comprised of 5 fused vertebrae                                          | e. | atlas                |
+| 6.     | Massive weight bearing vertebrae                                                 | f. | Intervertebral       |
+| 7.     | Seven unfused vertebrae                                                          | g. | Cervical<br>vertebra |
+| 8.     | Twelve unfused vertebrae                                                         | h. | Sacrum               |
+| 9.     | Supports the head articulates with the occipital<br>condyles                     | i. | Body                 |
+| 10.    | the odontoid provides a pivot for the rotation of the<br>first cervical vertebra | j. | Coccyx               |
+
+## **Identifications**
+
+![](_page_182_Picture_2.jpeg)
+
+**Figure 7.31** Human Skull Illustration (Anterior View).
+
+**Table 7.5 Identify the following bones**
+
+| Identification<br>number | Bones |
+|--------------------------|-------|
+| 1                        |       |
+| 2                        |       |
+| 3                        |       |
+| 4                        |       |
+| 5                        |       |
+| 6                        |       |
+| 7                        |       |
+| 8                        |       |
+| 9                        |       |
+| 10                       |       |
+
+![](_page_183_Picture_0.jpeg)
+
+**Figure 7.32** Human Skull Illustration (Lateral View).
+
+**Table 7.6 Identify the Following Bones**
+
+| Identification<br>number | Bones |
+|--------------------------|-------|
+| 1                        |       |
+| 2                        |       |
+| 3                        |       |
+| 4                        |       |
+| 5                        |       |
+| 6                        |       |
+| 7                        |       |
+| 8                        |       |
+| 9                        |       |
+| 10                       |       |
+| 11                       |       |
+
+![](_page_184_Picture_0.jpeg)
+
+**Figure 7.33** Inferior aspect of the Skull: Identify the Following Bones and Features.
+
+**Table 7.7 Identify the bones in figure 7.34**
+
+| Identification<br>number | Bones or features |
+|--------------------------|-------------------|
+| 1                        |                   |
+| 2                        |                   |
+| 3                        |                   |
+| 4                        |                   |
+| 5                        |                   |
+| 6                        |                   |
+| 7                        |                   |
+| 8                        |                   |
+| 9                        |                   |
+| 10                       |                   |
+| 11                       |                   |
+| 12                       |                   |
+| 13                       |                   |
+
+![](_page_185_Figure_0.jpeg)
+
+**Figure 7.34** Superior aspect of the Skull: Identify the Following Bones and Features.
+
+**Table 7.8 Identify the bones in figure 7.35**
+
+| Identification | Bones or features |
+|----------------|-------------------|
+| number         |                   |
+| 1              | ID the bone       |
+| 2              | ID the bone       |
+| 3              | ID the bone       |
+| 4              | ID the feature    |
+| 5              | ID the feature    |
+| 6              | ID the feature    |
+| 7              | ID the feature    |
+| 8              | ID the feature    |
+| 9              | ID the feature    |
+| 10             | ID the bone       |
+| 11             | ID the bone       |
+| 12             | ID the bone       |
+
+![](_page_186_Figure_0.jpeg)
+
+**Figure 7.35.** Human Skeleton (Anterior View) [LadyofHats,](https://commons.wikimedia.org/wiki/User:LadyofHats) derivative work. Identify and label all of the bones and features of the axial skeleton area.
+
+Complete the following crossword puzzle.
+
+![](_page_187_Picture_2.jpeg)
+
+**Figure 7.36** Bone Anatomy.
+
+|      | Across                                                                             |  |  |
+|------|------------------------------------------------------------------------------------|--|--|
+| 5    | The largest opening in the occipital bone (7,6)                                    |  |  |
+| 8    | A cavity inside a bone (5)                                                         |  |  |
+| 10   | The lambdoid suture is formed by articulation of <which bones="">? (9,0,8)</which> |  |  |
+| 11   | The bones are found deep to the upper lip; they form part of the                   |  |  |
+|      | 'cheekbone' and the lateral aspects of the bridge of the nose. (7)                 |  |  |
+| 12   | The coronal suture is formed by articulation of the and bones (8,7)                |  |  |
+|      |                                                                                    |  |  |
+| Down |                                                                                    |  |  |
+| 1    | The cribriform plate is a surface filled with small foramina on the bone (7)       |  |  |
+| 2    | The external acoustic meatus is located in the bone. (5,7)                         |  |  |
+| 3    | A fossa is a (10)                                                                  |  |  |
+| 4    | The suture is formed by articulation of the occipital and parietal bones. (8)      |  |  |
+| 6    | The mirror-image bones that form the anterior aspect of the bridge of the nose     |  |  |
+|      | are the bones. (5)                                                                 |  |  |
+| 7    | Blood vessels and nerves reach the chin and lower lip through the of the           |  |  |
+|      | mandible (6,8)                                                                     |  |  |
+| 9    | A foramen (pl. foramina) is a through a bone (7)                                   |  |  |
+|      | Complete the following identifications.                                            |  |  |
+
+Name the bones.
+
+|    | Vertebra    | name           |
+|----|-------------|----------------|
+| 1. | Figure 7.37 | a.<br>Cervical |
+| 2. | Figure 7.38 | b.<br>Thoracic |
+| 3. | Figure 7.39 | c.<br>lumbar   |
+| 4. | Figure 7.40 | d.<br>atlas    |
+| 5. | Figure 7.41 | e.<br>axis     |
+| 6. | Figure 7.42 |                |
+
+## **Answers to the questions Crossword**
+
+## **Axial Skeleton – Skull**
+
+| Across             | Down                  |
+|--------------------|-----------------------|
+| 5                  | 1                     |
+| foramen magnum     | ethmoid               |
+| 8<br>sinus         | 2<br>Sella<br>turcica |
+| 10                 | 3                     |
+| occipital parietal | depression            |
+| 11                 | 4                     |
+| maxilla            | lambdoid              |
+| 12                 | 6                     |
+| parietal frontal   | nasal                 |
+|                    | 7<br>mental foramina  |
+|                    | 9<br>passage          |
+
+| Chapter 7: Skeletal System, the Axial Skeleton<br>Glossary |                                                                                                                                                                  |  |  |  |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
+| Terms                                                      | Definitions                                                                                                                                                      |  |  |  |
+| alveolar process<br>of the mandible                        | upper border of mandibular body that contains the lower teeth                                                                                                    |  |  |  |
+| alveolar process<br>of the maxilla                         | curved, inferior margin of the maxilla that supports and anchors the upper<br>teeth                                                                              |  |  |  |
+| angle of the<br>mandible                                   | rounded corner located at outside margin of the body and ramus junction                                                                                          |  |  |  |
+| angle of the rib                                           | portion of rib with greatest curvature; together, the rib angles form the most<br>posterior extent of the thoracic cage                                          |  |  |  |
+| anterior (ventral)<br>sacral foramen                       | one of the series of paired openings located on the anterior (ventral) side of<br>the sacrum                                                                     |  |  |  |
+| anterior arch                                              | anterior portion of the ring-like C1 (atlas) vertebra                                                                                                            |  |  |  |
+| anterior cranial<br>fossa                                  | shallowest and most anterior cranial fossa of the cranial base that extends<br>from the frontal bone to the lesser wing of the sphenoid bone                     |  |  |  |
+| anterior<br>longitudinal<br>ligament                       | ligament that runs the length of the vertebral column, uniting the anterior<br>aspects of the vertebral bodies                                                   |  |  |  |
+| appendicular<br>skeleton                                   | all bones of the upper and lower limbs, plus the girdle bones that attach each<br>limb to the axial skeleton                                                     |  |  |  |
+| articular tubercle                                         | smooth ridge located on the inferior skull, immediately anterior to the<br>mandibular fossa                                                                      |  |  |  |
+| atlas                                                      | first cervical (C1) vertebra                                                                                                                                     |  |  |  |
+| axial skeleton                                             | central, vertical axis of the body, including the skull, vertebral column, and<br>thoracic cage                                                                  |  |  |  |
+| axis                                                       | second cervical (C2) vertebra                                                                                                                                    |  |  |  |
+| body of the rib                                            | shaft portion of a rib                                                                                                                                           |  |  |  |
+| brain case                                                 | portion of the skull that contains and protects the brain, consisting of the eight<br>bones that form the cranial base and rounded upper skull                   |  |  |  |
+| calvaria (also,<br>skullcap)                               | rounded top of the skull                                                                                                                                         |  |  |  |
+| cervical vertebrae                                         | seven vertebrae numbered as C1–C7 that are located in the neck region of<br>the vertebral column                                                                 |  |  |  |
+| clavicle                                                   |                                                                                                                                                                  |  |  |  |
+| clavicular notch                                           | paired notches located on the superior-lateral sides of the sternal manubrium,<br>for articulation with the clavicle                                             |  |  |  |
+| coccyx                                                     | small bone located at inferior end of the adult vertebral column that is formed<br>by the fusion of four coccygeal vertebrae; also referred to as the "tailbone" |  |  |  |
+
+| condylar process<br>of the mandible       | thickened upward projection from posterior margin of mandibular ramus                                                                                                                                         |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| condyle                                   | oval-shaped process located at the top of the condylar process of the<br>mandible                                                                                                                             |
+| coronal suture                            | joint that unites the frontal bone to the right and left parietal bones across the<br>top of the skull                                                                                                        |
+| coronoid process<br>of the mandible       | flattened upward projection from the anterior margin of the mandibular ramus                                                                                                                                  |
+| costal cartilage                          | hyaline cartilage structure attached to the anterior end of each rib that<br>provides for either direct or indirect attachment of most ribs to the sternum                                                    |
+| costal facet                              | site on the lateral sides of a thoracic vertebra for articulation with the head of<br>a rib                                                                                                                   |
+| costal groove                             | shallow groove along the inferior margin of a rib that provides passage for<br>blood vessels and a nerve                                                                                                      |
+| cranial cavity                            | interior space of the skull that houses the brain                                                                                                                                                             |
+| cranium                                   | skull                                                                                                                                                                                                         |
+| cribriform plate                          | small, flattened areas with numerous small openings, located to either side of<br>the midline in the floor of the anterior cranial fossa; formed by the ethmoid<br>bone                                       |
+| crista galli                              | small upward projection located at the midline in the floor of the anterior<br>cranial fossa; formed by the ethmoid bone                                                                                      |
+| dens (odontoid                            | bony projection (odontoid process) that extends upward from the body of the                                                                                                                                   |
+| process)                                  | C2 (axis) vertebra                                                                                                                                                                                            |
+| ear ossicles                              | three small bones located in the middle ear cavity that serve to transmit<br>sound vibrations to the inner ear                                                                                                |
+| ethmoid air cell                          | one of several small, air-filled spaces located within the lateral sides of the<br>ethmoid bone, between the orbit and upper nasal cavity                                                                     |
+| ethmoid bone                              | unpaired bone that forms the roof and upper, lateral walls of the nasal cavity,<br>portions of the floor of the anterior cranial fossa and medial wall of orbit, and<br>the upper portion of the nasal septum |
+| external acoustic<br>meatus ear           | ear canal opening located on the lateral side of the skull                                                                                                                                                    |
+| external occipital<br>protuberance        | external occipital protuberance small bump located at the midline on the<br>posterior skull                                                                                                                   |
+| facet                                     | small, flattened area on a bone for an articulation (joint) with another bone, or<br>for muscle attachment                                                                                                    |
+| facial bones                              | fourteen bones that support the facial structures and form the upper and<br>lower jaws and the hard palate                                                                                                    |
+| false ribs or<br>vertebrochondral<br>ribs | ribs 8–12 whose costal cartilage either attaches indirectly to the sternum via<br>the costal cartilage of the next higher rib or does not attach to the sternum at<br>all                                     |
+| floating ribs or<br>vertebral ribs        | ribs 11–12 that do not attach to the sternum or to the costal cartilage of<br>another rib                                                                                                                     |
+| fontanelle                                | expanded area of fibrous connective tissue that separates the brain case<br>bones of the skull prior to birth and during the first year after birth                                                           |
+| foremen magnum                            | a large, oval-shaped opening in the occipital bone of the skull that connects<br>the spinal cord to the brain.                                                                                                |
+| frontal bone                              | unpaired bone that forms forehead, roof of orbit, and floor of anterior cranial<br>fossa                                                                                                                      |
+| frontal sinus                             | air-filled space within the frontal bone; most anterior of the paranasal sinuses                                                                                                                              |
+| greater wings of                          | lateral projections of the sphenoid bone that form the anterior wall of the                                                                                                                                   |
+| sphenoid bone                             | middle cranial fossa and an area of the lateral skull                                                                                                                                                         |
+| hard palate                               | bony structure that forms the roof of the mouth and floor of the nasal cavity,<br>formed by the palatine process of the maxillary bones and the horizontal plate<br>of the palatine bones                     |
+
+| head of the rib      | posterior end of a rib that articulates with the bodies of thoracic vertebrae    |
+|----------------------|----------------------------------------------------------------------------------|
+| hyoid bone           | small, U-shaped bone located in upper neck that does not contact any other       |
+|                      | bone                                                                             |
+| hypoglossal canal    | paired openings that pass anteriorly from the anterior-lateral margins of the    |
+|                      | foramen magnum deep to the occipital condyles                                    |
+| hypophyseal          | shallow depression on top of the sella turcica that houses the pituitary         |
+| (pituitary) fossa    | (hypophyseal) gland                                                              |
+| inferior articular   | bony process that extends downward from the vertebral arch of a vertebra         |
+| process              | that articulates with the superior articular process of the next lower vertebra  |
+| inferior nasal       | one of the paired bones that project from the lateral walls of the nasal cavity  |
+| concha               | to form the largest and most inferior of the nasal conchae                       |
+| infraorbital         | opening located on anterior skull, below the orbit                               |
+| foramen              |                                                                                  |
+| internal acoustic    | opening into petrous ridge, located on the lateral wall of the posterior cranial |
+|                      |                                                                                  |
+| meatus               | fossa                                                                            |
+| intervertebral disc  | structure located between the bodies of adjacent vertebrae that strongly joins   |
+|                      | the vertebrae; provides padding, weight bearing ability, and enables vertebral   |
+|                      | column movements                                                                 |
+| intervertebral       | opening located between adjacent vertebrae for exit of a spinal nerve            |
+| foramen              |                                                                                  |
+| jugular foramen      | irregularly shaped opening located in the lateral floor of the posterior cranial |
+|                      | cavity                                                                           |
+| lacrimal bone        | paired bones that contribute to the anterior-medial wall of each orbit           |
+| lacrimal fossa       | shallow depression in the anteromedial wall of the orbit, formed by the          |
+|                      | lacrimal bone that gives rise to the nasolacrimal canal                          |
+| lambdoid suture      | inverted V-shaped joint that unites the occipital bone to the right and left     |
+|                      | parietal bones on the posterior skull                                            |
+| lamina portion of    | vertebral arch on each vertebra that extends between the transverse and          |
+| the vertebral arch   | spinous process                                                                  |
+| lesser wings of the  | lateral extensions of the sphenoid bone that form the bony lip separating the    |
+| sphenoid bone        | anterior and middle cranial fossae                                               |
+| lumbar curve         | posteriorly concave curvature of the lumbar vertebral column region; a           |
+|                      | secondary curve of the vertebral column                                          |
+| lumbar vertebrae     | five vertebrae numbered as L1–L5 that are located in lumbar region (lower        |
+|                      | back) of the vertebral column                                                    |
+| mandible             | unpaired bone that forms the lower jawbone; the only moveable bone of the        |
+|                      | skull                                                                            |
+| mandibular           | opening located on the inner (medial) surface of the mandibular ramus            |
+| foramen              |                                                                                  |
+| mandibular           | the rounded end of the condyloid process of the mandible, which connects         |
+| condyle              | the lower jaw to the skull at the temporomandibular joint                        |
+| mandibular fossa     | oval depression located on the inferior surface of the skull                     |
+| mandibular notch     | large U-shaped notch located between the condylar process and coronoid           |
+|                      | process of the mandible                                                          |
+| manubrium            | expanded, superior portion of the sternum                                        |
+| mastoid process      | large bony prominence on the inferior, lateral skull, just behind the earlobe    |
+| maxillary bone       | paired bones that form the upper jaw and anterior portion of the hard palate     |
+|                      |                                                                                  |
+| (also, maxilla)      |                                                                                  |
+| maxillary sinus      | air-filled space located with each maxillary bone; largest of the paranasal      |
+|                      | sinuses                                                                          |
+| mental foramen       | opening located on the anterolateral side of the mandibular body                 |
+| middle nasal         | nasal concha formed by the ethmoid bone that is located between the              |
+|                      |                                                                                  |
+| concha<br>nasal bone | superior and inferior conchae<br>paired bones that form the base of the nose     |
+
+| nasal cavity       | opening through skull for passage of air                                                                                                                                                                                             |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| nasal conchae      | curved bony plates that project from the lateral walls of the nasal cavity;                                                                                                                                                          |
+|                    | include the superior and middle nasal conchae, which are parts of the                                                                                                                                                                |
+|                    | ethmoid bone, and the independent inferior nasal conchae bone                                                                                                                                                                        |
+| nasal septum       | flat, midline structure that divides the nasal cavity into halves, formed by the                                                                                                                                                     |
+|                    | perpendicular plate of the ethmoid bone, vomer bone, and septal cartilage                                                                                                                                                            |
+| nasolacrimal canal | passage for drainage of tears that extends downward from the medial-anterior                                                                                                                                                         |
+|                    | orbit to the nasal cavity, terminating behind the inferior nasal conchae                                                                                                                                                             |
+| neck of the rib    | narrowed region of a rib, next to the rib head                                                                                                                                                                                       |
+| occipital bone     | unpaired bone that forms the posterior portions of the brain case and base of<br>the skull                                                                                                                                           |
+| occipital condyle  | paired, oval-shaped bony knobs located on the inferior skull, to either side of<br>the foramen magnum                                                                                                                                |
+| optic canal        | opening spanning between middle cranial fossa and posterior orbit                                                                                                                                                                    |
+| orbit              | bony socket that contains the eyeball and associated muscles                                                                                                                                                                         |
+| palatine bone      | paired bones that form the posterior quarter of the hard palate and a small<br>area in floor of the orbit                                                                                                                            |
+| palatine process   | medial projection from the maxilla bone that forms the anterior three quarters<br>of the hard palate                                                                                                                                 |
+| paranasal sinuses  | cavities within the skull that are connected to the conchae that serve to warm<br>and humidify incoming air, produce mucus, and lighten the weight of the skull;<br>consist of frontal, maxillary, sphenoidal, and ethmoidal sinuses |
+| parietal bone      | paired bones that form the upper, lateral sides of the skull                                                                                                                                                                         |
+| pedicle            | portion of the vertebral arch that extends from the vertebral body to the                                                                                                                                                            |
+|                    | transverse process                                                                                                                                                                                                                   |
+| perpendicular      | downward, midline extension of the ethmoid bone that forms the superior                                                                                                                                                              |
+| plate of the       | portion of the nasal septum                                                                                                                                                                                                          |
+| ethmoid bone       |                                                                                                                                                                                                                                      |
+| ramus of the       | vertical portion of the mandible                                                                                                                                                                                                     |
+| mandible           |                                                                                                                                                                                                                                      |
+| ribs               | thin, curved bones of the chest wall                                                                                                                                                                                                 |
+| sacral canal       | bony tunnel that runs through the sacrum                                                                                                                                                                                             |
+| sacral foramina    | series of paired openings for nerve exit located on both the anterior (ventral)                                                                                                                                                      |
+|                    | and posterior (dorsal) aspects of the sacrum                                                                                                                                                                                         |
+| sacral promontory  | anterior lip of the base (superior end) of the sacrum                                                                                                                                                                                |
+| sacrum             | single bone located near the inferior end of the adult vertebral column that is<br>formed by the fusion of five sacral vertebrae; forms the posterior portion of the<br>pelvis                                                       |
+| sagittal suture    | joint that unites the right and left parietal bones at the midline along the top of<br>the skull                                                                                                                                     |
+| sella turcica      | elevated area of sphenoid bone located at midline of the middle cranial fossa                                                                                                                                                        |
+| skeleton           | bones of the body                                                                                                                                                                                                                    |
+| skull              | bony structure that forms the head, face, and jaws, and protects the brain;<br>consists of 22 bones                                                                                                                                  |
+| sphenoid bone      | unpaired bone that forms the central base of skull                                                                                                                                                                                   |
+| sphenoid sinus     | air-filled space located within the sphenoid bone; most posterior of the                                                                                                                                                             |
+|                    | paranasal sinuses                                                                                                                                                                                                                    |
+| spinous process    | unpaired bony process that extends posteriorly from the vertebral arch of a<br>vertebra                                                                                                                                              |
+| squamous suture    | joint that unites the parietal bone to the squamous portion of the temporal<br>bone on the lateral side of the skull                                                                                                                 |
+| sternal angle      | junction line between manubrium and body of the sternum and the site for                                                                                                                                                             |
+|                    | attachment of the second rib to the sternum                                                                                                                                                                                          |
+| sternum            | flattened bone located at the center of the anterior chest                                                                                                                                                                           |
+
+| styloid process                                | downward projecting, elongated bony process located on the inferior aspect<br>of the skull                                                                                              |
+|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| superior articular<br>process                  | bony process that extends upward from the vertebral arch of a vertebra that<br>articulates with the inferior articular process of the next higher vertebra                              |
+| superior articular<br>process of the<br>sacrum | paired processes that extend upward from the sacrum to articulate (join) with<br>the inferior articular processes from the L5 vertebra                                                  |
+| superior nasal<br>concha                       | smallest and most superiorly located of the nasal conchae; formed by the<br>ethmoid bone                                                                                                |
+| supraorbital<br>foramen                        | opening located on anterior skull, at the superior margin of the orbit                                                                                                                  |
+| supraorbital<br>margin                         | superior margin of the orbit                                                                                                                                                            |
+| suture junction                                | line at which adjacent bones of the skull are united by fibrous connective<br>tissue                                                                                                    |
+| temporal bone                                  | paired bones that form the lateral, inferior portions of the skull, with<br>squamous, mastoid, and petrous portions                                                                     |
+| temporal fossa                                 | shallow space on the lateral side of the skull, above the level of the zygomatic<br>arch                                                                                                |
+| temporal process<br>of the zygomatic<br>bone   | short extension from the zygomatic bone that forms the anterior portion of the<br>zygomatic arch                                                                                        |
+| thoracic cage                                  | consists of 12 pairs of ribs and sternum                                                                                                                                                |
+| thoracic curve                                 | anteriorly concave curvature of the thoracic vertebral column region; a<br>primary curve of the vertebral column                                                                        |
+| thoracic vertebrae                             | twelve vertebrae numbered as T1–T12 that are located in the thoracic region<br>(upper back) of the vertebral column                                                                     |
+| transverse<br>foramen                          | foramen opening found only in the transverse processes of cervical vertebrae                                                                                                            |
+| transverse<br>process                          | paired bony processes that extends laterally from the vertebral arch of a<br>vertebra                                                                                                   |
+| true ribs<br>vertebrosternal<br>ribs           | ribs 1–7 that attach via their costal cartilage directly to the sternum                                                                                                                 |
+| tubercle of the rib                            | small bump on the posterior side of a rib for articulation with the transverse<br>process of a thoracic vertebra                                                                        |
+| vertebra                                       | individual bone in the neck and back regions of the vertebral column                                                                                                                    |
+| vertebral (spinal)<br>canal                    | passageway within the vertebral column for the spinal cord that is formed by<br>the series of individual vertebral foramina                                                             |
+| vertebral arch                                 | bony arch formed by the posterior portion of each vertebra that surrounds and<br>protects the spinal cord                                                                               |
+| vertebral column                               | entire sequence of bones that extend from the skull to the tailbone                                                                                                                     |
+| vertebral foramen                              | opening associated with each vertebra defined by the vertebral arch that<br>provides passage for the spinal cord                                                                        |
+| vomer bone                                     | unpaired bone that forms the inferior and posterior portions of the nasal<br>septum                                                                                                     |
+| xiphoid process                                | small process that forms the inferior tip of the sternum                                                                                                                                |
+| zygomatic arch                                 | elongated, free-standing arch on the lateral skull, formed anteriorly by the<br>temporal process of the zygomatic bone and posteriorly by the zygomatic<br>process of the temporal bone |
+| zygomatic bone<br>cheek bone                   | paired bones that contribute to the lateral orbit and anterior zygomatic arch                                                                                                           |
+| zygomatic process<br>of the temporal<br>bone   | extension from the temporal bone that forms the posterior portion of the<br>zygomatic arch                                                                                              |
+
