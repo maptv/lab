@@ -538,9 +538,10 @@ The Cell:
 -   **Across: 3** Cell nucleus, **5** Plasma membrane, **6** Lysosome, **7** Peroxisome.
 -   **Down: 1** Nucleolus, **2** Centriole, **4** Golgi apparatus, **8** Ribosome.
 
-| Chapter 3: Cells Glossary |   |
-|----|----|
+**Chapter 3: Cells Glossary**
+
 | Terms | Definitions |
+|----|----|
 | active transport | form of transport across the cell membrane that requires input of cellular energy |
 | amphipathic | describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility |
 | anaphase | third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of a dividing cell |
