@@ -8,65 +8,56 @@
 
 - Identify the major divisions of the skeleton (axial vs. appendicular) and which bones belong to each group.
 - Classify bones according to their shapes.
-  - o Long bone
-  - o Short bone
-  - o Flat bone
-
-- o Irregular bone
-- o Sesamoid bone
+  - Long bone
+  - Short bone
+  - Flat bone
+  - Irregular bone
+  - Sesamoid bone
 - Describe the function of each category of bones.
 - Provide examples of each type of bone classification by shape
 - Identify disarticulated bones as left or right and describe how this determination was made.
 
 - **In a real bone and in models of bone structure, locate and define the functions of the following macroscopic features.**
-  - o Compact/cancellous bone
-  - o Spongy bone/trabecular bone
-  - o Epiphysis
-  - o Diaphysis
-  - o Medullary cavity
+  - Compact/cancellous bone
+  - Spongy bone/trabecular bone
+  - Epiphysis
+  - Diaphysis
+  - Medullary cavity
+  - Red bone marrow
+  - Yellow bone marrow
+  - Articular cartilage
+  - Epiphyseal line
+  - Periosteum
+  - Endosteum
 
-- o Red bone marrow
-- o Yellow bone marrow
-- o Articular cartilage
-- o Epiphyseal line
-- o Periosteum
-- o Endosteum
-- **In models of microscopic bone structure, locate and define the functions of** 
-  - o Central (Haversian)
+- **In models of microscopic bone structure, locate and define the functions of**
+  - Central (Haversian) canal
+  - Perforating (Volkmann's) canal
+  - Lacuna(e)
+  - Canaliculi
+  - Osteocytes
+  - Lamella(e)
+  - Trabeculae
+  - Osteon
+  - Compact/cancellous bone
+  - Spongy bone/trabecular bone
+  - Medullary cavity
+  - Red bone marrow
+  - Periosteum
+  - Endosteum
 
-canal
-
-o Perforating (Volkmann's)
-
-canal
-
-- o Lacuna(e)
-- o Canaliculi
-- o Osteocytes
-- o Lamella(e)
-- o Trabeculae
-
-- o Osteon
-- o Compact/cancellous bone
-- o Spongy bone/trabecular bone
-- o Medullary cavity
-- o Red bone marrow
-- o Periosteum
-- o Endosteum
 - **In a compact bone picture, identify and define the functions of**
-  - o Central canal
-  - o Lacuna(e)
-  - o Canaliculi
-  - o Osteocytes
-  - o Lamella(e)
+  - Central canal
+  - Lacuna(e)
+  - Canaliculi
+  - Osteocytes
+  - Lamella(e)
 
 ## **Prelab Activities**
 
 ## **Prelab Activity 6.1**
 
-| Definitions: Define the following key terms |  |
-|---------------------------------------------|--|
-|---------------------------------------------|--|
+Definitions: Define the following key terms
 
 | Skeleton |                                                                       |
 |----------|-----------------------------------------------------------------------|
