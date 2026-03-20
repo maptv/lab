@@ -1,4 +1,4 @@
-# **Chapter 9. The Articulations and Joints:**
+# **The Articulations and Joints:**
 
 ## **Lab Summary:**
 
@@ -162,8 +162,8 @@ Table 9.1 Table of Synovial Joints, their Motion and Location
 
 | Synovial joint types      | Motion type | Location |
 |---------------------------|-------------|----------|
-| plane joints<br>(gliding) |             |          |
-| ball and socket<br>joints |             |          |
+| plane joints (gliding) |             |          |
+| ball and socket joints |             |          |
 | hinge joints              |             |          |
 | pivot joints              |             |          |
 | condyloid joints          |             |          |
@@ -197,7 +197,7 @@ In this exercise the objective is to do the following:
 
 A non-movable joint, such as the suture in the skull.
 
-![](_page_230_Picture_19.jpeg)
+![](images/_page_230_Picture_19.jpeg)
 
 **Figure 9.1** Synarthrosis Joints (e.g., the Sutures),
 
@@ -205,7 +205,7 @@ A non-movable joint, such as the suture in the skull.
 
 Slightly moveable joints: for example, joints of the vertebral column.
 
-![](_page_231_Picture_2.jpeg)
+![](images/_page_231_Picture_2.jpeg)
 
 **Figure 9.2** Posterolateral View of Vertebrae, Labelled Description.
 
@@ -213,7 +213,7 @@ Slightly moveable joints: for example, joints of the vertebral column.
 
 A freely mobile joint is classified as diarthrosis. An example would be any of the synovial joints such as the knee.
 
-![](_page_231_Picture_6.jpeg)
+![](images/_page_231_Picture_6.jpeg)
 
 **Figure 9.3** A Medical Illustration Depicting the Synovial Joint.
 
@@ -244,7 +244,7 @@ o Gomphosis
 
 • •
 
-![](_page_232_Picture_15.jpeg)
+![](images/_page_232_Picture_15.jpeg)
 
 **Figure 9.4** Types of Joints Based upon their Structure (L to R: Cartilaginous Joint, Fibrous Joint, and Synovial Joint).
 
@@ -253,7 +253,7 @@ o Gomphosis
 - Symphyses: a fibrocartilaginous fusion between two bones. (e.g., Pubic Symphysis)
 - Synchrondroses: bones joined by hyaline cartilage (ex. Epiphyseal Plate)
 
-![](_page_233_Picture_3.jpeg)
+![](images/_page_233_Picture_3.jpeg)
 
 **Figure 9.5** Examples of Cartilaginous Joints.
 
@@ -263,7 +263,7 @@ o Gomphosis
 - Syndesmosis joint between two parallel articulating bones such as the ulna and radius.
 - Gomphosis joint between the tooth and the alveolus or the mandible or maxillae. Held together by periodontal ligaments.
 
-![](_page_233_Picture_9.jpeg)
+![](images/_page_233_Picture_9.jpeg)
 
 **Figure 9.6** Examples of Fibrous Joints. (a. suture, b. syndesmosis, c. gomphosis).
 
@@ -278,11 +278,11 @@ o Gomphosis
 - Articular (synovial) cavity
 - Bursa
 
-![](_page_234_Picture_7.jpeg)
+![](images/_page_234_Picture_7.jpeg)
 
 **Figure 9.7** Synovial joint.
 
-![](_page_234_Picture_9.jpeg)
+![](images/_page_234_Picture_9.jpeg)
 
 **Figure 9.8** General View of a Synovial Joint (Medial Aspect).
 
@@ -326,9 +326,9 @@ This activity you will work as groups to identify the anatomy of the human knee.
 - Go to the storage area and obtain a model of the knee. The terms listed above are those you are expected to know and identify on the model.
 - Using colored labelling tape write down the term above and attach it to the model. When complete check with your Instructor on your accuracy.
 
-![](_page_236_Figure_13.jpeg)
+![](images/_page_236_Figure_13.jpeg)
 
-![](_page_236_Picture_16.jpeg)
+![](images/_page_236_Picture_16.jpeg)
 
 **Figure 9.10** Knee Joint.
 
@@ -342,7 +342,7 @@ In this section you will review and identify the movements of the synovial joint
 
 ## **Gliding Movements**
 
-![](_page_237_Picture_5.jpeg)
+![](images/_page_237_Picture_5.jpeg)
 
 **Figure 9.11** Gliding Movement.
 
@@ -355,11 +355,11 @@ In this section you will review and identify the movements of the synovial joint
 - Adduction
 - Circumduction
 
-![](_page_238_Picture_7.jpeg)
+![](images/_page_238_Picture_7.jpeg)
 
 **Figure 9.12** Angular Movements of Synovial Joints; Flexion and Extension of the Body Appendages and the Head.
 
-![](_page_238_Picture_9.jpeg)
+![](images/_page_238_Picture_9.jpeg)
 
 **Figure 9.13** Angular Movements – Abduction, Adduction, and Circumduction.
 
@@ -371,7 +371,7 @@ In this section you will review and identify the movements of the synovial joint
 - Left
 - Right
 
-![](_page_239_Picture_5.jpeg)
+![](images/_page_239_Picture_5.jpeg)
 
 **Figure 9.14** Rotation of the Head and Neck, and Lower Limb.
 
@@ -386,7 +386,7 @@ In this section you will review and identify the movements of the synovial joint
 - Depression
 - Reposition
 
-![](_page_239_Picture_14.jpeg)
+![](images/_page_239_Picture_14.jpeg)
 
 **Figure 9.15.** Special Movements. (Protraction and Retraction of the Mandible, Elevation and Depression of the Mandible, and Opposition and Reposition of the Fingers).
 
@@ -400,7 +400,7 @@ In this section you will review and identify the movements of the synovial joint
 - Inversion
 - Eversion
 
-![](_page_240_Picture_7.jpeg)
+![](images/_page_240_Picture_7.jpeg)
 
 **Figure 9.16** Special Movements: Pronation and Supination of the Hand, Dorsiflexion and Plantar Flexion of the Foot, and Inversion and Eversion of the Foot.
 
@@ -422,7 +422,7 @@ In this section you will review and identify the movements of the synovial joint
 
 **Complete the crossword puzzle below.**
 
-![](_page_241_Picture_3.jpeg)
+![](images/_page_241_Picture_3.jpeg)
 
 **Figure 9.17** The Articulations.
 
@@ -440,19 +440,19 @@ In this section you will review and identify the movements of the synovial joint
 
 | Answer | Definition                                                                                                                                                                                                                                                  | Term                                                  |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-|        | 1.<br>A(n), or joint, is any site where two<br>bones meet.                                                                                                                                                                                                  | a.<br>diarthrotic                                     |
-|        | 2.<br>The three functional classifications for joints<br>are,, and                                                                                                                                                                                          | b.<br>synovial                                        |
-|        | 3.<br>A joint that is immobile is a(n) joint.                                                                                                                                                                                                               | c.<br>synarthrotic;<br>fibrous                        |
-|        | 4.<br>A joint that allows only a small amount of<br>movement is a(n) joint.                                                                                                                                                                                 | d.<br>Bursae                                          |
-|        | 5.<br>A freely movable joint is a(n) joint.                                                                                                                                                                                                                 | e.<br>structure; function                             |
-|        | 6.<br>Sutures are joints that are (function) and<br>(structure).                                                                                                                                                                                            | f.<br>synarthrotic;<br>amphiarthrotic;<br>diarthrotic |
-|        | 7.<br>Gomphoses are classified as (function)<br>and (structure).                                                                                                                                                                                            | g.<br>synarthrotic                                    |
-|        | 8.<br>Most joints in the body are                                                                                                                                                                                                                           | h.<br>fibrous                                         |
-|        | 9.<br>are flattened, fibrous sacs lined with<br>synovial membranes and containing synovial<br>fluid.                                                                                                                                                        | i.<br>fibrous;<br>cartilaginous;<br>synovial          |
-|        | 10.For joints, there is no joint cavity and<br>the joints themselves are synarthrotic or at<br>most amphiarthrotic. The bones are joined by<br>fibrous connective tissue and their function is<br>more to prevent separation than to resist<br>compression. | j.<br>articulation                                    |
-|        | 11.The three structural classifications for joints are<br>,, and                                                                                                                                                                                            | k.<br>synarthrotic;<br>amphiarthrotic;                |
-|        | 12.The three functional classifications for joints<br>are,, and                                                                                                                                                                                             | l.<br>amphiarthrotic                                  |
-|        | 13.Joints are classified by two criteria: and<br>                                                                                                                                                                                                           | m.<br>synarthrotic;<br>fibrous                        |
+|        | 1. A(n), or joint, is any site where two bones meet.                                                                                                                                                                                                  | a. diarthrotic                                     |
+|        | 2. The three functional classifications for joints are,, and                                                                                                                                                                                          | b. synovial                                        |
+|        | 3. A joint that is immobile is a(n) joint.                                                                                                                                                                                                               | c. synarthrotic; fibrous                        |
+|        | 4. A joint that allows only a small amount of movement is a(n) joint.                                                                                                                                                                                 | d. Bursae                                          |
+|        | 5. A freely movable joint is a(n) joint.                                                                                                                                                                                                                 | e. structure; function                             |
+|        | 6. Sutures are joints that are (function) and (structure).                                                                                                                                                                                            | f. synarthrotic; amphiarthrotic; diarthrotic |
+|        | 7. Gomphoses are classified as (function) and (structure).                                                                                                                                                                                            | g. synarthrotic                                    |
+|        | 8. Most joints in the body are                                                                                                                                                                                                                           | h. fibrous                                         |
+|        | 9. are flattened, fibrous sacs lined with synovial membranes and containing synovial fluid.                                                                                                                                                        | i. fibrous; cartilaginous; synovial          |
+|        | 10.For joints, there is no joint cavity and the joints themselves are synarthrotic or at most amphiarthrotic. The bones are joined by fibrous connective tissue and their function is more to prevent separation than to resist compression. | j. articulation                                    |
+|        | 11.The three structural classifications for joints are ,, and                                                                                                                                                                                            | k. synarthrotic; amphiarthrotic;                |
+|        | 12.The three functional classifications for joints are,, and                                                                                                                                                                                             | l. amphiarthrotic                                  |
+|        | 13.Joints are classified by two criteria: and                                                                                                                                                                                                            | m. synarthrotic; fibrous                        |
 
 ## **Labeling**
 
@@ -470,11 +470,11 @@ Label the following diagrams 9.17 and 9.18.
 - Medial meniscus
 - Lateral meniscus
 
-![](_page_244_Picture_12.jpeg)
+![](images/_page_244_Picture_12.jpeg)
 
 **Figure 9.18** Anatomy of the Knee, Sagittal View.
 
-![](_page_244_Picture_14.jpeg)
+![](images/_page_244_Picture_14.jpeg)
 
 **Figure 9.19** Superior View of the Right Tibia.
 
@@ -487,42 +487,42 @@ Label the following diagrams 9.17 and 9.18.
 | Chapter 9. The Articulations and Joints Glossary |                                                                                                                                                                                |  |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | Terms                                            | Definitions                                                                                                                                                                    |  |
-| abduction                                        | The movement which separates a limb or other part from the axis, or<br>middle line, of the body                                                                                |  |
+| abduction                                        | The movement which separates a limb or other part from the axis, or middle line, of the body                                                                                |  |
 | adduction                                        | the movement of a limb toward the midline of the body                                                                                                                          |  |
-| articular cartilage                              | a type of smooth cartilage found only in diarthrodial joints, where it allows<br>for easy articulation, weight distribution and shock absorption.                              |  |
-| articular capsule                                | also known as a joint capsule, is a double-layered structure that surrounds<br>a synovial joint.                                                                               |  |
-| Ball and socket joint                            | a type of joint in the body where the rounded end of one bone fits into a<br>cup-like socket of another bone, allowing for a wide range of movement in<br>multiple directions. |  |
-| Cartilaginous joint                              | at a cartilaginous joint, the adjacent bones are united by cartilage, a tough<br>but somewhat flexible type of connective tissue.                                              |  |
-| Circumduction                                    | a conical movement of a limb extending from the joint at which the<br>movement is controlled.                                                                                  |  |
-| Condyloid joint                                  | an ovoid articular surface, or condyle that is received into an elliptical<br>cavity.                                                                                          |  |
+| articular cartilage                              | a type of smooth cartilage found only in diarthrodial joints, where it allows for easy articulation, weight distribution and shock absorption.                              |  |
+| articular capsule                                | also known as a joint capsule, is a double-layered structure that surrounds a synovial joint.                                                                               |  |
+| Ball and socket joint                            | a type of joint in the body where the rounded end of one bone fits into a cup-like socket of another bone, allowing for a wide range of movement in multiple directions. |  |
+| Cartilaginous joint                              | at a cartilaginous joint, the adjacent bones are united by cartilage, a tough but somewhat flexible type of connective tissue.                                              |  |
+| Circumduction                                    | a conical movement of a limb extending from the joint at which the movement is controlled.                                                                                  |  |
+| Condyloid joint                                  | an ovoid articular surface, or condyle that is received into an elliptical cavity.                                                                                          |  |
 | depression                                       | movement in an inferior direction.                                                                                                                                             |  |
 | dorsiflexion                                     | Flexion in the dorsal direction.                                                                                                                                               |  |
 | elevation                                        | movement in a superior direction (e.g., shoulder shrug)                                                                                                                        |  |
 | extension                                        | a movement that increases the angle between two body parts.                                                                                                                    |  |
-| eversion                                         | the movement of the sole away from the median plane –<br>so that the sole<br>faces in a lateral direction.                                                                     |  |
-| Fibrous cartilage                                | a type of cartilage that contains both fibrous and cartilaginous tissues and<br>is found in some joints and discs.                                                             |  |
+| eversion                                         | the movement of the sole away from the median plane – so that the sole faces in a lateral direction.                                                                     |  |
+| Fibrous cartilage                                | a type of cartilage that contains both fibrous and cartilaginous tissues and is found in some joints and discs.                                                             |  |
 | flexion                                          | a movement that decreases the angle between two body parts                                                                                                                     |  |
-| Hinge joint                                      | a type of synovial joint that allows movement in one plane, similar to how a<br>door hinge operates.                                                                           |  |
+| Hinge joint                                      | a type of synovial joint that allows movement in one plane, similar to how a door hinge operates.                                                                           |  |
 | hyperextension                                   | a joint moving beyond its normal range of motion, often resulting in injury                                                                                                    |  |
-| inversion                                        | the movement of the sole towards the median plane –<br>so that the sole<br>faces in a medial direction.                                                                        |  |
-| Joint cavity                                     | a fluid-filled space found in synovial joints, which allows for smooth<br>movement between the articulating bones.                                                             |  |
-| Knee Joint                                       | the biggest joint in your body that connects your thigh bone to your shin<br>bone.                                                                                             |  |
-| Lateral meniscus                                 | a fibrocartilaginous band that spans the lateral side of the interior of the<br>knee joint.                                                                                    |  |
-| Medial meniscus                                  | a fibrocartilage semicircular band that spans the knee joint medially,<br>located between the medial condyle of the femur and the medial condyle of<br>the tibia.              |  |
+| inversion                                        | the movement of the sole towards the median plane – so that the sole faces in a medial direction.                                                                        |  |
+| Joint cavity                                     | a fluid-filled space found in synovial joints, which allows for smooth movement between the articulating bones.                                                             |  |
+| Knee Joint                                       | the biggest joint in your body that connects your thigh bone to your shin bone.                                                                                             |  |
+| Lateral meniscus                                 | a fibrocartilaginous band that spans the lateral side of the interior of the knee joint.                                                                                    |  |
+| Medial meniscus                                  | a fibrocartilage semicircular band that spans the knee joint medially, located between the medial condyle of the femur and the medial condyle of the tibia.              |  |
 | opposition                                       | brings the thumb and little finger together.                                                                                                                                   |  |
-| Patellar ligament                                | also known as the patellar tendon, connects the kneecap (patella) to the<br>tibia                                                                                              |  |
-| Pivot joint                                      | a type of synovial joint whose movement axis is parallel to the long axis of<br>the proximal bone, which typically has a convex articular surface.                             |  |
+| Patellar ligament                                | also known as the patellar tendon, connects the kneecap (patella) to the tibia                                                                                              |  |
+| Pivot joint                                      | a type of synovial joint whose movement axis is parallel to the long axis of the proximal bone, which typically has a convex articular surface.                             |  |
 
-| Plane (gliding) joint        | a type of synovial joint that allows bones to slide past one another in<br>various directions along the plane of the joint                                                                         |
+| Plane (gliding) joint        | a type of synovial joint that allows bones to slide past one another in various directions along the plane of the joint                                                                         |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Plantar flexion              | the movement of pointing your toes away from your body, which occurs<br>when you stand on your tiptoes or press down on a gas pedal                                                                |
-| Protraction                  | the anterolateral movement of the scapula on the thoracic wall that allows<br>the shoulder to move anteriorly.                                                                                     |
-| Pronation                    | The act of turning a limb, palm, or palmar surface of the forefoot<br>downward.                                                                                                                    |
+| Plantar flexion              | the movement of pointing your toes away from your body, which occurs when you stand on your tiptoes or press down on a gas pedal                                                                |
+| Protraction                  | the anterolateral movement of the scapula on the thoracic wall that allows the shoulder to move anteriorly.                                                                                     |
+| Pronation                    | The act of turning a limb, palm, or palmar surface of the forefoot downward.                                                                                                                    |
 | Quadriceps tendon            |                                                                                                                                                                                                    |
-| retraction                   | the posteromedial movement of the scapula on the thoracic wall, which<br>causes the shoulder region to move posteriorly i.e., picking something up.                                                |
-| Rotation<br>(medial/lateral) | rotation describe movement of the limbs around their long axis:<br>medial rotation is a rotational movement towards the midline. Lateral<br>rotation is a rotating movement away from the midline. |
-| Saddle joint                 | a type of synovial joint in which the opposing surfaces are reciprocally<br>concave and convex. It is found in the thumb,                                                                          |
+| retraction                   | the posteromedial movement of the scapula on the thoracic wall, which causes the shoulder region to move posteriorly i.e., picking something up.                                                |
+| Rotation (medial/lateral) | rotation describe movement of the limbs around their long axis: medial rotation is a rotational movement towards the midline. Lateral rotation is a rotating movement away from the midline. |
+| Saddle joint                 | a type of synovial joint in which the opposing surfaces are reciprocally concave and convex. It is found in the thumb,                                                                          |
 | Supination                   | The act of turning the hand palm upward                                                                                                                                                            |
-| Synovial joint               | a type of joint in the body that allows for free movement between the bones<br>it connects. It features a fluid-filled cavity, articular cartilage, and a joint<br>capsule.                        |
-| Synovial membranes           | specialized connective tissues that line the inner surfaces of synovial<br>joints, such as the knees and elbows. They secrete synovial fluid.                                                      |
+| Synovial joint               | a type of joint in the body that allows for free movement between the bones it connects. It features a fluid-filled cavity, articular cartilage, and a joint capsule.                        |
+| Synovial membranes           | specialized connective tissues that line the inner surfaces of synovial joints, such as the knees and elbows. They secrete synovial fluid.                                                      |
 

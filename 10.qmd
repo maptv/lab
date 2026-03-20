@@ -1,6 +1,6 @@
-# **Chapter 10: Skeletal Muscle Histology and Microanatomy**
+# **Skeletal Muscle Histology and Microanatomy**
 
-![](_page_247_Picture_1.jpeg)
+![](images/_page_247_Picture_1.jpeg)
 
 **Figure 10.1 Skeletal Muscle Histology**
 
@@ -78,7 +78,7 @@ The objectives of this lab are to complete the following:
 - Motor neuron
 - Axon terminal
 
-![](_page_249_Figure_0.jpeg)
+![](images/_page_249_Figure_0.jpeg)
 
 Figure 10.2 Skeletal Muscle Fiber.
 
@@ -121,13 +121,13 @@ Figure 10.2 Skeletal Muscle Fiber.
 
 Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.4.
 
-![](_page_251_Picture_3.jpeg)
+![](images/_page_251_Picture_3.jpeg)
 
 **Figure 10.3** Unlabeled Skeletal Muscle.
 
 **Table 10.1 Structure Identification**
 
-| Structure<br>Number | Structure Identification |
+| Structure Number | Structure Identification |
 |---------------------|--------------------------|
 | 1                   | Organ:                   |
 | 2                   | Connective tissue layer: |
@@ -140,13 +140,13 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 
 ## Label the following structures of the skeletal muscle:
 
-![](_page_252_Picture_1.jpeg)
+![](images/_page_252_Picture_1.jpeg)
 
 **Figure 10.4** Unlabeled Muscle Fiber.
 
 **Table 10.2 Muscle Histology Identification**
 
-| Structure<br>Number | Structure Identification |
+| Structure Number | Structure Identification |
 |---------------------|--------------------------|
 | 1                   | Organelle:               |
 | 2                   | Surface layer:           |
@@ -167,7 +167,7 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 
 ## **Muscle Tissue Types**
 
-![](_page_253_Picture_3.jpeg)
+![](images/_page_253_Picture_3.jpeg)
 
 **Figure 10.5** Three Muscle Types (L to R: Smooth, Cardiac, and Skeletal Muscles).
 
@@ -245,7 +245,7 @@ https://histology.medicine.umich.edu/
 - Heart, ventricle, H&E, 40X (cardiac muscle, intercalated discs). See Cardiovascular section. [https://histologyslides.med.umich.edu/Histology/Cardiovascular%20System/0](https://histologyslides.med.umich.edu/Histology/Cardiovascular%20System/098-1_HISTO_40X.htm) [98-1\\_HISTO\\_40X.htm](https://histologyslides.med.umich.edu/Histology/Cardiovascular%20System/098-1_HISTO_40X.htm)
 - Smooth muscle, Esophagus and stomach, H&E, 40X [https://histologyslides.med.umich.edu/Histology/Digestive%20System/Pharyn](https://histologyslides.med.umich.edu/Histology/Digestive%20System/Pharynx%20Esophagus%20and%20Stomach/155_HISTO_40X.htm) [x%20Esophagus%20and%20Stomach/155\\_HISTO\\_40X.htm](https://histologyslides.med.umich.edu/Histology/Digestive%20System/Pharynx%20Esophagus%20and%20Stomach/155_HISTO_40X.htm)
 
-![](_page_255_Picture_6.jpeg)
+![](images/_page_255_Picture_6.jpeg)
 
 **Figure 10.6** Three Types of Muscle Fibers.
 
@@ -274,7 +274,7 @@ Identify the following terms on a diagram or model.
   - o Tendon
   - o Aponeurosis
 
-![](_page_256_Picture_19.jpeg)
+![](images/_page_256_Picture_19.jpeg)
 
 **Figure 10.7** Connective Tissue Layers in a Muscle.
 
@@ -293,7 +293,7 @@ Identify the following terms on a diagram or model.
 
 Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofibril
 
-![](_page_257_Picture_9.jpeg)
+![](images/_page_257_Picture_9.jpeg)
 
 **Figure 10.8** Skeletal Muscle Fiber.
 
@@ -317,17 +317,17 @@ Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofi
 - Troponin
 - Tropomyosin
 
-![](_page_258_Figure_13.jpeg)
+![](images/_page_258_Figure_13.jpeg)
 
 **Figure 10.9** Organization of a Muscle Fiber.
 
-![](_page_258_Figure_15.jpeg)
+![](images/_page_258_Figure_15.jpeg)
 
 **Figure 10.10** Sarcomere Structure in the 1) Relaxed and 2) Contracted States
 
 ## **The Neuromuscular Junction**
 
-![](_page_259_Picture_1.jpeg)
+![](images/_page_259_Picture_1.jpeg)
 
 **Figure 10.11** The Neuromuscular Junction.
 
@@ -360,7 +360,7 @@ Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofi
 |---------|---------------------------------------------|----------|
 |         | Involuntary                                 | Cardiac  |
 |         | Banded/striated                             | Smooth   |
-|         | Coordinated activity –<br>acts in a<br>pump | Skeletal |
+|         | Coordinated activity – acts in a pump | Skeletal |
 |         | Moves facial skin and the bones             |          |
 |         | Voluntary                                   |          |
 |         | Tapered                                     |          |
@@ -378,15 +378,15 @@ Write the correct choice or choices in the "Answers" column.
 |---------|-------------------------------------------------------------------------------------------|------------|
 |         | Muscle fiber cell membrane                                                                | Endomysium |
 |         | Surrounds the whole muscle                                                                | Perimysium |
-|         | Connective tissue that covers the<br>body under the skin as well as the<br>whole muscles. | Exomysium  |
-|         | Thin layer of connective tissue that<br>surrounds the muscle fibers cell<br>membrane      | Sarcolemma |
+|         | Connective tissue that covers the body under the skin as well as the whole muscles. | Exomysium  |
+|         | Thin layer of connective tissue that surrounds the muscle fibers cell membrane      | Sarcolemma |
 |         | Surrounds a group of fasciculi.                                                           | Facia      |
 
 #### Identification
 
 Identify and label the parts of the myofibril.
 
-![](_page_262_Picture_3.jpeg)
+![](images/_page_262_Picture_3.jpeg)
 
 Figure 10.12 Unlabeled Sarcomere.
 
@@ -397,26 +397,26 @@ Figure 10.12 Unlabeled Sarcomere.
 
 Complete the crossword puzzles.
 
-![](_page_263_Picture_3.jpeg)
+![](images/_page_263_Picture_3.jpeg)
 
 **Figure 10.13** Skeletal Muscle Fibers.
 
 |      | Across                                                                                                                                                     |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3    | The myofibrils of muscle are not aligned, so that the muscle appears to<br>be (6,6)                                                                        |
+| 3    | The myofibrils of muscle are not aligned, so that the muscle appears to be (6,6)                                                                        |
 | 4    | Muscle cells are also called muscle (6)                                                                                                                    |
 | 6    | There are two types of, actin and myosin. (11)                                                                                                             |
-| 7    | Within a skeletal muscle, a connective tissue membrane called the<br>surrounds each fascicle (10)                                                          |
+| 7    | Within a skeletal muscle, a connective tissue membrane called the surrounds each fascicle (10)                                                          |
 | 9    | A group of muscle fibers is called a muscle, which means 'bundle'. (8)                                                                                     |
-| 10   | Cardiac muscle fibers contain large numbers of, which provides the<br>power to allow them to have incredible endurance. (12)                               |
+| 10   | Cardiac muscle fibers contain large numbers of, which provides the power to allow them to have incredible endurance. (12)                               |
 | Down |                                                                                                                                                            |
-| 1    | For many muscles, the connective tissue membranes within the muscle merge<br>at the ends with a connective tissue 'rope' called a(n) (6)                   |
-| 2    | When a muscle attaches directly to a bone, rather than to a tendon which is<br>attached to a bone, the of the muscle fuses with the of the bone.<br>(9,10) |
-| 3    | A(n) is the smallest contractile unit of a skeletal muscle: it extends from<br>one Z-disk to the next. (9)                                                 |
-| 5    | Each muscle fiber is enclosed in a delicate, areolar connective tissue sheath<br>called the (10)                                                           |
+| 1    | For many muscles, the connective tissue membranes within the muscle merge at the ends with a connective tissue 'rope' called a(n) (6)                   |
+| 2    | When a muscle attaches directly to a bone, rather than to a tendon which is attached to a bone, the of the muscle fuses with the of the bone. (9,10) |
+| 3    | A(n) is the smallest contractile unit of a skeletal muscle: it extends from one Z-disk to the next. (9)                                                 |
+| 5    | Each muscle fiber is enclosed in a delicate, areolar connective tissue sheath called the (10)                                                           |
 | 8    | Much of the heat in the body is produced by muscle. (8)                                                                                                    |
 
-![](_page_265_Picture_0.jpeg)
+![](images/_page_265_Picture_0.jpeg)
 
 **Figure 10.14** Skeletal Muscle Fibers-2.
 
@@ -442,26 +442,26 @@ Complete the crossword puzzles.
 - **Across: 3** Smooth smooth, **4** Fibers, **6** Myofilament, **7** Perimysium, **9**  Fascicle, **10** Mitochondria.
 - **Down: 1** Tendon, **2** Epimysium periosteum, **3** Sarcomere, **5** Endomysium, **8**  Skeletal.
 
-| Chapter 10: Skeletal Muscle<br>Histology and Microanatomy Glossary |                                                                                                                                                                                                                                                             |  |  |  |  |
+| Chapter 10: Skeletal Muscle Histology and Microanatomy Glossary |                                                                                                                                                                                                                                                             |  |  |  |  |
 |--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
 | Terms                                                              | Definitions                                                                                                                                                                                                                                                 |  |  |  |  |
 | acetylcholine (ACh)                                                | neurotransmitter that binds at a motor endplate to trigger depolarization                                                                                                                                                                                   |  |  |  |  |
-| actin                                                              | protein that makes up most of the thin myofilaments in a sarcomere muscle<br>fiber                                                                                                                                                                          |  |  |  |  |
-| action potential                                                   | change in voltage of a cell membrane in response to a stimulus that results<br>in transmission of an electrical signal; unique to neurons and muscle fibers                                                                                                 |  |  |  |  |
+| actin                                                              | protein that makes up most of the thin myofilaments in a sarcomere muscle fiber                                                                                                                                                                          |  |  |  |  |
+| action potential                                                   | change in voltage of a cell membrane in response to a stimulus that results in transmission of an electrical signal; unique to neurons and muscle fibers                                                                                                 |  |  |  |  |
 | aerobic respiration                                                | production of ATP in the presence of oxygen                                                                                                                                                                                                                 |  |  |  |  |
-| aponeurosis                                                        | tendon-like sheet of connective tissue that attaches a skeletal muscle to<br>another skeletal muscle or to a bone                                                                                                                                           |  |  |  |  |
+| aponeurosis                                                        | tendon-like sheet of connective tissue that attaches a skeletal muscle to another skeletal muscle or to a bone                                                                                                                                           |  |  |  |  |
 | ATPase                                                             | enzyme that hydrolyzes ATP to ADP                                                                                                                                                                                                                           |  |  |  |  |
 | atrophy                                                            | loss of structural proteins from muscle fibers                                                                                                                                                                                                              |  |  |  |  |
-| cardiac muscle                                                     | striated muscle found in the heart; joined to one another at intercalated<br>discs and under the regulation of pacemaker cells, which contract as one<br>unit to pump blood through the circulatory system. Cardiac muscle is under<br>involuntary control. |  |  |  |  |
-| concentric<br>contraction                                          | muscle contraction that shortens the muscle to move a load                                                                                                                                                                                                  |  |  |  |  |
+| cardiac muscle                                                     | striated muscle found in the heart; joined to one another at intercalated discs and under the regulation of pacemaker cells, which contract as one unit to pump blood through the circulatory system. Cardiac muscle is under involuntary control. |  |  |  |  |
+| concentric contraction                                          | muscle contraction that shortens the muscle to move a load                                                                                                                                                                                                  |  |  |  |  |
 | contractility                                                      | ability to shorten (contract) forcibly                                                                                                                                                                                                                      |  |  |  |  |
-| contraction phase<br>twitch                                        | contraction phase when tension increases                                                                                                                                                                                                                    |  |  |  |  |
+| contraction phase twitch                                        | contraction phase when tension increases                                                                                                                                                                                                                    |  |  |  |  |
 | creatine phosphate                                                 | phosphagen used to store energy from ATP and transfer it to muscle                                                                                                                                                                                          |  |  |  |  |
-| depolarize                                                         | to reduce the voltage difference between the inside and outside of a cell's<br>plasma membrane (the sarcolemma for a muscle fiber), making the inside<br>less negative than at rest                                                                         |  |  |  |  |
-| desmosome                                                          | structure that anchors the ends of cardiac muscle fibers to allow<br>contraction to occur                                                                                                                                                                   |  |  |  |  |
+| depolarize                                                         | to reduce the voltage difference between the inside and outside of a cell's plasma membrane (the sarcolemma for a muscle fiber), making the inside less negative than at rest                                                                         |  |  |  |  |
+| desmosome                                                          | structure that anchors the ends of cardiac muscle fibers to allow contraction to occur                                                                                                                                                                   |  |  |  |  |
 | eccentric contraction                                              | muscle contraction that lengthens the muscle as the tension is diminished                                                                                                                                                                                   |  |  |  |  |
 | elasticity                                                         | ability to stretch and rebound                                                                                                                                                                                                                              |  |  |  |  |
-| endomysium                                                         | loose, and well-hydrated connective tissue covering each muscle fiber in a<br>skeletal muscle                                                                                                                                                               |  |  |  |  |
+| endomysium                                                         | loose, and well-hydrated connective tissue covering each muscle fiber in a skeletal muscle                                                                                                                                                               |  |  |  |  |
 | epimysium                                                          | outer layer of connective tissue around a skeletal muscle                                                                                                                                                                                                   |  |  |  |  |
 | excitability                                                       | ability to undergo neural stimulation                                                                                                                                                                                                                       |  |  |  |  |
 

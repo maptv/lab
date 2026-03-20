@@ -1,4 +1,4 @@
-# Anatomical Language
+# **Anatomical Language**
 
 ## **Your objectives for this lab are to:**
 

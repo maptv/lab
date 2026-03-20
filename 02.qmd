@@ -1,4 +1,4 @@
-## **Chapter 2: Use of the Microscope**
+## **Use of the Microscope**
 
 ## **Objectives**
 
@@ -47,7 +47,7 @@ In this laboratory session you will learn to use an essential tool in the biolog
 
 ## **Prelab Activities**
 
-![](_page_34_Picture_1.jpeg)
+![](images/_page_34_Picture_1.jpeg)
 
 **Figure 2.1** Components of a Typical Bright Field Microscope.
 
@@ -73,23 +73,23 @@ Match the microscope part with its definition.
 
 | Microscope Part     | Definitions                                                                           |
 |---------------------|---------------------------------------------------------------------------------------|
-| Condenser           | (a)<br>The light source in the bottom of the<br>microscope, also known as the         |
-| Revolving Turret    | illuminator.<br>(b)<br>Also known as the body-<br>carries the                         |
-| Mechanical stage\   | oculars.<br>(c)<br>The microscope supports.                                           |
-| Ocular lens         | (d)<br>The part connecting the head and the<br>base.                                  |
-| Power switch        | (e)<br>The lens closest to the eye<br>(f)<br>The major lenses closest to the specimen |
-| Iris diaphragm      | (g)<br>Also known as the nosepiece-holds the<br>objective lenses                      |
-| Arm                 | (h)<br>Knob that makes large scales<br>adjustments in the focus                       |
-| Depth of field      | (i)<br>The knob that makes small adjustments<br>in the mechanical stage.              |
-| Fine focus          | (j)<br>Set of lenses that collect and focus the<br>light onto the specimen.           |
-| X-Y stage controls  | (k)<br>Controls the amount of light reaching the<br>specimen.                         |
-| Light source        | (l)<br>Controls that move the slide vertically<br>and horizontality on the stage      |
-| Total magnification | (m)Calculated by multiplying the ocular<br>magnification by the objective             |
+| Condenser           | (a) The light source in the bottom of the microscope, also known as the         |
+| Revolving Turret    | illuminator. (b) Also known as the body- carries the                         |
+| Mechanical stage\   | oculars. (c) The microscope supports.                                           |
+| Ocular lens         | (d) The part connecting the head and the base.                                  |
+| Power switch        | (e) The lens closest to the eye (f) The major lenses closest to the specimen |
+| Iris diaphragm      | (g) Also known as the nosepiece-holds the objective lenses                      |
+| Arm                 | (h) Knob that makes large scales adjustments in the focus                       |
+| Depth of field      | (i) The knob that makes small adjustments in the mechanical stage.              |
+| Fine focus          | (j) Set of lenses that collect and focus the light onto the specimen.           |
+| X-Y stage controls  | (k) Controls the amount of light reaching the specimen.                         |
+| Light source        | (l) Controls that move the slide vertically and horizontality on the stage      |
+| Total magnification | (m)Calculated by multiplying the ocular magnification by the objective             |
 | Head                | magnification.                                                                        |
-| Base                | (n)<br>The visible area one can see through the<br>oculars.                           |
-| Objective lens      | (o)<br>The measure of the thickness or the<br>specimen in focus                       |
-| Course focus        | (p)<br>The switch used to turn the microscope<br>on and off.                          |
-| Field of view       | (q)<br>The section in<br>which the specimen is<br>placed for viewing.                 |
+| Base                | (n) The visible area one can see through the oculars.                           |
+| Objective lens      | (o) The measure of the thickness or the specimen in focus                       |
+| Course focus        | (p) The switch used to turn the microscope on and off.                          |
+| Field of view       | (q) The section in which the specimen is placed for viewing.                 |
 
 ## **Lab Activities**
 
@@ -110,7 +110,7 @@ Student scopes used in our classes have four objective lenses (i.e., those that 
 - Plug the microscope into the plug on your workbench.
 - Identify the parts of the microscope and label them with labeling tape.
 
-![](_page_37_Figure_0.jpeg)
+![](images/_page_37_Figure_0.jpeg)
 
 **Figure 2.2** Components of a Typical Bright Field Microscope, labelled.
 
@@ -188,33 +188,33 @@ How to determine the field of view:
 - Obtain a prepared slide that has a ruler and place it onto the stage.
 - Adjust the ruler so that the edge of the ruler is visible as a series of tic marks/lines that lie across the diameter or the field of view as in the figure below.
 
-![](_page_39_Picture_14.jpeg)
+![](images/_page_39_Picture_14.jpeg)
 
 **Figure 2.3** Field of View Diameter Measured in a Microscope with a Metric Ruler.
 
-|         | seen above. Align one of the vertical lines so that it is at the edge of your field of<br>view, as you can see on the right side of the picture. The space between the leading<br>edge of the horizontal lines is 1 mm in distance, see the yellow bar.          |
+|         | seen above. Align one of the vertical lines so that it is at the edge of your field of view, as you can see on the right side of the picture. The space between the leading edge of the horizontal lines is 1 mm in distance, see the yellow bar.          |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|         | 1.<br>Measure the distance of the field of view for the scanning lens (4X)                                                                                                                                                                                       |
-|         | a.<br>mm.                                                                                                                                                                                                                                                        |
-|         | b.<br>um                                                                                                                                                                                                                                                         |
-|         | 2.<br>Measure the distance of the field of view for the low power lens (10x)                                                                                                                                                                                     |
-|         | a.<br>mm                                                                                                                                                                                                                                                         |
-|         | b.<br>um                                                                                                                                                                                                                                                         |
-|         | When you use the high-power and oil-immersion lenses you should not be able to<br>measure the field of view directly. At this point you will have to calculate the field of<br>view. This calculation is a simple conversion using the formula below:            |
+|         | 1. Measure the distance of the field of view for the scanning lens (4X)                                                                                                                                                                                       |
+|         | a. mm.                                                                                                                                                                                                                                                        |
+|         | b. um                                                                                                                                                                                                                                                         |
+|         | 2. Measure the distance of the field of view for the low power lens (10x)                                                                                                                                                                                     |
+|         | a. mm                                                                                                                                                                                                                                                         |
+|         | b. um                                                                                                                                                                                                                                                         |
+|         | When you use the high-power and oil-immersion lenses you should not be able to measure the field of view directly. At this point you will have to calculate the field of view. This calculation is a simple conversion using the formula below:            |
 |         | Conversion Formula:                                                                                                                                                                                                                                              |
-|         | (Diameter of the field; A) X (Total Magnification: A) = (Diameter of the field; B) X<br>(Total Magnification: B)                                                                                                                                                 |
-| lenses) | In this case "A" represents the known field information of the measured field of view<br>of either the scanning or low-power magnification and "B" stands for the information<br>of the new or unknown lens magnification (e.g., high-power or the oil immersion |
-|         | 3.<br>Determine the distance of the field of view for the high-power lens (40X)                                                                                                                                                                                  |
+|         | (Diameter of the field; A) X (Total Magnification: A) = (Diameter of the field; B) X (Total Magnification: B)                                                                                                                                                 |
+| lenses) | In this case "A" represents the known field information of the measured field of view of either the scanning or low-power magnification and "B" stands for the information of the new or unknown lens magnification (e.g., high-power or the oil immersion |
+|         | 3. Determine the distance of the field of view for the high-power lens (40X)                                                                                                                                                                                  |
 | a)      | mm.                                                                                                                                                                                                                                                              |
 | b)      | um                                                                                                                                                                                                                                                               |
-|         | 4.<br>Determine the distance of the field of view for the oil-immersion lens (10X)                                                                                                                                                                               |
+|         | 4. Determine the distance of the field of view for the oil-immersion lens (10X)                                                                                                                                                                               |
 | a)      | mm                                                                                                                                                                                                                                                               |
 | b)      | um                                                                                                                                                                                                                                                               |
 |         | Focusing Exercise(s)                                                                                                                                                                                                                                             |
-|         | •<br>Letter "e" exercise                                                                                                                                                                                                                                         |
-|         | o<br>Obtain a letter "e" slide and place it on the mechanical. Note the position of                                                                                                                                                                              |
+|         | • Letter "e" exercise                                                                                                                                                                                                                                         |
+|         | o Obtain a letter "e" slide and place it on the mechanical. Note the position of                                                                                                                                                                              |
 |         | the "e." Draw and label it on the page in back.                                                                                                                                                                                                                  |
-|         | o<br>Center the "e" and look at it through the oculars. Draw this "e" and label it.                                                                                                                                                                              |
+|         | o Center the "e" and look at it through the oculars. Draw this "e" and label it.                                                                                                                                                                              |
 
 • Arrange the slide so that the horizontal line is aligned along the midline of the field as
 
@@ -223,7 +223,7 @@ How to determine the field of view:
   - o Place the slide onto the stage and with the scanning lens, focus on the threads using your fine focus. Decide which thread is on top, middle and the bottom.
   - o Now change your magnification to the 100x low-power lens. Find the top thread and focus on the bottom thread. Do you have to move the adjustment knob more or less than you did with the scanning lens?
 
-| o | Finally change your objective lens to the 400x<br>high-power lens. With this  |
+| o | Finally change your objective lens to the 400x high-power lens. With this  |
 |---|-------------------------------------------------------------------------------|
 |   | magnification each thread may take up the entire field of view. Is the entire |
 |   | thickness of the thread in focus as it was under the scanning lens?           |
@@ -276,30 +276,30 @@ How to determine the field of view:
   - c. Check that the intensity of your light is not too high or too low.
   - d. Finally, take a break when needed!
 
-| Chapter 2: Microscopy<br>Glossary               |                                                                                                          |  |
+| Chapter 2: Microscopy Glossary               |                                                                                                          |  |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------|--|
-| binocular                                       | a microscope having two<br>eyepieces                                                                     |  |
-| brightfield microscope,                         | a compound microscope with<br>two or more lenses that produce<br>a dark image on a bright<br>background. |  |
-| coarse focusing knob                            | used for large-scale movements<br>with 4⨯<br>and 10⨯<br>objective<br>lenses                              |  |
-| condenser lens (located below the stage), which | focuses all of the light rays on<br>the specimen to maximize<br>illumination.                            |  |
-| fine focusing knob                              | used for small-scale<br>movements, especially with 40⨯<br>or 100⨯<br>objective lenses.                   |  |
-| fixation                                        | the process of attaching cells to<br>a slide.                                                            |  |
-| illuminator                                     | provides light for the brightfield<br>microscope                                                         |  |
+| binocular                                       | a microscope having two eyepieces                                                                     |  |
+| brightfield microscope,                         | a compound microscope with two or more lenses that produce a dark image on a bright background. |  |
+| coarse focusing knob                            | used for large-scale movements with 4⨯ and 10⨯ objective lenses                              |  |
+| condenser lens (located below the stage), which | focuses all of the light rays on the specimen to maximize illumination.                            |  |
+| fine focusing knob                              | used for small-scale movements, especially with 40⨯ or 100⨯ objective lenses.                   |  |
+| fixation                                        | the process of attaching cells to a slide.                                                            |  |
+| illuminator                                     | provides light for the brightfield microscope                                                         |  |
 
-| lens                                                    | a medium with a curved surface<br>that refracts and focuses light to<br>produce an image.                                                             |
+| lens                                                    | a medium with a curved surface that refracts and focuses light to produce an image.                                                             |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| magnification                                           | the ability of a lens to enlarge<br>the image of an object when<br>compared to the real object                                                        |
-| monocular microscope                                    | a microscope having a single<br>ocular lens                                                                                                           |
-| objective lenses                                        | the lenses far end of the body<br>tube                                                                                                                |
+| magnification                                           | the ability of a lens to enlarge the image of an object when compared to the real object                                                        |
+| monocular microscope                                    | a microscope having a single ocular lens                                                                                                           |
+| objective lenses                                        | the lenses far end of the body tube                                                                                                                |
 | ocular lens                                             | the eyepiece of a microscope                                                                                                                          |
-| oil immersion lens,                                     | a special lens designed to be<br>used with immersion oils.                                                                                            |
-| refraction                                              | occurs when light waves<br>change speed and direction as<br>they pass from one medium to<br>another.                                                  |
-| resolution                                              | the ability to tell that two<br>separate points or objects are<br>separate.                                                                           |
-| rotating nosepiece, also known as the revolving turret, | sits below the head of the<br>microscope and locks the<br>objective lens into position over<br>the stage aperture by rotating in<br>either direction. |
-| stage                                                   | (a platform) of the microscope<br>total magnification is the product<br>of the ocular magnification times<br>the objective                            |
-| Total magnification                                     | (ocular magnification × objective<br>magnification)                                                                                                   |
-| wet mount                                               | slide preparation in which the<br>specimen is placed on the slide<br>in a drop of liquid.                                                             |
-| x-y mechanical stage knobs.                             | These knobs move the slide on<br>the surface of the stage, but do<br>not raise or lower the stage.                                                    |
+| oil immersion lens,                                     | a special lens designed to be used with immersion oils.                                                                                            |
+| refraction                                              | occurs when light waves change speed and direction as they pass from one medium to another.                                                  |
+| resolution                                              | the ability to tell that two separate points or objects are separate.                                                                           |
+| rotating nosepiece, also known as the revolving turret, | sits below the head of the microscope and locks the objective lens into position over the stage aperture by rotating in either direction. |
+| stage                                                   | (a platform) of the microscope total magnification is the product of the ocular magnification times the objective                            |
+| Total magnification                                     | (ocular magnification × objective magnification)                                                                                                   |
+| wet mount                                               | slide preparation in which the specimen is placed on the slide in a drop of liquid.                                                             |
+| x-y mechanical stage knobs.                             | These knobs move the slide on the surface of the stage, but do not raise or lower the stage.                                                    |
 |                                                         |                                                                                                                                                       |
 
 ©2018 Rice University. Textbook content produced by OpenStax is licensed under a Creative Commons

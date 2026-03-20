@@ -1,6 +1,6 @@
-# **Chapter 12: Nervous System Microanatomy**
+# **Nervous System Microanatomy**
 
-![](_page_307_Picture_1.jpeg)
+![](images/_page_307_Picture_1.jpeg)
 
 **Figure 12.1** Diagram of the Neuron.
 
@@ -85,7 +85,7 @@
 
 ## **Fill in the Blank**
 
-![](_page_311_Picture_2.jpeg)
+![](images/_page_311_Picture_2.jpeg)
 
 **Figure 12.2** Structures of the Neuron.
 
@@ -119,7 +119,7 @@
 
 • Unipolar neuron • Bipolar neuron • Multipolar neuron
 
-![](_page_312_Picture_4.jpeg)
+![](images/_page_312_Picture_4.jpeg)
 
 **Figure 12.3** Neuron Classification Based on Shape.
 
@@ -145,7 +145,7 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
   - o In the space below, draw a neuron you see in your slide. Label the soma, nucleus, axon, dendrite, axon hillock, and a glial cell.
 - Take a picture of the tissue and download it into your study guide. Label the diagram.
 
-![](_page_313_Picture_0.jpeg)
+![](images/_page_313_Picture_0.jpeg)
 
 **Figure 12.4** Structures of the neuron
 
@@ -157,11 +157,11 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
   - o In the space below, draw the neuron in the box below. Label the cell body (soma), dendrites, axon, axon hillock, axon terminal, Schwann cell, node (of Ranvier) and the myelin sheath.
 - Take a picture of the labeled cell for your study guide.
 
-![](_page_313_Picture_8.jpeg)
+![](images/_page_313_Picture_8.jpeg)
 
 ## **Support Cells: Neuroglial Cells**
 
-![](_page_314_Picture_1.jpeg)
+![](images/_page_314_Picture_1.jpeg)
 
 **Figure 12.5** Neuroglia of the Peripheral Nervous System.
 
@@ -178,15 +178,15 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
 - Microglia:
 - Ependymal cells:
 
-![](_page_314_Picture_11.jpeg)
+![](images/_page_314_Picture_11.jpeg)
 
 **Figure 12.6 Neuroglia of the CNS**
 
 ## **The Spinal Cord in Histology Slides**
 
-![](_page_315_Picture_1.jpeg)
+![](images/_page_315_Picture_1.jpeg)
 
-![](_page_315_Picture_2.jpeg)
+![](images/_page_315_Picture_2.jpeg)
 
 **Figure 12.7** Cross Section of the Spinal Cord.
 
@@ -204,7 +204,7 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
 
 ## Identifications
 
-![](_page_316_Picture_3.jpeg)
+![](images/_page_316_Picture_3.jpeg)
 
 Figure 12.8 Spinal Cord Components.
 
@@ -221,37 +221,37 @@ Figure 12.8 Spinal Cord Components.
 
 Complete the following crossword puzzles.
 
-![](_page_317_Picture_3.jpeg)
+![](images/_page_317_Picture_3.jpeg)
 
 **Figure 12.9** Nervous System Anatomy.
 
 |      | Across                                                                                                                                                              |  |  |  |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| 2    | are cells which produce the myelin sheath in the peripheral nervous<br>system, but not in the central nervous system. (7,5)                                         |  |  |  |
-| 3    | A(n) is a coating wrapped around neuronal axons which insulates them<br>and protects them. (6,6)                                                                    |  |  |  |
+| 2    | are cells which produce the myelin sheath in the peripheral nervous system, but not in the central nervous system. (7,5)                                         |  |  |  |
+| 3    | A(n) is a coating wrapped around neuronal axons which insulates them and protects them. (6,6)                                                                    |  |  |  |
 | 5    | The PNS has two major divisions: the division and the division. (7,5)                                                                                               |  |  |  |
-| 7    | The brain and spinal cord make up the nervous system. All other nerves<br>are part of the nervous system. (7,10)                                                    |  |  |  |
+| 7    | The brain and spinal cord make up the nervous system. All other nerves are part of the nervous system. (7,10)                                                    |  |  |  |
 | 8    | are excitable cells that transmit electrical signals. (7)                                                                                                           |  |  |  |
-| 9    | In the CNS, are supporting cells which guide the migration of young<br>neurons. (10)                                                                                |  |  |  |
+| 9    | In the CNS, are supporting cells which guide the migration of young neurons. (10)                                                                                |  |  |  |
 | Down |                                                                                                                                                                     |  |  |  |
-| 1    | In the CNS, are cells which line the fluid-filled cavities, and which produce,<br>transport, and circulate the fluid surrounding the brain and spinal cord. (9,5)   |  |  |  |
-| 2    | are cells in the PNS which surround the cell bodies of neurons which are<br>grouped in ganglia. They maintain the microenvironment and provide insulation.<br>(9,5) |  |  |  |
-| 4    | The two principal cell types of the nervous system are and supporting<br>cells called (7,5,5)                                                                       |  |  |  |
-| 6    | are cells which produce the myelin sheath in the central nervous system,<br>but not in the peripheral nervous system. (16)                                          |  |  |  |
+| 1    | In the CNS, are cells which line the fluid-filled cavities, and which produce, transport, and circulate the fluid surrounding the brain and spinal cord. (9,5)   |  |  |  |
+| 2    | are cells in the PNS which surround the cell bodies of neurons which are grouped in ganglia. They maintain the microenvironment and provide insulation. (9,5) |  |  |  |
+| 4    | The two principal cell types of the nervous system are and supporting cells called (7,5,5)                                                                       |  |  |  |
+| 6    | are cells which produce the myelin sheath in the central nervous system, but not in the peripheral nervous system. (16)                                          |  |  |  |
 
-![](_page_319_Picture_0.jpeg)
+![](images/_page_319_Picture_0.jpeg)
 
 **Figure 12.10** Nervous System Physiology.
 
 |      | Across                                                                                                             |
 |------|--------------------------------------------------------------------------------------------------------------------|
-| 2    | The speed of an action potential is greatest when it is traveling through an axon<br>which is (10)                 |
-| 3    | A(n) is a junction between a neuron and another cell which allows the<br>transfer of information. (7)              |
+| 2    | The speed of an action potential is greatest when it is traveling through an axon which is (10)                 |
+| 3    | A(n) is a junction between a neuron and another cell which allows the transfer of information. (7)              |
 | 6    | The myelin sheath of axons in the CNS is formed by (16)                                                            |
 | 7    | Neurons can be classified functionally as, or (7,5,12)                                                             |
-| 8    | The is the fluid-filled space separating the pre-<br>and postsynaptic cells.<br>(8,5)                              |
+| 8    | The is the fluid-filled space separating the pre- and postsynaptic cells. (8,5)                              |
 | Down |                                                                                                                    |
-| 1    | The neuron conducts the signal to a synapse, while the cell<br>responds or conducts a signal away from it. (11,12) |
+| 1    | The neuron conducts the signal to a synapse, while the cell responds or conducts a signal away from it. (11,12) |
 | 2    | White matter is composed of (10,8,5)                                                                               |
 | 4    | Saltatory conduction depends on the presence of, which are gaps                                                    |
 
@@ -344,7 +344,7 @@ membrane. (5,2,7)
 | system (CNS)                                     | vertebral cavities, namely the brain and spinal cord                             |  |  |  |
 | cerebral cortex                                  | outermost layer of gray matter in the brain, where conscious perception          |  |  |  |
 |                                                  | takes place                                                                      |  |  |  |
-| cerebrospinal fluid                              | circulatory medium within<br>the CNS that is produced by ependymal cells in      |  |  |  |
+| cerebrospinal fluid                              | circulatory medium within the CNS that is produced by ependymal cells in      |  |  |  |
 | (CSF)                                            | the choroid plexus filtering the blood                                           |  |  |  |
 | chemical synapse                                 | connection between two neurons, or between a neuron and its target,              |  |  |  |
 |                                                  | where a neurotransmitter diffuses across a short distance                        |  |  |  |
@@ -362,7 +362,7 @@ membrane. (5,2,7)
 | electrical synapse                               | connection between two neurons, or any two electrically active cells, where      |  |  |  |
 |                                                  | ions flow directly through channels spanning their adjacent cell membranes       |  |  |  |
 
-| neural tissue associated with the digestive system that is responsible for<br>nervous control through autonomic connections                  |
+| neural tissue associated with the digestive system that is responsible for nervous control through autonomic connections                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------|
 | glial cell type in the CNS responsible for producing cerebrospinal fluid                                                                     |
 | cell membrane that regulates the movement of ions so that an electrical                                                                      |
@@ -371,8 +371,8 @@ membrane. (5,2,7)
 | depolarization and makes an action potential more likely to occur                                                                            |
 |                                                                                                                                              |
 | localized collection of neuron cell bodies in the peripheral nervous system                                                                  |
-| property of a channel that determines how it opens under specific<br>conditions, such as voltage change or physical deformation              |
-| one of the various types of neural tissue cells responsible for maintenance<br>of the tissue, and largely responsible for supporting neurons |
+| property of a channel that determines how it opens under specific conditions, such as voltage change or physical deformation              |
+| one of the various types of neural tissue cells responsible for maintenance of the tissue, and largely responsible for supporting neurons |
 | change in the membrane potential that varies in size, depending on the size                                                                  |
 |                                                                                                                                              |
 | regions of the nervous system containing cell bodies of neurons with few or                                                                  |
@@ -408,10 +408,10 @@ membrane. (5,2,7)
 |                                                                                                                                              |
 | type of acetylcholine receptor protein that is characterized by also binding to                                                              |
 |                                                                                                                                              |
-| gap between two myelinated regions of an axon, allowing for strengthening<br>of the electrical signal as it propagates down the axon         |
+| gap between two myelinated regions of an axon, allowing for strengthening of the electrical signal as it propagates down the axon         |
 |                                                                                                                                              |
 
-| nonspecific channel  | channel that is not specific to one ion over another, such as a nonspecific<br>cation channel that allows any positively charged ion across the membrane |
+| nonspecific channel  | channel that is not specific to one ion over another, such as a nonspecific cation channel that allows any positively charged ion across the membrane |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nucleus (in the      | a localized collection of neuron cell bodies that are functionally related; a                                                                            |
 | nervous system)      | "center" of neural function                                                                                                                              |
@@ -426,7 +426,7 @@ membrane. (5,2,7)
 | the frontal cortex   | neuron cell body is located                                                                                                                              |
 | region of the        |                                                                                                                                                          |
 | cerebral cortex      |                                                                                                                                                          |
-| Primary motor area   | an area in the frontal lobe<br>that plans and executes voluntary movements by                                                                            |
+| Primary motor area   | an area in the frontal lobe that plans and executes voluntary movements by                                                                            |
 |                      | working with other brain areas and the spinal cord. The primary motor                                                                                    |
 |                      | cortex initiates movements                                                                                                                               |
 | Primary sensory      | the primary cortical regions of the five sensory systems in the brain (taste,                                                                            |
@@ -443,7 +443,7 @@ membrane. (5,2,7)
 | relative refractory  | time during the refractory period when a new action potential can only be                                                                                |
 | period               | initiated by a stronger stimulus than the current action potential because                                                                               |
 |                      | voltage-gated K+ channels are not closed                                                                                                                 |
-| repolarization       | return of the membrane potential to its normally negative voltage at the end<br>of the action potential                                                  |
+| repolarization       | return of the membrane potential to its normally negative voltage at the end of the action potential                                                  |
 | resistance           | property of an axon that relates to the ability of particles to diffuse through                                                                          |
 |                      | the cytoplasm; this is inversely proportional to the fiber diameter                                                                                      |
 | response             | nervous system function that causes a target tissue (muscle or gland) to                                                                                 |
@@ -467,7 +467,7 @@ membrane. (5,2,7)
 |                      | initiate an action potential                                                                                                                             |
 |                      |                                                                                                                                                          |
 
-| spinal cord        | organ of the central nervous system found within the vertebral cavity and<br>connected with the periphery through spinal nerves; mediates reflex<br>behaviors |
+| spinal cord        | organ of the central nervous system found within the vertebral cavity and connected with the periphery through spinal nerves; mediates reflex behaviors |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | stimulus           | an event in the external or internal environment that registers as activity in a                                                                              |
 |                    | sensory neuron                                                                                                                                                |
@@ -483,13 +483,13 @@ membrane. (5,2,7)
 |                    | released onto a target cell across a synapse                                                                                                                  |
 | temporal summation | combination of graded potentials at the same location on a neuron resulting                                                                                   |
 |                    | in a strong signal from one input                                                                                                                             |
-| thalamus           | region of the central nervous system that acts as a<br>relay for sensory                                                                                      |
+| thalamus           | region of the central nervous system that acts as a relay for sensory                                                                                      |
 |                    | pathways                                                                                                                                                      |
 | thermoreceptor     | type of sensory receptor capable of transducing temperature stimuli into                                                                                      |
 |                    | neural action potentials                                                                                                                                      |
 | threshold          | membrane voltage at which an action potential is initiated                                                                                                    |
-| tract              | bundle of axons in the central nervous system having the same function<br>and point of origin                                                                 |
-| unipolar           | shape of a neuron which has only one process that includes both the axon<br>and dendrite                                                                      |
+| tract              | bundle of axons in the central nervous system having the same function and point of origin                                                                 |
+| unipolar           | shape of a neuron which has only one process that includes both the axon and dendrite                                                                      |
 | ventricle          | central cavity within the brain where CSF is produced and circulates                                                                                          |
 | Visual cortex      | part of the brain located in the occipital lobe that processes visual                                                                                         |
 |                    | information received from the eyes.                                                                                                                           |
