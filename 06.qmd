@@ -1,57 +1,65 @@
 # **Skeletal Terms, Bone Histology, and Microanatomy**
 
-![](_page_125_Picture_1.jpeg)
+![](images/_page_125_Picture_1.jpeg)
 
 **Figure 6.1** An Articulated Skeleton.
 
 ### **Your objectives for this lab are to:**
 
-- Identify the major divisions of the skeleton (axial vs. appendicular) and which bones belong to each group.
-- Classify bones according to their shapes.
-  - Long bone
-  - Short bone
-  - Flat bone
-  - Irregular bone
-  - Sesamoid bone
-- Describe the function of each category of bones.
-- Provide examples of each type of bone classification by shape
-- Identify disarticulated bones as left or right and describe how this determination was made.
+-   Identify the major divisions of the skeleton (axial vs. appendicular) and which bones belong to each group.
 
-- **In a real bone and in models of bone structure, locate and define the functions of the following macroscopic features.**
-  - Compact/cancellous bone
-  - Spongy bone/trabecular bone
-  - Epiphysis
-  - Diaphysis
-  - Medullary cavity
-  - Red bone marrow
-  - Yellow bone marrow
-  - Articular cartilage
-  - Epiphyseal line
-  - Periosteum
-  - Endosteum
+-   Classify bones according to their shapes.
 
-- **In models of microscopic bone structure, locate and define the functions of**
-  - Central (Haversian) canal
-  - Perforating (Volkmann's) canal
-  - Lacuna(e)
-  - Canaliculi
-  - Osteocytes
-  - Lamella(e)
-  - Trabeculae
-  - Osteon
-  - Compact/cancellous bone
-  - Spongy bone/trabecular bone
-  - Medullary cavity
-  - Red bone marrow
-  - Periosteum
-  - Endosteum
+    -   Long bone
+    -   Short bone
+    -   Flat bone
+    -   Irregular bone
+    -   Sesamoid bone
 
-- **In a compact bone picture, identify and define the functions of**
-  - Central canal
-  - Lacuna(e)
-  - Canaliculi
-  - Osteocytes
-  - Lamella(e)
+-   Describe the function of each category of bones.
+
+-   Provide examples of each type of bone classification by shape
+
+-   Identify disarticulated bones as left or right and describe how this determination was made.
+
+-   **In a real bone and in models of bone structure, locate and define the functions of the following macroscopic features.**
+
+    -   Compact/cancellous bone
+    -   Spongy bone/trabecular bone
+    -   Epiphysis
+    -   Diaphysis
+    -   Medullary cavity
+    -   Red bone marrow
+    -   Yellow bone marrow
+    -   Articular cartilage
+    -   Epiphyseal line
+    -   Periosteum
+    -   Endosteum
+
+-   **In models of microscopic bone structure, locate and define the functions of**
+
+    -   Central (Haversian) canal
+    -   Perforating (Volkmann's) canal
+    -   Lacuna(e)
+    -   Canaliculi
+    -   Osteocytes
+    -   Lamella(e)
+    -   Trabeculae
+    -   Osteon
+    -   Compact/cancellous bone
+    -   Spongy bone/trabecular bone
+    -   Medullary cavity
+    -   Red bone marrow
+    -   Periosteum
+    -   Endosteum
+
+-   **In a compact bone picture, identify and define the functions of**
+
+    -   Central canal
+    -   Lacuna(e)
+    -   Canaliculi
+    -   Osteocytes
+    -   Lamella(e)
 
 ## **Prelab Activities**
 
@@ -59,46 +67,53 @@
 
 Definitions: Define the following key terms
 
-| Skeleton |                                                                       |
-|----------|-----------------------------------------------------------------------|
-| •        | Axial                                                                 |
-| •        | Appendicular skeleton                                                 |
-|          | General Structure of Long Bones -<br>See description in the textbook. |
-| •        | Epiphysis                                                             |
-| •        | Diaphysis                                                             |
-| •        | Compact bone                                                          |
-| •        | Spongy bone                                                           |
-| •        | Hyaline (articular) cartilage                                         |
-| •        | Periosteum                                                            |
-| •        | Bone processes                                                        |
-| •        | Medullary cavity                                                      |
-| •        | Yellow marrow                                                         |
-| •        | Red marrow                                                            |
-| •        | Epiphyseal plate                                                      |
-| •        | Endosteum (simple squamous)                                           |
+**Skeleton**
 
-## **Bone Tissue**
+-   Axial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Appendicular skeleton \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| •                    | Osteocytes        |
-|----------------------|-------------------|
-|                      | Matrix            |
-|                      | Collagen fibers   |
-|                      | Calcium phosphate |
-| •                    | Osteoblasts       |
-| •                    | Osteoclasts       |
-| Bone Classification: |                   |
-|                      | Long honos        |
-|                      | Long bones        |
-|                      | Short bones       |
-|                      | Flat bones        |
-|                      | Irregular         |
-| •                    | Sesamoid bones    |
+**General Structure of Long Bones** - See description in the textbook.
+
+-   Epiphysis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Diaphysis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Compact bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Spongy bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Hyaline (articular) cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Periosteum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Bone processes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Medullary cavity \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Yellow marrow \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Red marrow \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Epiphyseal plate \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Endosteum (simple squamous) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Bone Tissue**
+
+| Term              | Definition |
+|-------------------|------------|
+| Osteocytes        |            |
+| Matrix            |            |
+| Collagen fibers   |            |
+| Calcium phosphate |            |
+| Osteoblasts       |            |
+| Osteoclasts       |            |
+
+**Bone Classification:**
+
+| Term           | Definition |
+|----------------|------------|
+| Long honos     |            |
+| Long bones     |            |
+| Short bones    |            |
+| Flat bones     |            |
+| Irregular      |            |
+| Sesamoid bones |            |
 
 ## **Prelab Activity 6.2**
 
 ## **Labeling**
 
-![](_page_129_Figure_2.jpeg)
+![](images/_page_129_Figure_2.jpeg)
 
 **Figure 6.2** Numbered Human Skeleton.
 
@@ -137,7 +152,7 @@ Identify the bones or regions on Figure 6.2. Indicate whether they belong to the
 
 Bones of the skeletal system.
 
-![](_page_131_Picture_2.jpeg)
+![](images/_page_131_Picture_2.jpeg)
 
 **Figure 6.3** Bones of the Skeletal System.
 
@@ -145,13 +160,13 @@ Bones of the skeletal system.
 
 ## **Axial Skeleton**
 
-![](_page_132_Picture_2.jpeg)
+![](images/_page_132_Picture_2.jpeg)
 
 **Figure 6.4** Axial Skeleton.
 
 ## **Appendicular Skeleton**
 
-![](_page_133_Picture_1.jpeg)
+![](images/_page_133_Picture_1.jpeg)
 
 **Figure 6.5** Appendicular Skeleton.
 
@@ -159,13 +174,14 @@ Bones of the skeletal system.
 
 Classify the following bones based their location in the major division they are found (axial or appendicular):
 
-| • | Sacrum             |
-|---|--------------------|
-| • | Humerus            |
-| • | Phalanges (digits) |
-| • | Cervical Vertebrae |
-| • | Cranium            |
-| • | Scapula            |
+| Bones              | Classification |
+|--------------------|----------------|
+| Sacrum             |                |
+| Humerus            |                |
+| Phalanges (digits) |                |
+| Cervical Vertebrae |                |
+| Cranium            |                |
+| Scapula            |                |
 
 ## **Lab Activities**
 
@@ -175,152 +191,153 @@ Review the Information in this table before moving on to the next activity.
 
 **Table 6.2. Surface Features of Bone**
 
-| Feature      | Description                                                                                         | Example                                                                                                                           |  |
-|--------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--|
-| Articulation | Where bones meet                                                                                    | Elbow joint                                                                                                                       |  |
-| Body         | the largest, most prominent<br>segment of bone.                                                     | diaphysis or shaft of long bones<br>like the femur and humerus.                                                                   |  |
-| Condyle      | large prominence, which often<br>provides structural support to the<br>overlying hyaline cartilage. | knee joint (hinge joint), formed<br>by the femoral lateral and<br>medial condyles, and the tibial<br>lateral and medial condyles. |  |
-| Diaphysis    | main part of the shaft of a long<br>bone                                                            | humerus or femur bones                                                                                                            |  |
-| Epicondyle   | A prominence that sits atop of a<br>condyle                                                         | femoral medial and lateral<br>epicondyles and humeral<br>medial and lateral epicondyles.                                          |  |
-| Epiphysis    | articulating segment of a bone,<br>usually at the bone's proximal<br>and distal poles.              | Ends of the long bone                                                                                                             |  |
-| Facet        | smooth, flat surface that forms a<br>joint with another flat bone or<br>another facet               | facet joints of the vertebrae                                                                                                     |  |
-| Foramen      | hole through which nerves and<br>blood vessels pass                                                 | supraorbital foramen,<br>infraorbital foramen, and mental<br>foramen on the cranium.                                              |  |
-| Fossa        | A shallow depression in the bone<br>surface                                                         | trochlear fossa, posterior,<br>middle, and anterior cranial<br>fossa                                                              |  |
-| Head         | rounded, prominent extension of<br>bone that forms part of a joint                                  | main articulating surface with<br>the adjacent bone, forming a<br>"ball-and-socket" joint.                                        |  |
-| Meatus       | tube-like channel that extends<br>within the bone                                                   | external acoustic meatus and<br>internal auditory meatus                                                                          |  |
+| Feature | Description | Example |
+|----|----|----|
+| Articulation | Where bones meet | Elbow joint |
+| Body | the largest, most prominent segment of bone. | diaphysis or shaft of long bones like the femur and humerus. |
+| Condyle | large prominence, which often provides structural support to the overlying hyaline cartilage. | knee joint (hinge joint), formed by the femoral lateral and medial condyles, and the tibial lateral and medial condyles. |
+| Diaphysis | main part of the shaft of a long bone | humerus or femur bones |
+| Epicondyle | A prominence that sits atop of a condyle | femoral medial and lateral epicondyles and humeral medial and lateral epicondyles. |
+| Epiphysis | articulating segment of a bone, usually at the bone's proximal and distal poles. | Ends of the long bone |
+| Facet | smooth, flat surface that forms a joint with another flat bone or another facet | facet joints of the vertebrae |
+| Foramen | hole through which nerves and blood vessels pass | supraorbital foramen, infraorbital foramen, and mental foramen on the cranium. |
+| Fossa | A shallow depression in the bone surface | trochlear fossa, posterior, middle, and anterior cranial fossa |
+| Head | rounded, prominent extension of bone that forms part of a joint | main articulating surface with the adjacent bone, forming a "ball-and-socket" joint. |
+| Meatus | tube-like channel that extends within the bone | external acoustic meatus and internal auditory meatus |
 
 **Table 6.2 Surface Features of a Bone Used in Anatomy, continued**
 
-| Feature    | Description                                                                                 | Example                                         |
-|------------|---------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Notch      | depression in a bone which can<br>provide stabilization to an<br>adjacent articulating bone | mandibular notch                                |
-| Sinus      | cavity within any organ or tissue                                                           | paranasal sinuses                               |
-| Spinous    | raised, sharp elevation of bone                                                             | skull at the base of the temporal               |
-| Process    | where muscles and connective<br>tissue atta                                                 | bone                                            |
-| Trochanter | large prominence on the side of<br>the bone                                                 | greater and lesser trochanters<br>of the femur. |
-| Tuberosity | moderate prominence where<br>muscles and connective tissues<br>attach                       | tibial tuberosity, deltoid<br>tuberosity        |
-| Tubercle   | small, rounded prominence                                                                   | greater and lesser tubercle of                  |
-|            | where connective tissues attach                                                             | the humerus.                                    |
+| Feature | Description | Example |
+|----|----|----|
+| Notch | depression in a bone which can provide stabilization to an adjacent articulating bone | mandibular notch |
+| Sinus | cavity within any organ or tissue | paranasal sinuses |
+| Spinous | raised, sharp elevation of bone | skull at the base of the temporal |
+| Process | where muscles and connective tissue atta | bone |
+| Trochanter | large prominence on the side of the bone | greater and lesser trochanters of the femur. |
+| Tuberosity | moderate prominence where muscles and connective tissues attach | tibial tuberosity, deltoid tuberosity |
+| Tubercle | small, rounded prominence where connective tissues attach | greater and lesser tubercle of the humerus. |
 
-- Bones are organs that contain diverse shapes and features. In your assigned group, obtain a set of disarticulated bones or an articulated skeleton from the classroom lab supplies.
-- Use the information from your text and Table 6.2 to locate and identify the features in table 6.2 .
-- When you identify a feature, label it using tape and have your group mates confirm the identification. Ask your instructor to confirm your identification.
+## **Lab Activity 6.2.**
 
-![](_page_136_Picture_0.jpeg)
+-   Bones are organs that contain diverse shapes and features. In your assigned group, obtain a set of disarticulated bones or an articulated skeleton from the classroom lab supplies.
+-   Use the information from your text and Table 6.2 to locate and identify the features in table 6.2 .
+-   When you identify a feature, label it using tape and have your group mates confirm the identification. Ask your instructor to confirm your identification.
+
+![](images/_page_136_Picture_0.jpeg)
 
 **Figure 6.6** Examples of bone markings. Labeled bone markings, Examples of processes formed where tendons or ligaments attach, processes formed to articulate with adjacent bones, elevation or depressions, and openings.
 
 ### **Bone Classification based on Shape.**
 
-![](_page_137_Picture_1.jpeg)
+![](images/_page_137_Picture_1.jpeg)
 
 **Figure 6.7** Classification of Bones Based on Shape.
 
-- The bones of the skeletal system may be classified into five different categories. From the description of the features in table 6.3, find several bones on the articulated skeleton and label them according to their anatomical shape. Complete the table by providing at least two examples of each bone shape.
-- Next, obtain some tape and on a skeletal model or a set of bones from your disarticulated skeleton classify several bones according to their shapes.
-- Complete table 6.3.
+-   The bones of the skeletal system may be classified into five different categories. From the description of the features in table 6.3, find several bones on the articulated skeleton and label them according to their anatomical shape. Complete the table by providing at least two examples of each bone shape.
+-   Next, obtain some tape and on a skeletal model or a set of bones from your disarticulated skeleton classify several bones according to their shapes.
+-   Complete table 6.3.
 
 **Table 6.3 Bone Classifications Based on Shape**
 
-| Classification | Features                                                         | Example(s) |
-|----------------|------------------------------------------------------------------|------------|
-| Long           | Cylindrical shape; longer<br>than wide                           |            |
-| Short          | Cube shaped length,<br>width, and thickness;<br>relatively equal |            |
-| Flat           | Thin and wide curved                                             |            |
-| Irregular      | Complex shape                                                    |            |
-| Sesamoid       | Seed shaped small and<br>round                                   |            |
+| Classification | Features | Example(s) |
+|----|----|----|
+| Long | Cylindrical shape; longer than wide |  |
+| Short | Cube shaped length, width, and thickness; relatively equal |  |
+| Flat | Thin and wide curved |  |
+| Irregular | Complex shape |  |
+| Sesamoid | Seed shaped small and round |  |
 
 ## **Example of Flat Bones**
 
-![](_page_138_Picture_3.jpeg)
+![](images/_page_138_Picture_3.jpeg)
 
 **Figure 6.8** Flat bones in the Skeleton.
 
 ## **Anatomy of the Flat Bone**
 
-![](_page_139_Picture_1.jpeg)
+![](images/_page_139_Picture_1.jpeg)
 
 **Figure 6.9** Anatomy of a Flat Bone.
 
 ### **Long Bones of the Skeleton**
 
-![](_page_139_Picture_4.jpeg)
+![](images/_page_139_Picture_4.jpeg)
 
 **Figure 6.10** Long bones – Anterior View Shown in Red.
 
 ## **Gross Anatomy of the Long Bone**
 
-![](_page_140_Picture_1.jpeg)
+![](images/_page_140_Picture_1.jpeg)
 
 **Figure 6.11** Gross Anatomy of the Long Bone.
 
 The cross-section of a long bone epiphysis.
 
-![](_page_141_Picture_1.jpeg)
+![](images/_page_141_Picture_1.jpeg)
 
 **Figure 6.12** The Cross-Section of a Bone.
 
 ## **Lab Activity 6.3.**
 
-- Find a dissected bone or a model of a bone and identify the compact and spongy bones based on their location and appearance.
-- What are the major anatomical differences between spongy and compact bone?
+-   Find a dissected bone or a model of a bone and identify the compact and spongy bones based on their location and appearance.
+-   What are the major anatomical differences between spongy and compact bone?
 
 ### **Bone Histology: Compact Bone**
 
 ### **Activity 6.4.**
 
-- Have someone obtain a microanatomy human bone model form the storage area.
-- Identify and label the features of the compact bone.
-- Take a picture of your work for later reference.
-- Have a lab mate from another group verify the identifications.
+-   Have someone obtain a microanatomy human bone model form the storage area.
+-   Identify and label the features of the compact bone.
+-   Take a picture of your work for later reference.
+-   Have a lab mate from another group verify the identifications.
 
-![](_page_142_Picture_6.jpeg)
+![](images/_page_142_Picture_6.jpeg)
 
 **Figure 6.13** Compact and Spongy Bone Cross Section.
 
 ## **Compact Bone Osteons**
 
-![](_page_143_Picture_1.jpeg)
+![](images/_page_143_Picture_1.jpeg)
 
 **Figure 6.14** Transverse Section of an Osteocyte.
 
-![](_page_143_Picture_3.jpeg)
+![](images/_page_143_Picture_3.jpeg)
 
 **Figure 6.15** Photomicrograph of compact bone.
 
 ### **Lab Activity 4.5: Microscope work:**
 
-- In groups of two obtain a microscope for this activity.
-- Using a light microscope, view the slide of a bone osteon at a magnification of 400x.
-- Draw and label each tissue type in the spaces provided. Your information should provide where it would be found in the body along with the magnification of the tissue.
-- Take a picture of the magnified osteon with your cell phone for later reference.
+-   In groups of two obtain a microscope for this activity.
+-   Using a light microscope, view the slide of a bone osteon at a magnification of 400x.
+-   Draw and label each tissue type in the spaces provided. Your information should provide where it would be found in the body along with the magnification of the tissue.
+-   Take a picture of the magnified osteon with your cell phone for later reference.
 
 ## **Spongy Bone**
 
-![](_page_144_Picture_1.jpeg)
+![](images/_page_144_Picture_1.jpeg)
 
 **Figure 6.16** Spongy Bone.
 
 ## **Additional Learning Resources**
 
-- **Watch** these videos to learn about the bones and markings of the axial skeleton:
-  - o <https://youtu.be/kJNilqGxW3g>
-  - o <https://youtu.be/LiLrDTcIbkQ>
-  - o **Vertebrae:** <https://www.youtube.com/watch?v=V4qkP8nFMys>
-  - **Watch** these videos to learn about bones and markings of the appendicular skeleton:
-    - o Bones of the upper extremity: <https://www.youtube.com/watch?v=7v2pwRwyWqU>
-    - o Bones of the lower extremity: <https://www.youtube.com/watch?v=5ohJGtD3vRY>
-    - o Bones of the pelvis:<https://www.youtube.com/watch?v=W8i7jlFa7qc>
-  - **Watch** these videos to help you identify left vs right for appendicular bones:
-    - o <https://www.youtube.com/watch?v=0KPR9NSuGOA&feature=youtu.be> (most appendicular bones)
-    - o <https://www.youtube.com/watch?v=kKGeEcrTMg8>(ilium, ischium, pubis)
-    - o <https://www.youtube.com/watch?v=dVzlkGmm4Fg> (scapula**)**
-  - **More practice** identifying bones and markings of the skeletal system with these websites:
-    - o <https://webanatomy.umn.edu/various-bones>
-    - o <https://webanatomy.umn.edu/skulls-skeletons>
-    - o <https://pierceanatomy.weebly.com/>
-    - o <https://www.getbodysmart.com/skeletal-system>
-    - o <http://www.personal.psu.edu/faculty/j/a/jas43/skel/skeletal.htm>
+-   **Watch** these videos to learn about the bones and markings of the axial skeleton:
+    -   <https://youtu.be/kJNilqGxW3g>
+    -   <https://youtu.be/LiLrDTcIbkQ>
+    -   **Vertebrae:** <https://www.youtube.com/watch?v=V4qkP8nFMys>
+    -   **Watch** these videos to learn about bones and markings of the appendicular skeleton:
+        -   Bones of the upper extremity: <https://www.youtube.com/watch?v=7v2pwRwyWqU>
+        -   Bones of the lower extremity: <https://www.youtube.com/watch?v=5ohJGtD3vRY>
+        -   Bones of the pelvis:<https://www.youtube.com/watch?v=W8i7jlFa7qc>
+    -   **Watch** these videos to help you identify left vs right for appendicular bones:
+        -   <https://www.youtube.com/watch?v=0KPR9NSuGOA&feature=youtu.be> (most appendicular bones)
+        -   <https://www.youtube.com/watch?v=kKGeEcrTMg8>(ilium, ischium, pubis)
+        -   <https://www.youtube.com/watch?v=dVzlkGmm4Fg> (scapula**)**
+    -   **More practice** identifying bones and markings of the skeletal system with these websites:
+        -   <https://webanatomy.umn.edu/various-bones>
+        -   <https://webanatomy.umn.edu/skulls-skeletons>
+        -   <https://pierceanatomy.weebly.com/>
+        -   <https://www.getbodysmart.com/skeletal-system>
+        -   <http://www.personal.psu.edu/faculty/j/a/jas43/skel/skeletal.htm>
 
 ## **Post Lab Activities**
 
@@ -330,23 +347,29 @@ The cross-section of a long bone epiphysis.
 
 Complete the following crossword puzzles.
 
-![](_page_146_Picture_4.jpeg)
+![](images/_page_146_Picture_4.jpeg)
 
 **Figure 6.17** Bone Features.
 
 ### **Across**
 
-- **4** A bony bulb or structure on a narrow neck is called a(n) \_\_\_\_\_. (4)
-- **6** On a bone, a(n) \_\_\_\_\_ is a structure which protrudes from a bone. These are often named for what they protrude toward. (7)
-- **7** On the femur, a(n) \_\_\_\_\_ refers to a large, blunt, unevenly shaped process. (10)
-- **8** A sharp, axe-like or needle-like projection on a bone is called a(n) \_\_\_\_\_. (5)
+-   **4** A bony bulb or structure on a narrow neck is called a(n) \_\_\_\_\_. (4)
 
-- **1** On a bone, a(n) \_\_\_\_\_ is a deep groove or notch. (7)
-- **2** The flat, smooth face on a bone where it meets another bone is called a(n) \_\_\_\_\_. (5)
-- **3** On a bone, a(n) \_\_\_\_\_ is a narrow ridge. A(n) \_\_\_\_\_ is a smaller version. (5,4)
-- **5** A raised area on a condyle is called a(n) \_\_\_\_\_. (10)
+-   **6** On a bone, a(n) \_\_\_\_\_ is a structure which protrudes from a bone. These are often named for what they protrude toward. (7)
 
-![](_page_147_Picture_0.jpeg)
+-   **7** On the femur, a(n) \_\_\_\_\_ refers to a large, blunt, unevenly shaped process. (10)
+
+-   **8** A sharp, axe-like or needle-like projection on a bone is called a(n) \_\_\_\_\_. (5)
+
+-   **1** On a bone, a(n) \_\_\_\_\_ is a deep groove or notch. (7)
+
+-   **2** The flat, smooth face on a bone where it meets another bone is called a(n) \_\_\_\_\_. (5)
+
+-   **3** On a bone, a(n) \_\_\_\_\_ is a narrow ridge. A(n) \_\_\_\_\_ is a smaller version. (5,4)
+
+-   **5** A raised area on a condyle is called a(n) \_\_\_\_\_. (10)
+
+![](images/_page_147_Picture_0.jpeg)
 
 **Figure 6.18** Bone Structure.
 
@@ -368,25 +391,24 @@ Complete the following crossword puzzles.
 
 **Table 6.4 Match the term(s) on the right with its corresponding statement.**
 
-| Answer | Statement                                                                                                    | Term(s)                    |
-|--------|--------------------------------------------------------------------------------------------------------------|----------------------------|
-| letter |                                                                                                              |                            |
-|        | cartilage<br>covers ends of long<br>bones.                                                                   | a)<br>axial                |
-|        | Skeletal cartilage<br>is enclosed<br>by the<br>,                                                             | b)<br>hyaline<br>cartilage |
-|        | The bones of the limbs, shoulders, and hips make<br>up the skeleton.                                         | c)<br>epiphyseal<br>line   |
-|        | Cancellous bone is found in the of long<br>bones.                                                            | d)<br>Articular            |
-|        | is found in the central (medullary) cavity of<br>an adult's long bones and is composed of fat.               | e)<br>perichondrium        |
-|        | Articular cartilage<br>is composed<br>of                                                                     | f)<br>diaphysis;           |
-|        | The inner surface of the bone, where it meets the<br>marrow, is covered by a delicate membrane called<br>the | g)<br>Yellow<br>marrow     |
-|        | The tubular shaft that forms the axis of long bones<br>is called the                                         | h)<br>appendicular         |
-|        | The bones of the skull, rib cage, and vertebral<br>column make up the skeleton                               | i)<br>epiphyses            |
-|        | The line that separates the diaphysis from the<br>epiphysis in a long bone is called the                     | j)<br>endosteum            |
+| Answer | Statement | Term(s) |
+|----|----|----|
+|  | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cartilage covers ends of long bones. | a\) axial |
+|  | Skeletal cartilage is enclosed by the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, | b\) hyaline cartilage |
+|  | The bones of the limbs, shoulders, and hips make up the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ skeleton. | c\) epiphyseal line |
+|  | Cancellous bone is found in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of long bones. | d\) Articular |
+|  | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is found in the central (medullary) cavity of an adult's long bones and is composed of fat. | e\) perichondrium |
+|  | Articular cartilage is composed of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | f\) diaphysis; |
+|  | The inner surface of the bone, where it meets the marrow, is covered by a delicate membrane called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | g\) Yellow marrow |
+|  | The tubular shaft that forms the axis of long bones is called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | h\) appendicular |
+|  | The bones of the skull, rib cage, and vertebral column make up the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ skeleton | i\) epiphyses |
+|  | The line that separates the diaphysis from the epiphysis in a long bone is called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | j\) endosteum |
 
 ## **Labeling**
 
 Label the structures within the bone.
 
-![](_page_149_Picture_3.jpeg)
+![](images/_page_149_Picture_3.jpeg)
 
 **Figure 6.19** Diagram of the Compact and Spongy Bone.
 
@@ -404,91 +426,66 @@ Label the structures within the bone.
 
 • **Down: 1** Osteocytes, **2** Blastocyte, **3** Canaliculi, **4** Osteoclasts, **5** Osteoblast.
 
-![](_page_150_Picture_7.jpeg)
+![](images/_page_150_Picture_7.jpeg)
 
-| Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy |                                                                               |  |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------|--|
-| Terms                                                       | Definitions                                                                   |  |
-| appendicular                                                | the part of the human skeleton which support the limbs and the girdles that   |  |
-| skeleton                                                    | attach them to the body.                                                      |  |
-| articular cartilage                                         | thin layer of cartilage covering an epiphysis; reduces friction and acts as a |  |
-|                                                             | shock absorber                                                                |  |
-| articulation                                                | where two bone surfaces meet                                                  |  |
-| axial skeleton                                              |                                                                               |  |
-| bone                                                        | hard, dense connective tissue that forms the structural elements of the       |  |
-|                                                             | skeleton                                                                      |  |
-| canaliculi (singular                                        | channels within the bone matrix that house one of an osteocyte's many         |  |
-| = canaliculus)                                              | cytoplasmic extensions that it uses to communicate and receive nutrients      |  |
-| cartilage                                                   | semi-rigid connective tissue found on the skeleton in areas where flexibility |  |
-|                                                             | and smooth surfaces support movement                                          |  |
-| central canal                                               | longitudinal channel in the center of each osteon; contains blood vessels,    |  |
-|                                                             | nerves, and lymphatic vessels; also known as the Haversian canal              |  |
-| compact bone                                                | dense osseous tissue that can withstand compressive forces                    |  |
-| diaphysis                                                   | tubular shaft that runs between the proximal and distal ends of a long bone   |  |
-| endochondral                                                | process in which bone forms by replacing hyaline cartilage                    |  |
-| ossification                                                |                                                                               |  |
-| endosteum                                                   | delicate membranous lining of a bone's medullary cavity                       |  |
+**Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy**
 
-| epiphyseal line                                                                                | completely ossified remnant of the epiphyseal plate                                                         |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| epiphyseal plate<br>sheet of hyaline cartilage in the metaphysis of an immature bone; replaced |                                                                                                             |
-| (also, growth plate)                                                                           | by bone tissue as the organ grows in length                                                                 |
-| epiphysis                                                                                      | wide section at each end of a long bone; filled with spongy bone and red<br>marrow                          |
-| flat bone                                                                                      | thin and curved bone; serves as a point of attachment for muscles and                                       |
-|                                                                                                | protects internal organs                                                                                    |
-| foramen                                                                                        | an opening or passage in the body, particularly in bones, which allows                                      |
-|                                                                                                | nerves, arteries, veins, or other structures to pass through                                                |
-| fracture                                                                                       | broken bone                                                                                                 |
-| fracture hematoma                                                                              | blood clot that forms at the site of a broken bone                                                          |
-| hematopoiesis                                                                                  | production of blood cells, which occurs in the red marrow of the bones                                      |
-| hole                                                                                           | opening or depression in a bone                                                                             |
-| intramembranous<br>ossification                                                                | process by which bone forms directly from mesenchymal tissue                                                |
-| irregular bone                                                                                 | bone of complex shape; protects internal organs from compressive forces                                     |
-| lacunae (singular =                                                                            | spaces in a bone that house an osteocyte                                                                    |
-| lacuna)                                                                                        |                                                                                                             |
-| long bone                                                                                      | cylinder-shaped bone that is longer than it is wide; functions as a lever                                   |
-| medullary cavity                                                                               | hollow region of the diaphysis; filled with yellow marrow                                                   |
-| modeling                                                                                       | process, during bone growth, by which bone is resorbed on one surface of a<br>bone and deposited on another |
-| nutrient foramen                                                                               | small opening in the middle of the external surface of the diaphysis, through                               |
-|                                                                                                | which an artery enters the bone to provide nourishment                                                      |
-| orthopedist                                                                                    | doctor who specializes in diagnosing and treating musculoskeletal disorders<br>and injuries                 |
-| osseous tissue                                                                                 | bone tissue: a hard, dense connective tissue that forms the structural<br>elements of the skeleton          |
-| ossification (also,                                                                            | bone formation                                                                                              |
-| osteogenesis)                                                                                  |                                                                                                             |
-| ossification center                                                                            | cluster of osteoblasts found in the early stages of intramembranous                                         |
-|                                                                                                | ossification                                                                                                |
-| osteoblast                                                                                     | cell responsible for forming new bone                                                                       |
-| osteoclast                                                                                     | cell responsible for resorbing bone                                                                         |
-| osteocyte                                                                                      | primary cell in mature bone; responsible for maintaining the matrix                                         |
-| osteogenic cell                                                                                | undifferentiated cell with high mitotic activity; the only bone cells that divide;                          |
-|                                                                                                | they differentiate and develop into osteoblasts                                                             |
-| osteoid                                                                                        | uncalcified bone matrix secreted by osteoblasts                                                             |
-| osteon (also,<br>Haversian system)                                                             | basic structural unit of compact bone; made of concentric layers of calcified<br>matrix                     |
-| osteoporosis                                                                                   | disease characterized by a decrease in bone mass; occurs when the rate of                                   |
-|                                                                                                | bone resorption exceeds the rate of bone formation, a common occurrence                                     |
-|                                                                                                | as the body ages                                                                                            |
-| perforating canal                                                                              | channel that branches off from the central canal and houses vessels and                                     |
-| (also, Volkmann's                                                                              | nerves that extend to the periosteum and endosteum                                                          |
-| canal)                                                                                         |                                                                                                             |
-| perichondrium                                                                                  | membrane that covers cartilage                                                                              |
-| periosteum                                                                                     | fibrous membrane covering the outer surface of bone and continuous with<br>ligaments                        |
-| primary ossification                                                                           | region, deep in the periosteal collar, where bone development starts during                                 |
-| center                                                                                         | endochondral ossification                                                                                   |
-| projection                                                                                     | bone markings where part of the surface sticks out above the rest of the                                    |
-|                                                                                                | surface, where tendons and ligaments attach                                                                 |
-|                                                                                                |                                                                                                             |
-
-| proliferative zone                      | region of the epiphyseal plate that makes new chondrocytes to replace those<br>that die at the diaphyseal end of the plate and contributes to longitudinal<br>growth of the epiphyseal plate |  |  |
-|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| red marrow                              | connective tissue in the interior cavity of a bone where hematopoiesis takes<br>place                                                                                                        |  |  |
-| remodeling                              | process by which osteoclasts resorb old or damaged bone at the same time<br>as and on the same surface where osteoblasts form new bone to replace<br>that which is resorbed                  |  |  |
-| secondary<br>ossification center        | region of bone development in the epiphyses                                                                                                                                                  |  |  |
-| sesamoid bone                           | small, round bone embedded in a tendon; protects the tendon from<br>compressive forces                                                                                                       |  |  |
-| short bone                              | cube-shaped bone that is approximately equal in length, width, and<br>thickness; provides limited motion                                                                                     |  |  |
-| skeletal system                         | organ system composed of bones and cartilage that provides for movement,<br>support, and protection                                                                                          |  |  |
-| spongy bone (also,<br>cancellous bone)  | trabeculated osseous tissue that supports shifts in weight distribution                                                                                                                      |  |  |
-| trabeculae<br>(singular =<br>trabecula) | spikes or sections of the lattice-like matrix in spongy bone                                                                                                                                 |  |  |
-| yellow marrow                           | connective tissue in the interior cavity of a bone where fat is stored                                                                                                                       |  |  |
-| zone of calcified<br>matrix             | region of the epiphyseal plate closest to the diaphyseal end; functions to<br>connect the epiphyseal plate to the diaphysis                                                                  |  |  |
-| zone of maturation<br>and hypertrophy   | region of the epiphyseal plate where chondrocytes from the proliferative<br>zone grow and mature and contribute to the longitudinal growth of the<br>epiphyseal plate                        |  |  |
-
+| Term | Definition |
+|----|----|
+| appendicular skeleton | the part of the human skeleton which support the limbs and the girdles that attach them to the body. |
+| articular cartilage | thin layer of cartilage covering an epiphysis; reduces friction and acts as a shock absorber |
+| articulation | where two bone surfaces meet |
+| axial skeleton | forms the central axis of the human body, consisting of 80 bones that protect vital organs, including the skull, vertebral column, and thoracic cage |
+| bone | hard, dense connective tissue that forms the structural elements of the skeleton |
+| canaliculi (singular = canaliculus) | channels within the bone matrix that house one of an osteocyte's many cytoplasmic extensions that it uses to communicate and receive nutrients |
+| cartilage | semi-rigid connective tissue found on the skeleton in areas where flexibility and smooth surfaces support movement |
+| central canal | longitudinal channel in the center of each osteon; contains blood vessels, nerves, and lymphatic vessels; also known as the Haversian canal |
+| compact bone | dense osseous tissue that can withstand compressive forces |
+| diaphysis | tubular shaft that runs between the proximal and distal ends of a long bone |
+| endochondral ossification | process in which bone forms by replacing hyaline cartilage |
+| endosteum | delicate membranous lining of a bone's medullary cavity |
+| epiphyseal line | completely ossified remnant of the epiphyseal plate |
+| epiphyseal plate (also, growth plate) | sheet of hyaline cartilage in the metaphysis of an immature bone; replaced by bone tissue as the organ grows in length |
+| epiphysis | wide section at each end of a long bone; filled with spongy bone and red marrow |
+| flat bone | thin and curved bone; serves as a point of attachment for muscles and protects internal organs |
+| foramen | an opening or passage in the body, particularly in bones, which allows nerves, arteries, veins, or other structures to pass through |
+| fracture | broken bone |
+| fracture hematoma | blood clot that forms at the site of a broken bone |
+| hematopoiesis | production of blood cells, which occurs in the red marrow of the bones |
+| hole | opening or depression in a bone |
+| intramembranous ossification | process by which bone forms directly from mesenchymal tissue |
+| irregular bone | bone of complex shape; protects internal organs from compressive forces |
+| lacunae (singular = lacuna) | spaces in a bone that house an osteocyte |
+| long bone | cylinder-shaped bone that is longer than it is wide; functions as a lever |
+| medullary cavity | hollow region of the diaphysis; filled with yellow marrow |
+| modeling | process, during bone growth, by which bone is resorbed on one surface of a bone and deposited on another |
+| nutrient foramen | small opening in the middle of the external surface of the diaphysis, through which an artery enters the bone to provide nourishment |
+| orthopedist | doctor who specializes in diagnosing and treating musculoskeletal disorders and injuries |
+| osseous tissue | bone tissue: a hard, dense connective tissue that forms the structural elements of the skeleton |
+| ossification (also, osteogenesis) | bone formation |
+| ossification center | cluster of osteoblasts found in the early stages of intramembranous ossification |
+| osteoblast | cell responsible for forming new bone |
+| osteoclast | cell responsible for resorbing bone |
+| osteocyte | primary cell in mature bone; responsible for maintaining the matrix |
+| osteogenic cell | undifferentiated cell with high mitotic activity; the only bone cells that divide; they differentiate and develop into osteoblasts |
+| osteoid | uncalcified bone matrix secreted by osteoblasts |
+| osteon (also, Haversian system) | basic structural unit of compact bone; made of concentric layers of calcified matrix |
+| osteoporosis | disease characterized by a decrease in bone mass; occurs when the rate of bone resorption exceeds the rate of bone formation, a common occurrence as the body ages |
+| perforating canal (also, Volkmann's canal) | channel that branches off from the central canal and houses vessels and nerves that extend to the periosteum and endosteum |
+| perichondrium | membrane that covers cartilage |
+| periosteum | fibrous membrane covering the outer surface of bone and continuous with ligaments |
+| primary ossification | region, deep in the periosteal collar, where bone development starts during |
+| center | endochondral ossification |
+| projection | bone markings where part of the surface sticks out above the rest of the surface, where tendons and ligaments attach |
+| proliferative zone | region of the epiphyseal plate that makes new chondrocytes to replace those that die at the diaphyseal end of the plate and contributes to longitudinal growth of the epiphyseal plate |
+| red marrow | connective tissue in the interior cavity of a bone where hematopoiesis takes place |
+| remodeling | process by which osteoclasts resorb old or damaged bone at the same time as and on the same surface where osteoblasts form new bone to replace that which is resorbed |
+| secondary ossification center | region of bone development in the epiphyses |
+| sesamoid bone | small, round bone embedded in a tendon; protects the tendon from compressive forces |
+| short bone | cube-shaped bone that is approximately equal in length, width, and thickness; provides limited motion |
+| skeletal system | organ system composed of bones and cartilage that provides for movement, support, and protection |
+| spongy bone (also, cancellous bone) | trabeculated osseous tissue that supports shifts in weight distribution |
+| trabeculae (singular = trabecula) | spikes or sections of the lattice-like matrix in spongy bone |
+| yellow marrow | connective tissue in the interior cavity of a bone where fat is stored |
+| zone of calcified matrix | region of the epiphyseal plate closest to the diaphyseal end; functions to connect the epiphyseal plate to the diaphysis |
+| zone of maturation and hypertrophy | region of the epiphyseal plate where chondrocytes from the proliferative zone grow and mature and contribute to the longitudinal growth of the epiphyseal plate |
