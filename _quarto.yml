@@ -8,30 +8,31 @@ author:
   version: 4
   date: 2024
   chapters:
-    - ack.qmd
-    - 01.qmd
-    - 03.qmd
-    - 04.qmd
-    - 05.qmd
-    - 06.qmd
-    - 07.qmd
-    - 08.qmd
-    - 09.qmd
-    - 10.qmd
-    - 11.qmd
-    - 12.qmd
-    - 13.qmd
-    - 14.qmd
-    - 15.qmd
-    - 16.qmd
-    - 17.qmd
-    - 18.qmd
-    - 19.qmd
-    - 20.qmd
-    - 21.qmd
-    - 22.qmd
-    - 23.qmd
-    - att.qmd
+    - chapters/ack.qmd
+    - chapters/01.qmd
+    - chapters/02.qmd
+    - chapters/03.qmd
+    - chapters/04.qmd
+    - chapters/05.qmd
+    - chapters/06.qmd
+    - chapters/07.qmd
+    - chapters/08.qmd
+    - chapters/09.qmd
+    - chapters/10.qmd
+    - chapters/11.qmd
+    - chapters/12.qmd
+    - chapters/13.qmd
+    - chapters/14.qmd
+    - chapters/15.qmd
+    - chapters/16.qmd
+    - chapters/17.qmd
+    - chapters/18.qmd
+    - chapters/19.qmd
+    - chapters/20.qmd
+    - chapters/21.qmd
+    - chapters/22.qmd
+    - chapters/23.qmd
+    - chapters/att.qmd
 bibliography: references.bib
 format:
   html:
