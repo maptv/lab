@@ -8,7 +8,7 @@ author:
   version: 4
   date: 2024
   chapters:
-    - chapters/ack.qmd
+    - index.qmd
     - chapters/01.qmd
     - chapters/02.qmd
     - chapters/03.qmd
@@ -33,7 +33,6 @@ author:
     - chapters/22.qmd
     - chapters/23.qmd
     - chapters/att.qmd
-bibliography: references.bib
 format:
   html:
     theme:
