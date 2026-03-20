@@ -4,7 +4,7 @@
 
 The Community College of Baltimore County
 
-![](_page_0_Picture_3.jpeg)
+![](images/_page_0_Picture_3.jpeg)
 
 Introduction to Human Biology Laboratory Workbook; an Open Education Resource. First Edition © 2024 by George Mateja is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -228,7 +228,7 @@ Oblique plane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Identify the following cavities or structures in the body.
 
-![](_page_6_Figure_3.jpeg)
+![](images/_page_6_Figure_3.jpeg)
 
 **Figure 1.1** Diagram of labeled body cavities.
 
@@ -282,13 +282,13 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 ### **Anatomical position**
 
-![](_page_8_Picture_5.jpeg)
+![](images/_page_8_Picture_5.jpeg)
 
 **Figure 1.2**. Anatomical position.
 
 #### **Prone and supine positions**
 
-![](_page_8_Picture_8.jpeg)
+![](images/_page_8_Picture_8.jpeg)
 
 **Figure 1.3** Prone and supine diagrams.
 
@@ -317,13 +317,13 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 In the image below label the directional terms that are listed above
 
-![](_page_9_Picture_20.jpeg)
+![](images/_page_9_Picture_20.jpeg)
 
 **Figure 1.4** Unlabeled directional terms diagram.
 
 Indicate in the boxes provided the deep and superficial positions.
 
-![](_page_10_Picture_1.jpeg)
+![](images/_page_10_Picture_1.jpeg)
 
 **Figure 1.5** Sagittal section of the head. The subject is an 18-year-old male who had blunt trauma to the head after a 25 m long jump during [motocross.](https://en.wikipedia.org/wiki/Motocross)
 
@@ -379,19 +379,19 @@ Using your text, label the planes in the figure below. Draw an oblique plane in 
 - Coronal plane
 - Oblique plane
 
-![](_page_13_Figure_10.jpeg)
+![](images/_page_13_Figure_10.jpeg)
 
 **Figure 1.9**. Human Anatomical Planes.
 
 Indicate what type of planes were used in the following demonstrations:
 
-![](_page_13_Picture_13.jpeg)
+![](images/_page_13_Picture_13.jpeg)
 
 **Figure 1.10** Human Head slice.
 
 Plane:
 
-![](_page_13_Picture_16.jpeg)
+![](images/_page_13_Picture_16.jpeg)
 
 **Figure 1.11** An anatomical illustration from Sobotta's Human Anatomy 1908.
 
@@ -453,7 +453,7 @@ Plane:
 - o Tarsal ankle
 - o Pedal foot
 
-![](_page_15_Figure_0.jpeg)
+![](images/_page_15_Figure_0.jpeg)
 
 **Figure 1.12** The human body is shown in an anatomical position in an (a) anterior view and a (b) posterior view. The regions of the body are labeled in bold face.
 
@@ -488,7 +488,7 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
   - o Pericardial
   - o Peritoneum
 
-![](_page_16_Picture_10.jpeg)
+![](images/_page_16_Picture_10.jpeg)
 
 **Figure 1.13** Labeled body cavities.
 
@@ -508,7 +508,7 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
   - o Hypogastric
   - o Left and right iliac
 
-![](_page_17_Figure_14.jpeg)
+![](images/_page_17_Figure_14.jpeg)
 
 **Figure 1.14** Abdominal quadrants and regions with labels for identification.
 
@@ -546,11 +546,11 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
 | hypogastric         |        |
 | right iliac         |        |
 
-![](_page_19_Figure_0.jpeg)
+![](images/_page_19_Figure_0.jpeg)
 
 Figure 1.15 Organ Systems I.
 
-![](_page_20_Figure_0.jpeg)
+![](images/_page_20_Figure_0.jpeg)
 
 Figure 1.16 Organ Systems II.
 
@@ -680,7 +680,7 @@ d. skeletal system
 
 ## **Post Lab Activity 1.3: Crossword Puzzles**
 
-![](_page_25_Picture_1.jpeg)
+![](images/_page_25_Picture_1.jpeg)
 
 **Figure 1.17** Systems of the body.
 
@@ -698,7 +698,7 @@ d. skeletal system
 - Provides support and levers on which the muscular system can act (8)
 - Provides oxygen into the blood (11)
 
-![](_page_26_Picture_0.jpeg)
+![](images/_page_26_Picture_0.jpeg)
 
 **Figure 1.18** Body cavities.
 
@@ -976,7 +976,7 @@ In this laboratory session you will learn to use an essential tool in the biolog
 
 ## **Prelab Activities**
 
-![](_page_34_Picture_1.jpeg)
+![](images/_page_34_Picture_1.jpeg)
 
 **Figure 2.1** Components of a Typical Bright Field Microscope.
 
@@ -1039,7 +1039,7 @@ Student scopes used in our classes have four objective lenses (i.e., those that 
 - Plug the microscope into the plug on your workbench.
 - Identify the parts of the microscope and label them with labeling tape.
 
-![](_page_37_Figure_0.jpeg)
+![](images/_page_37_Figure_0.jpeg)
 
 **Figure 2.2** Components of a Typical Bright Field Microscope, labelled.
 
@@ -1117,7 +1117,7 @@ How to determine the field of view:
 - Obtain a prepared slide that has a ruler and place it onto the stage.
 - Adjust the ruler so that the edge of the ruler is visible as a series of tic marks/lines that lie across the diameter or the field of view as in the figure below.
 
-![](_page_39_Picture_14.jpeg)
+![](images/_page_39_Picture_14.jpeg)
 
 **Figure 2.3** Field of View Diameter Measured in a Microscope with a Metric Ruler.
 
@@ -1342,7 +1342,7 @@ Identify the stages of mitosis and briefly describe their appearance.
 
 Using your textbook identify the following structures of the cell.
 
-![](_page_47_Picture_2.jpeg)
+![](images/_page_47_Picture_2.jpeg)
 
 Figure 3.1 Diagram of the cell.
 
@@ -1359,7 +1359,7 @@ Figure 3.1 Diagram of the cell.
 
 Cell Membrane Structure; Label the structures in this diagram of a typical cell membrane.
 
-![](_page_48_Picture_2.jpeg)
+![](images/_page_48_Picture_2.jpeg)
 
 **Figure 3.2** Diagram of the cell membrane.
 
@@ -1369,7 +1369,7 @@ a) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ b) \_\_\_\_\_\_\_\_\_\_\_\
 
 Cell Cycle: In the space below draw the phases and stages of the cell cycle:
 
-![](_page_49_Picture_2.jpeg)
+![](images/_page_49_Picture_2.jpeg)
 
 Define the following terms associated with the cell cycle.
 
@@ -1421,11 +1421,11 @@ Define the following terms associated with the cell cycle.
 - Mitochondria
 - Peroxisome
 
-![](_page_50_Figure_28.jpeg)
+![](images/_page_50_Figure_28.jpeg)
 
 **Figure 3.3** A Typical Animal Cell with Labeled Organelles.
 
-![](_page_51_Picture_0.jpeg)
+![](images/_page_51_Picture_0.jpeg)
 
 **Figure 3.4** Diagram of the Cell.
 
@@ -1452,7 +1452,7 @@ Review the material related to the composition of a cell's membrane. You should 
 
 ## **Components of the cell membrane continued.**
 
-![](_page_52_Picture_1.jpeg)
+![](images/_page_52_Picture_1.jpeg)
 
 **Figure 3.5** The Cell Membrane, also called the Plasma Membrane or Plasmalemma.
 
@@ -1464,7 +1464,7 @@ Review the material related to the composition of a cell's membrane. You should 
 - Once you are done, have another group check your accuracy. Make corrections if needed.
 - Then, have your Instructor or Lab Instructor check your accuracy. Identify the following structures and their function in the model below:
 
-![](_page_53_Figure_6.jpeg)
+![](images/_page_53_Figure_6.jpeg)
 
 **Figure 3.6** Classroom Model of an Animal Cell: 3B Scientific
 
@@ -1535,9 +1535,9 @@ Using the information in table 3.2 review the cells structures and function(s) t
 
 In the spaces provided below draw the cell at 400X. Label the parts of the cell that you can see; for example, the nucleus, nucleolus, striations, intercalated disc, cytoplasm, dendrite(s), axon, and plasma membrane. When possible, indicate the color of stain used on the tissue.
 
-![](_page_58_Picture_8.jpeg)
+![](images/_page_58_Picture_8.jpeg)
 
-![](_page_59_Picture_0.jpeg)
+![](images/_page_59_Picture_0.jpeg)
 
 Simple Cuboidal Epithelium
 
@@ -1547,7 +1547,7 @@ Simple Cuboidal Epithelium
 
 Examine the phases of the cell cycle.
 
-![](_page_60_Figure_5.jpeg)
+![](images/_page_60_Figure_5.jpeg)
 
 **Figure 3.20:**The Eukaryotic Cell Cycle.
 
@@ -1563,7 +1563,7 @@ Be able to identify mitosis and meiosis and distinguish them from one another.
 - Telophase
 - Cytokinesis
 
-![](_page_60_Figure_20.jpeg)
+![](images/_page_60_Figure_20.jpeg)
 
 **Figure 3.21 A series of cell diagrams showing the mitosis division of eukaryotic cells.** 
 
@@ -1571,13 +1571,13 @@ Be able to identify mitosis and meiosis and distinguish them from one another.
 
 On this page you will find two photos of cells undergoing mitosis in the whitefish blastula. Use these images to test your ability to recognize the phases of mitosis. Identify and label the five stages of mitosis as well as interphase.
 
-![](_page_61_Figure_2.jpeg)
+![](images/_page_61_Figure_2.jpeg)
 
 a
 
 **Figure 3.22a** Bright Field Microscopy Image of Root Meristem of Onion Showing Cells in Prophase, Metaphase, Anaphase, Telophase of Mitosis (Magnification: 1600x)
 
-![](_page_61_Picture_5.jpeg)
+![](images/_page_61_Picture_5.jpeg)
 
 b
 
@@ -1588,7 +1588,7 @@ Examine the phases of mitosis from the figures below.
 - Obtain a slide of whitefish blastulas. View the slide using a total magnification of 100X, then 400X.
 - Search through the blastula cells and locate **two (2)** of each phase: interphase, prophase, metaphase, and anaphase. As you work, have a fellow classmate and/or your instructor verify your accuracy.
 
-![](_page_62_Figure_4.jpeg)
+![](images/_page_62_Figure_4.jpeg)
 
 **Figure 3.23** Stages of Mitosis and Cytokinesis.
 
@@ -1634,7 +1634,7 @@ Examine the phases of mitosis from the figures below.
 
 Complete the crosword activity.
 
-![](_page_65_Picture_2.jpeg)
+![](images/_page_65_Picture_2.jpeg)
 
 **Figure 3.24** The Cell.
 
@@ -1673,7 +1673,7 @@ Label the following stages of the nucleus and of mitosis
 
 ### **Cell nucleus**
 
-![](_page_68_Picture_4.jpeg)
+![](images/_page_68_Picture_4.jpeg)
 
 **Figure 3.25** The Cell Nucleus.
 
@@ -1692,7 +1692,7 @@ Label the following stages of the nucleus and of mitosis
 
 ### **Strages of Mitosis**
 
-![](_page_69_Picture_1.jpeg)
+![](images/_page_69_Picture_1.jpeg)
 
 **Figure 3.26** Label the Stages of the Cell Cycle and Mitosis.
 
@@ -1886,7 +1886,7 @@ The Cell:
 
 # **Chapter 4: Histology/Tissues**
 
-![](_page_75_Picture_1.jpeg)
+![](images/_page_75_Picture_1.jpeg)
 
 **Figure 4.1 Slide Underneath a Microscope.**
 
@@ -2027,7 +2027,7 @@ The shape of the cells in a single layer is indicative of the function of the ce
 
 ### **Lab Activities**
 
-![](_page_79_Figure_6.jpeg)
+![](images/_page_79_Figure_6.jpeg)
 
 **Figure 4.2** Identification of Epithelial Tissues.
 
@@ -2114,13 +2114,13 @@ Using a light microscope review the tissues assigned by your Lab Instructor at a
 
 ## **Connective Tissue**
 
-![](_page_84_Picture_1.jpeg)
+![](images/_page_84_Picture_1.jpeg)
 
-![](_page_84_Picture_2.jpeg)
+![](images/_page_84_Picture_2.jpeg)
 
-![](_page_84_Picture_3.jpeg)
+![](images/_page_84_Picture_3.jpeg)
 
-![](_page_84_Picture_5.jpeg)
+![](images/_page_84_Picture_5.jpeg)
 
 **Figure 4.9** Connective Tissues Illustration: Connective Tissue Types.
 
@@ -2257,31 +2257,31 @@ Using a light microscope review the tissues assigned by your Lab Instructor at a
 - the tissue types and
 - the locations for each tissue below
 
-![](_page_89_Picture_4.jpeg)
+![](images/_page_89_Picture_4.jpeg)
 
-![](_page_89_Picture_5.jpeg)
+![](images/_page_89_Picture_5.jpeg)
 
 4. **Fig. 4.13**
 
-![](_page_89_Picture_7.jpeg)
+![](images/_page_89_Picture_7.jpeg)
 
 2. **Fig. 4.11**
 
-![](_page_89_Picture_9.jpeg)
+![](images/_page_89_Picture_9.jpeg)
 
 5. **Fig. 4.14**
 
-![](_page_89_Picture_11.jpeg)
+![](images/_page_89_Picture_11.jpeg)
 
 3. **Fig. 4.12**
 
-![](_page_89_Picture_13.jpeg)
+![](images/_page_89_Picture_13.jpeg)
 
 ## **Crosswords:**
 
 Match the following tissue with its function or location.
 
-![](_page_90_Picture_3.jpeg)
+![](images/_page_90_Picture_3.jpeg)
 
 #### **Across**
 
@@ -2303,41 +2303,41 @@ Match the following tissue with its function or location.
 
 ## **Areolar**
 
-![](_page_91_Picture_2.jpeg)
+![](images/_page_91_Picture_2.jpeg)
 
 **Figure 4.16** 
 
-![](_page_91_Picture_4.jpeg)
+![](images/_page_91_Picture_4.jpeg)
 
 **Figure 4.17** Areolar Tissue (Tissue spread).
 
 ### **Regular dense connective tissue**
 
-![](_page_91_Picture_7.jpeg)
+![](images/_page_91_Picture_7.jpeg)
 
 **Figure 4.18** Dense Regular Connective Tissue.
 
 ## **Irregular Dense Connective Tissue**
 
-![](_page_91_Picture_10.jpeg)
+![](images/_page_91_Picture_10.jpeg)
 
 **Figure 4.19** Cross Section: Hyaline Cartilage**.**
 
 ### **Elastic Cartilage**
 
-![](_page_91_Picture_13.jpeg)
+![](images/_page_91_Picture_13.jpeg)
 
 **Figure 4.20** Elastic Cartilage**.**
 
 ## **Fibrous Cartilage**
 
-![](_page_91_Picture_16.jpeg)
+![](images/_page_91_Picture_16.jpeg)
 
 **Figure 4.21** Fibrous Cartilage.
 
 ### **Bone**
 
-![](_page_92_Picture_1.jpeg)
+![](images/_page_92_Picture_1.jpeg)
 
 **Figure 4.22** 100X
 
@@ -2345,25 +2345,25 @@ Match the following tissue with its function or location.
 
 ### **Tissues**
 
-![](_page_92_Picture_5.jpeg)
+![](images/_page_92_Picture_5.jpeg)
 
-![](_page_92_Picture_7.jpeg)
+![](images/_page_92_Picture_7.jpeg)
 
 **Figure 4.23** Bone **Figure 4.24** Fibrous Cartilage.
 
-![](_page_93_Picture_0.jpeg)
+![](images/_page_93_Picture_0.jpeg)
 
 **Figure 4.25** Elastic Cartilage
 
-![](_page_93_Picture_2.jpeg)
+![](images/_page_93_Picture_2.jpeg)
 
 **Figure 4.26** Loose Areolar Tissue**.**
 
-![](_page_93_Picture_4.jpeg)
+![](images/_page_93_Picture_4.jpeg)
 
 **Figure 4.27** White Fibrous Connective Tissue, Longitudinal Section (Tendon).
 
-![](_page_93_Picture_6.jpeg)
+![](images/_page_93_Picture_6.jpeg)
 
 **Figure 4.28** Adipose Tissue (Cross Section).
 
@@ -2541,7 +2541,7 @@ Match the following tissue with its function or location.
 
 ## **Chapter 5: Integumentary System**
 
-![](_page_97_Picture_1.jpeg)
+![](images/_page_97_Picture_1.jpeg)
 
 **Figure 5.1** The Integumentary System.
 
@@ -2624,7 +2624,7 @@ Using your textbook define or identify the following layers.
 
 Using your textbook define or identify the following layers.
 
-![](_page_101_Picture_2.jpeg)
+![](images/_page_101_Picture_2.jpeg)
 
 **Figure 5.2** The Integumentary System.
 
@@ -2640,7 +2640,7 @@ Using your textbook define or identify the following layers.
 
 ## **Integumentary System**
 
-![](_page_102_Picture_2.jpeg)
+![](images/_page_102_Picture_2.jpeg)
 
 **Figure 5.3** Photomicrograph of a Section of Thick Skin.
 
@@ -2661,15 +2661,15 @@ The Integumentary system functions include but are not limited to the following 
 - Epidermis
 - Dermis
 
-![](_page_103_Picture_4.jpeg)
+![](images/_page_103_Picture_4.jpeg)
 
-![](_page_103_Picture_5.jpeg)
+![](images/_page_103_Picture_5.jpeg)
 
 **Figure 5.4** Diagram of the Integument Layers.
 
 ### **Epidermal Layers and their Function**
 
-![](_page_103_Picture_8.jpeg)
+![](images/_page_103_Picture_8.jpeg)
 
 **Figure 5.5 Layers of the Epidermis**
 
@@ -2702,7 +2702,7 @@ The Integumentary system functions include but are not limited to the following 
 
 ## **Anatomy of the Epidermis**
 
-![](_page_105_Picture_1.jpeg)
+![](images/_page_105_Picture_1.jpeg)
 
 **Figure 5.6 Layers of the Integumentary system. Comparison of the structure of thick skin vs thin skin.** 
 
@@ -2736,7 +2736,7 @@ The Integumentary system functions include but are not limited to the following 
   - o Locate the papillary ridge.
   - o Identify the type of connective tissue in each layer.
 
-![](_page_106_Picture_7.jpeg)
+![](images/_page_106_Picture_7.jpeg)
 
 **Figure 5.7** Epidermis, Papillary Dermis and Reticular Dermis.
 
@@ -2765,7 +2765,7 @@ The Integumentary system functions include but are not limited to the following 
 - o Keratinocyte
 - o Melanocyte
 
-![](_page_107_Picture_20.jpeg)
+![](images/_page_107_Picture_20.jpeg)
 
 **Figure 5.8** Anatomy of Human Skin.
 
@@ -2809,7 +2809,7 @@ Describe the function of each of the listed dermal structures.
 
 The epidermis consists of stratified epithelial tissue which is primarily composed of keratinocytes. Keratinocytes produce the protein keratin which waterproofs the cells as well as provides additional strength and protection. Other cells found within this layer are the melanocytes, which produce the pigment melanin and the Langerhans cells that provide an immune function.
 
-![](_page_109_Picture_2.jpeg)
+![](images/_page_109_Picture_2.jpeg)
 
 **Figure 5.9** Structure of the Epidermis.
 
@@ -2834,11 +2834,11 @@ Epidermal Layers: the layers or strata progression from the superficial to the d
 
 Melanocytes. Melanocytes are located in the stratum basale as can be noted in figures 5.10 & 5.11.
 
-![](_page_110_Picture_2.jpeg)
+![](images/_page_110_Picture_2.jpeg)
 
 **Figure 5.10** Epidermis with Melanocyte.
 
-![](_page_110_Picture_4.jpeg)
+![](images/_page_110_Picture_4.jpeg)
 
 **Figure 5.11** Examples of Melanocytes in the Basal Layer of the Epidermis.
 
@@ -2849,13 +2849,13 @@ Melanocytes. Melanocytes are located in the stratum basale as can be noted in fi
 - Papillary layer
 - Reticular layer
 
-![](_page_111_Picture_4.jpeg)
+![](images/_page_111_Picture_4.jpeg)
 
 **Figure 5.12** Layers of the dermis.
 
 ## **Hypodermis (Subcutaneous)**
 
-![](_page_111_Picture_7.jpeg)
+![](images/_page_111_Picture_7.jpeg)
 
 **Figure 5.13** Anatomy of the Skin.
 
@@ -2865,7 +2865,7 @@ Using a model or diagram of the integumentary system, identify and describe the 
 
 • Dermal papillae • Hair shaft • Hair root • Hair follicle • Pore • Arrector pili muscle
 
-![](_page_112_Figure_3.jpeg)
+![](images/_page_112_Figure_3.jpeg)
 
 **Figure 5.14.** 
 
@@ -2923,7 +2923,7 @@ Match the following terms with the correct parts in figure 5.15.
 | Free<br>nerve<br>ending |                       |
 | Hair shaft              |                       |
 
-![](_page_115_Picture_3.jpeg)
+![](images/_page_115_Picture_3.jpeg)
 
 **Figure 5.15** Anatomy of Human Skin Sans Labels.
 
@@ -2953,7 +2953,7 @@ Match the statement blank with the correct answer.
 
 **Crossword Puzzle:** Complete the following crossword puzzle.
 
-![](_page_117_Figure_2.jpeg)
+![](images/_page_117_Figure_2.jpeg)
 
 **Figure 5.16 The Integumentary System**
 
@@ -2986,7 +2986,7 @@ Match the statement blank with the correct answer.
 
 Label the layers and structures of the epidermis.
 
-![](_page_119_Picture_3.jpeg)
+![](images/_page_119_Picture_3.jpeg)
 
 **Figure 5.17** Layers of the Epidermis.
 
@@ -3000,7 +3000,7 @@ Using the picture below, identify the substructures within the following accesso
 - Sebaceous gland
 - Apocrine sweat gland
 
-![](_page_120_Picture_8.jpeg)
+![](images/_page_120_Picture_8.jpeg)
 
 **Figure 5.18** Illustration from Anatomy & Physiology of the Epidermis**.**
 
@@ -3149,7 +3149,7 @@ Using the picture below, identify the substructures within the following accesso
 
 # **Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy**
 
-![](_page_125_Picture_1.jpeg)
+![](images/_page_125_Picture_1.jpeg)
 
 **Figure 6.1** An Articulated Skeleton.
 
@@ -3256,7 +3256,7 @@ canal
 
 ## **Labeling**
 
-![](_page_129_Figure_2.jpeg)
+![](images/_page_129_Figure_2.jpeg)
 
 **Figure 6.2** Numbered Human Skeleton.
 
@@ -3295,7 +3295,7 @@ Identify the bones or regions on Figure 6.2. Indicate whether they belong to the
 
 Bones of the skeletal system.
 
-![](_page_131_Picture_2.jpeg)
+![](images/_page_131_Picture_2.jpeg)
 
 **Figure 6.3** Bones of the Skeletal System.
 
@@ -3303,13 +3303,13 @@ Bones of the skeletal system.
 
 ## **Axial Skeleton**
 
-![](_page_132_Picture_2.jpeg)
+![](images/_page_132_Picture_2.jpeg)
 
 **Figure 6.4** Axial Skeleton.
 
 ## **Appendicular Skeleton**
 
-![](_page_133_Picture_1.jpeg)
+![](images/_page_133_Picture_1.jpeg)
 
 **Figure 6.5** Appendicular Skeleton.
 
@@ -3364,13 +3364,13 @@ Review the Information in this table before moving on to the next activity.
 - Use the information from your text and Table 6.2 to locate and identify the features in table 6.2 .
 - When you identify a feature, label it using tape and have your group mates confirm the identification. Ask your instructor to confirm your identification.
 
-![](_page_136_Picture_0.jpeg)
+![](images/_page_136_Picture_0.jpeg)
 
 **Figure 6.6** Examples of bone markings. Labeled bone markings, Examples of processes formed where tendons or ligaments attach, processes formed to articulate with adjacent bones, elevation or depressions, and openings.
 
 ### **Bone Classification based on Shape.**
 
-![](_page_137_Picture_1.jpeg)
+![](images/_page_137_Picture_1.jpeg)
 
 **Figure 6.7** Classification of Bones Based on Shape.
 
@@ -3390,31 +3390,31 @@ Review the Information in this table before moving on to the next activity.
 
 ## **Example of Flat Bones**
 
-![](_page_138_Picture_3.jpeg)
+![](images/_page_138_Picture_3.jpeg)
 
 **Figure 6.8** Flat bones in the Skeleton.
 
 ## **Anatomy of the Flat Bone**
 
-![](_page_139_Picture_1.jpeg)
+![](images/_page_139_Picture_1.jpeg)
 
 **Figure 6.9** Anatomy of a Flat Bone.
 
 ### **Long Bones of the Skeleton**
 
-![](_page_139_Picture_4.jpeg)
+![](images/_page_139_Picture_4.jpeg)
 
 **Figure 6.10** Long bones – Anterior View Shown in Red.
 
 ## **Gross Anatomy of the Long Bone**
 
-![](_page_140_Picture_1.jpeg)
+![](images/_page_140_Picture_1.jpeg)
 
 **Figure 6.11** Gross Anatomy of the Long Bone.
 
 The cross-section of a long bone epiphysis.
 
-![](_page_141_Picture_1.jpeg)
+![](images/_page_141_Picture_1.jpeg)
 
 **Figure 6.12** The Cross-Section of a Bone.
 
@@ -3432,17 +3432,17 @@ The cross-section of a long bone epiphysis.
 - Take a picture of your work for later reference.
 - Have a lab mate from another group verify the identifications.
 
-![](_page_142_Picture_6.jpeg)
+![](images/_page_142_Picture_6.jpeg)
 
 **Figure 6.13** Compact and Spongy Bone Cross Section.
 
 ## **Compact Bone Osteons**
 
-![](_page_143_Picture_1.jpeg)
+![](images/_page_143_Picture_1.jpeg)
 
 **Figure 6.14** Transverse Section of an Osteocyte.
 
-![](_page_143_Picture_3.jpeg)
+![](images/_page_143_Picture_3.jpeg)
 
 **Figure 6.15** Photomicrograph of compact bone.
 
@@ -3455,7 +3455,7 @@ The cross-section of a long bone epiphysis.
 
 ## **Spongy Bone**
 
-![](_page_144_Picture_1.jpeg)
+![](images/_page_144_Picture_1.jpeg)
 
 **Figure 6.16** Spongy Bone.
 
@@ -3488,7 +3488,7 @@ The cross-section of a long bone epiphysis.
 
 Complete the following crossword puzzles.
 
-![](_page_146_Picture_4.jpeg)
+![](images/_page_146_Picture_4.jpeg)
 
 **Figure 6.17** Bone Features.
 
@@ -3504,7 +3504,7 @@ Complete the following crossword puzzles.
 - **3** On a bone, a(n) \_\_\_\_\_ is a narrow ridge. A(n) \_\_\_\_\_ is a smaller version. (5,4)
 - **5** A raised area on a condyle is called a(n) \_\_\_\_\_. (10)
 
-![](_page_147_Picture_0.jpeg)
+![](images/_page_147_Picture_0.jpeg)
 
 **Figure 6.18** Bone Structure.
 
@@ -3544,7 +3544,7 @@ Complete the following crossword puzzles.
 
 Label the structures within the bone.
 
-![](_page_149_Picture_3.jpeg)
+![](images/_page_149_Picture_3.jpeg)
 
 **Figure 6.19** Diagram of the Compact and Spongy Bone.
 
@@ -3562,7 +3562,7 @@ Label the structures within the bone.
 
 • **Down: 1** Osteocytes, **2** Blastocyte, **3** Canaliculi, **4** Osteoclasts, **5** Osteoblast.
 
-![](_page_150_Picture_7.jpeg)
+![](images/_page_150_Picture_7.jpeg)
 
 | Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy |                                                                               |  |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------|--|
@@ -3652,7 +3652,7 @@ Label the structures within the bone.
 
 # **Chapter 7: Skeletal System, the Axial Skeleton**
 
-![](_page_153_Picture_1.jpeg)
+![](images/_page_153_Picture_1.jpeg)
 
 **Figure 7.1** Human Skeleton.
 
@@ -3767,7 +3767,7 @@ Define the following key terms: axial skeleton.
 
 On the image below circle and label the axial and appendicular portions of the skeleton.
 
-![](_page_156_Picture_4.jpeg)
+![](images/_page_156_Picture_4.jpeg)
 
 **Figure 7.2** Anterior Aspect of a Human Skeleton.
 
@@ -3788,17 +3788,17 @@ Identify and label the following bones in the axial skeleton.
   - o Lumbar vertebrae
   - o Coccyx
 
-![](_page_157_Picture_15.jpeg)
+![](images/_page_157_Picture_15.jpeg)
 
 **Figure 7.3** Unlabeled Axial Skeleton.
 
 Label the bones, sutures, and the features of the diagrams 7.4 and 7.5.
 
-![](_page_158_Picture_1.jpeg)
+![](images/_page_158_Picture_1.jpeg)
 
 **Figure 7.4** Adult Skulls (Frontal and Lateral Views).
 
-![](_page_159_Figure_0.jpeg)
+![](images/_page_159_Figure_0.jpeg)
 
 **Figure 7.5** Superior View of the Cranium
 
@@ -3859,13 +3859,13 @@ Note if you are part of an online course and are completing this lab remotely, y
 
 The skeletal system can be divided into two divisions, the axial and the appendicular divisions. The axial skeleton forms the main axis of the body. It includes the skull, the vertebral column, and the rib cage (see Figure 7.6). The appendicular skeleton consists of all of the bones of the limbs , including the girdles.
 
-![](_page_162_Picture_3.jpeg)
+![](images/_page_162_Picture_3.jpeg)
 
 **Figure 7.6** Organization of the Skeleton.
 
 ## **Axial Skeleton**
 
-![](_page_163_Picture_1.jpeg)
+![](images/_page_163_Picture_1.jpeg)
 
 **Figure 7.7** Labeled Diagram of the Axial Skeleton.
 
@@ -3880,7 +3880,7 @@ Activity: In this exercise the objective is to do the following:
 - Identify the bones and structures that form the nasal septum and nasal conchae and locate the hyoid bone.
 - Identify the bony openings and markings of the skull.
 
-![](_page_163_Picture_11.jpeg)
+![](images/_page_163_Picture_11.jpeg)
 
 **Figure 7.8** Cranial Bones and Suture (Lateral View).
 
@@ -3945,75 +3945,75 @@ As you prepare for the upcoming lab practical you should take pictures of the sk
 - Vomer
 - Mandible
 
-![](_page_165_Picture_0.jpeg)
+![](images/_page_165_Picture_0.jpeg)
 
 **Figure 7.9** Anterior View of the Skull**.**
 
-![](_page_166_Picture_0.jpeg)
+![](images/_page_166_Picture_0.jpeg)
 
 **Figure 7.10** Lateral View of the Skull.
 
-![](_page_166_Picture_2.jpeg)
+![](images/_page_166_Picture_2.jpeg)
 
 **Figure 7.11** Illustration of the Temporal Bone.
 
-![](_page_167_Figure_0.jpeg)
+![](images/_page_167_Figure_0.jpeg)
 
 **Figure 7.12** Posterior View of the Skull.
 
-![](_page_168_Figure_0.jpeg)
+![](images/_page_168_Figure_0.jpeg)
 
 **Figure 7.13** Superior and Inferior Views of the Skull.
 
 ### **The Sphenoid Bone**
 
-![](_page_169_Picture_1.jpeg)
+![](images/_page_169_Picture_1.jpeg)
 
-![](_page_169_Picture_3.jpeg)
+![](images/_page_169_Picture_3.jpeg)
 
 **Figure 7.14** Illustration of the Sphenoid Bone.
 
-![](_page_170_Figure_0.jpeg)
+![](images/_page_170_Figure_0.jpeg)
 
 **Figure 7.15 Sagittal Section of the Skull: Cranial and Facial Bones**
 
 ## **Skull: Facial Bones**
 
-![](_page_170_Picture_3.jpeg)
+![](images/_page_170_Picture_3.jpeg)
 
 **Figure 7.16** Facial Bones.
 
 ## **Medial Views of the Nasal Cavity**
 
-![](_page_171_Picture_1.jpeg)
+![](images/_page_171_Picture_1.jpeg)
 
 **Figure 7.17** Nasal Cavity.
 
-![](_page_171_Picture_3.jpeg)
+![](images/_page_171_Picture_3.jpeg)
 
 **Figure 7.18** Nasal Cavity Bones.
 
 ## **Maxilla**
 
-![](_page_172_Picture_1.jpeg)
+![](images/_page_172_Picture_1.jpeg)
 
 **Figure 7.19** The Maxilla.
 
 ## **Mandible**
 
-![](_page_172_Picture_5.jpeg)
+![](images/_page_172_Picture_5.jpeg)
 
 **Figure 7.20** Mandible
 
 ## **Orbital Socket**
 
-![](_page_173_Picture_1.jpeg)
+![](images/_page_173_Picture_1.jpeg)
 
 **Figure 7.21** Bones Forming the Orbit.
 
 ## **Hyoid Bone**
 
-![](_page_173_Picture_4.jpeg)
+![](images/_page_173_Picture_4.jpeg)
 
 **Figure 7.22** Hyoid Bone.
 
@@ -4041,57 +4041,57 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 
 ## **Vertebral Column**
 
-![](_page_175_Picture_1.jpeg)
+![](images/_page_175_Picture_1.jpeg)
 
 **Figure 7.23** Vertebral Column with Labelled Curves.
 
 ## **Vertebrae**
 
-![](_page_176_Picture_2.jpeg)
+![](images/_page_176_Picture_2.jpeg)
 
 **Figure 7.24** Types of Vertebrae.
 
 ## **General Markings and Projections**
 
-![](_page_176_Picture_5.jpeg)
+![](images/_page_176_Picture_5.jpeg)
 
 **Figure 7.25** Vertebral Markings and Projections.
 
 ## **Cervical Vertebrae**
 
-![](_page_177_Picture_1.jpeg)
+![](images/_page_177_Picture_1.jpeg)
 
-![](_page_177_Picture_2.jpeg)
+![](images/_page_177_Picture_2.jpeg)
 
-![](_page_177_Picture_4.jpeg)
+![](images/_page_177_Picture_4.jpeg)
 
-![](_page_177_Picture_5.jpeg)
+![](images/_page_177_Picture_5.jpeg)
 
-![](_page_177_Picture_7.jpeg)
+![](images/_page_177_Picture_7.jpeg)
 
 **Figure 7.26** Cervical Vertebrae.
 
 ## **Thoracic Vertebrae**
 
-![](_page_178_Picture_1.jpeg)
+![](images/_page_178_Picture_1.jpeg)
 
 **Figure 7.27** Thoracic Vertebrae.
 
 ### **Lumbar Vertebrae**
 
-![](_page_178_Picture_4.jpeg)
+![](images/_page_178_Picture_4.jpeg)
 
 **Figure 7.28** Lumbar Vertebrae.
 
 ## **Sacrum and Coccyx**
 
-![](_page_179_Picture_1.jpeg)
+![](images/_page_179_Picture_1.jpeg)
 
 **Figure 7.29** Sacrum and Coccyx.
 
 ## **Rib Cage**
 
-![](_page_179_Picture_4.jpeg)
+![](images/_page_179_Picture_4.jpeg)
 
 **Figure 7.30** Ribs and Sternum.
 
@@ -4152,7 +4152,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 
 ## **Identifications**
 
-![](_page_182_Picture_2.jpeg)
+![](images/_page_182_Picture_2.jpeg)
 
 **Figure 7.31** Human Skull Illustration (Anterior View).
 
@@ -4171,7 +4171,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 | 9                        |       |
 | 10                       |       |
 
-![](_page_183_Picture_0.jpeg)
+![](images/_page_183_Picture_0.jpeg)
 
 **Figure 7.32** Human Skull Illustration (Lateral View).
 
@@ -4191,7 +4191,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 | 10                       |       |
 | 11                       |       |
 
-![](_page_184_Picture_0.jpeg)
+![](images/_page_184_Picture_0.jpeg)
 
 **Figure 7.33** Inferior aspect of the Skull: Identify the Following Bones and Features.
 
@@ -4213,7 +4213,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 | 12                       |                   |
 | 13                       |                   |
 
-![](_page_185_Figure_0.jpeg)
+![](images/_page_185_Figure_0.jpeg)
 
 **Figure 7.34** Superior aspect of the Skull: Identify the Following Bones and Features.
 
@@ -4235,13 +4235,13 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 | 11             | ID the bone       |
 | 12             | ID the bone       |
 
-![](_page_186_Figure_0.jpeg)
+![](images/_page_186_Figure_0.jpeg)
 
 **Figure 7.35.** Human Skeleton (Anterior View) [LadyofHats,](https://commons.wikimedia.org/wiki/User:LadyofHats) derivative work. Identify and label all of the bones and features of the axial skeleton area.
 
 Complete the following crossword puzzle.
 
-![](_page_187_Picture_2.jpeg)
+![](images/_page_187_Picture_2.jpeg)
 
 **Figure 7.36** Bone Anatomy.
 
@@ -4483,7 +4483,7 @@ Name the bones.
 
 # **Chapter 8: Skeletal System: Appendicular division**
 
-![](_page_195_Picture_1.jpeg)
+![](images/_page_195_Picture_1.jpeg)
 
 **Figure 8.1** The Appendicular Skeleton
 
@@ -4606,7 +4606,7 @@ Name the bones.
 
 Label the appendicular skeletal bones.
 
-![](_page_198_Picture_2.jpeg)
+![](images/_page_198_Picture_2.jpeg)
 
 **Figure 8.2** Unlabeled Human Skeleton.
 
@@ -4618,11 +4618,11 @@ Label the appendicular skeletal bones.
 - Have your instructor review your work for correctness.
 - Then take a picture of your finished work for later review.
 
-![](_page_199_Picture_7.jpeg)
+![](images/_page_199_Picture_7.jpeg)
 
 **Figure 8.3** The Appendicular Skeleton.
 
-![](_page_200_Figure_0.jpeg)
+![](images/_page_200_Figure_0.jpeg)
 
 **Figure 8.4** Bones of the Appendicular Skeleton (Anterior View).
 
@@ -4648,21 +4648,21 @@ Label the appendicular skeletal bones.
   - o Coracoid process
   - o Glenoid fossa/cavity
 
-![](_page_201_Picture_16.jpeg)
+![](images/_page_201_Picture_16.jpeg)
 
 **Figure 8.6** Anterior and Posterior View of the Pectoral Girdle.
 
 ## **The Clavicles**
 
-![](_page_202_Picture_1.jpeg)
+![](images/_page_202_Picture_1.jpeg)
 
 **Figure 8.7** The Clavicle. Top view shows the anterior side of the left clavicle; Bottom view shows the posterior side of the left clavicle.
 
 ## **The Scapula**
 
-![](_page_202_Picture_4.jpeg)
+![](images/_page_202_Picture_4.jpeg)
 
-![](_page_202_Picture_5.jpeg)
+![](images/_page_202_Picture_5.jpeg)
 
 **Figure 8.8** The Scapula (Anterior and Posterior Aspects).
 
@@ -4690,11 +4690,11 @@ Label the appendicular skeletal bones.
 - o Medial epicondyle
 - o Lateral epicondyle
 
-![](_page_203_Picture_17.jpeg)
+![](images/_page_203_Picture_17.jpeg)
 
 **Figure 8.9** Humerus (Posterior View).
 
-![](_page_204_Picture_0.jpeg)
+![](images/_page_204_Picture_0.jpeg)
 
 Figure 8.10 The Humerus and Elbow.
 
@@ -4713,18 +4713,18 @@ Figure 8.10 The Humerus and Elbow.
 - o Head
 - o Radial tuberosity
 
-![](_page_205_Picture_11.jpeg)
+![](images/_page_205_Picture_11.jpeg)
 
 **Figure 8.11** Ulna and Radius.
 
 - **Hand**
   - o Carpals o Metacarpals o Phalanges
 
-![](_page_206_Picture_3.jpeg)
+![](images/_page_206_Picture_3.jpeg)
 
 **Figure 8.12a** Anatomy of the Hand (Anterior View).
 
-![](_page_206_Picture_5.jpeg)
+![](images/_page_206_Picture_5.jpeg)
 
 **Figure 8.12b** Anatomy of the Hand.
 
@@ -4769,13 +4769,13 @@ Ischiopubic ramus
 
 ## **Pelvis**
 
-![](_page_209_Picture_1.jpeg)
+![](images/_page_209_Picture_1.jpeg)
 
 Figure 8.14 The Pelvis.
 
 ## Pelvises: Female and Male
 
-![](_page_209_Picture_4.jpeg)
+![](images/_page_209_Picture_4.jpeg)
 
 **Figure 8.15** Female and Male Pelvic Girdles.
 
@@ -4799,7 +4799,7 @@ Figure 8.14 The Pelvis.
 
 • Patella
 
-![](_page_211_Picture_0.jpeg)
+![](images/_page_211_Picture_0.jpeg)
 
 Figure 8.16 Femur and Patella.
 
@@ -4817,7 +4817,7 @@ Fibula
 - o Head
 - o Lateral malleolus
 
-![](_page_212_Picture_9.jpeg)
+![](images/_page_212_Picture_9.jpeg)
 
 **Figure 8.17** Tibia and Fibula.
 
@@ -4836,7 +4836,7 @@ Fibula
 - Metatarsals
 - Phalanges
 
-![](_page_213_Picture_12.jpeg)
+![](images/_page_213_Picture_12.jpeg)
 
 **Figure 8.18** Bones of the Foot.
 
@@ -4874,19 +4874,19 @@ Fibula
 
 Label the appendicular skeletal bones.
 
-![](_page_215_Picture_4.jpeg)
+![](images/_page_215_Picture_4.jpeg)
 
 **Figure 8.19** The Human Skeleton.
 
 Identify and label seven (7) features of this bone (anterior view)
 
-![](_page_216_Picture_1.jpeg)
+![](images/_page_216_Picture_1.jpeg)
 
 **Figure 8.20** Anterior View of the Humerus.
 
 Identify and label all of the bones and their features of this structure.
 
-![](_page_216_Picture_4.jpeg)
+![](images/_page_216_Picture_4.jpeg)
 
 **Figure 8.21** The Pelvic Girdle **(Anterior View).**
 
@@ -4894,7 +4894,7 @@ Identify and label all of the bones and their features of this structure.
 
 Complete the crossword puzzle.
 
-![](_page_217_Figure_2.jpeg)
+![](images/_page_217_Figure_2.jpeg)
 
 **Figure 18.22** Appendicular skeleton.
 
@@ -5332,7 +5332,7 @@ In this exercise the objective is to do the following:
 
 A non-movable joint, such as the suture in the skull.
 
-![](_page_230_Picture_19.jpeg)
+![](images/_page_230_Picture_19.jpeg)
 
 **Figure 9.1** Synarthrosis Joints (e.g., the Sutures),
 
@@ -5340,7 +5340,7 @@ A non-movable joint, such as the suture in the skull.
 
 Slightly moveable joints: for example, joints of the vertebral column.
 
-![](_page_231_Picture_2.jpeg)
+![](images/_page_231_Picture_2.jpeg)
 
 **Figure 9.2** Posterolateral View of Vertebrae, Labelled Description.
 
@@ -5348,7 +5348,7 @@ Slightly moveable joints: for example, joints of the vertebral column.
 
 A freely mobile joint is classified as diarthrosis. An example would be any of the synovial joints such as the knee.
 
-![](_page_231_Picture_6.jpeg)
+![](images/_page_231_Picture_6.jpeg)
 
 **Figure 9.3** A Medical Illustration Depicting the Synovial Joint.
 
@@ -5379,7 +5379,7 @@ o Gomphosis
 
 • •
 
-![](_page_232_Picture_15.jpeg)
+![](images/_page_232_Picture_15.jpeg)
 
 **Figure 9.4** Types of Joints Based upon their Structure (L to R: Cartilaginous Joint, Fibrous Joint, and Synovial Joint).
 
@@ -5388,7 +5388,7 @@ o Gomphosis
 - Symphyses: a fibrocartilaginous fusion between two bones. (e.g., Pubic Symphysis)
 - Synchrondroses: bones joined by hyaline cartilage (ex. Epiphyseal Plate)
 
-![](_page_233_Picture_3.jpeg)
+![](images/_page_233_Picture_3.jpeg)
 
 **Figure 9.5** Examples of Cartilaginous Joints.
 
@@ -5398,7 +5398,7 @@ o Gomphosis
 - Syndesmosis joint between two parallel articulating bones such as the ulna and radius.
 - Gomphosis joint between the tooth and the alveolus or the mandible or maxillae. Held together by periodontal ligaments.
 
-![](_page_233_Picture_9.jpeg)
+![](images/_page_233_Picture_9.jpeg)
 
 **Figure 9.6** Examples of Fibrous Joints. (a. suture, b. syndesmosis, c. gomphosis).
 
@@ -5413,11 +5413,11 @@ o Gomphosis
 - Articular (synovial) cavity
 - Bursa
 
-![](_page_234_Picture_7.jpeg)
+![](images/_page_234_Picture_7.jpeg)
 
 **Figure 9.7** Synovial joint.
 
-![](_page_234_Picture_9.jpeg)
+![](images/_page_234_Picture_9.jpeg)
 
 **Figure 9.8** General View of a Synovial Joint (Medial Aspect).
 
@@ -5461,9 +5461,9 @@ This activity you will work as groups to identify the anatomy of the human knee.
 - Go to the storage area and obtain a model of the knee. The terms listed above are those you are expected to know and identify on the model.
 - Using colored labelling tape write down the term above and attach it to the model. When complete check with your Instructor on your accuracy.
 
-![](_page_236_Figure_13.jpeg)
+![](images/_page_236_Figure_13.jpeg)
 
-![](_page_236_Picture_16.jpeg)
+![](images/_page_236_Picture_16.jpeg)
 
 **Figure 9.10** Knee Joint.
 
@@ -5477,7 +5477,7 @@ In this section you will review and identify the movements of the synovial joint
 
 ## **Gliding Movements**
 
-![](_page_237_Picture_5.jpeg)
+![](images/_page_237_Picture_5.jpeg)
 
 **Figure 9.11** Gliding Movement.
 
@@ -5490,11 +5490,11 @@ In this section you will review and identify the movements of the synovial joint
 - Adduction
 - Circumduction
 
-![](_page_238_Picture_7.jpeg)
+![](images/_page_238_Picture_7.jpeg)
 
 **Figure 9.12** Angular Movements of Synovial Joints; Flexion and Extension of the Body Appendages and the Head.
 
-![](_page_238_Picture_9.jpeg)
+![](images/_page_238_Picture_9.jpeg)
 
 **Figure 9.13** Angular Movements – Abduction, Adduction, and Circumduction.
 
@@ -5506,7 +5506,7 @@ In this section you will review and identify the movements of the synovial joint
 - Left
 - Right
 
-![](_page_239_Picture_5.jpeg)
+![](images/_page_239_Picture_5.jpeg)
 
 **Figure 9.14** Rotation of the Head and Neck, and Lower Limb.
 
@@ -5521,7 +5521,7 @@ In this section you will review and identify the movements of the synovial joint
 - Depression
 - Reposition
 
-![](_page_239_Picture_14.jpeg)
+![](images/_page_239_Picture_14.jpeg)
 
 **Figure 9.15.** Special Movements. (Protraction and Retraction of the Mandible, Elevation and Depression of the Mandible, and Opposition and Reposition of the Fingers).
 
@@ -5535,7 +5535,7 @@ In this section you will review and identify the movements of the synovial joint
 - Inversion
 - Eversion
 
-![](_page_240_Picture_7.jpeg)
+![](images/_page_240_Picture_7.jpeg)
 
 **Figure 9.16** Special Movements: Pronation and Supination of the Hand, Dorsiflexion and Plantar Flexion of the Foot, and Inversion and Eversion of the Foot.
 
@@ -5557,7 +5557,7 @@ In this section you will review and identify the movements of the synovial joint
 
 **Complete the crossword puzzle below.**
 
-![](_page_241_Picture_3.jpeg)
+![](images/_page_241_Picture_3.jpeg)
 
 **Figure 9.17** The Articulations.
 
@@ -5605,11 +5605,11 @@ Label the following diagrams 9.17 and 9.18.
 - Medial meniscus
 - Lateral meniscus
 
-![](_page_244_Picture_12.jpeg)
+![](images/_page_244_Picture_12.jpeg)
 
 **Figure 9.18** Anatomy of the Knee, Sagittal View.
 
-![](_page_244_Picture_14.jpeg)
+![](images/_page_244_Picture_14.jpeg)
 
 **Figure 9.19** Superior View of the Right Tibia.
 
@@ -5663,7 +5663,7 @@ Label the following diagrams 9.17 and 9.18.
 
 # **Chapter 10: Skeletal Muscle Histology and Microanatomy**
 
-![](_page_247_Picture_1.jpeg)
+![](images/_page_247_Picture_1.jpeg)
 
 **Figure 10.1 Skeletal Muscle Histology**
 
@@ -5741,7 +5741,7 @@ The objectives of this lab are to complete the following:
 - Motor neuron
 - Axon terminal
 
-![](_page_249_Figure_0.jpeg)
+![](images/_page_249_Figure_0.jpeg)
 
 Figure 10.2 Skeletal Muscle Fiber.
 
@@ -5784,7 +5784,7 @@ Figure 10.2 Skeletal Muscle Fiber.
 
 Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.4.
 
-![](_page_251_Picture_3.jpeg)
+![](images/_page_251_Picture_3.jpeg)
 
 **Figure 10.3** Unlabeled Skeletal Muscle.
 
@@ -5803,7 +5803,7 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 
 ## Label the following structures of the skeletal muscle:
 
-![](_page_252_Picture_1.jpeg)
+![](images/_page_252_Picture_1.jpeg)
 
 **Figure 10.4** Unlabeled Muscle Fiber.
 
@@ -5830,7 +5830,7 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 
 ## **Muscle Tissue Types**
 
-![](_page_253_Picture_3.jpeg)
+![](images/_page_253_Picture_3.jpeg)
 
 **Figure 10.5** Three Muscle Types (L to R: Smooth, Cardiac, and Skeletal Muscles).
 
@@ -5908,7 +5908,7 @@ https://histology.medicine.umich.edu/
 - Heart, ventricle, H&E, 40X (cardiac muscle, intercalated discs). See Cardiovascular section. [https://histologyslides.med.umich.edu/Histology/Cardiovascular%20System/0](https://histologyslides.med.umich.edu/Histology/Cardiovascular%20System/098-1_HISTO_40X.htm) [98-1\\_HISTO\\_40X.htm](https://histologyslides.med.umich.edu/Histology/Cardiovascular%20System/098-1_HISTO_40X.htm)
 - Smooth muscle, Esophagus and stomach, H&E, 40X [https://histologyslides.med.umich.edu/Histology/Digestive%20System/Pharyn](https://histologyslides.med.umich.edu/Histology/Digestive%20System/Pharynx%20Esophagus%20and%20Stomach/155_HISTO_40X.htm) [x%20Esophagus%20and%20Stomach/155\\_HISTO\\_40X.htm](https://histologyslides.med.umich.edu/Histology/Digestive%20System/Pharynx%20Esophagus%20and%20Stomach/155_HISTO_40X.htm)
 
-![](_page_255_Picture_6.jpeg)
+![](images/_page_255_Picture_6.jpeg)
 
 **Figure 10.6** Three Types of Muscle Fibers.
 
@@ -5937,7 +5937,7 @@ Identify the following terms on a diagram or model.
   - o Tendon
   - o Aponeurosis
 
-![](_page_256_Picture_19.jpeg)
+![](images/_page_256_Picture_19.jpeg)
 
 **Figure 10.7** Connective Tissue Layers in a Muscle.
 
@@ -5956,7 +5956,7 @@ Identify the following terms on a diagram or model.
 
 Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofibril
 
-![](_page_257_Picture_9.jpeg)
+![](images/_page_257_Picture_9.jpeg)
 
 **Figure 10.8** Skeletal Muscle Fiber.
 
@@ -5980,17 +5980,17 @@ Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofi
 - Troponin
 - Tropomyosin
 
-![](_page_258_Figure_13.jpeg)
+![](images/_page_258_Figure_13.jpeg)
 
 **Figure 10.9** Organization of a Muscle Fiber.
 
-![](_page_258_Figure_15.jpeg)
+![](images/_page_258_Figure_15.jpeg)
 
 **Figure 10.10** Sarcomere Structure in the 1) Relaxed and 2) Contracted States
 
 ## **The Neuromuscular Junction**
 
-![](_page_259_Picture_1.jpeg)
+![](images/_page_259_Picture_1.jpeg)
 
 **Figure 10.11** The Neuromuscular Junction.
 
@@ -6049,7 +6049,7 @@ Write the correct choice or choices in the "Answers" column.
 
 Identify and label the parts of the myofibril.
 
-![](_page_262_Picture_3.jpeg)
+![](images/_page_262_Picture_3.jpeg)
 
 Figure 10.12 Unlabeled Sarcomere.
 
@@ -6060,7 +6060,7 @@ Figure 10.12 Unlabeled Sarcomere.
 
 Complete the crossword puzzles.
 
-![](_page_263_Picture_3.jpeg)
+![](images/_page_263_Picture_3.jpeg)
 
 **Figure 10.13** Skeletal Muscle Fibers.
 
@@ -6079,7 +6079,7 @@ Complete the crossword puzzles.
 | 5    | Each muscle fiber is enclosed in a delicate, areolar connective tissue sheath<br>called the (10)                                                           |
 | 8    | Much of the heat in the body is produced by muscle. (8)                                                                                                    |
 
-![](_page_265_Picture_0.jpeg)
+![](images/_page_265_Picture_0.jpeg)
 
 **Figure 10.14** Skeletal Muscle Fibers-2.
 
@@ -6225,7 +6225,7 @@ Complete the crossword puzzles.
 
 # **Chapter 11: Muscular System; Gross Anatomy**
 
-![](_page_269_Picture_1.jpeg)
+![](images/_page_269_Picture_1.jpeg)
 
 **Figure 11.1 Bodybuilding.**
 
@@ -6385,21 +6385,21 @@ Table 11.1. Muscle Origins Insertions and Actions:
 
 In the following diagrams (figures11.2 a & b to 11.4) label the muscles that are contained within the list of objectives for this system. Use your text and the diagrams below as a reference.
 
-![](_page_273_Picture_4.jpeg)
+![](images/_page_273_Picture_4.jpeg)
 
 **11.2a Anterior View**
 
-![](_page_274_Picture_0.jpeg)
+![](images/_page_274_Picture_0.jpeg)
 
 ## **11.2b Posterior View**
 
 **Figures 11.2 a & b** Anterior and Posterior Views of the Skeletal Muscle System.
 
-![](_page_275_Picture_0.jpeg)
+![](images/_page_275_Picture_0.jpeg)
 
 **Figure 11.3** Head Lateral Anatomy.
 
-![](_page_275_Picture_2.jpeg)
+![](images/_page_275_Picture_2.jpeg)
 
 **Figure 11.4** Head Anatomy, Anterior View.
 
@@ -6461,11 +6461,11 @@ Table 11.2. List of Medical Roots, Suffixes, and Prefixes Continued
 
 ## **Major Muscles of the Body**
 
-![](_page_278_Picture_1.jpeg)
+![](images/_page_278_Picture_1.jpeg)
 
 **Figure 11.5a** Anterior Aspect (Superficial Muscles).
 
-![](_page_279_Figure_0.jpeg)
+![](images/_page_279_Figure_0.jpeg)
 
 **Figure 11.5b** Posterior Aspect (Superficial Muscles).
 
@@ -6490,11 +6490,11 @@ Table 11.2. List of Medical Roots, Suffixes, and Prefixes Continued
 - Complete table 11.2.
 - Take a picture of the finished skull and include it in your study guide.
 
-![](_page_280_Picture_18.jpeg)
+![](images/_page_280_Picture_18.jpeg)
 
 **Figure 11.6** Illustration of the Muscles of the Face and Head.
 
-![](_page_281_Picture_0.jpeg)
+![](images/_page_281_Picture_0.jpeg)
 
 **Figure 11.7** Muscles of the Jaw.
 
@@ -6542,11 +6542,11 @@ Complete the table by naming the origin and insertion as well as the action for 
 - Take a picture of the finished skull and include it in your study guide.
 - Create a five-minute video identifying the muscles of the chest, shoulder, back and upper limb
 
-![](_page_283_Figure_0.jpeg)
+![](images/_page_283_Figure_0.jpeg)
 
 Figure 11.8 Muscles that Move the Humerus.
 
-![](_page_284_Figure_0.jpeg)
+![](images/_page_284_Figure_0.jpeg)
 
 **Figure 11.9** Muscles that Stabilize the Pectoral Girdle.
 
@@ -6574,33 +6574,33 @@ Figure 11.8 Muscles that Move the Humerus.
 - Identify and label the muscles listed above and photograph them. Invite your Instructor to verify their correctness.
 - Complete table 11.3 below using your textbook as a guide.
 
-![](_page_285_Figure_0.jpeg)
+![](images/_page_285_Figure_0.jpeg)
 
 Figure 11.10 Muscles that Move the Forearm.
 
 ## **Shoulder**
 
-![](_page_286_Picture_1.jpeg)
+![](images/_page_286_Picture_1.jpeg)
 
 **Figure 11.11** Muscles that Stabilize the Pectoral Girdle.
 
 ## **Upper Arm**
 
-![](_page_286_Picture_4.jpeg)
+![](images/_page_286_Picture_4.jpeg)
 
 **Figure 11.12** Anterior Shoulder Muscles.
 
-![](_page_287_Picture_0.jpeg)
+![](images/_page_287_Picture_0.jpeg)
 
 **Figure 11.13** Posterior Shoulder Muscles.
 
-![](_page_287_Picture_2.jpeg)
+![](images/_page_287_Picture_2.jpeg)
 
 **Figure 11.14** Muscles that Move the Humerus.
 
 ## **Forearm Muscles**
 
-![](_page_288_Picture_1.jpeg)
+![](images/_page_288_Picture_1.jpeg)
 
 **Figure 11.15** Forearm Muscles: Palmer and Dorsal Aspects.
 
@@ -6644,15 +6644,15 @@ Complete this table using the information from your text.
 - You also need to know their origins, insertions, and actions as instructed by your instructor.
 - Identify and label the muscles listed above and photograph them. Invite your Instructor to verify their correctness.
 
-![](_page_289_Picture_22.jpeg)
+![](images/_page_289_Picture_22.jpeg)
 
 **Figure 11.16** Anterior Abdominal Muscles.
 
-![](_page_290_Picture_0.jpeg)
+![](images/_page_290_Picture_0.jpeg)
 
 **Figure 11.17** Muscles that Move the Humerus.
 
-![](_page_290_Picture_2.jpeg)
+![](images/_page_290_Picture_2.jpeg)
 
 **Figure 11.18** Erector Spinae Muscles.
 
@@ -6677,15 +6677,15 @@ Complete this table using the information from your text.
 - You also need to know their origins, insertions, and actions as instructed by your instructor.
 - Identify and label the muscles listed above and photograph them. Invite your Instructor to verify their correctness.
 
-![](_page_291_Picture_17.jpeg)
+![](images/_page_291_Picture_17.jpeg)
 
 **Figure 11.19** Anterior Hip Muscles that Move the Femur.
 
-![](_page_292_Picture_1.jpeg)
+![](images/_page_292_Picture_1.jpeg)
 
 **Figure 11.20** Lower Extremity Muscles with the Rectus Femoris Removed.
 
-![](_page_292_Picture_3.jpeg)
+![](images/_page_292_Picture_3.jpeg)
 
 **Figure 11.21.** Anterior Hip Muscles (Adductor Muscles).
 
@@ -6720,7 +6720,7 @@ Complete the table below using information from your text.
 - Use the pictures below to locate the required muscles on the models. As you work, palpate the muscles, and make notes about their appearance.
 - You also need to know the origins, insertions, and actions of the muscles in table.
 
-![](_page_294_Picture_0.jpeg)
+![](images/_page_294_Picture_0.jpeg)
 
 **Figure 11.22** Gluteal Muscles of the Upper Leg.
 
@@ -6744,7 +6744,7 @@ Complete the following table using the information from your textbook.
 
 ## **Terms**
 
-![](_page_295_Picture_3.jpeg)
+![](images/_page_295_Picture_3.jpeg)
 
 **Figure 11.23** Muscles of the Lower Leg.
 
@@ -6773,13 +6773,13 @@ Describe the different criteria that contribute to how skeletal muscles are name
 
 Identify the following muscles and/or facia in diagrams 11.24 to 11.26.
 
-![](_page_296_Picture_7.jpeg)
+![](images/_page_296_Picture_7.jpeg)
 
 **Figure 11.24** Back Muscles.
 
 Identify the facial muscle or facia in Figure 11.25.
 
-![](_page_297_Picture_1.jpeg)
+![](images/_page_297_Picture_1.jpeg)
 
 **Figure 11.25** Anterior and Lateral Aspects of the Face.
 
@@ -6797,7 +6797,7 @@ Identify the facial muscle or facia in Figure 11.25.
 
 Identify and label the muscle or facia from your list on Figure 11.26.
 
-![](_page_298_Picture_1.jpeg)
+![](images/_page_298_Picture_1.jpeg)
 
 **Figure 11.26.** Muscles Front and Back.
 
@@ -6805,7 +6805,7 @@ Identify and label the muscle or facia from your list on Figure 11.26.
 
 Complete the following crossword puzzles.
 
-![](_page_299_Picture_3.jpeg)
+![](images/_page_299_Picture_3.jpeg)
 
 **Figure 11.27** Head and Neck Actions.
 
@@ -6828,7 +6828,7 @@ tensing the skin of the neck. (8)
 - **7** The corners of the mouth are raised during a smile by the \_\_\_\_\_ (11)
 - **8** The \_\_\_\_\_ raises the eyebrows. (9)
 
-![](_page_300_Figure_0.jpeg)
+![](images/_page_300_Figure_0.jpeg)
 
 **Figure 11.28** Thoracic Muscles.
 
@@ -6841,7 +6841,7 @@ tensing the skin of the neck. (8)
 - **2** Contracting the \_\_\_\_ on one side results in head rotation. (19)
 - **4** The \_\_\_\_\_ flexes the shoulder from the abducted position by pulling the intertubercular groove of the humerus toward the sternum. (10,5)
 
-![](_page_301_Picture_0.jpeg)
+![](images/_page_301_Picture_0.jpeg)
 
 **Figure 11.29** Shoulder and Upper Limb.
 
@@ -6854,7 +6854,7 @@ tensing the skin of the neck. (8)
 - **2** The \_\_\_\_\_ pulls the coronoid process of the ulna toward the humerus, thus flexing the elbow. (10)
 - **3** The \_\_\_\_ extends the forearm by pulling the olecranon process toward the superior, posterior shaft of the humerus and toward the scapula. (7,7)
 
-![](_page_302_Figure_0.jpeg)
+![](images/_page_302_Figure_0.jpeg)
 
 **Figure 11.30** Muscles: Hip and Leg.
 
@@ -7056,7 +7056,7 @@ tensing the skin of the neck. (8)
 
 # **Chapter 12: Nervous System Microanatomy**
 
-![](_page_307_Picture_1.jpeg)
+![](images/_page_307_Picture_1.jpeg)
 
 **Figure 12.1** Diagram of the Neuron.
 
@@ -7141,7 +7141,7 @@ tensing the skin of the neck. (8)
 
 ## **Fill in the Blank**
 
-![](_page_311_Picture_2.jpeg)
+![](images/_page_311_Picture_2.jpeg)
 
 **Figure 12.2** Structures of the Neuron.
 
@@ -7175,7 +7175,7 @@ tensing the skin of the neck. (8)
 
 • Unipolar neuron • Bipolar neuron • Multipolar neuron
 
-![](_page_312_Picture_4.jpeg)
+![](images/_page_312_Picture_4.jpeg)
 
 **Figure 12.3** Neuron Classification Based on Shape.
 
@@ -7201,7 +7201,7 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
   - o In the space below, draw a neuron you see in your slide. Label the soma, nucleus, axon, dendrite, axon hillock, and a glial cell.
 - Take a picture of the tissue and download it into your study guide. Label the diagram.
 
-![](_page_313_Picture_0.jpeg)
+![](images/_page_313_Picture_0.jpeg)
 
 **Figure 12.4** Structures of the neuron
 
@@ -7213,11 +7213,11 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
   - o In the space below, draw the neuron in the box below. Label the cell body (soma), dendrites, axon, axon hillock, axon terminal, Schwann cell, node (of Ranvier) and the myelin sheath.
 - Take a picture of the labeled cell for your study guide.
 
-![](_page_313_Picture_8.jpeg)
+![](images/_page_313_Picture_8.jpeg)
 
 ## **Support Cells: Neuroglial Cells**
 
-![](_page_314_Picture_1.jpeg)
+![](images/_page_314_Picture_1.jpeg)
 
 **Figure 12.5** Neuroglia of the Peripheral Nervous System.
 
@@ -7234,15 +7234,15 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
 - Microglia:
 - Ependymal cells:
 
-![](_page_314_Picture_11.jpeg)
+![](images/_page_314_Picture_11.jpeg)
 
 **Figure 12.6 Neuroglia of the CNS**
 
 ## **The Spinal Cord in Histology Slides**
 
-![](_page_315_Picture_1.jpeg)
+![](images/_page_315_Picture_1.jpeg)
 
-![](_page_315_Picture_2.jpeg)
+![](images/_page_315_Picture_2.jpeg)
 
 **Figure 12.7** Cross Section of the Spinal Cord.
 
@@ -7260,7 +7260,7 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
 
 ## Identifications
 
-![](_page_316_Picture_3.jpeg)
+![](images/_page_316_Picture_3.jpeg)
 
 Figure 12.8 Spinal Cord Components.
 
@@ -7277,7 +7277,7 @@ Figure 12.8 Spinal Cord Components.
 
 Complete the following crossword puzzles.
 
-![](_page_317_Picture_3.jpeg)
+![](images/_page_317_Picture_3.jpeg)
 
 **Figure 12.9** Nervous System Anatomy.
 
@@ -7295,7 +7295,7 @@ Complete the following crossword puzzles.
 | 4    | The two principal cell types of the nervous system are and supporting<br>cells called (7,5,5)                                                                       |  |  |  |
 | 6    | are cells which produce the myelin sheath in the central nervous system,<br>but not in the peripheral nervous system. (16)                                          |  |  |  |
 
-![](_page_319_Picture_0.jpeg)
+![](images/_page_319_Picture_0.jpeg)
 
 **Figure 12.10** Nervous System Physiology.
 
@@ -7557,11 +7557,11 @@ membrane. (5,2,7)
 
 # **Chapter 13: Nervous System**
 
-![](_page_327_Figure_1.jpeg)
+![](images/_page_327_Figure_1.jpeg)
 
 **Figure 13.1** Diagram of the Nervous System.
 
-![](_page_327_Figure_3.jpeg)
+![](images/_page_327_Figure_3.jpeg)
 
 **Figure 13.2** Diagram of the Central and Peripheral Nervous Systems.
 
@@ -7709,7 +7709,7 @@ anterior median fissure \_\_\_\_\_\_\_
 
 Identify the following structures.(figures 13.3 to 13.7)
 
-![](_page_334_Picture_2.jpeg)
+![](images/_page_334_Picture_2.jpeg)
 
 Figure 13.3 Unlabeled Spinal Cord Cross Section.
 
@@ -7734,7 +7734,7 @@ Figure 13.3 Unlabeled Spinal Cord Cross Section.
  7.
  13.
 
-![](_page_335_Picture_0.jpeg)
+![](images/_page_335_Picture_0.jpeg)
 
 **Figure 13.4** Meninges and Structures of the Spinal Cord.
 
@@ -7752,7 +7752,7 @@ Identify the labelled structures, except number 8.
 
 Label the structures and regions of Figure 13.5.
 
-![](_page_336_Picture_1.jpeg)
+![](images/_page_336_Picture_1.jpeg)
 
 **Figure 13.5** The Human Brain.
 
@@ -7763,7 +7763,7 @@ Label the structures and regions of Figure 13.5.
 
 Identify the following meningeal structures of the brain:
 
-![](_page_337_Picture_1.jpeg)
+![](images/_page_337_Picture_1.jpeg)
 
 **Figure 13.6** Meninges of the Brain.
 
@@ -7771,7 +7771,7 @@ Identify the following meningeal structures of the brain:
 
 Label all of the regions and structures in the brain. When possible, indicate their function.
 
-![](_page_337_Picture_5.jpeg)
+![](images/_page_337_Picture_5.jpeg)
 
 **Figure 13.7** The Mid-Sagittal Section of the Brain.
 
@@ -7800,15 +7800,15 @@ Label all of the regions and structures in the brain. When possible, indicate th
 - As a group, identify and label the structures and regions. Palpate the structures you are identifying. Then take a picture for your later reference.
 - Have another group, or your instructor review your demonstrations.
 
-![](_page_338_Picture_20.jpeg)
+![](images/_page_338_Picture_20.jpeg)
 
 **Figure 13.8** Diagram of the Cerebrum.
 
-![](_page_339_Picture_0.jpeg)
+![](images/_page_339_Picture_0.jpeg)
 
 **Figure 13.9 Lobes of Cerebral Cortex** 
 
-![](_page_339_Picture_2.jpeg)
+![](images/_page_339_Picture_2.jpeg)
 
 **Figure 13.10** White and Gray Matter in a Human Brain.
 
@@ -7826,7 +7826,7 @@ Label all of the regions and structures in the brain. When possible, indicate th
 - Auditory cortex
 - Olfactory cortex
 
-![](_page_340_Figure_12.jpeg)
+![](images/_page_340_Figure_12.jpeg)
 
 **Figure 13.11** The Cortical Areas of the Brain.
 
@@ -7839,11 +7839,11 @@ Label all of the regions and structures in the brain. When possible, indicate th
 - Fornix
 - Pituitary gland
 
-![](_page_341_Picture_7.jpeg)
+![](images/_page_341_Picture_7.jpeg)
 
 **Figure 13.12** The Diencephalon.
 
-![](_page_341_Picture_9.jpeg)
+![](images/_page_341_Picture_9.jpeg)
 
 **Figure 13.13** Human Brain (Left Midsagittal View – Closeup).
 
@@ -7853,7 +7853,7 @@ Label all of the regions and structures in the brain. When possible, indicate th
 
 • Arbor vitae
 
-![](_page_342_Picture_3.jpeg)
+![](images/_page_342_Picture_3.jpeg)
 
 **Figure 13.14 Cerebellum**
 
@@ -7863,7 +7863,7 @@ Label all of the regions and structures in the brain. When possible, indicate th
 
 • Midbrain • Pons • Medulla Oblongata
 
-![](_page_342_Picture_10.jpeg)
+![](images/_page_342_Picture_10.jpeg)
 
 **Figure 13.15** Brain Stem.
 
@@ -7871,14 +7871,14 @@ Label all of the regions and structures in the brain. When possible, indicate th
 
 Identify the structures in figure 13.17.
 
-![](_page_343_Picture_2.jpeg)
+![](images/_page_343_Picture_2.jpeg)
 
 **Figure 13.16** The Human Brain - Midsagittal Cut.
 
 - 1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 5. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 6. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 7. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - 4. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 8. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](_page_343_Picture_6.jpeg)
+![](images/_page_343_Picture_6.jpeg)
 
 ### **Figure 13.17** Cerebrospinal Fluid Circulation.
 
@@ -7905,11 +7905,11 @@ As a group obtain one of the brain meninges models.
 - Locate and label as many of the structures listed above. Ask your instructor for assistance, if needed.
 - Finally review the review the meninges on the spinal cord models or plaques.
 
-![](_page_344_Picture_17.jpeg)
+![](images/_page_344_Picture_17.jpeg)
 
 **Figure 13.18** Meningeal Layers including the Felix Cerebri.
 
-![](_page_345_Picture_1.jpeg)
+![](images/_page_345_Picture_1.jpeg)
 
 **Figure 13.19** The Tentorium Cerebelli
 
@@ -7924,7 +7924,7 @@ Optic nerves
 
 As a group, obtain one of the brain models locate and label the cranial nerves listed above.
 
-![](_page_345_Picture_9.jpeg)
+![](images/_page_345_Picture_9.jpeg)
 
 **Figure 13.20** Select Human Cranial Nerves.
 
@@ -7955,19 +7955,19 @@ As a group, obtain one of the spinal cord cross section models.
 - Ask your instructor for assistance, if needed.
 - Take pictures of your labeled model for a later review.
 
-![](_page_346_Picture_20.jpeg)
+![](images/_page_346_Picture_20.jpeg)
 
 **Figure 13.21** Organization of the Spinal Cord (Cross Section).
 
-![](_page_347_Picture_0.jpeg)
+![](images/_page_347_Picture_0.jpeg)
 
 **Figure 13.22** Spinal Cord Cross Section.
 
-![](_page_347_Picture_2.jpeg)
+![](images/_page_347_Picture_2.jpeg)
 
 **Figure 13.23** Cauda Equina and Conus Medullaris (Posterior View, with Cauda Equina Pointed Out)**.**
 
-![](_page_348_Picture_0.jpeg)
+![](images/_page_348_Picture_0.jpeg)
 
 **Figure 13.24** Image of a Human Cauda Equina (Anterior View). The numbers depicted identify the three regions below the spinal cord: 1 Conus medullaris, #2 Filum terminale, and #3 Cauda equina.
 
@@ -7982,7 +7982,7 @@ As a group, obtain one of the spinal cord cross section models.
 - Subarachnoid space
 - Pia mater
 
-![](_page_348_Picture_11.jpeg)
+![](images/_page_348_Picture_11.jpeg)
 
 **Figure 13.25** The Meninges of the Spinal Cord.
 
@@ -8017,7 +8017,7 @@ As a group, obtain one of the spinal cord cross section models.
 - Dorsal root ganglion
 - Ventral (Anterior) root
 
-![](_page_349_Picture_24.jpeg)
+![](images/_page_349_Picture_24.jpeg)
 
 **Figure 13.26** Spinal Cord Cross Section.
 
@@ -8053,31 +8053,31 @@ The objective of this activity is to carefully dissect a sheep brain and to loca
 
 1. Place the sheep's brain in the tray with the dorsal side on the top as noted in Fig 13.28 . The brains may have a thick tough membrane covering the entire structure. This is the dura mater. You need to carefully remove this covering using your scissors. You need to carefully cut around the cerebellum, pituitary gland, or optic nerve so you do not remove these structures. Your instructor will demonstrate the procedure.
 
-![](_page_350_Picture_24.jpeg)
+![](images/_page_350_Picture_24.jpeg)
 
 **Figure 13.27** Dissected Sheep Brain.
 
 2. After the dura mater is removed, you can identify the cerebrum and its longitudinal fissure separating the left and right cerebral hemispheres as well as the cerebellum.
 
-![](_page_351_Picture_1.jpeg)
+![](images/_page_351_Picture_1.jpeg)
 
 **Figure 13.28** Sheep Brain (Opening the Longitudinal Fissure).
 
 3. Reposition the brain so that the ventral side is facing you (Fig 13.30). Identify the cerebellum, optic chiasma, optic nerves. If it is still attached locate the pituitary gland.
 
-![](_page_351_Picture_4.jpeg)
+![](images/_page_351_Picture_4.jpeg)
 
 **Figure 13.29** Cranial Nerves of the Sheep.
 
 4. Reposition the brain back to the dorsal side. Locate the longitudinal fissure. Now, with a scalpel gently make a cut through the fissure. This will butterfly the brain into two left and right halves (Fig 13.31). Be sure to cut all the way through the pituitary gland if it is present.
 
-![](_page_352_Picture_1.jpeg)
+![](images/_page_352_Picture_1.jpeg)
 
 **Figure 13.30** Dissected Sheep Brain (Mid-Sagittal Section).
 
 5. Locate the following structures on either of the halves: pia mater, gyri and sulci, the cerebrum, and its lobes(frontal, temporal, parietal, and occipital), thalamus, hypothalamus, pineal gland, pons, medulla, corpus collosum, lateral ventricles, third ventricle, cerebellum, pituitary gland, olfactory bulb, and olfactory nerve.
 
-![](_page_352_Picture_4.jpeg)
+![](images/_page_352_Picture_4.jpeg)
 
 **Figure 13.31** Dissected Sheep Brain (Right Lobe, Mid-Sagittal section).
 
@@ -8110,7 +8110,7 @@ Describe the differences in the composition between gray and white matter. Provi
 
 Complete the following crosswords.
 
-![](_page_355_Picture_3.jpeg)
+![](images/_page_355_Picture_3.jpeg)
 
 **Figure 13.32** The Central Nervous System.
 
@@ -8126,7 +8126,7 @@ Complete the following crosswords.
 | 4    | fills the ventricles and surrounds the brain and spinal cord, acting as a<br>shock absorber, distributing nutritive materials, removing wastes, and providing<br>a chemically stable environment. (13,5) |
 | 5    | After the CSF is formed, it circulates from the lateral ventricles to the third and<br>fourth ventricles, and from there to the and central canal of the<br>spinal cord. (3-9,5)                         |
 
-![](_page_357_Figure_0.jpeg)
+![](images/_page_357_Figure_0.jpeg)
 
 **Figure 13.33** Brain: Anatomical and Functional Regions.
 
@@ -8151,7 +8151,7 @@ Complete the following crosswords.
 | 13   | The areas of the cerebral cortex are responsible for conscious awareness<br>of sensation. (7)                                                                                                          |
 | 16   | The hemisphere usually controls visual and spatial skills, emotion, and<br>artistic skills. (5)                                                                                                        |
 
-![](_page_359_Picture_0.jpeg)
+![](images/_page_359_Picture_0.jpeg)
 
 **Figure 13.34** Brain components.
 
@@ -8179,7 +8179,7 @@ Complete the following crosswords.
 
 Identify the structures for the following diagrams. (figures 13.36 to 13.40)
 
-![](_page_361_Picture_3.jpeg)
+![](images/_page_361_Picture_3.jpeg)
 
 **Figure 13.35** Human Brain Left (Mid-Sagittal View, Closeup).
 
@@ -8196,7 +8196,7 @@ Identify the structures for the following diagrams. (figures 13.36 to 13.40)
 | 28     |                        |
 | 30     |                        |
 
-![](_page_362_Figure_0.jpeg)
+![](images/_page_362_Figure_0.jpeg)
 
 **Figure 13.36** Sagittal Section of the Human Brain, Right Lobe.
 
@@ -8216,7 +8216,7 @@ Identify the structures for the following diagrams. (figures 13.36 to 13.40)
 | 8.     |                        |                       |
 | 9.     |                        |                       |
 
-![](_page_363_Picture_0.jpeg)
+![](images/_page_363_Picture_0.jpeg)
 
 **Figure 13.37** Sheep Brain Cross Section.
 
@@ -8242,7 +8242,7 @@ Identify the structures for the following diagrams. (figures 13.36 to 13.40)
 |                  | Optic tract              |
 |                  | Olfactory bulbs & tracts |
 
-![](_page_364_Picture_0.jpeg)
+![](images/_page_364_Picture_0.jpeg)
 
 **Figure 13.38** Unlabeled Meninges.
 
@@ -8262,19 +8262,19 @@ Identify the structures for the following diagrams. (figures 13.36 to 13.40)
 
 Identify and label the parts of the brain in this mid-sagittal section of the brain.
 
-![](_page_365_Picture_1.jpeg)
+![](images/_page_365_Picture_1.jpeg)
 
 **Figure 13.39** The Inferior Colliculus (Red Dot) in a Human Brain.
 
 Label the diagram of the spinal cord cross section in Figure 13.38
 
-![](_page_365_Picture_4.jpeg)
+![](images/_page_365_Picture_4.jpeg)
 
 **Figure 13.40** Spinal Cord Cross Section.
 
 Match the following structures with the terms below.
 
-![](_page_366_Picture_1.jpeg)
+![](images/_page_366_Picture_1.jpeg)
 
 **Figure 13.41** Diagram of the Human Midbrain.
 
@@ -8294,7 +8294,7 @@ Match the following structures with the terms below.
 
 Identify all of the regions and structures of the brain.
 
-![](_page_367_Picture_1.jpeg)
+![](images/_page_367_Picture_1.jpeg)
 
 **Figure 13.42** Left Lateral Brain.
 
@@ -8320,7 +8320,7 @@ Identify all of the regions and structures of the brain.
 
 **Figure 13.43** Identify the following structures: A: Midbrain B: Pons C: Medulla oblongata D: Spinal cord E: Fourth ventricle F: Arbor vitae.
 
-![](_page_369_Figure_2.jpeg)
+![](images/_page_369_Figure_2.jpeg)
 
 **Figure 13.44** Spinal cord section.
 
@@ -8759,7 +8759,7 @@ Define the following terms.
 
 Label the diagram of the ear.
 
-![](_page_381_Picture_5.jpeg)
+![](images/_page_381_Picture_5.jpeg)
 
 **Figure 14.1** Diagram of the Ear.
 
@@ -8774,19 +8774,19 @@ Label the diagram of the ear.
 
 Label the bony labyrinth.
 
-![](_page_382_Picture_1.jpeg)
+![](images/_page_382_Picture_1.jpeg)
 
 **Figure 14.2** The Bony Labyrinth, Unlabeled.
 
 Identify the cochlear structures in figure 14.3.
 
-![](_page_382_Picture_4.jpeg)
+![](images/_page_382_Picture_4.jpeg)
 
 **Figure 14.3** The Cochlea, Unlabeled.
 
 Identify the structure of the anterior eye.
 
-![](_page_383_Figure_1.jpeg)
+![](images/_page_383_Figure_1.jpeg)
 
 **Figure 14.4** Schematic Diagram of the Anterior Segment of the Human Eye (Horizontal Section of the Right Eye).
 
@@ -8802,7 +8802,7 @@ Identify the structure of the anterior eye.
 
 Label the structures in the sagittal section of the eye.
 
-![](_page_384_Picture_1.jpeg)
+![](images/_page_384_Picture_1.jpeg)
 
 Figure 14.5 Labeled Diagram of the Human Eye.
 
@@ -8848,7 +8848,7 @@ Go to the area where the ears and eyes are stored and obtain the model of the ea
 
 • Round window
 
-![](_page_386_Figure_8.jpeg)
+![](images/_page_386_Figure_8.jpeg)
 
 **Figure 14.7** The Middle Ear.
 
@@ -8861,7 +8861,7 @@ Go to the area where the ears and eyes are stored and obtain the model of the ea
 - Vestibule
 - Cochlea
 
-![](_page_387_Figure_7.jpeg)
+![](images/_page_387_Figure_7.jpeg)
 
 **Figure 14.8** The Inner Ear.
 
@@ -8887,7 +8887,7 @@ Obtain a model of the cochlea from the storage area in the lab.
 - Collaborate with your group to identify and label the structures found in the cochlea. Include the function of the structures in processing sound. Invite the group next to you to check your work, then have your instructor check your work.
 - Take a picture of the work for later reference before the upcoming practical and if you have time have a classmate record a video while you review the structures of the cochlea you need to review.
 
-![](_page_388_Picture_15.jpeg)
+![](images/_page_388_Picture_15.jpeg)
 
 **Figure 14.9** The Cochlea
 
@@ -8928,21 +8928,21 @@ Obtain a 3-D model of the eye from the storage area(s) in the lab. There may be 
 - Invite the group next to you to check your work, then have your instructor check your work.
 - Take a picture of the work for later reference before the upcoming practical and if you have time have a classmate record a video while you review the structures of the eye you need to review.
 
-![](_page_390_Figure_0.jpeg)
+![](images/_page_390_Figure_0.jpeg)
 
 **Figure 14.10** Structure of the Eye (Transverse View).
 
-![](_page_390_Picture_2.jpeg)
+![](images/_page_390_Picture_2.jpeg)
 
 **Figure 14.11** Macula Lutea of the Right Eye.
 
 ## **Photoreceptors of the Eye**
 
-![](_page_391_Picture_1.jpeg)
+![](images/_page_391_Picture_1.jpeg)
 
 **Figure 14.12** Rods and Cones.
 
-![](_page_391_Picture_3.jpeg)
+![](images/_page_391_Picture_3.jpeg)
 
 **Figure 14.13** Retinal Photoreceptors.
 
@@ -8961,7 +8961,7 @@ In a model or diagram of Accessory structures of the eye and the external muscle
 - Lacrimal sac
 - Nasolacrimal duct
 
-![](_page_392_Picture_10.jpeg)
+![](images/_page_392_Picture_10.jpeg)
 
 **Figure 14.14** The Accessory Structures of the Eye.
 
@@ -8974,7 +8974,7 @@ In a model or diagram of Accessory structures of the eye and the external muscle
 - Lateral rectus
 - Medial rectus
 
-![](_page_393_Figure_8.jpeg)
+![](images/_page_393_Figure_8.jpeg)
 
 **Figure 14.15** External Muscles of the Eye.
 
@@ -8991,7 +8991,7 @@ In a model or diagram of Accessory structures of the eye and the external muscle
 - 2. Locate the covering over the front of the eye, the **cornea**. Because of preservatio0n the cornea should look cloudy; however, when the cow was alive, it was clear.
 - 3. Cut away the excess fat and muscle, this may only be necessary if fat is covering the cornea of the eye and is in your way. Fat around the backside of the eye can be left alone. Flip the eye over to find the **optic nerve** where it exits out the back of the eye do not remove this structure. You may have to remove some excess fat and tissue to see it well. It will be stronger and more rope-like than the surrounding fat tissue.
 
-![](_page_394_Picture_9.jpeg)
+![](images/_page_394_Picture_9.jpeg)
 
 **Figure 14.16** The Cow Eye being Dissected on a Paper Towel.
 
@@ -9001,7 +9001,7 @@ Please note, the cornea is tougher than it appears and may require some force to
 
 5. Use a scalpel or scissors to make an incision in the sclera so that you can cut around the outside of the eye. Your goal is to separate the eye into a front and a back half.
 
-![](_page_395_Picture_1.jpeg)
+![](images/_page_395_Picture_1.jpeg)
 
 **Figure 14.17** Dissected Cow Eye Showing Internal Structures.
 
@@ -9011,7 +9011,7 @@ Please note, the cornea is tougher than it appears and may require some force to
   - The iris will be dark in color and contain a center opening, the **pupil**.
 - 7. The image below shows how each part of the eye appears when it has been separated. Take a photo of your own eye for comparison.
 
-![](_page_395_Picture_8.jpeg)
+![](images/_page_395_Picture_8.jpeg)
 
 **Figure 14.18** Dissected Cow Eye Internal Structures.
 
@@ -9051,7 +9051,7 @@ Please note, the cornea is tougher than it appears and may require some force to
 
 Complete the following crossword puzzles.
 
-![](_page_397_Picture_5.jpeg)
+![](images/_page_397_Picture_5.jpeg)
 
 **Figure 14.19** The Eye.
 
@@ -9075,7 +9075,7 @@ Complete the following crossword puzzles.
 | 8  | are transparent mucous membranes that line the eyelids and the anterior<br>surface of the eyeball (except for the). Their major function is to produce a<br>lubricating mucus that prevents the eye from drying. (11,6) |
 | 14 | In the front of the eye, the vascular tunic (or uvea) forms the (4)                                                                                                                                                     |
 
-![](_page_399_Picture_0.jpeg)
+![](images/_page_399_Picture_0.jpeg)
 
 **Figure 14.20** The Ear.
 
@@ -9117,7 +9117,7 @@ Complete the following questions.
 
 Complete the following diagrams for figures 14.19 to 14.20.
 
-![](_page_402_Picture_3.jpeg)
+![](images/_page_402_Picture_3.jpeg)
 
 Figure 14.19 Anatomy of the Human Ear.
 
@@ -9138,7 +9138,7 @@ Figure 14.19 Anatomy of the Human Ear.
 
 Identify the structures of the eye and explain their function.
 
-![](_page_403_Picture_1.jpeg)
+![](images/_page_403_Picture_1.jpeg)
 
 **Figure 14.20** Eyeball Diagram.
 
@@ -9189,11 +9189,11 @@ Match these terms with their correct definitions.
 
 ## **Answer Keys**
 
-![](_page_405_Picture_3.jpeg)
+![](images/_page_405_Picture_3.jpeg)
 
 **Figure 14.23** Annotated Diagram of the Human Eye
 
-![](_page_406_Figure_0.jpeg)
+![](images/_page_406_Figure_0.jpeg)
 
 **Figure 14.24** Eyeball Diagram Key
 
@@ -9372,7 +9372,7 @@ Match these terms with their correct definitions.
 
 # **Chapter 15: Endocrine System**
 
-![](_page_411_Picture_1.jpeg)
+![](images/_page_411_Picture_1.jpeg)
 
 **Figure 15.1** Human Endocrine System with Labels.
 
@@ -9432,13 +9432,13 @@ Label the following components of the endocrine system: 15.2 – 15.4
 
 Label the components A, B and C.
 
-![](_page_413_Picture_4.jpeg)
+![](images/_page_413_Picture_4.jpeg)
 
 **Figure 15.2** Midsagittal Section of the Human Brain.
 
 Identify the structure of the endocrine organ listed below.
 
-![](_page_414_Picture_1.jpeg)
+![](images/_page_414_Picture_1.jpeg)
 
 **Figure 15.3** Endocrine System Illustration.
 
@@ -9453,7 +9453,7 @@ Identify the structure of the endocrine organ listed below.
 
 Label structures and cells designated by 1, 2, and the arrow.
 
-![](_page_415_Picture_1.jpeg)
+![](images/_page_415_Picture_1.jpeg)
 
 **Figure 15.4** Histology of the Thyroid Gland.
 
@@ -9493,27 +9493,27 @@ From the models' storage area obtain a plastic model of the human brain and an e
 - Have another group, or your instructor review your demonstrations.
 - If time permits, create a five-minute review training video of the structures noted above.
 
-![](_page_416_Figure_24.jpeg)
+![](images/_page_416_Figure_24.jpeg)
 
 **Figure 15.5** The Endocrine System-CNS Associated.
 
 ### **The Hypothalamus- Pituitary complex**
 
-![](_page_417_Picture_1.jpeg)
+![](images/_page_417_Picture_1.jpeg)
 
 **Figure 15.6** The Hypothalamus-Pituitary Complex.
 
 ### **The Pituitary Regions**
 
-![](_page_417_Picture_4.jpeg)
+![](images/_page_417_Picture_4.jpeg)
 
 **Figure 15.7** Pituitary Gland Diagram.
 
-![](_page_418_Picture_0.jpeg)
+![](images/_page_418_Picture_0.jpeg)
 
 **Figure 15.8** Pituitary Photomicrograph Showing the Anterior and Posterior Sections.
 
-![](_page_418_Picture_2.jpeg)
+![](images/_page_418_Picture_2.jpeg)
 
 **Figure 15.9** The Anterior Pituitary Complex.
 
@@ -9523,41 +9523,41 @@ From the models' storage area obtain a plastic model of the human brain and an e
 
 ## **The Posterior Pituitary**
 
-![](_page_420_Picture_1.jpeg)
+![](images/_page_420_Picture_1.jpeg)
 
 **Figure 15.11** The Posterior Pituitary Complex.
 
-![](_page_420_Picture_4.jpeg)
+![](images/_page_420_Picture_4.jpeg)
 
 **Figure 15.12** Hormones of the Pituitary Complex, Posterior Section.
 
 ## **Pineal gland**
 
-![](_page_421_Picture_1.jpeg)
+![](images/_page_421_Picture_1.jpeg)
 
 **Figure 15.13** Mid-Sagittal Section of the Human Brain; Pituitary and Pineal Glands.
 
-![](_page_421_Picture_3.jpeg)
+![](images/_page_421_Picture_3.jpeg)
 
 **Figure 15.14** Coronal Dissection of the Human Brain Highlighting the Pineal Gland.
 
 ## **Thyroid and Parathyroid Glands**
 
-![](_page_422_Picture_1.jpeg)
+![](images/_page_422_Picture_1.jpeg)
 
 **Figure 15.15** Parathyroid and Thyroid Glands in Color
 
-![](_page_422_Picture_3.jpeg)
+![](images/_page_422_Picture_3.jpeg)
 
 **Figure 15.16** Thyroid and Parathyroid Glands.
 
 ## **Parathyroid Gland**
 
-![](_page_423_Picture_1.jpeg)
+![](images/_page_423_Picture_1.jpeg)
 
 **Figure 15.17** Parathyroid Glands.
 
-![](_page_423_Picture_3.jpeg)
+![](images/_page_423_Picture_3.jpeg)
 
 **Figure 15.18** Photomicrograph of the Thyroid and Parathyroid Glands.
 
@@ -9571,13 +9571,13 @@ From the models' storage area obtain a plastic model of the human brain and an e
 - Exocrine cells
   - o Acinar cells
 
-![](_page_424_Picture_7.jpeg)
+![](images/_page_424_Picture_7.jpeg)
 
 Figure 15.19. The pancreas.
 
 ### **Adrenal glands - (on the superior margin of each kidney)**
 
-![](_page_424_Picture_10.jpeg)
+![](images/_page_424_Picture_10.jpeg)
 
 **Figure 15.20** Adrenal Glands.
 
@@ -9586,13 +9586,13 @@ Figure 15.19. The pancreas.
 - Adrenal cortex
 - Adrenal medulla
 
-![](_page_425_Picture_4.jpeg)
+![](images/_page_425_Picture_4.jpeg)
 
 **Figure 15.21** Depiction of the Adrenal Gland.
 
 ## **Cross section of an adrenal gland**
 
-![](_page_426_Picture_1.jpeg)
+![](images/_page_426_Picture_1.jpeg)
 
 **Figure 15.22** Photomicrograph of a Human Adrenal Gland.
 
@@ -9627,17 +9627,17 @@ These organs may be covered in detail in a later section by your Instructor.
 
 ### **Testes**
 
-![](_page_427_Picture_7.jpeg)
+![](images/_page_427_Picture_7.jpeg)
 
 **Figure 15.23** Testis.
 
 ### **Ovaries**
 
-![](_page_427_Picture_10.jpeg)
+![](images/_page_427_Picture_10.jpeg)
 
 **Figure 15.24** The Reproductive System, Female.
 
-![](_page_428_Picture_0.jpeg)
+![](images/_page_428_Picture_0.jpeg)
 
 **Figure 15.25** List of the Hormones Found in the Endocrine Glands of the Reproductive System.
 
@@ -9661,23 +9661,23 @@ From the microscope and slide storage area(s) obtain a microscope and a set of s
 
 ## **Pituitary Tissues: Anterior and Posterior Aspects**
 
-![](_page_429_Figure_2.jpeg)
+![](images/_page_429_Figure_2.jpeg)
 
 **Figure 15.26** The Pituitary: a) Anterior Pituitary on the Left and b) the Posterior Pituitary on the Right.
 
 ### **Thyroid and Parathyroid Glands**
 
-![](_page_429_Figure_5.jpeg)
+![](images/_page_429_Figure_5.jpeg)
 
 **Figure 15.27** Micrograph of the Thyroid and Parathyroid Glands.
 
 ## **Pancreas tissue**
 
-![](_page_430_Picture_1.jpeg)
+![](images/_page_430_Picture_1.jpeg)
 
 **Figure 15.28** Photomicrograph of Pancreas Section.
 
-![](_page_430_Picture_3.jpeg)
+![](images/_page_430_Picture_3.jpeg)
 
 **Figure 15.29** Endocrine and Exocrine Pancreas. Cross Section: Human Pancreas Magnification: 200x, Hematoxylin Eosin Stain.
 
@@ -9691,7 +9691,7 @@ From the microscope and slide storage area(s) obtain a microscope and a set of s
 
 Label the organs of the endocrine system.
 
-![](_page_431_Picture_5.jpeg)
+![](images/_page_431_Picture_5.jpeg)
 
 **Figure 15.30** Unlabeled Endocrine System.
 
@@ -9699,7 +9699,7 @@ Label the organs of the endocrine system.
 
 Identify the structures in the thyroid.
 
-![](_page_432_Picture_3.jpeg)
+![](images/_page_432_Picture_3.jpeg)
 
 Figure 15.31. Section of a thyroid gland under the microscope.
 
@@ -9709,7 +9709,7 @@ Figure 15.31. Section of a thyroid gland under the microscope.
 
 Complete the crossword puzzles below.
 
-![](_page_433_Figure_3.jpeg)
+![](images/_page_433_Figure_3.jpeg)
 
 **Figure 15.32** Crossword of the Pituitary.
 
@@ -9723,7 +9723,7 @@ Complete the crossword puzzles below.
 - **2** Steroids, one of the two major hormone classes, are made from \_\_\_\_\_. (11)
 - **5** Hormones are transported from the hypothalamus to the pituitary via the \_\_\_\_\_. (12)
 
-![](_page_434_Picture_0.jpeg)
+![](images/_page_434_Picture_0.jpeg)
 
 **Figure 15.33** Crossword of the Endocrine Hormones.
 
@@ -9740,7 +9740,7 @@ Complete the crossword puzzles below.
 
 ## **Answer Keys**
 
-![](_page_435_Picture_1.jpeg)
+![](images/_page_435_Picture_1.jpeg)
 
 **Figure 15.34** Labeled Endocrine System.
 
@@ -9970,7 +9970,7 @@ Complete the crossword puzzles below.
 
 # **Chapter 16: Cardiovascular System: Blood and Heart**
 
-![](_page_442_Picture_1.jpeg)
+![](images/_page_442_Picture_1.jpeg)
 
 **Figure 16.1** Photograph of a Heart Model.
 
@@ -10125,7 +10125,7 @@ You must be able to identify the following structures on a paper figure, a sheep
 
 Name the numbered heart structures (chamber or blood vessel)
 
-![](_page_446_Picture_3.jpeg)
+![](images/_page_446_Picture_3.jpeg)
 
 Figure 16.2 Diagram of the Human Heart.
 
@@ -10145,7 +10145,7 @@ Figure 16.2 Diagram of the Human Heart.
 
 Identify the following structures
 
-![](_page_447_Picture_2.jpeg)
+![](images/_page_447_Picture_2.jpeg)
 
 **Figure 16.3** Electrical Conduction System of the Heart.
 
@@ -10164,7 +10164,7 @@ Identify the following structures
 
 ## **Muscular tissue**
 
-![](_page_448_Picture_3.jpeg)
+![](images/_page_448_Picture_3.jpeg)
 
 **Figure 16.4** Histology of Muscle Tissues.
 
@@ -10187,7 +10187,7 @@ Take the information from your textbook, fill in the table with the characterist
 - White blood cells
 - Platelets
 
-![](_page_449_Picture_4.jpeg)
+![](images/_page_449_Picture_4.jpeg)
 
 **Figure 16.5** Blood's Formed Elements.
 
@@ -10207,7 +10207,7 @@ Identify and describe the structure and function of the formed elements of the b
 - Pulmonary system circulation
 - Systemic system circulation
 
-![](_page_450_Picture_4.jpeg)
+![](images/_page_450_Picture_4.jpeg)
 
 **Figure 16.6** Circulations Systems of the Heart.
 
@@ -10224,7 +10224,7 @@ Identify and describe the structure and function of the formed elements of the b
 - Myocardium
 - Endocardium
 
-![](_page_451_Picture_9.jpeg)
+![](images/_page_451_Picture_9.jpeg)
 
 **Figure 16.7** The Heart Wall.
 
@@ -10286,7 +10286,7 @@ Pair up into groups and use the labeled diagram at the left to identify the stru
 - Ascending Aorta
 - Aortic Arch
 
-![](_page_453_Picture_0.jpeg)
+![](images/_page_453_Picture_0.jpeg)
 
 **Figure 16.8** Internal Anatomy of the Heart.
 
@@ -10296,7 +10296,7 @@ Pair up into groups and use the labeled diagram at the left to identify the stru
 - Interventricular septum
 - Ligamentum arteriosum
 
-![](_page_453_Picture_8.jpeg)
+![](images/_page_453_Picture_8.jpeg)
 
 **Figure 16.9** Ligamentum Arteriosum on the Dog Heart.
 
@@ -10306,11 +10306,11 @@ Pair up into groups and use the labeled diagram at the left to identify the stru
 - Cardiac veins (general)
 - Coronary sinus
 
-![](_page_454_Picture_5.jpeg)
+![](images/_page_454_Picture_5.jpeg)
 
 **Figure 16.10** Coronary Arteries, Anterior View.
 
-![](_page_454_Picture_7.jpeg)
+![](images/_page_454_Picture_7.jpeg)
 
 **Figure 16.11** Coronary Circulation Posterior View.
 
@@ -10324,7 +10324,7 @@ Pair up into groups and use the labeled diagram at the left to identify the stru
 - Bundle branches
 - Purkinje fibers
 
-![](_page_455_Picture_7.jpeg)
+![](images/_page_455_Picture_7.jpeg)
 
 **Figure 16.12** Electrical Conduction System of the Heart.
 
@@ -10355,13 +10355,13 @@ Form groups of three (3) to dissect the sheep heart. Each person will have a spe
   - o Preserved heart.
 - 1. The picture below is the anterior view of a preserved sheep's heart. Note that the anterior side has an interventricular sulcus containing the left anterior descending coronary artery embedded within the fat. In this figure, the area to the right of the sulcus is the left side of the heart. If the fibrous pericardium is intact, slit it open with a scalpel or cut it with scissors, then cut it from the attachments. Note how the visceral pericardium differs from the parietal pericardium.
 
-![](_page_456_Picture_15.jpeg)
+![](images/_page_456_Picture_15.jpeg)
 
 **Figure 16.13** Sheep Heart Anterior View.
 
 2. Examine the external surface of the heart. Determine which side is superior (broad, with large blood vessels issuing from it) and which side is inferior (the apex is pointed). Locate the pulmonary trunk. This large vessel delivers blood to the lungs from the right side of the heart. It is located in the middle of the anterior side of the heart.
 
-![](_page_457_Picture_1.jpeg)
+![](images/_page_457_Picture_1.jpeg)
 
 **Figure 16.14** Anterior Aspect of the Sheep Heart.
 
@@ -10370,13 +10370,13 @@ Form groups of three (3) to dissect the sheep heart. Each person will have a spe
 
 5. Look at the heart wall. Identify the epicardium, the myocardium, and the endocardium. Identify the left ventricle from the right ventricle. As was noted above, the left ventricle which serves the systemic circulation is thicker than the right ventricle which pumps blood through the pulmonary system.
 
-![](_page_458_Picture_1.jpeg)
+![](images/_page_458_Picture_1.jpeg)
 
 **Figure 16.15** Dissected Sheep Heart.
 
 6. Within the interior of the heart identify the AV valves (bicuspid and tricuspid) and their features, including the chordae tendineae and their attachment to the papillary muscles. Within the walls of the ventricles, you should be able to see and feel the trabeculae carneae, or muscular ridges that are distinct from the papillary muscle. The thick interventricular septum between the right and left ventricles should be very evident. Note that the walls of the left ventricle are much thicker than those of the right ventricle. In the atria, you may be able to see and feel the ridges of the pectinate muscles.
 
-![](_page_459_Picture_0.jpeg)
+![](images/_page_459_Picture_0.jpeg)
 
 **Figure 16.15** Chordae Tendineae and Papillary Muscles.
 
@@ -10393,35 +10393,35 @@ Form groups of three (3) to dissect the sheep heart. Each person will have a spe
 
 • Systole • Diastole
 
-![](_page_460_Picture_4.jpeg)
+![](images/_page_460_Picture_4.jpeg)
 
 **Figure 16.17** Cardiac Systole and Diastole.
 
 • Cardiac (ventricular) systole: Both AV valves (the tricuspid and the mitral) are closed by back-pressure as the ventricles are contracted and their blood volumes are ejected through the newly-opened pulmonary valve and aortic valve into the [pulmonary trunk](https://en.wikipedia.org/wiki/Pulmonary_trunk) and aorta respectively.
 
-![](_page_460_Picture_7.jpeg)
+![](images/_page_460_Picture_7.jpeg)
 
 **Figure 16.18** Cardiac (Ventricular) Systole. Both AV Valves lose due to backpressure as the ventricles contract. Their blood volumes are ejected through the newly opened semilunar valves (*pulmonary valve* and *aortic valve)* into the pulmonary trunk and aorta, respectively.
 
 • Cardiac diastole: Both AV valves (tricuspid and the mitral are open to enable blood to flow directly into both left and right ventricles, where it is collected for the next contraction.
 
-![](_page_461_Picture_1.jpeg)
+![](images/_page_461_Picture_1.jpeg)
 
 **Figure 16.19** Cardiac Diastole. Both AV valves open to enable blood to flow Directly into both left and right ventricles.
 
-![](_page_461_Figure_3.jpeg)
+![](images/_page_461_Figure_3.jpeg)
 
 **Figure 16.20** Cardiac Systole, Diastole, and the Cardiac Cycle.
 
 ## **Electrocardiogram:**
 
-![](_page_462_Figure_1.jpeg)
+![](images/_page_462_Figure_1.jpeg)
 
 **Figure 16.21** Electrocardiogram.
 
 ## **The Cardiac Cycle:**
 
-![](_page_462_Figure_4.jpeg)
+![](images/_page_462_Figure_4.jpeg)
 
 **Figure 16.22** Cardiac Cycle Phases.
 
@@ -10463,7 +10463,7 @@ Match the following terms with the correct parts in figure 16.22.
 - l) Right ventricle
 - m) Tricuspid valve
 
-![](_page_464_Figure_15.jpeg)
+![](images/_page_464_Figure_15.jpeg)
 
 **Figure 16.23** The Heart, Unlabeled.
 
@@ -10482,7 +10482,7 @@ Match the following terms with the correct parts in figure 16.22.
 - 12)\_\_\_\_\_\_\_\_\_\_
 - 13)\_\_\_\_\_\_\_\_\_\_
 
-![](_page_465_Picture_0.jpeg)
+![](images/_page_465_Picture_0.jpeg)
 
 Figure 16.24 Electrical System of the Heart, Unlabeled.
 
@@ -10497,7 +10497,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 ## **Crosswords**
 
-![](_page_466_Picture_2.jpeg)
+![](images/_page_466_Picture_2.jpeg)
 
 **Figure 16.25** Heart – 3
 
@@ -10509,7 +10509,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 **Down 1** The \_\_\_ is the highest, strongest peak on a normal ECG. (3,7) **2** The bundle branches provide an electrical pathway form the AV bundle through the \_\_\_\_ \_\_\_\_ to the Purkinje fibers. (16,6) **3** A(n) \_\_\_ is a recording of all of the action potentials generated by the cardiac nodes and fibers at any given instant. (17) **4** If the SA node fails the \_\_\_\_ \_\_ acts and a backup initiator for the heartbeat. (16,4) **5** The normal beat of the heart is initiated by the \_\_\_ \_\_\_ (10,4) **7** During fetal development, the two atria are connected by the \_\_\_\_ to allow blood to bypass the incomplete pulmonary circuit. (7,5)
 
-![](_page_467_Figure_0.jpeg)
+![](images/_page_467_Figure_0.jpeg)
 
 **Figure 16.26** Cardiovascular System and the Heart
 
@@ -10534,7 +10534,7 @@ Name the numbered heart structures (chamber or blood vessel)
 | 12 | The arteries supply the heart with oxygen. These arise at the base of the<br>(8,5)                                                                                                                                         |
 | 13 | The of the heart is the widest part; the is the narrowest end. (4,4)                                                                                                                                                       |
 
-![](_page_469_Picture_0.jpeg)
+![](images/_page_469_Picture_0.jpeg)
 
 **Figure 16.27** Heart Structures - 2.
 
@@ -10770,7 +10770,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 # **Chapter 17: Cardiovascular System; the Arteries and Veins**
 
-![](_page_476_Picture_1.jpeg)
+![](images/_page_476_Picture_1.jpeg)
 
 **Figure 17.1** The Systemic Blood Vessels.
 
@@ -10901,7 +10901,7 @@ Break up into your assigned groups. Obtain a 3-D model of the veins and arteries
 - Tunica media
 - Tunica externa/adventitia
 
-![](_page_481_Figure_14.jpeg)
+![](images/_page_481_Figure_14.jpeg)
 
 **Figure 17.2** Microanatomy of the Blood Vessels.
 
@@ -10942,7 +10942,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - Use labelling tape to identify each vessel on the model. Have another group check your work for correctness. Have your instructor review your material as well.
 - Remember to take some pictures of your work to include in your study guide.
 
-![](_page_483_Picture_0.jpeg)
+![](images/_page_483_Picture_0.jpeg)
 
 **Figure 17.3** The Major Systemic Arteries.
 
@@ -10970,7 +10970,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
   - o Left vertebral.
   - o Left axillary
 
-![](_page_484_Picture_19.jpeg)
+![](images/_page_484_Picture_19.jpeg)
 
 **Figure 17.4** Major Arteries of the Head.
 
@@ -10978,7 +10978,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 
 • Right and left subclavian • Axillary • Brachial • Radial • Ulnar
 
-![](_page_485_Picture_2.jpeg)
+![](images/_page_485_Picture_2.jpeg)
 
 **Figure 17.5** Arteries of the Upper Limbs.
 
@@ -11001,7 +11001,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - Gonadal
 - Common iliac
 
-![](_page_486_Picture_13.jpeg)
+![](images/_page_486_Picture_13.jpeg)
 
 **Figure 17.6** Arteries of the Thoracic and Abdominal Regions.
 
@@ -11015,7 +11015,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - Anterior tibial
 - Posterior tibial
 
-![](_page_487_Picture_8.jpeg)
+![](images/_page_487_Picture_8.jpeg)
 
 **Figure 17.7** Arteries of the Lower Limbs.
 
@@ -11042,7 +11042,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - (R/L) Femoral
 - (R/L) Great saphenous
 
-![](_page_488_Picture_20.jpeg)
+![](images/_page_488_Picture_20.jpeg)
 
 **Figure 17.8** The Major Systemic Veins.
 
@@ -11055,7 +11055,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - Right and left subclavian.
   - o Right and left axillary
 
-![](_page_489_Picture_8.jpeg)
+![](images/_page_489_Picture_8.jpeg)
 
 **Figure 17.9** Veins of the Head and Neck Regions.
 
@@ -11071,7 +11071,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - Basilic
 - Cephalic
 
-![](_page_490_Figure_8.jpeg)
+![](images/_page_490_Figure_8.jpeg)
 
 • Median cubital
 
@@ -11085,7 +11085,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - Hepatic
 - Renal
 
-![](_page_491_Picture_6.jpeg)
+![](images/_page_491_Picture_6.jpeg)
 
 **Figure 17.11** Veins of the Thorax and Abdomen.
 
@@ -11096,7 +11096,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 
 • Great saphenous
 
-![](_page_492_Picture_4.jpeg)
+![](images/_page_492_Picture_4.jpeg)
 
 **Figure 17.12** Veins of the Lower Limbs.
 
@@ -11115,11 +11115,11 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 - Use some labelling tape to identify each vessel on the model. Have another group check your work for correctness. Have your instructor review your material as well.
 - Remember to take some pictures of your work to include in your study guide.
 
-![](_page_493_Figure_10.jpeg)
+![](images/_page_493_Figure_10.jpeg)
 
 **Figure 17.13** Fetal Circulatory System.
 
-![](_page_494_Picture_0.jpeg)
+![](images/_page_494_Picture_0.jpeg)
 
 Figure 17.14 Fetal Circulation.
 
@@ -11151,25 +11151,25 @@ Figure 17.14 Fetal Circulation.
 
 From the preceding lab activities fill in the boxes with the correct names of the blood vessels delivering or draining blood to the regions below.
 
-![](_page_496_Picture_5.jpeg)
+![](images/_page_496_Picture_5.jpeg)
 
 **Figure 17.15** Arteries of the Head and Neck.
 
-![](_page_497_Figure_0.jpeg)
+![](images/_page_497_Figure_0.jpeg)
 
 **Figure 17.16** Arteries of the Thorax and Abdomen.
 
-![](_page_498_Figure_0.jpeg)
+![](images/_page_498_Figure_0.jpeg)
 
 **Figure 17.17** The Veins of the Head and Neck.
 
-![](_page_498_Figure_2.jpeg)
+![](images/_page_498_Figure_2.jpeg)
 
 **Figure 17.18** Veins of the Thorax and Abdomen.
 
 ## **Crossword puzzles**
 
-![](_page_499_Picture_2.jpeg)
+![](images/_page_499_Picture_2.jpeg)
 
 **Figure 17.19** Blood Vessels.
 
@@ -11198,7 +11198,7 @@ From the preceding lab activities fill in the boxes with the correct names of th
 | veins, especially those of the limbs, include to prevent backward blood flow. |
 |                                                                               |
 
-![](_page_501_Picture_0.jpeg)
+![](images/_page_501_Picture_0.jpeg)
 
 **Figure 17.20** Arteries and Veins.
 
@@ -11514,7 +11514,7 @@ From the preceding lab activities fill in the boxes with the correct names of th
 
 # **Chapter 18: Lymphatic System**
 
-![](_page_511_Picture_1.jpeg)
+![](images/_page_511_Picture_1.jpeg)
 
 **Figure 18.1** Lymphatic System, Female.
 
@@ -11612,7 +11612,7 @@ Label the following parts of the lymph node:
 - Hilum
 - Nodules (germinal centers)
 
-![](_page_514_Picture_12.jpeg)
+![](images/_page_514_Picture_12.jpeg)
 
 **Figure 18.2** Unlabeled Lymph Node.
 
@@ -11649,19 +11649,19 @@ Label the following parts of the lymph node:
 
 ## **Drainage**
 
-![](_page_516_Picture_1.jpeg)
+![](images/_page_516_Picture_1.jpeg)
 
 **Figure 18.3** Drainage Pattern of the Lymphatic System.
 
 ## **Lymphatic System Structures**
 
-![](_page_517_Picture_1.jpeg)
+![](images/_page_517_Picture_1.jpeg)
 
 **Figure 18.4** Lymphatic System Anatomy.
 
 ## **Lymph Capillaries**
 
-![](_page_518_Picture_1.jpeg)
+![](images/_page_518_Picture_1.jpeg)
 
 **Figure 18.5** Lymph Capillaries.
 
@@ -11687,13 +11687,13 @@ As a working group, obtain a 3-D model of the lymph node from the classroom lab 
 - Use some labelling tape to identify each bone's markings and have another group check your work for correctness. Have your instructor review your material as well.
 - Remember to take some pictures of your work to include in your study guide.
 
-![](_page_519_Picture_0.jpeg)
+![](images/_page_519_Picture_0.jpeg)
 
 **Figure 18.6** Lymph Node.
 
 ## **Lymph Node Histology**
 
-![](_page_519_Picture_3.jpeg)
+![](images/_page_519_Picture_3.jpeg)
 
 **Figure 18.7** Lymph Node. Cross-section of a lymph node with sections labelled.1) Capsule; 2) Subcapsular sinus; 3) Germinal center; 4) Lymphoid nodule; 5) Trabeculae.
 
@@ -11707,25 +11707,25 @@ Obtain a 3-D model of the mid-sagittal section of the head from the classroom la
 - Use labelling tape to identify each bone's markings and have another group check your work for correctness. Have your instructor review your material as well.
 - Remember to take some pictures of your work to include in your study guide.
 
-![](_page_520_Picture_6.jpeg)
+![](images/_page_520_Picture_6.jpeg)
 
-![](_page_520_Picture_7.jpeg)
+![](images/_page_520_Picture_7.jpeg)
 
-![](_page_520_Picture_8.jpeg)
+![](images/_page_520_Picture_8.jpeg)
 
 **Figure 18.8** Tonsils and throat.
 
 # Spleen
 
-![](_page_521_Picture_1.jpeg)
+![](images/_page_521_Picture_1.jpeg)
 
-![](_page_521_Picture_2.jpeg)
+![](images/_page_521_Picture_2.jpeg)
 
 Figure 18.9 The Spleen.
 
 # **Thymus**
 
-![](_page_522_Picture_1.jpeg)
+![](images/_page_522_Picture_1.jpeg)
 
 Figure 18.10 The Thymus.
 
@@ -11742,15 +11742,15 @@ Figure 18.10 The Thymus.
   - o The hormones it releases.
   - o The target organ the hormones have an effect upon.
 
-![](_page_523_Picture_8.jpeg)
+![](images/_page_523_Picture_8.jpeg)
 
 **Figure 18.11** 
 
-![](_page_523_Picture_11.jpeg)
+![](images/_page_523_Picture_11.jpeg)
 
 **Figure 18.12**
 
-![](_page_524_Picture_0.jpeg)
+![](images/_page_524_Picture_0.jpeg)
 
 **Figure 18.13**
 
@@ -11762,13 +11762,13 @@ Answer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 • Label all of the structures of the lymph node
 
-![](_page_524_Picture_6.jpeg)
+![](images/_page_524_Picture_6.jpeg)
 
 **Figure 18.14** Unlabeled Diagram of the Lymph Node.
 
 Identify and label the structures and organs of the lymphatic system.
 
-![](_page_525_Picture_1.jpeg)
+![](images/_page_525_Picture_1.jpeg)
 
 **Figure 18.15** Unlabeled Lymphatic System
 
@@ -11776,7 +11776,7 @@ Identify and label the structures and organs of the lymphatic system.
 
 Complete the following crossword puzzles.
 
-![](_page_526_Picture_3.jpeg)
+![](images/_page_526_Picture_3.jpeg)
 
 **Figure 18.16** Lymphatic System, Anatomy
 
@@ -11799,7 +11799,7 @@ Complete the following crossword puzzles.
 - **5** One of the major functions of the lymphatic system is to \_\_\_ the interstitial fluid (6)
 - **6** Lymph from the legs, several abdominal organs and the lower torso enters the left lymphatic (a.k.a. thoracic) duct via a dilated sac called the \_\_\_ \_\_\_ (8,5)
 
-![](_page_527_Figure_0.jpeg)
+![](images/_page_527_Figure_0.jpeg)
 
 **Figure 18.17** Lymphatic System, Anatomy 2
 
@@ -12000,7 +12000,7 @@ Complete the following crossword puzzles.
 
 # **Chapter 19: Respiratory System**
 
-![](_page_533_Picture_1.jpeg)
+![](images/_page_533_Picture_1.jpeg)
 
 **Figure 19.1** The Respiratory System Organs.
 
@@ -12145,7 +12145,7 @@ In this lab session you will be using models to study the respiratory system ana
 
 Identify and label the structures of the respiratory system.
 
-![](_page_538_Picture_2.jpeg)
+![](images/_page_538_Picture_2.jpeg)
 
 **Figure 19.2** The Respiratory System, Unlabeled.
 
@@ -12153,7 +12153,7 @@ Identify and label the structures of the respiratory system.
 
 ## **Organs and structures of the Respiratory system.**
 
-![](_page_539_Picture_2.jpeg)
+![](images/_page_539_Picture_2.jpeg)
 
 **Figure 19.3** Complete Respiratory System.
 
@@ -12201,19 +12201,19 @@ Break up into your assigned groups. Obtain a 3-D model of the mid-sagittal head 
 
 ### **Upper and Lower Respiratory Systems**
 
-![](_page_541_Picture_1.jpeg)
+![](images/_page_541_Picture_1.jpeg)
 
 **Figure 19.4** The Upper and Lower Respiratory Conducting Passages.
 
 ## **Upper Respiratory Tract**
 
-![](_page_541_Picture_4.jpeg)
+![](images/_page_541_Picture_4.jpeg)
 
 **Figure 19.5** The Anatomy of the Nose, Pharynx, Mouth, and Larynx.
 
 ## **Divisions of the Pharynx**
 
-![](_page_542_Picture_2.jpeg)
+![](images/_page_542_Picture_2.jpeg)
 
 **Figure 19.6** The Structure of the Pharynx and Larynx.
 
@@ -12242,7 +12242,7 @@ Break up into your assigned groups. Obtain a 3-D model of the mid-sagittal head 
 - Pulmonary veins
 - Diaphragm
 
-![](_page_543_Picture_21.jpeg)
+![](images/_page_543_Picture_21.jpeg)
 
 **Figure 19.7** Gross Anatomy of the Lungs.
 
@@ -12266,13 +12266,13 @@ Working with your assigned groups, obtain a 3-D model of the larynx and/or the l
 - o Trachea
 - o Esophagus
 
-![](_page_544_Picture_18.jpeg)
+![](images/_page_544_Picture_18.jpeg)
 
 **Figure 19.8** Posterior View of the Larynx.
 
-![](_page_545_Picture_0.jpeg)
+![](images/_page_545_Picture_0.jpeg)
 
-![](_page_545_Picture_1.jpeg)
+![](images/_page_545_Picture_1.jpeg)
 
 Right lateral view
 
@@ -12286,11 +12286,11 @@ Know and identify the stages of ventilation.
 - Tidal volume
 - Vital capacity
 
-![](_page_546_Figure_6.jpeg)
+![](images/_page_546_Figure_6.jpeg)
 
 **Figure 19.10** Typical Output from a Spirometer.
 
-![](_page_547_Picture_0.jpeg)
+![](images/_page_547_Picture_0.jpeg)
 
 **Figure 19.11** Buhl spirometer with mouthpieces.
 
@@ -12354,7 +12354,7 @@ Measuring your lung volumes
 
 Label the diagram of the respiratory system and the lung volumes using the terms previously listed in this chapter.
 
-![](_page_550_Figure_5.jpeg)
+![](images/_page_550_Figure_5.jpeg)
 
 **Figure 19.12** The Human Respiratory System, Numbered.
 
@@ -12422,7 +12422,7 @@ Label the diagram of the respiratory system and the lung volumes using the terms
 
 Label this diagram.
 
-![](_page_553_Figure_2.jpeg)
+![](images/_page_553_Figure_2.jpeg)
 
 **Figure 19.13** Spiromete**r** Output; enumerated.
 
@@ -12445,7 +12445,7 @@ Label this diagram.
 
 Identify and label the structures that make up or are associated with the larynx and the trachea.
 
-![](_page_554_Picture_4.jpeg)
+![](images/_page_554_Picture_4.jpeg)
 
 **Figure 19.14** The Larynx.
 
@@ -12453,7 +12453,7 @@ Identify and label the structures that make up or are associated with the larynx
 
 Complete the following crossword puzzles.
 
-![](_page_555_Picture_2.jpeg)
+![](images/_page_555_Picture_2.jpeg)
 
 **Figure 19.15** Respiratory-1
 
@@ -12479,7 +12479,7 @@ Complete the following crossword puzzles.
 |   | flowing directly into the lungs. (5,7)                                                              |
 | 5 | The casual phrase "voice box"                                                                       |
 
-![](_page_556_Picture_0.jpeg)
+![](images/_page_556_Picture_0.jpeg)
 
 **Figure 19.16** Respiratory-2
 
@@ -12494,7 +12494,7 @@ Complete the following crossword puzzles.
 | 7 | is the process of gas<br>exchange between the blood and<br>the lungs. (8,11) | end of each alveolar duct, are<br>chambers connected to several<br>alveoli. (8,4)   |  |
 | 8 | The lung is divided into<br>three lobes. (5)                                 |                                                                                     |  |
 
-![](_page_557_Picture_0.jpeg)
+![](images/_page_557_Picture_0.jpeg)
 
 **Figure 19.17** Respiratory-4
 
@@ -12720,7 +12720,7 @@ Complete the following crossword puzzles.
 
 ## **Chapter 20: Digestive System**
 
-![](_page_563_Picture_1.jpeg)
+![](images/_page_563_Picture_1.jpeg)
 
 **Figure 20.1** The Digestive System.
 
@@ -12917,7 +12917,7 @@ For this exercise you need to define the following terms using your textbook or 
 
 Identify and label the four major layers of the alimentary canal.
 
-![](_page_569_Picture_2.jpeg)
+![](images/_page_569_Picture_2.jpeg)
 
 **Figure 20.2** Layers of the Digestive Tract.
 
@@ -12927,7 +12927,7 @@ Identify and label the anatomical features of the mouth, pharynx, and larynx.
 
 Complete Table 20.1 with the name of the structure, region, feature, or organ that corresponds to each label on the diagram below.
 
-![](_page_570_Picture_3.jpeg)
+![](images/_page_570_Picture_3.jpeg)
 
 **Figure 20.3** Human Vocal Organs in the Oral/Nasal Cavities and Trachea.
 
@@ -12948,7 +12948,7 @@ Identify the components of the alimentary canal.
 
 Fill in Table 20.2 with the name of the structure, region, or organ that corresponds to each label on the diagram below of the digestive tract.
 
-![](_page_571_Picture_3.jpeg)
+![](images/_page_571_Picture_3.jpeg)
 
 **Figure 20.4** The Digestive Tract.
 
@@ -12966,7 +12966,7 @@ Identifying anatomical structures of the stomach.
 
 Fill in the table below with the name of the digestive system structure, region, feature, or organ that corresponds to each label on the model.
 
-![](_page_572_Picture_3.jpeg)
+![](images/_page_572_Picture_3.jpeg)
 
 ## **20.5** Anatomy of the Stomach.
 
@@ -12992,7 +12992,7 @@ Identifying anatomical features of the gastrointestinal tract.
 
 Fill in the table below with the name of the digestive system structure, region, feature, or organ that corresponds to each label on the model at the left.
 
-![](_page_573_Picture_3.jpeg)
+![](images/_page_573_Picture_3.jpeg)
 
 **Figure 20.6** Alimentary Canal.
 
@@ -13032,7 +13032,7 @@ Functions of the organs of the gastrointestinal tract (alimentary canal). Fill i
 
 Identify the following components of the digestive system.
 
-![](_page_575_Picture_2.jpeg)
+![](images/_page_575_Picture_2.jpeg)
 
 **Figure 20.7** Biliary System.
 
@@ -13058,11 +13058,11 @@ Identify the following components of the digestive system.
 
 Identify and label the structures of the large intestine.
 
-![](_page_576_Picture_2.jpeg)
+![](images/_page_576_Picture_2.jpeg)
 
 **Figure 20.8** The Large Intestine.
 
-![](_page_577_Picture_0.jpeg)
+![](images/_page_577_Picture_0.jpeg)
 
 **Figure 20.9** Cross Section of a Tooth.
 
@@ -13084,7 +13084,7 @@ Identify the structures of the tooth in the diagram above.
 | 8                   |                |
 | 9                   |                |
 
-![](_page_578_Picture_0.jpeg)
+![](images/_page_578_Picture_0.jpeg)
 
 **Figure 20.10** Adult Teeth.
 
@@ -13119,7 +13119,7 @@ Identify and label the teeth found in the adult mouth. Circle and identify the d
 - Identify and label structures on the model from the list above. You may have to use your text to assist with these identifications.
 - Take pictures of your finished work for your review later. Also palpate the models to enable you to learn the layers and their names more quickly.
 
-![](_page_579_Picture_20.jpeg)
+![](images/_page_579_Picture_20.jpeg)
 
 **Figure 20.12** Layers of the Gastrointestinal Tract.
 
@@ -13144,17 +13144,17 @@ Identify and label the teeth found in the adult mouth. Circle and identify the d
 - Identify and label structures on the model from the list above. You may have to use your text to assist with these identifications.
 - Locate and label the structures listed above on the models.
 
-![](_page_580_Picture_16.jpeg)
+![](images/_page_580_Picture_16.jpeg)
 
 **Figure 20.13** The Structures of the Mouth.
 
-![](_page_581_Picture_0.jpeg)
+![](images/_page_581_Picture_0.jpeg)
 
 **Figure 20.14** Anatomy of the Mouth and Esophagus.
 
 ### **The Salivary Glands**
 
-![](_page_581_Picture_3.jpeg)
+![](images/_page_581_Picture_3.jpeg)
 
 **Figure 20.15** The Salivary Glands.
 
@@ -13170,7 +13170,7 @@ Identify and label the teeth found in the adult mouth. Circle and identify the d
 - Premolar (bicuspid) (2/quad)
 - Molar (3/quad)
 
-![](_page_582_Picture_10.jpeg)
+![](images/_page_582_Picture_10.jpeg)
 
 **Figure 20.16** Types, or Sets, of Teeth.
 
@@ -13185,7 +13185,7 @@ Identify and label the teeth found in the adult mouth. Circle and identify the d
 - Periodontal ligament
 - Gingiva
 
-![](_page_583_Picture_9.jpeg)
+![](images/_page_583_Picture_9.jpeg)
 
 **Figure 20.17** Diagram of a Molar
 
@@ -13210,11 +13210,11 @@ Identify and label the teeth found in the adult mouth. Circle and identify the d
 - Rugae
 - Pyloric sphincter
 
-![](_page_584_Picture_16.jpeg)
+![](images/_page_584_Picture_16.jpeg)
 
 **20.18** Anatomy of the Stomach.
 
-![](_page_585_Picture_0.jpeg)
+![](images/_page_585_Picture_0.jpeg)
 
 Figure 20.19 The Layers of the Stomach.
 
@@ -13230,7 +13230,7 @@ Figure 20.19 The Layers of the Stomach.
 - Villi
 - Duodenal papillae
 
-![](_page_586_Picture_8.jpeg)
+![](images/_page_586_Picture_8.jpeg)
 
 **Figure 20.20** The Small Intestine Anatomy
 
@@ -13243,11 +13243,11 @@ Obtain a model of the digestive system and the intestinal villi from the storage
 
 Photograph your work for later reference.
 
-![](_page_587_Picture_0.jpeg)
+![](images/_page_587_Picture_0.jpeg)
 
 **Figure 20.21** The Small Intestine Villi Histology.
 
-![](_page_587_Picture_2.jpeg)
+![](images/_page_587_Picture_2.jpeg)
 
 **Figure 20.22** The Duodenal Papilla of the Pancreas.
 
@@ -13272,7 +13272,7 @@ Photograph your work for later reference.
 - Haustra
 - Taeniae coli
 
-![](_page_588_Figure_17.jpeg)
+![](images/_page_588_Figure_17.jpeg)
 
 **Figure 20.23** The large Intestine.
 
@@ -13283,7 +13283,7 @@ Using the human digestive model, identify and label the sections of the small in
 - Locate and label the structures listed below on the model.
 - Photograph your work for later reference.
 
-![](_page_589_Picture_0.jpeg)
+![](images/_page_589_Picture_0.jpeg)
 
 **Figure 20.24** Large Intestine Internal and External Sphincters.
 
@@ -13312,25 +13312,25 @@ Using the human digestive model, identify and label the sections of the small in
 
 ## **Accessory Structures**
 
-![](_page_590_Picture_1.jpeg)
+![](images/_page_590_Picture_1.jpeg)
 
 **Figure 20.25** Accessory Digestive Organs.
 
 ## **Mesentery**
 
-![](_page_590_Picture_4.jpeg)
+![](images/_page_590_Picture_4.jpeg)
 
 **Figure 20.26** The Structure of Mesentery Spread Across the Intestines.
 
 ## **Greater Omentum**
 
-![](_page_591_Picture_1.jpeg)
+![](images/_page_591_Picture_1.jpeg)
 
 **Figure 20.27** Organs of the Thorax and Abdominal Regions. Key: Greater omentum - 7
 
 ### **Pancreas:**
 
-![](_page_591_Picture_4.jpeg)
+![](images/_page_591_Picture_4.jpeg)
 
 **Figure 20.28** The Pancreas.
 
@@ -13371,7 +13371,7 @@ Using the human digestive model, identify and label the sections of the small in
 
 Identify the structures found in figures 20.29 to 20.32.
 
-![](_page_593_Figure_5.jpeg)
+![](images/_page_593_Figure_5.jpeg)
 
 **Figure 20.29** Cross Section of the Small Intestine.
 
@@ -13389,7 +13389,7 @@ Identify the structures found in figures 20.29 to 20.32.
 | 14-15 collectively |  |
 | 16                 |  |
 
-![](_page_594_Picture_0.jpeg)
+![](images/_page_594_Picture_0.jpeg)
 
 **Figure 20.30** The Anatomy of the Large Intestine.
 
@@ -13413,7 +13413,7 @@ Identify the structures found in figures 20.29 to 20.32.
 | 14     |                           |
 | 15     |                           |
 
-![](_page_595_Picture_1.jpeg)
+![](images/_page_595_Picture_1.jpeg)
 
 **Figure 20.31** The Digestive System.
 
@@ -13443,7 +13443,7 @@ Identify the structures found in figures 20.29 to 20.32.
 
 Identify and describe the function of the structures in figure 20.32.
 
-![](_page_597_Figure_1.jpeg)
+![](images/_page_597_Figure_1.jpeg)
 
 **Figure 20.32** The Digestive System, Unlabeled.
 
@@ -13501,7 +13501,7 @@ Answer the following questions:
 
 Complete the following crossword puzzles.
 
-![](_page_600_Figure_3.jpeg)
+![](images/_page_600_Figure_3.jpeg)
 
 **Figure 20.33** Digestive System-1
 
@@ -13518,7 +13518,7 @@ Complete the following crossword puzzles.
 | 3    | The roof of the oral cavit is divided into two parts, the bony and the<br>THe peritoneal cavity is located between the visceral and parietal layers of<br>the peritoneum and is filled with (6,5) |
 | 7    | The central are aof the gastrointestinal tract is called the (5)                                                                                                                                  |
 
-![](_page_602_Picture_0.jpeg)
+![](images/_page_602_Picture_0.jpeg)
 
 **Figure 20.34** Digestive, Alimentary Canal
 
@@ -13530,7 +13530,7 @@ Complete the following crossword puzzles.
 | 9  | The organs of the digestive system<br>which are found in the abdominal<br>cavity, and the cavity itself, are lined<br>by a(n) membrane, the<br>(6,10)                 | 3<br>7 | The roof of the oral cavity is divided<br>into two parts, the bony<br>and the (4,6,4,6)<br>The central cavity of the                                                      |
 | 10 | The most visible mesentery, upon<br>dissection, is the folded layer which<br>hangs like a curtain from the<br>stomach and transverse colon; it is<br>called the (7,7) | 8      | gastrointestinal tract is called the<br>(5)<br>The peritoneal cavity is located between the<br>visceral and parietal layers of the<br>peritoneum and is filled with (6,5) |
 
-![](_page_604_Figure_0.jpeg)
+![](images/_page_604_Figure_0.jpeg)
 
 **Figure 20.35** Digestive - Stomach
 
@@ -13545,7 +13545,7 @@ Complete the following crossword puzzles.
 | 2    | The esophagus is a tube lying anterior to the and posterior to the and<br>the (9,6,7)                                  |
 | 3    | The interior of the empty stomach is wrinkled; these wrinkles of folds are called<br>(5)                               |
 
-![](_page_606_Figure_0.jpeg)
+![](images/_page_606_Figure_0.jpeg)
 
 **Figure 20.36** Digestive; Intestines and Accessory organs
 
@@ -13580,7 +13580,7 @@ Complete the following crossword puzzles.
 |      |                                                                                | located in the middle of the small intestine. (7)                               |  |  |  |
 |      |                                                                                |                                                                                 |  |  |  |
 
-![](_page_608_Picture_0.jpeg)
+![](images/_page_608_Picture_0.jpeg)
 
 **Figure 20.37** Digestive - Teeth
 
@@ -13861,7 +13861,7 @@ Complete the following crossword puzzles.
 
 # **Chapter 21: Urinary System**
 
-![](_page_615_Picture_1.jpeg)
+![](images/_page_615_Picture_1.jpeg)
 
 **Figure 21.1** The female urinary system.
 
@@ -13986,7 +13986,7 @@ By the end of this lab, you will be able to:
 
 Complete table 21.1 by identifying the structures in figure 21.2.
 
-![](_page_618_Picture_2.jpeg)
+![](images/_page_618_Picture_2.jpeg)
 
 **Figure 21.2** Unlabeled kidney.
 
@@ -14032,7 +14032,7 @@ Complete table 21.1 by identifying the structures in figure 21.2.
 
 Using your text or the information in this workbook, label the diagram of the nephron below.
 
-![](_page_619_Picture_2.jpeg)
+![](images/_page_619_Picture_2.jpeg)
 
 **Figure 21.3** Nephron Anatomy.
 
@@ -14040,7 +14040,7 @@ Using your text or the information in this workbook, label the diagram of the ne
 
 ## **Introduction to the kidney**
 
-![](_page_620_Picture_2.jpeg)
+![](images/_page_620_Picture_2.jpeg)
 
 **Figure 21.4** Structures of the Kidney..
 
@@ -14082,7 +14082,7 @@ Gather in your assigned groups. Obtain a free-standing 3d model of the urinary s
 - Bladder
 - Urethra
 
-![](_page_621_Picture_10.jpeg)
+![](images/_page_621_Picture_10.jpeg)
 
 **Figure 21.5** The Male Urinary System.
 
@@ -14110,7 +14110,7 @@ Obtain a 3d model of the microanatomy of the kidney, a human kidney section and 
 - Major calyces
 - Renal pelvis
 
-![](_page_622_Picture_19.jpeg)
+![](images/_page_622_Picture_19.jpeg)
 
 **Figure 21.6** The Kidney.
 
@@ -14139,7 +14139,7 @@ Obtain a 3d model of human kidney model with nephrons, blood vessels and renal c
 - Collecting duct
 - Papillary duct
 
-![](_page_623_Picture_20.jpeg)
+![](images/_page_623_Picture_20.jpeg)
 
 **Figure 21.7** The Nephron.
 
@@ -14169,7 +14169,7 @@ Obtain a 3d model of human kidney model with nephrons, blood vessels and renal c
 - Interlobar vein
 - Renal vein
 
-![](_page_624_Picture_21.jpeg)
+![](images/_page_624_Picture_21.jpeg)
 
 **Figure 21.8** Blood Flow in the Kidney.
 
@@ -14193,7 +14193,7 @@ Obtain a free-standing 3d model of the urinary system of the male and/or a dual 
 - Urethra
 - Transitional epithelium
 
-![](_page_625_Picture_13.jpeg)
+![](images/_page_625_Picture_13.jpeg)
 
 **Figure 21.9** The Male and Female Urinary Tracts.
 
@@ -14205,7 +14205,7 @@ Obtain a free-standing 3d model of the urinary system of the male and/or a dual 
 - Have the group next to you review your identifications for their correctness.
 - Take pictures of your finished work for review later on.
 
-![](_page_626_Picture_5.jpeg)
+![](images/_page_626_Picture_5.jpeg)
 
 **Figure 21.10** Transitional Epithelium Found in the Bladder.
 
@@ -14219,19 +14219,19 @@ In this procedure you will test simulated urine from several patients.
 - 2. Fill each test tube with the following simulated solutions: one filled with simulated urine from patient A, B, C, D, and E. label each test tube
 - 3. Visually determine the color and transparency of each patient's sample. Record your observations in table \_\_\_\_. Determine whether the sample is clear or cloudy.
 
-![](_page_627_Picture_6.jpeg)
+![](images/_page_627_Picture_6.jpeg)
 
 **Figure 21.11** Color Results of the Relative Amount of Dehydration in a Urine Sample.
 
 4. Obtain a urinalysis test strip.
 
-![](_page_628_Picture_0.jpeg)
+![](images/_page_628_Picture_0.jpeg)
 
 **Figure 21.12** A Medical Illustration Depicting a Ketone Urine Test.
 
 5. Dip the quickly into the urine sample for patient A. Make sure that the entire strip is immersed into the solution, covering all of the test pads.
 
-![](_page_628_Picture_3.jpeg)
+![](images/_page_628_Picture_3.jpeg)
 
 **Figure 21.13** A Urine Test Strip is Immersed into the Sample.
 
@@ -14239,7 +14239,7 @@ In this procedure you will test simulated urine from several patients.
 - 7. Allow the strip to dry for 30 seconds.
 - 8. Compare the color of the strips to the color of the blocks on the Siemens Healthcare bottle. Record the results in table 21.2.
 
-![](_page_629_Picture_0.jpeg)
+![](images/_page_629_Picture_0.jpeg)
 
 **Figure 21.14** Comparison of a Color Strip to the Label on a Test Strip Container.
 
@@ -14271,7 +14271,7 @@ Fill in the following table and answer the following questions:
 
 ### **Post Lab Activity: 21.1**
 
-![](_page_631_Picture_2.jpeg)
+![](images/_page_631_Picture_2.jpeg)
 
 **Figure 21.15** The Urinary system.
 
@@ -14298,7 +14298,7 @@ Identify the structures in figure 21.15.
 
 Identify all of the structures in figure 21.16.
 
-![](_page_632_Picture_1.jpeg)
+![](images/_page_632_Picture_1.jpeg)
 
 **Figure 21.16** Juxtamedullary Nephron.
 
@@ -14333,7 +14333,7 @@ Table 21.2 Structures of the Nephron.
 
 ## Label the structures in figure 21.17.
 
-![](_page_634_Picture_1.jpeg)
+![](images/_page_634_Picture_1.jpeg)
 
 **Figure 21.17** .The Bladder.
 
@@ -14347,7 +14347,7 @@ Table 21.2 Structures of the Nephron.
 
 Complete the following crossword puzzles:
 
-![](_page_636_Picture_3.jpeg)
+![](images/_page_636_Picture_3.jpeg)
 
 **Figure 21.18** Renal anatomy 1.
 
@@ -14367,7 +14367,7 @@ Complete the following crossword puzzles:
 | 7    | Blood flows to the renal cortex through the arteries, then arches around the<br>renal lobes just below the cortex via the arteries. (10,7)                                                                                   |  |  |
 | 9    | Each renal pyramid and the corticular tissue surrounding it is called a(n)<br>The term "' refers to these units. (5,4,5)                                                                                                     |  |  |
 
-![](_page_638_Figure_0.jpeg)
+![](images/_page_638_Figure_0.jpeg)
 
 **Figure 21.19** Renal anatomy 2.
 
@@ -14375,7 +14375,7 @@ Complete the following crossword puzzles:
 
 opening. (8)
 
-![](_page_640_Picture_0.jpeg)
+![](images/_page_640_Picture_0.jpeg)
 
 **Figure 21.20** Renal Physiology.
 
@@ -14566,7 +14566,7 @@ opening. (8)
 
 # **Chapter 22: Reproductive System: The Male Reproductive System**
 
-![](_page_646_Picture_1.jpeg)
+![](images/_page_646_Picture_1.jpeg)
 
 **Figure 22.1** The Male Reproductive System.
 
@@ -14665,11 +14665,11 @@ Complete the essential definitions before you come into the lab:
 
 Identify and label the structures found in figures 22.2 and 22.3.
 
-![](_page_649_Figure_11.jpeg)
+![](images/_page_649_Figure_11.jpeg)
 
 **Figure 22.2** Male Anatomy, Unlabeled.
 
-![](_page_650_Figure_0.jpeg)
+![](images/_page_650_Figure_0.jpeg)
 
 Figure 22.3 Hunam Testicle, Unlabeled.
 
@@ -14706,13 +14706,13 @@ Figure 22.3 Hunam Testicle, Unlabeled.
 - Prepuce
 - External urethral orifice
 
-![](_page_652_Picture_0.jpeg)
+![](images/_page_652_Picture_0.jpeg)
 
 **Figure 22.4** Male Reproductive Structures.
 
-![](_page_653_Picture_0.jpeg)
+![](images/_page_653_Picture_0.jpeg)
 
-![](_page_653_Picture_1.jpeg)
+![](images/_page_653_Picture_1.jpeg)
 
 Figure 22.5 The Penile Erectile Tissue.
 
@@ -14733,7 +14733,7 @@ Obtain a 3D free-standing model of the testes and epididymis from the storage ar
 - Ductus deferens
 - Spermatic cord
 
-![](_page_654_Picture_13.jpeg)
+![](images/_page_654_Picture_13.jpeg)
 
 **Figure 22.6** Illustration of the Human Testicle.
 
@@ -14755,7 +14755,7 @@ Using a Hubbard Scientific plaque of the male reproductive system from the stora
 - Midpiece
 - Flagellum
 
-![](_page_655_Picture_12.jpeg)
+![](images/_page_655_Picture_12.jpeg)
 
 **Figure 22.7** Anatomy of the Sperm Cell.
 
@@ -14774,7 +14774,7 @@ Using a Hubbard Scientific plaque of the male reproductive system from the stora
 
 Identify the structures in figure 22.8
 
-![](_page_657_Picture_4.jpeg)
+![](images/_page_657_Picture_4.jpeg)
 
 **Figure 22.8** An Illustration of an Adult Human Testicle
 
@@ -14789,7 +14789,7 @@ Identify the structures in figure 22.8
 
 Identify the structures in figure 22.9.
 
-![](_page_658_Picture_1.jpeg)
+![](images/_page_658_Picture_1.jpeg)
 
 **Figure 22.9** Male Reproductive System with Labels for Identification.
 
@@ -14829,7 +14829,7 @@ Complete the questions below.
 
 Complete the following crossword puzzles.
 
-![](_page_660_Figure_2.jpeg)
+![](images/_page_660_Figure_2.jpeg)
 
 **Figure 22.10** Testes
 
@@ -14849,7 +14849,7 @@ Complete the following crossword puzzles.
 | 6<br>When the male becomes sexually aroused, peristaltic contractions<br>conduct sperm to the, the widest part of the ductus deferens and the final storage<br>site for the sperm prior to ejaculation. (7) |                                                                                                                                                                                     |  |
 | 7                                                                                                                                                                                                           | The ductus deferens, blood vessels, lymphatic vessels and nerves enter<br>or leave the scrotom inside the, a connective tissue tube. (9,4)                                          |  |
 
-![](_page_662_Picture_0.jpeg)
+![](images/_page_662_Picture_0.jpeg)
 
 **Figure 22.11** Reproductive Anatomy
 
@@ -14960,7 +14960,7 @@ Complete the following crossword puzzles.
 
 # **Chapter 23: Reproductive System: Female Reproductive System**
 
-![](_page_666_Picture_1.jpeg)
+![](images/_page_666_Picture_1.jpeg)
 
 **Figure 23.1** Female Reproductive System.
 
@@ -15082,11 +15082,11 @@ Complete the essential definitions before you come into the lab:
 
 Using the diagrams in this manual and your text, identify and label the structures found in figures 23.2 and 23.3.
 
-![](_page_670_Picture_3.jpeg)
+![](images/_page_670_Picture_3.jpeg)
 
 **Figure 23.2** The Female Reproductive System.
 
-![](_page_671_Figure_0.jpeg)
+![](images/_page_671_Figure_0.jpeg)
 
 **Figure 23.3** The Female Reproductive System, Sagittal Aspect.
 
@@ -15111,9 +15111,9 @@ Obtain a 3D free-standing model and/or Hubbard Scientific display of the female 
 - Vagina
 - Vulva
 
-![](_page_673_Figure_0.jpeg)
+![](images/_page_673_Figure_0.jpeg)
 
-![](_page_673_Figure_2.jpeg)
+![](images/_page_673_Figure_2.jpeg)
 
 **Figure 23.4** Labelled Female Reproductive System, Sagittal and Coronal Views.
 
@@ -15127,15 +15127,15 @@ Obtain a 3D free-standing model and/or Hubbard Scientific display of the female 
 - Corpus luteum
 - Corpus albicans
 
-![](_page_674_Figure_9.jpeg)
+![](images/_page_674_Figure_9.jpeg)
 
 **Figure 23.5** Illustration of Oogenesis.
 
-![](_page_674_Figure_11.jpeg)
+![](images/_page_674_Figure_11.jpeg)
 
 **Figure 23.6** Follicular Stages in the Ovary.
 
-![](_page_675_Figure_0.jpeg)
+![](images/_page_675_Figure_0.jpeg)
 
 Figure 23.7 Oogenesis.
 
@@ -15160,11 +15160,11 @@ Figure 23.7 Oogenesis.
   - o Stratum basalis
   - o Stratum functionalis
 
-![](_page_676_Picture_15.jpeg)
+![](images/_page_676_Picture_15.jpeg)
 
 **Figure 23.8** Anterior View of the Female Uterus.
 
-![](_page_677_Picture_0.jpeg)
+![](images/_page_677_Picture_0.jpeg)
 
 Figure 23.9 Fertilization.
 
@@ -15190,7 +15190,7 @@ Obtain a 3D free-standing model or Hubbard Scientific plaque of the female repro
 - Urethra/urethral orifice
 - Vagina/vaginal opening
 
-![](_page_678_Picture_16.jpeg)
+![](images/_page_678_Picture_16.jpeg)
 
 **Figure 23.10** Structures of the Vulva.
 
@@ -15213,11 +15213,11 @@ Obtain a 3D display of the female reproductive system from the storage area.
 - Adipose tissue
 - Suspensory ligament
 
-![](_page_679_Picture_13.jpeg)
+![](images/_page_679_Picture_13.jpeg)
 
 **Figure 23.11** Female Breast Illustration.
 
-![](_page_680_Picture_0.jpeg)
+![](images/_page_680_Picture_0.jpeg)
 
 Figure 23.12 Diagram of the Sagittal View of the Breast.
 
@@ -15244,7 +15244,7 @@ Figure 23.12 Diagram of the Sagittal View of the Breast.
 
 **Crossword Puzzles**
 
-![](_page_682_Picture_3.jpeg)
+![](images/_page_682_Picture_3.jpeg)
 
 **Figure 23.13** Female Reproductive Anatomy 1
 
@@ -15289,7 +15289,7 @@ Figure 23.12 Diagram of the Sagittal View of the Breast.
 |      | 17<br>The of the uterus is a small donut-shaped gateway, closed my mucus to protect         |  |  |  |
 |      | the uterus until ovulation makes conception possible. (6)                                   |  |  |  |
 
-![](_page_684_Picture_0.jpeg)
+![](images/_page_684_Picture_0.jpeg)
 
 **Figure 23.14** Female reproductive anatomy 2
 
@@ -15307,7 +15307,7 @@ Figure 23.12 Diagram of the Sagittal View of the Breast.
 | 8    | The outer opening of the vagina is sometimes closed or partially closed at birth<br>by a membrane called the (5)                                                  |  |  |  |
 | 9    | Taken together, the external female genitalia are referred to as the (5)                                                                                          |  |  |  |
 
-![](_page_686_Figure_0.jpeg)
+![](images/_page_686_Figure_0.jpeg)
 
 **Figure 23.15** Female reproductive accessory organs
 
@@ -15377,15 +15377,15 @@ Figure 23.12 Diagram of the Sagittal View of the Breast.
 
 Label the following diagrams (figures 23.13 to 23.16) of the female reproductive system.
 
-![](_page_690_Picture_2.jpeg)
+![](images/_page_690_Picture_2.jpeg)
 
 **Figure 23.13** Female Reproductive System.
 
-![](_page_690_Picture_4.jpeg)
+![](images/_page_690_Picture_4.jpeg)
 
 **Figure 23.14** Female Reproductive System
 
-![](_page_691_Picture_0.jpeg)
+![](images/_page_691_Picture_0.jpeg)
 
 **Figure 23.15** Unlabeled Diagram of the Breast.
 
@@ -15402,7 +15402,7 @@ Label the following diagrams (figures 23.13 to 23.16) of the female reproductive
 
 Identify and label the stages of oogenesis.
 
-![](_page_692_Picture_1.jpeg)
+![](images/_page_692_Picture_1.jpeg)
 
 **Figure 23.16** Stages of Ovulation
 
