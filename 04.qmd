@@ -103,10 +103,10 @@ Define the following terms using your textbook or other reliable academic source
 -   Surfaces:
     -   Apical \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     -   Basal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Basement membrane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Connective Tissue:**
 
--   Basement membrane
 -   Cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Areolar connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Hyaline cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -116,6 +116,7 @@ Define the following terms using your textbook or other reliable academic source
 -   Regular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Irregular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Blood – detail in cardiovascular system \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Connective Tissue Features:**
 
@@ -155,14 +156,14 @@ Use the pictures in the table below to review several tissue types, locate the e
 5.  In the picture of simple columnar epithelium, locate the apical edge and the basal edge, then label them. Check with your instructor to verify your accuracy.
 6.  For each tissue, describe how the anatomy of the tissue enables its functions.
 
-| Image                           | Name | Location | Function |
-|---------------------------------|------|----------|----------|
-| ![Figure 4.3](images/ch4_0.jpg) |      |          |          |
-| ![Figure 4.4](images/ch4_1.jpg) |      |          |          |
-| ![Figure 4.5](images/ch4_2.jpg) |      |          |          |
-| ![Figure 4.6](images/ch4_3.jpg) |      |          |          |
-| ![Figure 4.7](images/ch4_4.jpg) |      |          |          |
-| ![Figure 4.8](images/ch4_5.jpg) |      |          |          |
+| Image                                         | Name | Location | Function |
+|-----------------------------------------------|------|----------|----------|
+| ![Figure 4.3](images/ch4_0.jpg)**Figure 4.3** |      |          |          |
+| ![Figure 4.4](images/ch4_1.jpg)**Figure 4.4** |      |          |          |
+| ![Figure 4.5](images/ch4_2.jpg)**Figure 4.5** |      |          |          |
+| ![Figure 4.6](images/ch4_3.jpg)**Figure 4.6** |      |          |          |
+| ![Figure 4.7](images/ch4_4.jpg)**Figure 4.7** |      |          |          |
+| ![Figure 4.8](images/ch4_5.jpg)**Figure 4.8** |      |          |          |
 
 ### **Terms:**
 
@@ -222,9 +223,9 @@ Using a light microscope review the tissues assigned by your Lab Instructor at a
     -   elastic
     -   extracellular matrix
     -   lacuna
--   adipocytes
--   fibroblasts
--   chondrocytes
+    -   adipocytes
+    -   fibroblasts
+    -   chondrocytes
 
 ## **Connective Tissue Types**
 
@@ -422,7 +423,7 @@ Match the following tissue with its function or location.
 **Chapter 4: Histology/Tissues Glossary**
 
 | Terms | Definitions |
-|----|----|
+|------------------------------------|------------------------------------|
 | adipocytes | lipid storage cells |
 | adipose tissue | specialized areolar tissue rich in stored fat |
 | anchoring junction | mechanically attaches adjacent cells to each other or to the basement membrane |

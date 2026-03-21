@@ -67,7 +67,7 @@ Identify the following parts and functions of the microscope above.
 Match the microscope part with its definition.
 
 | Microscope Part | Definitions |
-|------------------------------------|------------------------------------|
+|----|----|
 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Condenser | \(a\) The light source in the bottom of the microscope, also known as the illuminator. |
 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Revolving Turret | \(b\) Also known as the body- carries the oculars. |
 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Mechanical stage\\ | \(c\) The microscope supports. |
@@ -263,7 +263,7 @@ In this case “A” represents the known field information of the measured fiel
     d.  Finally, take a break when needed! Chapter 2: Microscopy Glossary
 
 | Term | Definition |
-|---------------------|---------------------------------------------------|
+|----|----|
 | binocular | a microscope having two eyepieces |
 | brightfield microscope, | a compound microscope with two or more lenses that produce a dark image on a bright background. |
 | coarse focusing knob | used for large-scale movements with 4⨯ and 10⨯ objective lenses |

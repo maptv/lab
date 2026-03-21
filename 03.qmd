@@ -221,7 +221,7 @@ Define the following terms associated with the cell cycle.
 Organelles in the cell above are labelled as follows:
 
 |  |  |
-|-------------|-----------------------------------------------------------|
+|------|--------------------------------------------------------|
 | 1 | Nucleolus |
 | 2 | Nucleus |
 | 3 | Ribosome (dots as part of 5) |
@@ -286,8 +286,8 @@ Using the information in table 3.2 review the cells structures and function(s) t
 | Lysosome                     |              |                    |
 | Golgi apparatus              |              |                    |
 | Mitochondrion                |              |                    |
-| Rough Endoplasmic reticulum  |              |                    |
-| Smooth Endoplasmic reticulum |              |                    |
+| Rough endoplasmic reticulum  |              |                    |
+| Smooth endoplasmic reticulum |              |                    |
 | Centriole                    |              |                    |
 
 **Table 3.2 Parts of a Typical Animal Cell**
@@ -380,7 +380,7 @@ Examine the phases of mitosis from the figures below.
 1.  The smallest independent unit that is alive is the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 2.  The region in a human cell that houses the bulk of the genetic material is the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 3.  Most of the cellular machinery in human cells is in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-4.  The basic structure of a cell's membrane is a(n) bilayer with associated proteins that can be either \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ or \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+4.  The basic structure of a cell's membrane is a(n) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ bilayer with associated proteins that can be either \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ or \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 ## **Post Lab Activity 3.2**
 
@@ -427,7 +427,7 @@ Examine the phases of mitosis from the figures below.
 ## **Table 3.2 Complete the Matching Activity**
 
 | Name | Description |
-|----------------------------|------------------------------------------------|
+|---------------------------|---------------------------------------------|
 | 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
 | 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
 | 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
@@ -563,7 +563,7 @@ The Cell:
 **Chapter 3: Cells Glossary**
 
 | Terms | Definitions |
-|------------------------------------|------------------------------------|
+|-----------------------|------------------------------------|
 | active transport | form of transport across the cell membrane that requires input of cellular energy |
 | amphipathic | describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility |
 | anaphase | third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of a dividing cell |

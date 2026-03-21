@@ -357,8 +357,8 @@ Using a model or diagram of the integumentary system, identify and describe the 
 
 ## **Table 5.4 Matching: Write the Letter of the Definition in the Column to the Left of the Term**
 
-|   | Terms | Definitions |
-|-------------|-------------|---------------------------------------------|
+| \# | Terms | Definitions |
+|-----|---------------|------------------------------------------|
 | 1 | Pore | a\. The part of a hair projecting beyond the surface of the skin |
 | 2 | Arrector pili muscle | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
 | 3 | Meissner's corpuscle | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
@@ -402,7 +402,7 @@ Match the statement blank with the correct answer.
 **Table 5.6 Match the statement with the best answer.**
 
 | Answer | Statement | Possible Answer |
-|----------------|-----------------------------------------|----------------|
+|------------|--------------------------------------|-----------------|
 | a\. | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | Hair bulb |
 | b\. | The deepest layer of the epidermis. | Sudoriferous |
 | c\. | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_ , so-called because they make \_\_\_\_\_\_\_\_\_\_. | stratum basale |
@@ -511,13 +511,13 @@ Using the picture below, identify the substructures within the following accesso
 \
 
 |   | List three major types of glands associated with the integumentary system and describe their function. |
-|-------------|-----------------------------------------------------------|
+|------|--------------------------------------------------------|
 | a\) |  |
 | b\) |  |
 | c\) |  |
 
 |     | What are the three protective functions of the integumentary system? |
-|-------------|-----------------------------------------------------------|
+|------|--------------------------------------------------------|
 | a\) |                                                                      |
 | b\) |                                                                      |
 | c\) |                                                                      |
@@ -536,19 +536,19 @@ Using the picture below, identify the substructures within the following accesso
 \
 
 | 1\) | List the five layers of the epidermis found in thick skin. Indicate which layer is not present in thin skin. |
-|--------------|----------------------------------------------------------|
-|  | a\) |
-|  | b\) |
-|  | c\) |
-|  | d\) |
-|  | e\) |
+|-----|-------------------------------------------------------|
+| a\) |  |
+| b\) |  |
+| c\) |  |
+| d\) |  |
+| e\) |  |
 
 | 2\) | Identify four accessory structures found in the dermis, describe their function. |
-|--------------|----------------------------------------------------------|
-|  | a\) |
-|  | b\) |
-|  | c\) |
-|  | d\) |
+|-----|-------------------------------------------------------|
+| a\) |  |
+| b\) |  |
+| c\) |  |
+| d\) |  |
 
 ## **Answer keys**
 
@@ -561,7 +561,7 @@ Using the picture below, identify the substructures within the following accesso
 **Chapter 5: Integumentary System**
 
 | Key Terms | Definitions |
-|----------------------|--------------------------------------------------|
+|----------------------|-------------------------------------------------|
 | acne | skin condition due to infected sebaceous glands |
 | albinism | genetic disorder that affects the skin, in which there is no melanin production |
 | apocrine sweat gland | sweat gland that is armpits and genital regions |
