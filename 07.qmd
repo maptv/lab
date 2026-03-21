@@ -155,7 +155,7 @@ Bone Features: Review the information in table 7.1 before moving on to the next 
 Table 7.1 General Types Bone Features
 
 | Marking    | Description                    | Example                         |
-|----------------|----------------------------|----------------------------|
+|------------------|---------------------------|---------------------------|
 | Head       | Prominent rounded surface      | Head of femur                   |
 | Facet      | Flat surface                   | Articular facets of vertebrae   |
 | Condyle    | Rounded surface                | Occipital condyle               |
@@ -189,7 +189,7 @@ Note if you are part of an online course and are completing this lab remotely, y
 Table 7.2 Review of the Appendicular and Axial Bones
 
 | Bone Name | Bone Shape Classification | Is this an axial or appendicular bone? |
-|--------------------------------|------------------------|------------------------|
+|-----------------------------|----------------------|----------------------|
 | Facial bone, e.g., maxilla |  |  |
 | Thoracic vertebra |  |  |
 | Scapula (“shoulder” bone) |  |  |
@@ -472,7 +472,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.3 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|------------------------|------------------------|------------------------|
+|---------------|-----------------------------------------|----------------|
 | 1\. | The cribriform plate is a surface filled with small foramina on the bone | a\. turbulence |
 | 2\. | The nasal conchae create, which increases the ability of the nose to trap dust. | b\. zygomatic |
 | 3\. | The of the mandible articulate with the temporal bone. | c\. nasal |
@@ -483,18 +483,18 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 
 **Table 7.4 Match the Term with the Best Definition.**
 
-| Letter | Definition |   | Term |
-|------------------|------------------|------------------|------------------|
-| 1\. | Main weight bearing portion of the vertebrae | a\. | axis |
-| 2\. | Two parts of the vertebral arch that protect the spinal cord | b\. | Thoracic vertebra |
-| 3\. | Contains the spinal cord | c\. | lumbar vertebrae |
-| 4\. | Type of vertebra(e) containing foramina in the transverse processes. | d\. | Articular process |
-| 5\. | Tailbone comprised of 5 fused vertebrae | e\. | atlas |
-| 6\. | Massive weight bearing vertebrae | f\. | Intervertebral |
-| 7\. | Seven unfused vertebrae | g\. | Cervical vertebra |
-| 8\. | Twelve unfused vertebrae | h\. | Sacrum |
-| 9\. | Supports the head articulates with the occipital condyles | i\. | Body |
-| 10\. | the odontoid provides a pivot for the rotation of the first cervical vertebra | j\. | Coccyx |
+| Letter | Definition | Term |
+|-------|--------------------------------------------|------------------|
+| 1\. | Main weight bearing portion of the vertebrae | a\. axis |
+| 2\. | Two parts of the vertebral arch that protect the spinal cord | b\. Thoracic vertebra |
+| 3\. | Contains the spinal cord | c\. lumbar vertebrae |
+| 4\. | Type of vertebra(e) containing foramina in the transverse processes. | d\. Articular process |
+| 5\. | Tailbone comprised of 5 fused vertebrae | e\. atlas |
+| 6\. | Massive weight bearing vertebrae | f\. Intervertebral |
+| 7\. | Seven unfused vertebrae | g\. Cervical vertebra |
+| 8\. | Twelve unfused vertebrae | h\. Sacrum |
+| 9\. | Supports the head articulates with the occipital condyles | i\. Body |
+| 10\. | the odontoid provides a pivot for the rotation of the first cervical vertebra | j\. Coccyx |
 
 ## **Post Lab Activity 7.2**
 
@@ -620,7 +620,7 @@ Name the bones.
 
 |     | Vertebra                                        | Name         |
 |-----|-------------------------------------------------|--------------|
-| 1\. | Figure 7.37![](images/clipboard-1955381121.png) | a\. Cervical |
+| 1\. | ![](images/clipboard-1955381121.png)Figure 7.37 | a\. Cervical |
 | 2\. | ![](images/clipboard-4291489013.png)Figure 7.38 | b\. Thoracic |
 | 3\. | ![](images/clipboard-2511401465.png)Figure 7.39 | c\. lumbar   |
 | 4\. | ![](images/clipboard-3150329556.png)Figure 7.40 | d\. atlas    |
