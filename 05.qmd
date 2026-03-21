@@ -129,8 +129,7 @@ The Integumentary system functions include but are not limited to the following 
 
 -   Epidermis
 -   Dermis
-
-![](images/_page_103_Picture_4.jpeg)
+-   Hypodermis (Subcutaneous)
 
 ![](images/_page_103_Picture_5.jpeg)
 
@@ -352,25 +351,27 @@ Using a model or diagram of the integumentary system, identify and describe the 
 \
 \
 
+## **Post Lab Activity 5.2**
+
 ## **Matching**
 
 ## **Table 5.4 Matching: Write the Letter of the Definition in the Column to the Left of the Term**
 
-|   |   | Terms |   | Definitions |
-|----------|----------|----------|----------|--------------------------------|
-| 1\. |  | Pore | a\. | The part of a hair projecting beyond the surface of the skin |
-| 2\. |  | Arrector pili muscle | b\. | An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
-| 3\. |  | Meissner's corpuscle | c\. | Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
-| 4\. |  | Pacinian corpuscle | d\. | An organ found in mammalian skin which regulates hair growth |
-| 5\. |  | Keratinocyte | e\. | A small opening or empty space. |
-| 6\. |  | Apocrine sweat gland | f\. | The enlarged basal part of a hair within the skin |
-| 7\. |  | Hair follicle | g\. | A type of nerve ending in the skin that is responsible for sensitivity to pressure |
-| 8\. |  | Dermal papillae | h\. | The small smooth muscles associated with the base of each hair that contract when the body surface is chilled and erect the hairs |
-| 9\. |  | Merocrine sweat gland | i\. | Glands found in places like the armpits, scrotum, and anus. They tend to open into hair follicles instead of hairless areas of skin. |
-| 10\. |  | Hair root | j\. | An unspecialized, afferent nerve fiber ending of a sensory neuron |
-| 11\. |  | Sebaceous gland | k\. | An epidermal cell that produces keratin. |
-| 12\. |  | Free nerve ending | l\. | True sweat glands in the sense of helping to regulate body temperature |
-| 13\. |  | Hair shaft | m\. | Any vascular protuberance of the skin's dermal layer extending into the epidermal layer, often containing tactile corpuscles |
+|   | Terms | Definitions |
+|-------------|-------------|---------------------------------------------|
+| 1 | Pore | a\. The part of a hair projecting beyond the surface of the skin |
+| 2 | Arrector pili muscle | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
+| 3 | Meissner's corpuscle | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
+| 4 | Pacinian corpuscle | d\. An organ found in mammalian skin which regulates hair growth |
+| 5 | Keratinocyte | e\. A small opening or empty space. |
+| 6 | Apocrine sweat gland | f\. The enlarged basal part of a hair within the skin |
+| 7 | Hair follicle | g\. A type of nerve ending in the skin that is responsible for sensitivity to pressure |
+| 8 | Dermal papillae | h\. The small smooth muscles associated with the base of each hair that contract when the body surface is chilled and erect the hairs |
+| 9 | Merocrine sweat gland | i\. Glands found in places like the armpits, scrotum, and anus. They tend to open into hair follicles instead of hairless areas of skin. |
+| 10 | Hair root | j\. An unspecialized, afferent nerve fiber ending of a sensory neuron |
+| 11 | Sebaceous gland | k\. An epidermal cell that produces keratin. |
+| 12 | Free nerve ending | l\. True sweat glands in the sense of helping to regulate body temperature |
+| 13 | Hair shaft | m\. Any vascular protuberance of the skin's dermal layer extending into the epidermal layer, often containing tactile corpuscles |
 
 Match the following terms with the correct parts in figure 5.15.
 
@@ -401,7 +402,7 @@ Match the statement blank with the correct answer.
 **Table 5.6 Match the statement with the best answer.**
 
 | Answer | Statement | Possible Answer |
-|---------------|-------------------------------------------|---------------|
+|----------------|-----------------------------------------|----------------|
 | a\. | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | Hair bulb |
 | b\. | The deepest layer of the epidermis. | Sudoriferous |
 | c\. | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_ , so-called because they make \_\_\_\_\_\_\_\_\_\_. | stratum basale |
@@ -419,6 +420,8 @@ Match the statement blank with the correct answer.
 | o\. | The sheath in which a hair is held is called \_\_\_\_\_\_\_\_\_\_. | Langerhans' cells |
 |  |  | follicle |
 
+## **Post Lab Activity 5.3**
+
 **Crossword Puzzle:** Complete the following crossword puzzle.
 
 ![](images/_page_117_Figure_2.jpeg)
@@ -433,13 +436,19 @@ Match the statement blank with the correct answer.
 
 ### **Down**
 
-**1** the outermost layer of the epidermis comprised of several levels of flattened corneocytes (7,7)
+-   **1** the outermost layer of the epidermis comprised of several levels of flattened corneocytes (7,7)
 
 -   **2** a more superficial and significantly thinner layer of the dermis, mainly composed of areolar connective tissue. (9,5)
+
 -   **3** the lowermost layer of the integumentary system in vertebrates. (10)
+
 -   **4** a layer of the epidermis composed of polyhedral keratinocytes. (7,8)
+
 -   **5** the deepest layer of the five layers of the epidermis, the external covering of skin in mammals. The stratum. It is a single layer of columnar or cuboidal basal cells (7,6)
+
 -   **6** a thin, clear layer of dead skin cells in the epidermis named for its translucent appearance only in areas of thick skin (7,7)
+
+## **Post Lab Activity 5.4**
 
 ## **Check Your Understanding**
 
@@ -467,6 +476,8 @@ Match the statement blank with the correct answer.
 \
 \
 
+## **Post Lab Activity 5.5**
+
 ## **Test Your Recall**
 
 Label the layers and structures of the epidermis.
@@ -489,6 +500,8 @@ Using the picture below, identify the substructures within the following accesso
 
 **Figure 5.18** Illustration from Anatomy & Physiology of the Epidermis**.**
 
+## **Post Lab Activity 5.6**
+
 ## **Fill in the blanks**
 
 -   Name the layers of the dermis.
@@ -498,15 +511,13 @@ Using the picture below, identify the substructures within the following accesso
 \
 
 |   | List three major types of glands associated with the integumentary system and describe their function. |
-|---------------|---------------------------------------------------------|
+|-------------|-----------------------------------------------------------|
 | a\) |  |
 | b\) |  |
 | c\) |  |
-| d\) |  |
-| e\) |  |
 
 |     | What are the three protective functions of the integumentary system? |
-|---------------|---------------------------------------------------------|
+|-------------|-----------------------------------------------------------|
 | a\) |                                                                      |
 | b\) |                                                                      |
 | c\) |                                                                      |
@@ -525,7 +536,7 @@ Using the picture below, identify the substructures within the following accesso
 \
 
 | 1\) | List the five layers of the epidermis found in thick skin. Indicate which layer is not present in thin skin. |
-|---------------|---------------------------------------------------------|
+|--------------|----------------------------------------------------------|
 |  | a\) |
 |  | b\) |
 |  | c\) |
@@ -533,7 +544,7 @@ Using the picture below, identify the substructures within the following accesso
 |  | e\) |
 
 | 2\) | Identify four accessory structures found in the dermis, describe their function. |
-|---------------|---------------------------------------------------------|
+|--------------|----------------------------------------------------------|
 |  | a\) |
 |  | b\) |
 |  | c\) |
@@ -547,9 +558,10 @@ Using the picture below, identify the substructures within the following accesso
 
 **Down: 1** Stratum corneum, **2** Papillary layer, **3** Hypodermis, **4** Stratum spinosum, **5** Stratum basale, **6** Stratum lucidum.
 
-| Chapter 5: Integumentary System |   |
-|------------------|------------------------------------------------------|
-| Key Terms | Key Terms |
+**Chapter 5: Integumentary System**
+
+| Key Terms | Definitions |
+|----------------------|--------------------------------------------------|
 | acne | skin condition due to infected sebaceous glands |
 | albinism | genetic disorder that affects the skin, in which there is no melanin production |
 | apocrine sweat gland | sweat gland that is armpits and genital regions |

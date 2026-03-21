@@ -148,14 +148,12 @@ The shape of the cells in a single layer is indicative of the function of the ce
 
 Use the pictures in the table below to review several tissue types, locate the epithelial features, and determine how the anatomy of the tissue enables its functions.
 
-```         
 1.  Using your textbook identify the tissues in the pictures in the table below.
 2.  Examine the provided histology slides.
 3.  In the picture of pseudostratified ciliated columnar epithelium, locate cilia and a goblet cell, then label them. Refer to the information and figures above or reliable internet sources for assistance. Check with your instructor to verify your accuracy.
 4.  In the picture of simple columnar epithelium, locate nuclei, then label one. Check with your instructor to verify your accuracy.
 5.  In the picture of simple columnar epithelium, locate the apical edge and the basal edge, then label them. Check with your instructor to verify your accuracy.
 6.  For each tissue, describe how the anatomy of the tissue enables its functions.
-```
 
 | Image                           | Name | Location | Function |
 |---------------------------------|------|----------|----------|
@@ -195,37 +193,13 @@ Use the pictures in the table below to review several tissue types, locate the e
 
 Using a light microscope review the tissues assigned by your Lab Instructor at a magnification of 400x. Draw and label each tissue type in the spaces provided. Your information should provide where it would be found in the body along with the magnification of the tissue.
 
-| Tissue: Simple squamous |
-|-------------------------|
-|                         |
-| Magnification           |
-| Location:               |
-|                         |
-
-| Tissue: Simple cuboidal     |
-|-----------------------------|
-|                             |
-| Magnification               |
-|                             |
-| Location:                   |
-|                             |
-| Tissue: Simple columnar     |
-|                             |
-| Magnification               |
-| Location:                   |
-|                             |
-| Tissue: Transitional        |
-|                             |
-| Magnification               |
-|                             |
-| Location:                   |
-|                             |
-| Tissue: Stratified Squamous |
-|                             |
-| Magnification               |
-|                             |
-| Location:                   |
-|                             |
+| Tissue              | Magnification | Location |
+|---------------------|---------------|----------|
+| Simple squamous     |               |          |
+| Simple cuboidal     |               |          |
+| Simple columnar     |               |          |
+| Transitional        |               |          |
+| Stratified Squamous |               |          |
 
 ## **Connective Tissue**
 
@@ -288,65 +262,16 @@ a)  Structural Connective Tissue
 -   Draw and label each tissue type in the spaces provided. Your information should provide where it would be found in the body along with the magnification of the tissue.
 -   Take a picture of each tissue type for your use later when preparing for a lab practical.
 
-| Tissue: Areolar                         |
-|-----------------------------------------|
-|                                         |
-|                                         |
-| Magnification                           |
-|                                         |
-| Location:                               |
-|                                         |
-|                                         |
-|                                         |
-| Tissue: Adipose                         |
-|                                         |
-|                                         |
-| Magnification                           |
-|                                         |
-|                                         |
-| Location:                               |
-|                                         |
-|                                         |
-|                                         |
-| Tissue: Dense regular connective tissue |
-|                                         |
-|                                         |
-| Magnification                           |
-|                                         |
-| Location:                               |
-|                                         |
-|                                         |
-|                                         |
-|                                         |
-
-| Tissue: Blood             |
-|---------------------------|
-| Magnification             |
-| Location:                 |
-|                           |
-| Tissue: Hyaline cartilage |
-| Magnification             |
-| Location:                 |
-|                           |
-| Tissue: Fibrocartilage    |
-| Magnification             |
-| Location:                 |
-|                           |
-|                           |
-
-| Tissue: Elastic cartilage |
-|---------------------------|
-| Magnification             |
-| Location:                 |
-|                           |
-|                           |
-| Tissue: Bone              |
-|                           |
-| Magnification             |
-|                           |
-| Location:                 |
-|                           |
-|                           |
+| Tissue                          | Magnification | Location |
+|---------------------------------|---------------|----------|
+| Areolar                         |               |          |
+| Adipose                         |               |          |
+| Dense regular connective tissue |               |          |
+| Blood                           |               |          |
+| Hyaline cartilage               |               |          |
+| Fibrocartilage                  |               |          |
+| Elastic cartilage               |               |          |
+| Bone                            |               |          |
 
 ## **Post Lab Activities**
 
@@ -361,34 +286,38 @@ a)  Structural Connective Tissue
     -   Describe their general characteristics and give an example of where they can be found.
 -   The \_\_\_\_\_\_ tissue contains an apical surface.
 
+## **Post Lab Activity 4.2**
+
 ## **Identify for each figure below:**
 
 -   the tissue types and
 -   the locations for each tissue below
 
-1.  **Fig. 4.10**
-
 ![](images/_page_89_Picture_4.jpeg)
 
-4.  **Fig. 4.13**
-
-![](images/_page_89_Picture_5.jpeg)
-
-2.  **Fig. 4.11**
+1.  **Fig. 4.10**
 
 ![](images/_page_89_Picture_7.jpeg)
 
-5.  **Fig. 4.10**
-
-![](images/_page_89_Picture_9.jpeg)
-
-3.  **Fig. 4.12**
+2.  **Fig. 4.11**
 
 ![](images/_page_89_Picture_11.jpeg)
 
-6.  **Fig. 4.15**
+3.  **Fig. 4.12**
+
+![](images/_page_89_Picture_5.jpeg)
+
+4.  **Fig. 4.13**
+
+![](images/_page_89_Picture_9.jpeg)
+
+5.  **Fig. 4.10**
 
 ![](images/_page_89_Picture_13.jpeg)
+
+6.  **Fig. 4.15**
+
+## **Post Lab Activity 4.3**
 
 ## **Crosswords:**
 
@@ -396,20 +325,23 @@ Match the following tissue with its function or location.
 
 ![](images/_page_90_Picture_3.jpeg)
 
-#### **Across**
+### Across
 
--   kidney glomeruli and alveoli of lungs (6,8,10)
--   Carry action potentials throughout the body (6)
--   Cells that nourish and support (5,4)
--   Protects underlying tissues from abrasion (10,8,10)
--   Function: secretion and absorption (6,8,10)
--   Attached to the bones, occasionally to the skin (8,6)
--   Tendons and ligaments (5,7,10,6)
--   Functions as a binding tissue (5,10,6)
--   Mineral storage (4)
--   Covers the ends of long bones in joint cavities (7,9)
--   Contracts, propels blood in the circulation (7,6)
--   Mostly in the walls of hollow organs. (6,6)
+-   4 kidney glomeruli and alveoli of lungs (6,8,10)
+-   5 Carry action potentials throughout the body (6)
+-   7 Cells that nourish and support (5,4)
+-   9 Protects underlying tissues from abrasion (10,8,10)
+-   11 Function: secretion and absorption (6,8,10)
+-   12 Attached to the bones, occasionally to the skin (8,6)
+
+### Down
+
+-   1 Tendons and ligaments (5,7,10,6)
+-   2 Functions as a binding tissue (5,10,6)
+-   3 Mineral storage (4)
+-   6 Covers the ends of long bones in joint cavities (7,9)
+-   8 Contracts, propels blood in the circulation (7,6)
+-   10 Mostly in the walls of hollow organs. (6,6)
 
 ## **Additional tissue review materials**
 
