@@ -155,7 +155,7 @@ Bone Features: Review the information in table 7.1 before moving on to the next 
 Table 7.1 General Types Bone Features
 
 | Marking    | Description                    | Example                         |
-|------------|--------------------------------|---------------------------------|
+|----------------|----------------------------|----------------------------|
 | Head       | Prominent rounded surface      | Head of femur                   |
 | Facet      | Flat surface                   | Articular facets of vertebrae   |
 | Condyle    | Rounded surface                | Occipital condyle               |
@@ -189,7 +189,7 @@ Note if you are part of an online course and are completing this lab remotely, y
 Table 7.2 Review of the Appendicular and Axial Bones
 
 | Bone Name | Bone Shape Classification | Is this an axial or appendicular bone? |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Facial bone, e.g., maxilla |  |  |
 | Thoracic vertebra |  |  |
 | Scapula (“shoulder” bone) |  |  |
@@ -472,7 +472,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.3 Match the Term with the Best Definition.**
 
 | Letter | Definition | Term |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | 1\. | The cribriform plate is a surface filled with small foramina on the bone | a\. turbulence |
 | 2\. | The nasal conchae create, which increases the ability of the nose to trap dust. | b\. zygomatic |
 | 3\. | The of the mandible articulate with the temporal bone. | c\. nasal |
@@ -484,7 +484,7 @@ True ribs False ribs Floating ribs Costal cartilages Manubrium Body Xiphoid proc
 **Table 7.4 Match the Term with the Best Definition.**
 
 | Letter | Definition |   | Term |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | 1\. | Main weight bearing portion of the vertebrae | a\. | axis |
 | 2\. | Two parts of the vertebral arch that protect the spinal cord | b\. | Thoracic vertebra |
 | 3\. | Contains the spinal cord | c\. | lumbar vertebrae |
@@ -594,7 +594,23 @@ Complete the following crossword puzzle.
 
 **Figure 7.36** Bone Anatomy.
 
-Across 5 The largest opening in the occipital bone (7,6) 8 A cavity inside a bone (5) 10 The lambdoid suture is formed by articulation of <which bones>? (9,0,8) 11 The \_\_\_\_\_ bones are found deep to the upper lip; they form part of the 'cheekbone' and the lateral aspects of the bridge of the nose. (7) 12 The coronal suture is formed by articulation of the \_\_\_ and \_\_\_ bones (8,7) Down 1 The cribriform plate is a surface filled with small foramina on the \_\_\_\_\_ bone (7) 2 The external acoustic meatus is located in the \_\_\_\_\_ bone. (5,7) 3 A fossa is a \_\_\_\_\_. (10) 4 The \_\_\_\_\_ suture is formed by articulation of the occipital and parietal bones. (8) 6 The mirror-image bones that form the anterior aspect of the bridge of the nose are the \_\_\_\_\_ bones. (5) 7 Blood vessels and nerves reach the chin and lower lip through the \_\_\_\_\_ of the mandible (6,8) 9 A foramen (pl. foramina) is a \_\_\_\_\_ through a bone (7)
+## Across
+
+-   5 The largest opening in the occipital bone (7,6)
+-   8 A cavity inside a bone (5)
+-   10 The lambdoid suture is formed by articulation of \<which bones\>? (9,0,8)
+-   11 The \_\_\_\_\_ bones are found deep to the upper lip; they form part of the 'cheekbone' and the lateral aspects of the bridge of the nose. (7)
+-   12 The coronal suture is formed by articulation of the \_\_\_ and \_\_\_ bones (8,7)
+
+## Down
+
+-   1 The cribriform plate is a surface filled with small foramina on the \_\_\_\_\_ bone (7)
+-   2 The external acoustic meatus is located in the \_\_\_\_\_ bone. (5,7)
+-   3 A fossa is a \_\_\_\_\_. (10)
+-   4 The \_\_\_\_\_ suture is formed by articulation of the occipital and parietal bones. (8)
+-   6 The mirror-image bones that form the anterior aspect of the bridge of the nose are the \_\_\_\_\_ bones. (5)
+-   7 Blood vessels and nerves reach the chin and lower lip through the \_\_\_\_\_ of the mandible (6,8)
+-   9 A foramen (pl. foramina) is a \_\_\_\_\_ through a bone (7)
 
 Complete the following identifications.
 
@@ -602,14 +618,14 @@ Complete the following identifications.
 
 Name the bones.
 
-|     | Vertebra    | Name         |
-|-----|-------------|--------------|
-| 1\. | Figure 7.37 | a\. Cervical |
-| 2\. | Figure 7.38 | b\. Thoracic |
-| 3\. | Figure 7.39 | c\. lumbar   |
-| 4\. | Figure 7.40 | d\. atlas    |
-| 5\. | Figure 7.41 | e\. axis     |
-| 6\. | Figure 7.42 |              |
+|     | Vertebra                                        | Name         |
+|-----|-------------------------------------------------|--------------|
+| 1\. | Figure 7.37![](images/clipboard-1955381121.png) | a\. Cervical |
+| 2\. | ![](images/clipboard-4291489013.png)Figure 7.38 | b\. Thoracic |
+| 3\. | ![](images/clipboard-2511401465.png)Figure 7.39 | c\. lumbar   |
+| 4\. | ![](images/clipboard-3150329556.png)Figure 7.40 | d\. atlas    |
+| 5\. | ![](images/clipboard-2155723323.png)Figure 7.41 | e\. axis     |
+| 6\. | ![](images/clipboard-2015604663.png)Figure 7.42 |              |
 
 ## **Answers to the questions**
 
@@ -628,7 +644,7 @@ Name the bones.
 |                       | 9 passage         |
 
 | Terms | Definitions |
-|----|----|
+|------------------------------------|------------------------------------|
 | alveolar process of the mandible | upper border of mandibular body that contains the lower teeth |
 | alveolar process of the maxilla | curved, inferior margin of the maxilla that supports and anchors the upper teeth |
 | angle of the mandible | rounded corner located at outside margin of the body and ramus junction |
@@ -674,20 +690,16 @@ Name the bones.
 | foremen magnum | a large, oval-shaped opening in the occipital bone of the skull that connects the spinal cord to the brain. |
 | frontal bone | unpaired bone that forms forehead, roof of orbit, and floor of anterior cranial fossa |
 | frontal sinus | air-filled space within the frontal bone; most anterior of the paranasal sinuses |
-| greater wings of | lateral projections of the sphenoid bone that form the anterior wall of the |
-| sphenoid bone | middle cranial fossa and an area of the lateral skull |
+| greater wings of sphenoid bone | lateral projections of the sphenoid bone that form the anterior wall of the middle cranial fossa and an area of the lateral skull |
 | hard palate | bony structure that forms the roof of the mouth and floor of the nasal cavity, formed by the palatine process of the maxillary bones and the horizontal plate of the palatine bones |
 | head of the rib | posterior end of a rib that articulates with the bodies of thoracic vertebrae |
 | hyoid bone | small, U-shaped bone located in upper neck that does not contact any other bone |
 | hypoglossal canal | paired openings that pass anteriorly from the anterior-lateral margins of the foramen magnum deep to the occipital condyles |
-| hypophyseal | shallow depression on top of the sella turcica that houses the pituitary |
-| (pituitary) fossa | (hypophyseal) gland |
+| hypophyseal (pituitary) fossa | shallow depression on top of the sella turcica that houses the pituitary (hypophyseal) gland |
 | inferior articular process | bony process that extends downward from the vertebral arch of a vertebra that articulates with the superior articular process of the next lower vertebra |
-| inferior nasal | one of the paired bones that project from the lateral walls of the nasal cavity |
-| concha | to form the largest and most inferior of the nasal conchae |
+| inferior nasal concha | one of the paired bones that project from the lateral walls of the nasal cavity to form the largest and most inferior of the nasal conchae |
 | infraorbital foramen | opening located on anterior skull, below the orbit |
-| internal acoustic | opening into petrous ridge, located on the lateral wall of the posterior cranial |
-| meatus | fossa |
+| internal acoustic meatus | opening into petrous ridge, located on the lateral wall of the posterior cranial fossa |
 | intervertebral disc | structure located between the bodies of adjacent vertebrae that strongly joins the vertebrae; provides padding, weight bearing ability, and enables vertebral column movements |
 | intervertebral foramen | opening located between adjacent vertebrae for exit of a spinal nerve |
 | jugular foramen | irregularly shaped opening located in the lateral floor of the posterior cranial cavity |
@@ -708,8 +720,8 @@ Name the bones.
 | maxillary bone (also, maxilla) | paired bones that form the upper jaw and anterior portion of the hard palate |
 | maxillary sinus | air-filled space located with each maxillary bone; largest of the paranasal sinuses |
 | mental foramen | opening located on the anterolateral side of the mandibular body |
-| middle nasal | nasal concha formed by the ethmoid bone that is located between the |
-| concha nasal bone | superior and inferior conchae paired bones that form the base of the nose |
+| middle nasal concha | nasal concha formed by the ethmoid bone that is located between the superior and inferior conchae |
+| nasal bone | paired bones that form the base of the nose |
 | nasal cavity | opening through skull for passage of air |
 | nasal conchae | curved bony plates that project from the lateral walls of the nasal cavity; include the superior and middle nasal conchae, which are parts of the ethmoid bone, and the independent inferior nasal conchae bone |
 | nasal septum | flat, midline structure that divides the nasal cavity into halves, formed by the perpendicular plate of the ethmoid bone, vomer bone, and septal cartilage |
