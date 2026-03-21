@@ -7977,9 +7977,8 @@ Hinge.
 
 Plane.
 
-| Chapter 9. The Articulations and Joints Glossary   | Chapter 9. The Articulations and Joints Glossary                                                                                                                         |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Terms                                              | Definitions                                                                                                                                                              |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | abduction                                          | The movement which separates a limb or other part from the axis, or middle line, of the body                                                                             |
 | adduction                                          | the movement of a limb toward the midline of the body                                                                                                                    |
 | articular cartilage                                | a type of smooth cartilage found only in diarthrodial joints, where it allows for easy articulation, weight distribution and shock absorption.                           |
@@ -8005,9 +8004,7 @@ Plane.
 | opposition                                         | brings the thumb and little finger together.                                                                                                                             |
 | Patellar ligament                                  | also known as the patellar tendon, connects the kneecap (patella) to the tibia                                                                                           |
 | Pivot joint                                        | a type of synovial joint whose movement axis is parallel to the long axis of the proximal bone, which typically has a convex articular surface.                          |
-
 | Plane (gliding) joint     | a type of synovial joint that allows bones to slide past one another in various directions along the plane of the joint                                                                      |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Plantar flexion           | the movement of pointing your toes away from your body, which occurs when you stand on your tiptoes or press down on a gas pedal                                                             |
 | Protraction               | the anterolateral movement of the scapula on the thoracic wall that allows the shoulder to move anteriorly.                                                                                  |
 | Pronation                 | The act of turning a limb, palm, or palmar surface of the forefoot downward.                                                                                                                 |
@@ -8666,9 +8663,8 @@ Figure 10.14 Skeletal Muscle Fibers-2.
 - Across: 3 Smooth smooth, 4 Fibers, 6 Myofilament, 7 Perimysium, 9 Fascicle, 10 Mitochondria.
 - Down: 1 Tendon, 2 Epimysium periosteum, 3 Sarcomere, 5 Endomysium, 8 Skeletal.
 
-| Chapter 10: Skeletal Muscle Histology and Microanatomy Glossary   | Chapter 10: Skeletal Muscle Histology and Microanatomy Glossary                                                                                                                                                                                    |
-|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Terms                                                             | Definitions                                                                                                                                                                                                                                        |
+|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | acetylcholine (ACh)                                               | neurotransmitter that binds at a motor endplate to trigger depolarization                                                                                                                                                                          |
 | actin                                                             | protein that makes up most of the thin myofilaments in a sarcomere muscle fiber                                                                                                                                                                    |
 | action potential                                                  | change in voltage of a cell membrane in response to a stimulus that results in transmission of an electrical signal; unique to neurons and muscle fibers                                                                                           |
@@ -8688,9 +8684,7 @@ Figure 10.14 Skeletal Muscle Fibers-2.
 | endomysium                                                        | loose, and well-hydrated connective tissue covering each muscle fiber in a skeletal muscle                                                                                                                                                         |
 | epimysium                                                         | outer layer of connective tissue around a skeletal muscle                                                                                                                                                                                          |
 | excitability                                                      | ability to undergo neural stimulation                                                                                                                                                                                                              |
-
 | excitation-contraction coupling         | sequence of events from motor neuron signaling to a skeletal muscle fiber to contraction of the fiber's sarcomeres                                                  |
-|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | extensibility                           | ability to lengthen (extend)                                                                                                                                        |
 | fascicle                                | bundle of muscle fibers within a skeletal muscle                                                                                                                    |
 | fast glycolytic (FG) muscle             | fiber that primarily uses anaerobic glycolysis                                                                                                                      |
@@ -8724,9 +8718,7 @@ Figure 10.14 Skeletal Muscle Fibers-2.
 | pyruvic acid                            | product of glycolysis that can be used in aerobic respiration or converted to lactic acid                                                                           |
 | recruitment                             | increase in the number of motor units involved in contraction                                                                                                       |
 | relaxation phase                        | period after twitch contraction when tension decreases                                                                                                              |
-
 | sarcolemma                    | plasma membrane of a skeletal muscle fiber                                                                                                                                                              |
-|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | sarcomere                     | longitudinally, repeating functional unit of skeletal muscle, with all of the contractile and associated proteins involved in contraction                                                               |
 | sarcoplasm                    | cytoplasm of a muscle cell                                                                                                                                                                              |
 | sarcoplasmic reticulum (SR)   | specialized smooth endoplasmic reticulum, which stores, releases, and retrieves Ca++                                                                                                                    |
