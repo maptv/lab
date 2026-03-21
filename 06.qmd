@@ -211,8 +211,7 @@ Review the Information in this table before moving on to the next activity.
 |---------------|---------------------------------|------------------------|
 | Notch | depression in a bone which can provide stabilization to an adjacent articulating bone | mandibular notch |
 | Sinus | cavity within any organ or tissue | paranasal sinuses |
-| Spinous | raised, sharp elevation of bone | skull at the base of the temporal |
-| Process | where muscles and connective tissue atta | bone |
+| Spinous Process | raised, sharp elevation of bone where muscles and connective tissue attach | skull at the base of the temporal bone |
 | Trochanter | large prominence on the side of the bone | greater and lesser trochanters of the femur. |
 | Tuberosity | moderate prominence where muscles and connective tissues attach | tibial tuberosity, deltoid tuberosity |
 | Tubercle | small, rounded prominence where connective tissues attach | greater and lesser tubercle of the humerus. |
@@ -240,7 +239,7 @@ Review the Information in this table before moving on to the next activity.
 **Table 6.3 Bone Classifications Based on Shape**
 
 | Classification | Features | Example(s) |
-|-----------------|-------------------------------|------------------------|
+|-----------------|-------------------------------|--------------------------------------------------------------|
 | Long | Cylindrical shape; longer than wide |  |
 | Short | Cube shaped length, width, and thickness; relatively equal |  |
 | Flat | Thin and wide curved |  |
@@ -377,13 +376,15 @@ Complete the following crossword puzzles.
 
 ### **Across**
 
-**6** Compact bone consists of long, multi-layered cylinders called \_\_\_\_\_, surrounded by a central, bloodvessel and nerve-containing canal called the \_\_\_\_\_. (7,9,6)
+**6** Compact bone consists of long, multi-layered cylinders called \_\_\_\_\_, surrounded by a central, blood-vessel and nerve-containing canal called the \_\_\_\_\_. (7,9,6)
 
 **7** Blood vessels and nerves may move from one Haversian canal to another by detouring through a(n) \_\_\_\_\_. (11,5)
 
 ### **Down**
 
-**1** Mature bone cells are called \_\_\_\_\_ (10) **2** Young, dividing cells usually have names that end in \_\_\_\_\_; mature cells usually have names that end in \_\_\_\_\_. (10)
+**1** Mature bone cells are called \_\_\_\_\_ (10)
+
+**2** Young, dividing cells usually have names that end in \_\_\_\_\_; mature cells usually have names that end in \_\_\_\_\_. (10)
 
 **3** Osteocytes in lacunae within an osteon maintain contact with one another by extending processes through \_\_\_\_\_. (10)
 
@@ -439,7 +440,7 @@ Label the structures within the bone.
 **Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy**
 
 | Term | Definition |
-|------------------------------------|------------------------------------|
+|------------------------------------|----------------------------------------------------------------------|
 | appendicular skeleton | the part of the human skeleton which support the limbs and the girdles that attach them to the body. |
 | articular cartilage | thin layer of cartilage covering an epiphysis; reduces friction and acts as a shock absorber |
 | articulation | where two bone surfaces meet |

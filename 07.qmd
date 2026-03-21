@@ -189,7 +189,7 @@ Note if you are part of an online course and are completing this lab remotely, y
 Table 7.2 Review of the Appendicular and Axial Bones
 
 | Bone Name | Bone Shape Classification | Is this an axial or appendicular bone? |
-|------------------------|------------------------|------------------------|
+|--------------------------------|------------------------|------------------------|
 | Facial bone, e.g., maxilla |  |  |
 | Thoracic vertebra |  |  |
 | Scapula (“shoulder” bone) |  |  |
