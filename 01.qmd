@@ -131,39 +131,63 @@ Definitions: define the terms that are essential to this chapter.
 
 ### Directional terms
 
-| Term                  | Definition |
-|-----------------------|------------|
-| Anterior (or ventral) |            |
-| Posterior (or dorsal) |            |
-| Superior (or cranial) |            |
-| Inferior (or caudal)  |            |
-| Lateral               |            |
-| Medial                |            |
-| Proximal              |            |
-| Distal                |            |
-| Superficial           |            |
-| Deep                  |            |
++-----------------------+-----------------------------------------------+
+| Term                  | Definition                                    |
++=======================+===============================================+
+| Anterior (or ventral) |                                               |
++-----------------------+-----------------------------------------------+
+| Posterior (or dorsal) |                                               |
++-----------------------+-----------------------------------------------+
+| Superior (or cranial) |                                               |
++-----------------------+-----------------------------------------------+
+| Inferior (or caudal)  |                                               |
++-----------------------+-----------------------------------------------+
+| Lateral               |                                               |
++-----------------------+-----------------------------------------------+
+| Medial                |                                               |
++-----------------------+-----------------------------------------------+
+| Proximal              |                                               |
++-----------------------+-----------------------------------------------+
+| Distal                |                                               |
++-----------------------+-----------------------------------------------+
+| Superficial           |                                               |
++-----------------------+-----------------------------------------------+
+| Deep                  |                                               |
++-----------------------+-----------------------------------------------+
 
 ### Body Cavities
 
-| Term        | Definition |
-|-------------|------------|
-| Cranial     |            |
-| Abdominal   |            |
-| Pericardial |            |
-| Pleural     |            |
-| Ventral     |            |
++----------------+--------------------------------------+
+| Term           | Definition                           |
++================+======================================+
+| Cranial        |                                      |
++----------------+--------------------------------------+
+| Abdominal      |                                      |
++----------------+--------------------------------------+
+| Pericardial    |                                      |
++----------------+--------------------------------------+
+| Pleural        |                                      |
++----------------+--------------------------------------+
+| Ventral        |                                      |
++----------------+--------------------------------------+
 
 ### Body Planes
 
-| Term               | Definition |
-|--------------------|------------|
-| Sagittal plane     |            |
-| Midsagittal plane  |            |
-| Parasagittal plane |            |
-| Frontal plane      |            |
-| Transverse plane   |            |
-| Oblique plane      |            |
++--------------------+-----------------------------------------------+
+| Term               | Definition                                    |
++====================+===============================================+
+| Sagittal plane     |                                               |
++--------------------+-----------------------------------------------+
+| Midsagittal plane  |                                               |
++--------------------+-----------------------------------------------+
+| Parasagittal plane |                                               |
++--------------------+-----------------------------------------------+
+| Frontal plane      |                                               |
++--------------------+-----------------------------------------------+
+| Transverse plane   |                                               |
++--------------------+-----------------------------------------------+
+| Oblique plane      |                                               |
++--------------------+-----------------------------------------------+
 
 ## **Prelab Activity 1.2**
 
@@ -177,20 +201,33 @@ Identify the following cavities or structures in the body.
 
 **Table 1.1 Identification Table for Figure 1.1.**
 
-| Cavity number | Cavity or structures |
-|---------------|----------------------|
-| 1             |                      |
-| 2             |                      |
-| 3             |                      |
-| 4             |                      |
-| 5             |                      |
-| 6             |                      |
-| 7             |                      |
-| a             |                      |
-| b             |                      |
-| c             |                      |
-| d             |                      |
-| e             |                      |
++----------------+----------------------------------------+
+| Cavity number  | Cavity or structures                   |
++================+========================================+
+| 1              |                                        |
++----------------+----------------------------------------+
+| 2              |                                        |
++----------------+----------------------------------------+
+| 3              |                                        |
++----------------+----------------------------------------+
+| 4              |                                        |
++----------------+----------------------------------------+
+| 5              |                                        |
++----------------+----------------------------------------+
+| 6              |                                        |
++----------------+----------------------------------------+
+| 7              |                                        |
++----------------+----------------------------------------+
+| a              |                                        |
++----------------+----------------------------------------+
+| b              |                                        |
++----------------+----------------------------------------+
+| c              |                                        |
++----------------+----------------------------------------+
+| d              |                                        |
++----------------+----------------------------------------+
+| e              |                                        |
++----------------+----------------------------------------+
 
 ## **Prelab Activity 1.3**
 
@@ -200,24 +237,37 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 **Table 1.2**. Identification of Organs and their Function
 
-| Organ System | Function | Organs |
-|--------------|----------|--------|
-| 1            |          |        |
-| 2            |          |        |
-| 3            |          |        |
-| 4            |          |        |
-| 5            |          |        |
-| 6            |          |        |
-| 7            |          |        |
-| 8            |          |        |
-| 9            |          |        |
-| 10           |          |        |
-| 11a          |          |        |
-| 11b          |          |        |
++---------------+---------------+---------------+
+| Organ System  | Function      | Organs        |
++===============+===============+===============+
+| 1             |               |               |
++---------------+---------------+---------------+
+| 2             |               |               |
++---------------+---------------+---------------+
+| 3             |               |               |
++---------------+---------------+---------------+
+| 4             |               |               |
++---------------+---------------+---------------+
+| 5             |               |               |
++---------------+---------------+---------------+
+| 6             |               |               |
++---------------+---------------+---------------+
+| 7             |               |               |
++---------------+---------------+---------------+
+| 8             |               |               |
++---------------+---------------+---------------+
+| 9             |               |               |
++---------------+---------------+---------------+
+| 10            |               |               |
++---------------+---------------+---------------+
+| 11a           |               |               |
++---------------+---------------+---------------+
+| 11b           |               |               |
++---------------+---------------+---------------+
 
 ## **Lab Activities**
 
-### **Lab Activity 1.1**
+## **Lab Activity 1.1**
 
 ## **Body Organization and Terminology Review**
 
@@ -234,6 +284,8 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 ![](images/_page_8_Picture_8.jpeg)
 
 **Figure 1.3** Prone and supine diagrams.
+
+## **Lab Activity 1.2**
 
 ## **Applying Directional Terms**; label the diagrams below:
 
@@ -278,18 +330,27 @@ Indicate in the boxes provided the deep and superficial positions.
 -   Then, have your instructor or Lab Instructor check your accuracy.
 -   Take pictures of your work to use as a study guide.
 
+## **Lab Activity 1.4**
+
 ## **Applying Anatomical and Regional Terminology**
 
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
-| Index | Fill in the blank |
-|----|----|
-| 1 | The elbow is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the wrist. |
-| 2 | The umbilicus is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the sternum. |
-| 3 | The nose is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the ears. |
-| 4 | The mouth is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the chin. |
-| 5 | A papercut that does not penetrate the skin would be considered as a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ wound; however, a puncture wound from a nail penetrating the skin would be considered as a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ wound. |
-| 6 | A wound on the elbow would be \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the elbow. |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \#      | Fill in the blank                                                                                                                                                                                                                                                                                |
++=========+==================================================================================================================================================================================================================================================================================================+
+| 1       | The elbow is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the wrist.                                                                                                                                                                                                  |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2       | The umbilicus is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the sternum.                                                                                                                                                                                            |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3       | The nose is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the ears.                                                                                                                                                                                                    |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4       | The mouth is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the chin.                                                                                                                                                                                                   |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5       | A papercut that does not penetrate the skin would be considered as a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ wound; however, a puncture wound from a nail penetrating the skin would be considered as a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ wound. |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6       | A wound on the elbow would be \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the elbow.                                                                                                                                                                                         |
++---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## **Lab Activity 1.5**
 
@@ -312,6 +373,8 @@ Next, using the definition of anatomical position and correct anatomical languag
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+-------------------------------------------------------+
 | 2: From a seated position on the floor with their legs straight and arms folded across their chest                                                                             | ![Figure 1.8](images/fig1.8.jpeg) |                                                       |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+-------------------------------------------------------+
+
+## **Lab Activity 1.6**
 
 ## **Sectioning/Body Planes**
 
@@ -343,6 +406,8 @@ Plane:
 **Figure 1.11** An anatomical illustration from Sobotta's Human Anatomy 1908.
 
 Plane:
+
+## **Lab Activity 1.7**
 
 ## **Regional Terminology**
 
@@ -439,6 +504,8 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
 
 **Figure 1.13** Labeled body cavities.
 
+## **Lab Activity 1.7**
+
 ## **Abdominopelvic Cavity Regions and Quadrants**
 
 -   [**Abdominal**](https://commons.wikimedia.org/w/index.php?curid=29624323Abdominal) **quadrants**
@@ -458,6 +525,8 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
 
 **Figure 1.14** Abdominal quadrants and regions with labels for identification.
 
+## **Lab Activity 1.8**
+
 ## **Learning the Quadrants and Planes**
 
 -   Obtain a large torso model.
@@ -467,26 +536,41 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
 
 #### **Table 1.3. [Abdominal](https://commons.wikimedia.org/w/index.php?curid=29624323Abdominal) Quadrants**
 
-| Quadrants            | Organs |
-|----------------------|--------|
-| Right upper quadrant |        |
-| Right lower quadrant |        |
-| Left upper quadrant  |        |
-| Left lower quadrant  |        |
++----------------------+-----------------------------------------------+
+| Quadrants            | Organs                                        |
++======================+===============================================+
+| Right upper quadrant |                                               |
++----------------------+-----------------------------------------------+
+| Right lower quadrant |                                               |
++----------------------+-----------------------------------------------+
+| Left upper quadrant  |                                               |
++----------------------+-----------------------------------------------+
+| Left lower quadrant  |                                               |
++----------------------+-----------------------------------------------+
 
 #### **Table 1.4. Abdominal Regions**
 
-| Regions             | Organs |
-|---------------------|--------|
-| left hypochondriac  |        |
-| epigastric          |        |
-| right hypochondriac |        |
-| left lumbar         |        |
-| umbilical           |        |
-| right lumbar        |        |
-| left iliac          |        |
-| hypogastric         |        |
-| right iliac         |        |
++---------------------+-----------------------------------------------+
+| Regions             | Organs                                        |
++=====================+===============================================+
+| left hypochondriac  |                                               |
++---------------------+-----------------------------------------------+
+| epigastric          |                                               |
++---------------------+-----------------------------------------------+
+| right hypochondriac |                                               |
++---------------------+-----------------------------------------------+
+| left lumbar         |                                               |
++---------------------+-----------------------------------------------+
+| umbilical           |                                               |
++---------------------+-----------------------------------------------+
+| right lumbar        |                                               |
++---------------------+-----------------------------------------------+
+| left iliac          |                                               |
++---------------------+-----------------------------------------------+
+| hypogastric         |                                               |
++---------------------+-----------------------------------------------+
+| right iliac         |                                               |
++---------------------+-----------------------------------------------+
 
 ![](images/_page_19_Figure_0.jpeg)
 
@@ -502,20 +586,33 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 **Table 1.5 Organ systems and their Organs**
 
-| Organ System | Organs |
-|--------------|--------|
-| 1            |        |
-| 2            |        |
-| 3            |        |
-| 4            |        |
-| 5            |        |
-| 6            |        |
-| 7            |        |
-| 8            |        |
-| 9            |        |
-| 10           |        |
-| 11a          |        |
-| 11b          |        |
++----------------+----------------------------------------+
+| Organ System   | Organs                                 |
++================+========================================+
+| 1              |                                        |
++----------------+----------------------------------------+
+| 2              |                                        |
++----------------+----------------------------------------+
+| 3              |                                        |
++----------------+----------------------------------------+
+| 4              |                                        |
++----------------+----------------------------------------+
+| 5              |                                        |
++----------------+----------------------------------------+
+| 6              |                                        |
++----------------+----------------------------------------+
+| 7              |                                        |
++----------------+----------------------------------------+
+| 8              |                                        |
++----------------+----------------------------------------+
+| 9              |                                        |
++----------------+----------------------------------------+
+| 10             |                                        |
++----------------+----------------------------------------+
+| 11a            |                                        |
++----------------+----------------------------------------+
+| 11b            |                                        |
++----------------+----------------------------------------+
 
 # **Post Lab Activity: Review material**
 
@@ -593,113 +690,56 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 ## **Post Lab Activity 1.2: Multiple choice questions**
 
 1.  The coronal plane is also called the
-
-<!-- -->
-
-a.  Sagittal plane
-b.  Transverse plane
-c.  Oblique plane
-d.  Frontal plane
-
-<!-- -->
-
+    a.  Sagittal plane
+    b.  Transverse plane
+    c.  Oblique plane
+    d.  Frontal plane
 2.  The diaphragm separates the:
-
-<!-- -->
-
-a.  Cranial and spinal cavities
-b.  Thoracic and abdominal cavities
-c.  Abdominal and pelvic cavities
-d.  Dorsal and ventral cavities
-
-<!-- -->
-
+    a.  Cranial and spinal cavities
+    b.  Thoracic and abdominal cavities
+    c.  Abdominal and pelvic cavities
+    d.  Dorsal and ventral cavities
 3.  To make a banana split, you halve a banana into two long, thin, right, and left sides along the \_\_\_\_\_\_\_\_.
-
-<!-- -->
-
-a.  coronal plane
-b.  longitudinal plane
-c.  midsagittal plane
-d.  transverse plane
-
-<!-- -->
-
+    a.  coronal plane
+    b.  longitudinal plane
+    c.  midsagittal plane
+    d.  transverse plane
 4.  The heart is within the \_\_\_\_\_\_\_\_.
-
-<!-- -->
-
-a.  cranial cavity
-b.  mediastinum
-c.  posterior (dorsal) cavity
-d.  All the above
-
-<!-- -->
-
+    a.  cranial cavity
+    b.  mediastinum
+    c.  posterior (dorsal) cavity
+    d.  All the above
 5.  The naval is found in \_\_\_\_\_\_\_\_.
-
-<!-- -->
-
-a.  the iliac region
-b.  The lumbar region
-c.  The umbilical region
-d.  The hypochondriac region
-
-<!-- -->
-
+    a.  the iliac region
+    b.  The lumbar region
+    c.  The umbilical region
+    d.  The hypochondriac region
 6.  The thyroid and the adrenal glands compose the \_\_\_\_\_\_\_\_.
-
-<!-- -->
-
-a.  Lymphatic system
-b.  integumentary system
-c.  nervous system
-d.  endocrine system
-
-<!-- -->
-
+    a.  Lymphatic system
+    b.  integumentary system
+    c.  nervous system
+    d.  endocrine system
 7.  The body system responsible for structural support and movement is the \_\_\_\_\_\_\_\_.
-
-<!-- -->
-
-a.  cardiovascular system
-b.  endocrine system
-c.  muscular system
-d.  skeletal system
-
-<!-- -->
-
+    a.  cardiovascular system
+    b.  endocrine system
+    c.  muscular system
+    d.  skeletal system
 8.  What is the position of the body when it is in the “normal anatomical position?”
-
-<!-- -->
-
-a.  The person is prone with upper limbs, including palms, touching sides and lower limbs touching at sides.
-b.  The person is standing facing the observer, with upper limbs extended out at a ninety-degree angle from the torso and lower limbs in a wide stance with feet pointing laterally.
-c.  The person is supine with upper limbs, including palms, touching sides and lower limbs touching at sides.
-d.  None of the above
-
-<!-- -->
-
+    a.  The person is prone with upper limbs, including palms, touching sides and lower limbs touching at sides.
+    b.  The person is standing facing the observer, with upper limbs extended out at a ninety-degree angle from the torso and lower limbs in a wide stance with feet pointing laterally.
+    c.  The person is supine with upper limbs, including palms, touching sides and lower limbs touching at sides.
+    d.  None of the above
 9.  Portion of a serous membrane that is in contact with an organ.
-
-<!-- -->
-
-a.  Mesentery
-b.  Parietal
-c.  Pleural
-d.  Visceral
-e.  Mediastinal
-
-<!-- -->
-
+    a.  Mesentery
+    b.  Parietal
+    c.  Pleural
+    d.  Visceral
+    e.  Mediastinal
 10. Away from the midline
-
-<!-- -->
-
-a.  Inferior
-b.  Medial
-c.  Lateral
-d.  Distal
+    a.  Inferior
+    b.  Medial
+    c.  Lateral
+    d.  Distal
 
 ## **Post Lab Activity 1.3: Crossword Puzzles**
 
