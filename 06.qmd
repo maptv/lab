@@ -192,7 +192,7 @@ Review the Information in this table before moving on to the next activity.
 **Table 6.2. Surface Features of Bone**
 
 | Feature | Description | Example |
-|----|----|----|
+|----------------|------------------------|---------------------------------|
 | Articulation | Where bones meet | Elbow joint |
 | Body | the largest, most prominent segment of bone. | diaphysis or shaft of long bones like the femur and humerus. |
 | Condyle | large prominence, which often provides structural support to the overlying hyaline cartilage. | knee joint (hinge joint), formed by the femoral lateral and medial condyles, and the tibial lateral and medial condyles. |
@@ -208,7 +208,7 @@ Review the Information in this table before moving on to the next activity.
 **Table 6.2 Surface Features of a Bone Used in Anatomy, continued**
 
 | Feature | Description | Example |
-|----|----|----|
+|---------------|---------------------------------|------------------------|
 | Notch | depression in a bone which can provide stabilization to an adjacent articulating bone | mandibular notch |
 | Sinus | cavity within any organ or tissue | paranasal sinuses |
 | Spinous | raised, sharp elevation of bone | skull at the base of the temporal |
@@ -240,7 +240,7 @@ Review the Information in this table before moving on to the next activity.
 **Table 6.3 Bone Classifications Based on Shape**
 
 | Classification | Features | Example(s) |
-|----|----|----|
+|-----------------|-------------------------------|------------------------|
 | Long | Cylindrical shape; longer than wide |  |
 | Short | Cube shaped length, width, and thickness; relatively equal |  |
 | Flat | Thin and wide curved |  |
@@ -361,6 +361,8 @@ Complete the following crossword puzzles.
 
 -   **8** A sharp, axe-like or needle-like projection on a bone is called a(n) \_\_\_\_\_. (5)
 
+### **Down**
+
 -   **1** On a bone, a(n) \_\_\_\_\_ is a deep groove or notch. (7)
 
 -   **2** The flat, smooth face on a bone where it meets another bone is called a(n) \_\_\_\_\_. (5)
@@ -372,6 +374,8 @@ Complete the following crossword puzzles.
 ![](images/_page_147_Picture_0.jpeg)
 
 **Figure 6.18** Bone Structure.
+
+### **Across**
 
 **6** Compact bone consists of long, multi-layered cylinders called \_\_\_\_\_, surrounded by a central, bloodvessel and nerve-containing canal called the \_\_\_\_\_. (7,9,6)
 
@@ -392,7 +396,7 @@ Complete the following crossword puzzles.
 **Table 6.4 Match the term(s) on the right with its corresponding statement.**
 
 | Answer | Statement | Term(s) |
-|----|----|----|
+|-----------|-----------------------------------|------------------------|
 |  | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cartilage covers ends of long bones. | a\) axial |
 |  | Skeletal cartilage is enclosed by the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, | b\) hyaline cartilage |
 |  | The bones of the limbs, shoulders, and hips make up the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ skeleton. | c\) epiphyseal line |
@@ -431,7 +435,7 @@ Label the structures within the bone.
 **Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy**
 
 | Term | Definition |
-|----|----|
+|------------------------------------|------------------------------------|
 | appendicular skeleton | the part of the human skeleton which support the limbs and the girdles that attach them to the body. |
 | articular cartilage | thin layer of cartilage covering an epiphysis; reduces friction and acts as a shock absorber |
 | articulation | where two bone surfaces meet |
