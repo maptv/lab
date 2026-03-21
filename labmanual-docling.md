@@ -9825,9 +9825,10 @@ Figure 11.30 Muscles: Hip and Leg.
 - Across: 4 Gracilis, 5 Gluteus medius, 7 Gluteus maximus, 8 Rectus femoris, 9 Hamstrings.
 - Down: 1 Iliopsoas, 2 Tibialis anterior, 3 Gastrocnemius, 6 Soleus .
 
-| Chapter 11: Muscular System; Gross Anatomy   | Chapter 11: Muscular System; Gross Anatomy                                                                                                            |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+**Chapter 11: Muscular System; Gross Anatomy**
+
 | Terms                                        | Definitions                                                                                                                                           |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | abduct                                       | move away from midline in the sagittal plane                                                                                                          |
 | abductor                                     | moves the bone away from the midline                                                                                                                  |
 | adductor                                     | moves the bone toward the midline                                                                                                                     |
@@ -9846,9 +9847,7 @@ Figure 11.30 Muscles: Hip and Leg.
 | brevis                                       | short                                                                                                                                                 |
 | buccinator                                   | buccinator                                                                                                                                            |
 | calcaneal tendon                             | also, Achilles tendon) strong tendon that inserts into the calcaneal bone of the ankle                                                                |
-
 | circular                                 | (also, sphincter) fascicles that are concentrically arranged around an opening                                                                                     |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | compressor urethrae                      | deep perineal muscle in females                                                                                                                                    |
 | convergent                               | fascicles that extend over a broad area and converge on a common attachment site                                                                                   |
 | deglutition                              | swallowing                                                                                                                                                         |
@@ -9885,9 +9884,7 @@ Figure 11.30 Muscles: Hip and Leg.
 | iliacus                                  | a flat, triangular muscle which fills the iliac fossa. It forms the lateral portion of iliopsoas.                                                                  |
 | iliopsoas group                          | muscle group consisting of iliacus and psoas major muscles, which flexes the thigh at the hip, rotates it laterally, and flexes the trunk of the body onto the hip |
 | iliotibial tract                         | muscle that inserts onto the tibia; made up of the gluteus maximus and connective tissues of the tensor fasciae latae                                              |
-
 | infraspinatus                       | muscle that laterally rotates the arm                                                                                                      |
-|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | insertion                           | end of a skeletal muscle that is attached to the structure (usually a bone) that is moved when the muscle contracts                        |
 | intercostal muscles                 | muscles that span the spaces between the ribs                                                                                              |
 | internal intercostal muscles        | the intermediate intercostal muscles that draw the ribs together                                                                           |
@@ -9930,9 +9927,7 @@ Figure 11.30 Muscles: Hip and Leg.
 | rectus femoris                      | quadricep muscle on the anterior aspect of the thigh                                                                                       |
 | rectus sheaths                      | tissue that makes up the linea alba                                                                                                        |
 | rotator cuff                        | (also, musculotendinous cuff) the circle of tendons around the shoulder joint                                                              |
-
 | sartorius             | band-like muscle that flexes, abducts, and laterally rotates the leg at the hip                             |
-|-----------------------|-------------------------------------------------------------------------------------------------------------|
 | semimembranosus       | hamstring muscle                                                                                            |
 | semitendinosus        | hamstring muscle                                                                                            |
 | serratus anterior     | large and flat muscle that originates on the ribs and inserts onto the scapula                              |
@@ -10446,9 +10441,10 @@ Figure 12.10 Nervous System Physiology.
 - Across: 2 Myelinated, 3 Synapse, 6 Oligodendrocytes, 7 Sensory motor interneurons, 8 Synaptic cleft.
 - Down: 1 Presynaptic postsynaptic, 2 Myelinated neuronal axons, 4 Nodes of Ranvier, 5 Schwann cells.
 
-| Chapter 12: Nervous System Microanatomy Glossary   | Chapter 12: Nervous System Microanatomy Glossary                                                                                                                                                              |
-|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+**Chapter 12: Nervous System Microanatomy Glossary**
+
 | Terms                                              | Definitions                                                                                                                                                                                                   |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | absolute refractory period                         | time during an action period when another action potential cannot be generated because the voltage-gated Na+ channel is inactivated                                                                           |
 | action potential                                   | change in voltage of a cell membrane in response to a stimulus that results in transmission of an electrical signal; unique to neurons and muscle fibers                                                      |
 | activation gate                                    | part of the voltage-gated Na+ channel that opens when the membrane voltage reaches threshold                                                                                                                  |
@@ -10473,9 +10469,7 @@ Figure 12.10 Nervous System Physiology.
 | dendrite                                           | one of many branchlike processes that extends from the neuron cell body and functions as a contact for incoming signals (synapses) from other neurons or sensory cells                                        |
 | depolarization                                     | change in a cell membrane potential from rest toward zero                                                                                                                                                     |
 | electrical synapse                                 | connection between two neurons, or any two electrically active cells, where ions flow directly through channels spanning their adjacent cell membranes                                                        |
-
 | enteric nervous system (ENS)             | neural tissue associated with the digestive system that is responsible for nervous control through autonomic connections                                                                 |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ependymal cell                           | glial cell type in the CNS responsible for producing cerebrospinal fluid                                                                                                                 |
 | excitable membrane                       | cell membrane that regulates the movement of ions so that an electrical signal can be generated                                                                                          |
 | excitatory postsynaptic potential (EPSP) | graded potential in the postsynaptic membrane that is the result of depolarization and makes an action potential more likely to occur                                                    |
@@ -10501,9 +10495,7 @@ Figure 12.10 Nervous System Physiology.
 | neurotransmitter                         | chemical signal that is released from the synaptic end bulb of a neuron to cause a change in the target cell                                                                             |
 | nicotinic receptor                       | type of acetylcholine receptor protein that is characterized by also binding to nicotine and is an ionotropic receptor                                                                   |
 | node of Ranvier                          | gap between two myelinated regions of an axon, allowing for strengthening of the electrical signal as it propagates down the axon                                                        |
-
 | nonspecific channel                                                  | channel that is not specific to one ion over another, such as a nonspecific cation channel that allows any positively charged ion across the membrane                                                                   |
-|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | nucleus (in the nervous system)                                      | a localized collection of neuron cell bodies that are functionally related; a 'center' of neural function                                                                                                               |
 | Olfactory cortex                                                     |                                                                                                                                                                                                                         |
 | oligodendrocyte                                                      | glial cell type in the CNS that provides the myelin insulation for axons in tracts                                                                                                                                      |
@@ -10528,9 +10520,7 @@ Figure 12.10 Nervous System Physiology.
 | soma                                                                 | in neurons, that portion of the cell that contain the nucleus; the cell body, as opposed to the cell processes (axons and dendrites)                                                                                    |
 | somatic nervous system (SNS)                                         | functional division of the nervous system that is concerned with conscious perception, voluntary movement, and skeletal muscle reflexes                                                                                 |
 | spatial summation                                                    | combination of graded potentials across the neuronal cell membrane caused by signals from separate presynaptic elements that add up to initiate an action potential                                                     |
-
 | spinal cord           | organ of the central nervous system found within the vertebral cavity and connected with the periphery through spinal nerves; mediates reflex behaviors                                  |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | stimulus              | an event in the external or internal environment that registers as activity in a sensory neuron                                                                                          |
 | summate               | to add together, as in the cumulative change in postsynaptic potentials toward reaching threshold in the membrane, either across a span of the membrane or over a certain amount of time |
 | synapse               | narrow junction across which a chemical signal passes from neuron to the next, initiating a new electrical signal in the target cell                                                     |
@@ -12053,7 +12043,9 @@ Figure 13.44 Spinal cord section.
 30.  Cerebellum
 31.  Comissura posterior
 
-| Chapter 13: Nervous System Gross Anatomy Glossary   | Chapter 13: Nervous System Gross Anatomy Glossary                                                                                                                                                                                                                                                                                                                                       |
+**Chapter 13: Nervous System Gross Anatomy Glossary**
+
+| Term | Definition |
 |-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | abducens nerve                                      | sixth cranial nerve; responsible for contraction of one of the extraocular muscles                                                                                                                                                                                                                                                                                                      |
 | amygdala                                            | nucleus deep in the temporal lobe of the cerebrum that is related to memory and emotional behavior                                                                                                                                                                                                                                                                                      |
@@ -12076,9 +12068,7 @@ Figure 13.44 Spinal cord section.
 | central sulcus                                      | surface landmark of the cerebral cortex that marks the boundary between the frontal and parietal lobes                                                                                                                                                                                                                                                                                  |
 | cerebellum                                          | region of the adult brain connected primarily to the pons that developed from the metencephalon (along with the pons) and is largely responsible for comparing information from the cerebrum with sensory feedback from the periphery through the spinal cord                                                                                                                           |
 | cerebral aqueduct                                   | connection of the ventricular system between the third and fourth ventricles located in the midbrain                                                                                                                                                                                                                                                                                    |
-
 | cerebral cortex                  | outer gray matter covering the forebrain, marked by wrinkles and folds known as gyri and sulci                                                                                                                                      |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | cerebral hemisphere              | one half of the bilaterally symmetrical cerebrum                                                                                                                                                                                    |
 | cerebrum                         | region of the adult brain that develops from the telencephalon and is responsible for higher neurological functions such as memory, emotion, and consciousness                                                                      |
 | cervical plexus                  | nerve plexus associated with the upper cervical spinal nerves                                                                                                                                                                       |
@@ -12105,9 +12095,7 @@ Figure 13.44 Spinal cord section.
 | esophageal plexus                | neuronal plexus in the wall of the esophagus that is part of the enteric nervous system                                                                                                                                             |
 | extraocular muscles six          | six skeletal muscles that control eye movement within the orbit                                                                                                                                                                     |
 | facial nerve                     | cranial nerve; responsible for contraction of the facial muscles and for part of the sense of taste, as well as causing saliva production                                                                                           |
-
 | Falx cerebri                           | a large, crescent-shaped fold of dura mater that descends vertically into the longitudinal fissure to separate the cerebral hemispheres.                                                                                                                         |
-|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | fascicle                               | small bundles of nerve or muscle fibers enclosed by connective tissue                                                                                                                                                                                            |
 | femoral nerve                          | systemic nerve of the anterior leg that arises from the lumbar plexus                                                                                                                                                                                            |
 | foramen magnum                         | large opening in the occipital bone of the skull through which the spinal cord emerges and the vertebral arteries enter the cranium                                                                                                                              |
@@ -12136,9 +12124,7 @@ Figure 13.44 Spinal cord section.
 | lateral sulcus                         | surface landmark of the cerebral cortex that marks the boundary between the temporal lobe and the frontal and parietal lobes                                                                                                                                     |
 | lateral ventricles                     | portions of the ventricular system that are in the region of the cerebrum                                                                                                                                                                                        |
 | limbic cortex                          | collection of structures of the cerebral cortex that are involved in emotion, memory, and behavior and are part of the larger limbic system                                                                                                                      |
-
 | limbic system           | structures at the edge (limit) of the boundary between the forebrain and hindbrain that are most associated with emotional behavior and memory formation                                                                   |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | longitudinal fissure    | large separation along the midline between the two cerebral hemispheres                                                                                                                                                    |
 | lumbar plexus           | nerve plexus associated with the lumbar spinal nerves                                                                                                                                                                      |
 | lumbar puncture         | procedure used to withdraw CSF from the lower lumbar region of the vertebral column that avoids the risk of damaging CNS tissue because the spinal cord ends at the upper lumbar vertebrae                                 |
@@ -12168,9 +12154,7 @@ Figure 13.44 Spinal cord section.
 | precentral gyrus        | ridge just posterior to the central sulcus, in the parietal lobe, where somatosensory processing initially takes place in the cerebrum                                                                                     |
 | prefrontal lobe         | specific region of the frontal lobe anterior to the more specific motor function areas, which can be related to the early planning of movements and intentions to the point of being personality-type functions            |
 | premotor area           | region of the frontal lobe responsible for planning movements that will be executed through the primary motor cortex                                                                                                       |
-
 | prevertebral ganglia             | autonomic ganglia that are anterior to the vertebral column and functionally related to the sympathetic chain ganglia                                                                   |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | primary vesicle                  | initial enlargements of the anterior neural tube during embryonic development that develop into the forebrain, midbrain, and hindbrain                                                  |
 | sacral plexus                    | nerve plexus associated with the lower lumbar and sacral spinal nerves                                                                                                                  |
 | sympathetic chain ganglia        | a series of nerve clusters located alongside the spinal column that are part of the sympathetic nervous system.                                                                         |
@@ -12197,9 +12181,7 @@ Figure 13.44 Spinal cord section.
 | trigeminal nerve                 | fifth cranial nerve; responsible for cutaneous sensation of the face and contraction of the muscles of mastication                                                                      |
 | trochlear nerve                  | fourth cranial nerve; responsible for contraction of one of the extraocular muscles                                                                                                     |
 | vagus nerve                      | tenth cranial nerve; responsible for the autonomic control of organs in the thoracic and upper abdominal cavities                                                                       |
-
 | ventral (anterior) nerve root   | axons emerging from the anterior or lateral horns of the spinal cord                                                            |
-|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | ventricles                      | remnants of the hollow center of the neural tube that are spaces for cerebrospinal fluid to circulate through the brain         |
 | vestibulocochlear nerve         | eighth cranial nerve; responsible for the sensations of hearing and balance                                                     |
 | Wernicke's area                 | a region in the brain located in the temporal lobe, primarily responsible for the comprehension of spoken and written language. |
