@@ -111,7 +111,7 @@ Identify the stages of mitosis and briefly describe their appearance.
 | Telophase   |        |                    |
 | Cytokinesis |        |                    |
 
-# Prelab Activity 3.3
+## Prelab Activity 3.3
 
 Using your textbook identify the following structures of the cell.
 
@@ -119,22 +119,22 @@ Using your textbook identify the following structures of the cell.
 
 Figure 3.1 Diagram of the cell.
 
-|     | Structure |
-|-----|-----------|
-| 1   |           |
-| 2   |           |
-| 3   |           |
-| 4   |           |
-| 5   |           |
-| 6   |           |
-| 7   |           |
-| 8   |           |
-| 9   |           |
-| 10  |           |
-| 11  |           |
-| 12  |           |
-| 13  |           |
-| 14  |           |
+|     |     |
+|-----|-----|
+| 1   |     |
+| 2   |     |
+| 3   |     |
+| 4   |     |
+| 5   |     |
+| 6   |     |
+| 7   |     |
+| 8   |     |
+| 9   |     |
+| 10  |     |
+| 11  |     |
+| 12  |     |
+| 13  |     |
+| 14  |     |
 
 ### **Prelab Activity 3.4**
 
@@ -144,15 +144,15 @@ Cell Membrane Structure; Label the structures in this diagram of a typical cell 
 
 **Figure 3.2** Diagram of the cell membrane.
 
-|     | Structure |
-|-----|-----------|
-| a   |           |
-| b   |           |
-| c   |           |
-| d   |           |
-| e   |           |
-| f   |           |
-| g   |           |
+|     |     |
+|-----|-----|
+| a   |     |
+| b   |     |
+| c   |     |
+| d   |     |
+| e   |     |
+| f   |     |
+| g   |     |
 
 ## **Prelab Activity 3.5**
 
@@ -220,8 +220,8 @@ Define the following terms associated with the cell cycle.
 
 Organelles in the cell above are labelled as follows:
 
-|   | Organelle |
-|----|----|
+|  |  |
+|-------------|-----------------------------------------------------------|
 | 1 | Nucleolus |
 | 2 | Nucleus |
 | 3 | Ribosome (dots as part of 5) |
@@ -265,6 +265,8 @@ Review the material related to the composition of a cell's membrane. You should 
 
 **Figure 3.6** Classroom Model of an Animal Cell: 3B Scientific
 
+## **Lab Activity 3.2**
+
 Using the information in table 3.2 review the cells structures and function(s) then complete the table below.
 
 **Table 3.1 Identify the Organelles and their Function.**
@@ -291,7 +293,7 @@ Using the information in table 3.2 review the cells structures and function(s) t
 **Table 3.2 Parts of a Typical Animal Cell**
 
 | Name | Function | Features | Appearance |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Centriole | Anchor for cytoskeleton, organizes cell division by forming spindle fibers | Visible only when active nuclear division takes place (mitosis) | ![Figure 3.7](images/clipboard-1934241572.png) |
 | Chromatin | A complex of DNA and protein found in eukaryotic cells whose primary function is to package long DNA molecules into more compact, denser structures | Most of the coloration of the nucleus is from the chromatin, except for that of the nucleolus. | ![Figure 3.8](images/clipboard-4062272061.png) |
 | Cytoplasm | All of the material within a eukaryotic cell, enclosed by the cell membrane, except for the cell nucleus | A clear sol-gel that may contain granular substances in it. | ![Figure 3.9](images/fig3_9.jpg) |
@@ -425,17 +427,17 @@ Examine the phases of mitosis from the figures below.
 ## **Table 3.2 Complete the Matching Activity**
 
 | Name | Description |
-|----|----|
-| 1\) Interphase | a\) The first stage of mitosis |
-| 2\) G2 Phase | b\) The division of the cytoplasm of a cell |
-| 3\) Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
-| 4\) S phase | d\) Occurs when the cell synthesizes a complete copy of the DNA. |
-| 5\) Mitosis or M phase | e\) The cell grows a second time to reorganize its contents in preparation for mitosis. |
-| 6\) Prophase | f\) The summary of the G1, S, G2 phases |
-| 7\) G1 phase | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells. |
-| 8\) Cytokinesis | h\) Observed when the chromosomes move toward opposite ends of the nuclear spindle |
-| 9\) Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
-| 10\) Anaphase | j\) The final stage in cell division |
+|----------------------------|------------------------------------------------|
+| 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
+| 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
+| 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
+| 4\) \_\_\_\_\_\_\_\_\_\_ S phase | d\) Occurs when the cell synthesizes a complete copy of the DNA. |
+| 5\) \_\_\_\_\_\_\_\_\_\_ Mitosis or M phase | e\) The cell grows a second time to reorganize its contents in preparation for mitosis. |
+| 6\) \_\_\_\_\_\_\_\_\_\_ Prophase | f\) The summary of the G1, S, G2 phases |
+| 7\) \_\_\_\_\_\_\_\_\_\_ G1 phase | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells. |
+| 8\) \_\_\_\_\_\_\_\_\_\_ Cytokinesis | h\) Observed when the chromosomes move toward opposite ends of the nuclear spindle |
+| 9\) \_\_\_\_\_\_\_\_\_\_ Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
+| 10\) \_\_\_\_\_\_\_\_\_\_ Anaphase | j\) The final stage in cell division |
 
 ## **Post Lab Activity 3.4 Crosswords**
 
@@ -445,6 +447,8 @@ Complete the crossword activity.
 
 **Figure 3.24** The Cell.
 
+**Across**
+
 -   **3** a large organelle in eukaryotic organisms which protects the DNA (4,7)
 
 -   **5** a network of lipids and proteins that forms the boundary between a cell's contents and the outside of the cell. (6,8)
@@ -452,6 +456,8 @@ Complete the crossword activity.
 -   **6** specialized vesicles within cells that digest large molecules using hydrolytic enzymes. (8)
 
 -   **7** membrane-bound organelles involved in lipid metabolism and the conversion of reactive oxygen species such as hydrogen peroxide into safer molecules like water and oxygen. (10)
+
+**Down**
 
 -   **1** the site in the nucleus where the several different parts of ribosomes are produced and exported (9)
 
@@ -461,9 +467,28 @@ Complete the crossword activity.
 
 -   **8** an organelle in the cytoplasm of a living cell; the site of protein synthesis (8)
 
+## **Post Lab Activity 3.5 Matching**
+
+### **Table 3.3 Complete the Matching Activity**
+
+Note: Except for the letters, Table 3.3 is a duplicate of Table 3.2. I decided not to remove the duplicates and keep the same activity and table numbers as in the source without skipping numbers.
+
+| Name | Description |
+|--------------------------|----------------------------------------------|
+| 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
+| 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
+| 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
+| 4\) \_\_\_\_\_\_\_\_\_\_ S phase | d\) Occurs when the cell synthesizes a complete copy of the DNA. |
+| 5\) \_\_\_\_\_\_\_\_\_\_ Mitosis or M phase | e\) The cell grows a second time to reorganize its contents in preparation for mitosis. |
+| 6\) \_\_\_\_\_\_\_\_\_\_ Prophase | f\) The summary of the G1, S, G2 phases |
+| 7\) \_\_\_\_\_\_\_\_\_\_ G1 phase | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells. |
+| 8\) \_\_\_\_\_\_\_\_\_\_ Cytokinesis | h\) Observed when the chromosomes move toward opposite ends of the nuclear spindle |
+| 9\) \_\_\_\_\_\_\_\_\_\_ Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
+| 10\) \_\_\_\_\_\_\_\_\_\_ Anaphase | j\) The final stage in cell division |
+
 ### **Labeling**
 
-### **Post Lab Activity 3.5**
+### **Post Lab Activity 3.6**
 
 Label the following stages of the nucleus and of mitosis
 
@@ -473,7 +498,7 @@ Label the following stages of the nucleus and of mitosis
 
 **Figure 3.25** The Cell Nucleus.
 
-**Table 3.3 Answers for Figure 3.25 above**
+**Table 3.4 Answers for Figure 3.25 above**
 
 | Number | Structure |
 |--------|-----------|
@@ -486,15 +511,15 @@ Label the following stages of the nucleus and of mitosis
 | 5      |           |
 | 6      |           |
 
-### **Strages of Mitosis**
+### **Stages of Mitosis**
 
 ![](images/_page_69_Picture_1.jpeg)
 
 **Figure 3.26** Label the Stages of the Cell Cycle and Mitosis.
 
-**Table 3.4 Matching Answers for the Stages of Mitosis**
+**Table 3.5 Matching Answers for the Stages of Mitosis**
 
-| letter | Stage of mitosis |
+| Letter | Stage of mitosis |
 |--------|------------------|
 | a      |                  |
 | b      |                  |
@@ -508,10 +533,7 @@ Label the following stages of the nucleus and of mitosis
 -   **Watch** this video for cell model #1: <https://youtu.be/Pl4vA35FfXA>
 -   **Watch** this video for cell model #2: <https://www.youtube.com/watch?v=MKUzCNjNTVw>
 -   **Watch** this video to learn about comparisons/contrasts between specialized cells (RBCs, neurons, simple squamous cells, and sperm): <https://www.youtube.com/watch?v=ESIX4P-mnNQ>
--   **Anatomy and Physiology - Bit by Bit. Podcast from Dr. Steven Sullivan of Bucks County Community College. He has others as well**
-
-**(homeostasis; membrane transport, etc.) that are good for A&P students:** [https://podcasts.apple.com/us/podcast/episode-3-cells-and-theplasma-membrane/id1480060049?i=1000453911723](https://podcasts.apple.com/us/podcast/episode-3-cells-and-the-plasma-membrane/id1480060049?i=1000453911723)
-
+-   **Anatomy and Physiology - Bit by Bit. Podcast from Dr. Steven Sullivan of Bucks County Community College. He has others as well (homeostasis; membrane transport, etc.) that are good for A&P students:** [https://podcasts.apple.com/us/podcast/episode-3-cells-and-theplasma-membrane/id1480060049?i=1000453911723](https://podcasts.apple.com/us/podcast/episode-3-cells-and-the-plasma-membrane/id1480060049?i=1000453911723)
 -   **Watch** this video<https://youtu.be/UAaTEjYmxso> to learn about the endomembrane system. What is the primary role of the endomembrane system?
 
 ## **Mitosis**
@@ -541,7 +563,7 @@ The Cell:
 **Chapter 3: Cells Glossary**
 
 | Terms | Definitions |
-|----|----|
+|------------------------------------|------------------------------------|
 | active transport | form of transport across the cell membrane that requires input of cellular energy |
 | amphipathic | describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility |
 | anaphase | third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of a dividing cell |
