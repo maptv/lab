@@ -284,7 +284,7 @@ The cross-section of a long bone epiphysis.
 
 ### **Bone Histology: Compact Bone**
 
-### **Activity 6.4.**
+### **Lab Activity 6.4.**
 
 -   Have someone obtain a microanatomy human bone model form the storage area.
 -   Identify and label the features of the compact bone.
@@ -305,7 +305,7 @@ The cross-section of a long bone epiphysis.
 
 **Figure 6.15** Photomicrograph of compact bone.
 
-### **Lab Activity 4.5: Microscope work:**
+### **Lab Activity 6.5: Microscope work:**
 
 -   In groups of two obtain a microscope for this activity.
 -   Using a light microscope, view the slide of a bone osteon at a magnification of 400x.
@@ -391,6 +391,8 @@ Complete the following crossword puzzles.
 
 **5** Bone-building cells are called \_\_\_\_\_. (10)
 
+## **Post Lab Activity 6.2**
+
 ## **Matching**
 
 **Table 6.4 Match the term(s) on the right with its corresponding statement.**
@@ -407,6 +409,8 @@ Complete the following crossword puzzles.
 |  | The tubular shaft that forms the axis of long bones is called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | h\) appendicular |
 |  | The bones of the skull, rib cage, and vertebral column make up the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ skeleton | i\) epiphyses |
 |  | The line that separates the diaphysis from the epiphysis in a long bone is called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | j\) endosteum |
+
+## **Post Lab Activity 6.3**
 
 ## **Labeling**
 
