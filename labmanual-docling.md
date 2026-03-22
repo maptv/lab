@@ -13145,9 +13145,7 @@ M
 | equilibrium           | sense of balance that includes sensations of position and movement of the head                                                                                                    |
 | external ear          | structures on the lateral surface of the head, including the auricle and the ear canal back to the tympanic membrane                                                              |
 | fibrous tunic         | outer layer of the eye primarily composed of connective tissue known as the sclera and cornea                                                                                     |
-
 | fovea                             | exact center of the retina at which visual stimuli are focused for maximal acuity, where the retina is thinnest, at which there is nothing but photoreceptors                                                               |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | free nerve                        | ending configuration of a sensory receptor neuron with dendrites in the connective tissue of the organ, such as in the dermis of the skin, which are most often sensitive to chemical, thermal, and mechanical stimuli      |
 | general sense                     | any sensory system that is distributed throughout the body and incorporated into organs of multiple other systems, such as the walls of the digestive organs or the skin                                                    |
 | gustation                         | sense of taste                                                                                                                                                                                                              |
@@ -13176,9 +13174,7 @@ M
 | malleus (also, hammer)            | ossicle that is directly attached to the tympanic membrane                                                                                                                                                                  |
 | mechanoreceptor                   | receptor cell that transduces mechanical stimuli into an electrochemical signal                                                                                                                                             |
 | medial geniculate nucleus         | thalamic target of the auditory brain stem that projects to the auditory cortex                                                                                                                                             |
-
 | medial rectus            | extraocular muscle responsible for adduction of the eye                                                                                                                                                    |
-|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | middle ear               | space within the temporal bone between the ear canal and bony labyrinth where the ossicles amplify sound waves from the tympanic membrane to the oval window                                               |
 | neural tunic             | layer of the eye that contains nervous tissue, namely the retina                                                                                                                                           |
 | olfaction sense of smell | olfaction sense of smell                                                                                                                                                                                   |
@@ -13210,9 +13206,7 @@ M
 | retina                   | nervous tissue of the eye at which phototransduction takes place                                                                                                                                           |
 | rhodopsin                | photopigment molecule found in the rod photoreceptors                                                                                                                                                      |
 | rod                      | photoreceptor one of the two types of retinal receptor cell that is specialized for low-light vision                                                                                                       |
-
 | round window            | membrane that marks the end of the scala tympani                                                                                                           |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | saccule                 | structure of the inner ear responsible for transducing linear acceleration in the vertical plane                                                           |
 | scala tympani           | portion of the cochlea that extends from the apex to the round window                                                                                      |
 | scala vestibuli         | portion of the cochlea that extends from the oval window to the apex                                                                                       |
@@ -13283,61 +13277,22 @@ Figure 15.1 Human Endocrine System with Labels.
 
 ## Definitions
 
-## Endocrine System
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- Anterior pituitary gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- Posterior pituitary gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Hypothalamus  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- Pineal body/gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Thyroid gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- Parathyroid glands  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Pancreas  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- Pancreatic Islets (Islets of Langerhans)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- Alpha cells (α cells)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- Beta cells ( β-cells
-
-)  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Adrenal gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Adrenal cortex  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Adrenal medulla  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Testis  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-- •
-
-Ovary  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Endocrine System \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Anterior pituitary gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Posterior pituitary gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Hypothalamus  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Pineal body/gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Thyroid gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Parathyroid glands  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Pancreas  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Pancreatic Islets (Islets of Langerhans) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Alpha cells (α cells) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Beta cells ( β-cells)  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Adrenal gland  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Adrenal cortex  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Adrenal medulla  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Testis  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - Ovary  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 A
 
@@ -13971,9 +13926,9 @@ Figure 15.33 Crossword of the Endocrine Hormones.
 
 Major Endocrine Glands
 
-Male
+- Male
 
-Female
+- Female
 
 Pituitary gland-
 
@@ -14008,16 +13963,15 @@ Figure 15.34 Labeled Endocrine System.
 - Across: 2 Beta alpha, 5 Adrenal medulla, 6 Water retention kidneys, 7 Prolactin, anterior pituitary, 10 Adenohypophysis.
 - Down: 1 Calcium calcitonin, 3 Testosterone, 4 Increases, 8 Ovaries, 9 T3 T4.
 
-| Chapter 15a: Endocrine System   | Chapter 15a: Endocrine System                                                                                                       |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+**Chapter 15a: Endocrine System**
+
 | Key Terms                       | Definitions                                                                                                                         |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | acetylcholine (ACh)             | neurotransmitter that binds at a motor endplate to trigger depolarization                                                           |
 | adrenal medulla                 | interior portion of the adrenal (or suprarenal) gland that releases epinephrine and norepinephrine into the bloodstream as hormones |
 | adrenergic                      | synapse where norepinephrine is released, which binds to α- or β- adrenergic receptors                                              |
 | afferent branch                 | component of a reflex arc that represents the input from a sensory neuron, for either a special or general sense                    |
-
 | agonist                                                | any exogenous substance that binds to a receptor and produces a similar effect to the endogenous ligand                                                                                                                                                   |
-|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | alpha (α)-adrenergic receptor                          | one of the receptors to which epinephrine and norepinephrine bind, which comes in two subtypes: α1 and α2                                                                                                                                                 |
 | antagonist                                             | any exogenous substance that binds to a receptor and produces an opposing effect to the endogenous ligand                                                                                                                                                 |
 | anticholinergic drugs                                  | drugs that interrupt or reduce the function of the parasympathetic system                                                                                                                                                                                 |
@@ -14041,9 +13995,7 @@ Figure 15.34 Labeled Endocrine System.
 | gray rami communicantes (singular = ramus communicans) | unmyelinated structures that provide a short connection from a sympathetic chain ganglion to the spinal nerve that contains the postganglionic sympathetic fiber                                                                                          |
 | intramural ganglia                                     | terminal ganglia of the parasympathetic system that are found within the walls of the target effector                                                                                                                                                     |
 | ligand-gated cation channel                            | ion channel, such as the nicotinic receptor, which is specific to positively charged ions and opens when a molecule such as a neurotransmitter binds to it                                                                                                |
-
 | limbic lobe                                             | structures arranged around the edges of the cerebrum that are involved in memory and emotion                                                                                                             |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | long reflex                                             | reflex arc that includes the central nervous system                                                                                                                                                      |
 | muscarinic receptor                                     | type of acetylcholine receptor protein that is characterized by also binding to muscarine and is a metabotropic receptor                                                                                 |
 | nicotinic receptor                                      | type of acetylcholine receptor protein that is characterized by also binding to nicotine and is an ionotropic receptor                                                                                   |
@@ -14067,10 +14019,6 @@ Figure 15.34 Labeled Endocrine System.
 | vasomotor nerves                                        | preganglionic sympathetic fibers that cause the constriction of blood vessels in response to signals from the cardiovascular center                                                                      |
 | visceral reflex                                         | reflex involving an internal organ as the effector, under the control of the autonomic nervous system                                                                                                    |
 | white rami communicantes (singular = ramus communicans) | myelinated structures that provide a short connection from a sympathetic chain ganglion to the spinal nerve that contains the preganglionic sympathetic fiber                                            |
-
-| Chapter 15b: Endocrine System continued               | Chapter 15b: Endocrine System continued                                                                                                                                                                         |
-|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Key Terms                                             | Definitions                                                                                                                                                                                                     |
 | adrenal cortex                                        | outer region of the adrenal glands consisting of multiple layers of epithelial cells and capillary networks that produces mineralocorticoids and glucocorticoids                                                |
 | adrenal glands                                        | endocrine glands located at the top of each kidney that are important for the regulation of the stress response, blood pressure and blood volume, water homeostasis, and electrolyte levels                     |
 | adrenal medulla                                       | inner layer of the adrenal glands that plays an important role in the stress response by producing epinephrine and norepinephrine                                                                               |
@@ -14094,9 +14042,7 @@ Figure 15.34 Labeled Endocrine System.
 | endocrine system                                      | cells, tissues, and organs that secrete hormones as a primary or secondary function and play an integral role in normal bodily processes                                                                        |
 | epinephrine                                           | primary and most potent catecholamine hormone secreted by the adrenal medulla in response to short-term stress; also called adrenaline                                                                          |
 | erythropoietin (EPO)                                  | protein hormone secreted in response to low oxygen levels that triggers the bone marrow to produce red blood cells                                                                                              |
-
 | estrogens                                              | class of predominantly female sex hormones important for the development and growth of the female reproductive tract, secondary sex characteristics, the female reproductive cycle, and the maintenance of pregnancy   |
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | exocrine system                                        | cells, tissues, and organs that secrete substances directly to target tissues via glandular ducts                                                                                                                      |
 | first messenger                                        | f hormone that binds to a cell membrane hormone receptor and triggers activation of a second messenger system                                                                                                          |
 | follicle-stimulating hormone (FSH)                     | anterior pituitary hormone that stimulates the production and maturation of sex cells                                                                                                                                  |
@@ -14122,9 +14068,7 @@ Figure 15.34 Labeled Endocrine System.
 | insulin                                                | pancreatic hormone that enhances the cellular uptake and utilization of glucose, thereby decreasing blood glucose levels                                                                                               |
 | leptin                                                 | protein hormone secreted by adipose tissues in response to food consumption that promotes satiety                                                                                                                      |
 | luteinizing hormone (LH)                               | anterior pituitary hormone that triggers ovulation and the production of ovarian hormones, and the production of testosterone                                                                                          |
-
 | melatonin                                       | amino acid-derived hormone that is secreted in response to low light and causes drowsiness                                                                                                                                        |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | mineralocorticoids                              | hormones produced by the zona glomerulosa cells of the adrenal cortex that influence fluid and electrolyte balance                                                                                                                |
 | neonatal hypothyroidism                         | condition characterized by cognitive deficits, short stature, and other signs and symptoms in people born to people who were iodine-deficient during pregnancy                                                                    |
 | norepinephrine                                  | secondary catecholamine hormone secreted by the adrenal medulla in response to short-term stress; also called noradrenaline                                                                                                       |
@@ -14148,9 +14092,7 @@ Figure 15.34 Labeled Endocrine System.
 | thymosins                                       | hormones produced and secreted by the thymus that play an important role in the development and differentiation of T cells                                                                                                        |
 | thymus                                          | organ that is involved in the development and maturation of T-cells and is particularly active during infancy and childhood                                                                                                       |
 | thyroid gland thyroid-stimulating hormone (TSH) | large endocrine gland responsible for the synthesis of thyroid hormones anterior pituitary hormone that triggers secretion of thyroid hormones by the thyroid gland (also called thyrotropin)                                     |
-
 | thyroxine (also, tetraiodothyronine, T4)   | amino acid-derived thyroid hormone that is more abundant but less potent than T3 and often converted to T3 by target cells   |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | triiodothyronine (also, T3)                | amino acid-derived thyroid hormone that is less abundant but more potent than T4                                             |
 | zona fasciculata                           | intermediate region of the adrenal cortex that produce hormones called glucocorticoids                                       |
 | zona glomerulosa                           | most superficial region of the adrenal cortex, which produces the hormones collectively referred to as mineralocorticoids    |
