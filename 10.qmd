@@ -356,7 +356,7 @@ Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofi
 Write the correct choice or choices in the "Answers" column.
 
 | Answers | Definitions | Choices |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 |  | Muscle fiber cell membrane | Endomysium |
 |  | Surrounds the whole muscle | Perimysium |
 |  | Connective tissue that covers the body under the skin as well as the whole muscles. | Exomysium |
@@ -374,6 +374,13 @@ Identify and label the parts of the myofibril.
 Figure 10.12 Unlabeled Sarcomere.
 
 1.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+4.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+5.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+6.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+7.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+8.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## **Post Lab Activity 10.3**
 
@@ -385,21 +392,22 @@ Complete the crossword puzzles.
 
 **Figure 10.13** Skeletal Muscle Fibers.
 
-|  |  |
-|------------------------------------|------------------------------------|
-| Across |  |
-| 3 | The myofibrils of muscle are not aligned, so that the muscle appears to be (6,6) |
-| 4 | Muscle cells are also called muscle (6) |
-| 6 | There are two types of, actin and myosin. (11) |
-| 7 | Within a skeletal muscle, a connective tissue membrane called the surrounds each fascicle (10) |
-| 9 | A group of muscle fibers is called a muscle, which means 'bundle'. (8) |
-| 10 | Cardiac muscle fibers contain large numbers of, which provides the power to allow them to have incredible endurance. (12) |
-| Down |  |
-| 1 | For many muscles, the connective tissue membranes within the muscle merge at the ends with a connective tissue 'rope' called a(n) (6) |
-| 2 | When a muscle attaches directly to a bone, rather than to a tendon which is attached to a bone, the of the muscle fuses with the of the bone. (9,10) |
-| 3 | A(n) is the smallest contractile unit of a skeletal muscle: it extends from one Z-disk to the next. (9) |
-| 5 | Each muscle fiber is enclosed in a delicate, areolar connective tissue sheath called the (10) |
-| 8 | Much of the heat in the body is produced by muscle. (8) |
+## Across
+
+-   **3** The myofibrils of \_\_\_\_\_ muscle are not aligned, so that the muscle appears to be \_\_\_\_\_. (6,6)
+-   **4** Muscle cells are also called muscle \_\_\_\_\_. (6)
+-   **6** There are two types of \_\_\_\_\_, actin and myosin. (11)
+-   **7** Within a skeletal muscle, a connective tissue membrane called the \_\_\_\_ surrounds each fascicle (10)
+-   **9** A group of muscle fibers is called a muscle \_\_\_\_\_, which means 'bundle'. (8)
+-   **10** Cardiac muscle fibers contain large numbers of \_\_\_\_\_, which provides the power to allow them to have incredible endurance. (12)
+
+## Down
+
+-   **1** For many muscles, the connective tissue membranes within the muscle merge at the ends with a connective tissue 'rope' called a(n) \_\_\_\_\_. (6)
+-   **2** When a muscle attaches directly to a bone, rather than to a tendon which is attached to a bone, the \_\_\_\_\_ of the muscle fuses with the \_\_\_\_\_ of the bone. (9,10)
+-   **3** A(n) \_\_\_\_\_ is the smallest contractile unit of a skeletal muscle: it extends from one Z-disk to the next. (9)
+-   **5** Each muscle fiber is enclosed in a delicate, areolar connective tissue sheath called the \_\_\_\_\_. (10)
+-   **8** Much of the heat in the body is produced by \_\_\_\_\_ muscle. (8)
 
 ![](images/_page_265_Picture_0.jpeg)
 
@@ -430,7 +438,7 @@ Complete the crossword puzzles.
 **Chapter 10: Skeletal Muscle Histology and Microanatomy Glossary**
 
 | Terms | Definitions |
-|-----------------|------------------------------------------------------|
+|----|----|
 | acetylcholine (ACh) | neurotransmitter that binds at a motor endplate to trigger depolarization |
 | actin | protein that makes up most of the thin myofilaments in a sarcomere muscle fiber |
 | action potential | change in voltage of a cell membrane in response to a stimulus that results in transmission of an electrical signal; unique to neurons and muscle fibers |
