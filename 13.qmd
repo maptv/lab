@@ -428,7 +428,7 @@ Optic nerves
 -   Olfactory bulbs and tracts
 -   Optic chiasm
 
-## **Activity 13.5.**
+## **Lab Activity 13.5.**
 
 As a group, obtain one of the brain models locate and label the cranial nerves listed above.
 
@@ -454,7 +454,7 @@ As a group, obtain one of the brain models locate and label the cranial nerves l
 -   Conus medullaris
 -   Cauda equina
 
-## **Activity 13.6.**
+## **Lab Activity 13.6.**
 
 As a group, obtain one of the spinal cord cross section models.
 
@@ -497,14 +497,6 @@ As a group, obtain one of the spinal cord cross section models.
 ![](images/_page_348_Picture_11.jpeg)
 
 **Figure 13.25** The Meninges of the Spinal Cord.
-
-## **Activity 13.6**
-
-As a group, obtain one of the spinal cord cross section models.
-
--   Locate and label as many of the meningeal structures listed below.
--   Ask your instructor for assistance, if needed.
--   Take pictures of your labeled model for a later review.
 
 ## **Meninges:**
 
@@ -566,7 +558,7 @@ As a group, obtain one of the spinal cord cross section models.
 
 -   Olfactory bulbs and tracts
 
-## **Activity 13.7: Dissection of the Sheep or Pig Brains**
+## **Lab Activity 13.7: Dissection of the Sheep or Pig Brains**
 
 The objective of this activity is to carefully dissect a sheep brain and to locate and identify the structures noted in the list above. You will form teams of two to three. Obtain the following materials from the staging area on the side of the lab: dissection tray, brain, set of dissection tools, dissection pins and some tape for labeling the parts following the dissection.
 
@@ -604,29 +596,16 @@ The objective of this activity is to carefully dissect a sheep brain and to loca
 
 **Figure 13.31** Dissected Sheep Brain (Right Lobe, Mid-Sagittal section).
 
--   
-
-    6.  Compare the structures that you see in your dissection specimen to those in the human brain models.
-
--   
-
-    7.  Place dissection pins in the brain structures you need to identify from the dissection objectives above. Print the name of the structure on some tape and attach it to the proper pins. Take a picture of the labelled brain for your study guide.
-
--   
-
-    8.  When you are done observing the pig/sheep brain specimen and have completed the exercise, dispose of it as directed by your instructor. Wash and dry your dissection instruments, pins, and tray. Return these to the staging area. Clean the tables with Lysol and wait for additional directions from your instructor.
+6.  Compare the structures that you see in your dissection specimen to those in the human brain models.
+7.  Place dissection pins in the brain structures you need to identify from the dissection objectives above. Print the name of the structure on some tape and attach it to the proper pins. Take a picture of the labelled brain for your study guide.
+8.  When you are done observing the pig/sheep brain specimen and have completed the exercise, dispose of it as directed by your instructor. Wash and dry your dissection instruments, pins, and tray. Return these to the staging area. Clean the tables with Lysol and wait for additional directions from your instructor.
 
 **Watch** these videos to learn about the sheep brain dissection and the meninges:
 
 ### **Sheep brain dissection videos:**
 
--   
-
-    1.  Sheep Brain Dissection: "Sheep brain dissection \| Dr. Basu's Easy Anatomy & Physiology" [https://youtu.be/yCztTjEt8ok?si=aPOCp0\\\_rEtO278T7.](https://youtu.be/yCztTjEt8ok?si=aPOCp0_rEtO278T7)
-
--   
-
-    2.  Anatomy of the sheep brain video for anatomy class practice for the practical exam. Scientist Cindy. [**https://youtu.be/U3foQgifBVA?si=hQFcXZ0bDSKmROL2**](https://youtu.be/U3foQgifBVA?si=hQFcXZ0bDSKmROL2){.uri}.
+1.  Sheep Brain Dissection: "Sheep brain dissection \| Dr. Basu's Easy Anatomy & Physiology" [https://youtu.be/yCztTjEt8ok?si=aPOCp0\\\_rEtO278T7.](https://youtu.be/yCztTjEt8ok?si=aPOCp0_rEtO278T7)
+2.  Anatomy of the sheep brain video for anatomy class practice for the practical exam. Scientist Cindy. [**https://youtu.be/U3foQgifBVA?si=hQFcXZ0bDSKmROL2**](https://youtu.be/U3foQgifBVA?si=hQFcXZ0bDSKmROL2){.uri}.
 
 ## **Meninges Videos**
 
@@ -650,70 +629,117 @@ Complete the following crosswords.
 
 **Figure 13.32** The Central Nervous System.
 
-| 6 | In the inferior regions, there is a gap between the and the into which anesthetics are often introduced ("epidural" – "upon the dura") (4,5,9) |
-|------------------------------------|------------------------------------|
-| 7 | The butterfly-shaped central core of gray matter in the spinal cord can be divided into three regions. The contains the cell bodies of somatic motor neurons. (8,4) |
-| 8 | Neurons of the dorsal horn receive signals from those in the Their own axons extend to reach neurons in the brain stem, diencephalon, etc. (6,4,7) |
-| 9 | are white-matter columns consisting of the myelinated axons of neurons associated with the spinal cord. (8) |
-| Down |  |
-| 1 | After circulation the CSF returns to the blood by passing through the, which are clusters of the arachnoid mater which project into the dural sinuses and act as one-way valves. (9,12) |
-| 2 | The axons of the neurons from the and horns emerge together as the ventral roots. (7,8) |
-| 3 | The butterfly-shaped central core of gray matter in the spinal cord can be divided into three regions. The contains interneurons. (9,4) |
-| 4 | fills the ventricles and surrounds the brain and spinal cord, acting as a shock absorber, distributing nutritive materials, removing wastes, and providing a chemically stable environment. (13,5) |
-| 5 | After the CSF is formed, it circulates from the lateral ventricles to the third and fourth ventricles, and from there to the and central canal of the spinal cord. (3-9,5) |
+## Across
+
+-   6 In the inferior regions, there is a gap between the \_\_\_\_\_ and the \_\_\_\_\_ into which anesthetics are often introduced ("epidural" - "upon the dura") (4,5,9)
+
+-   7 The butterfly-shaped central core of gray matter in the spinal cord can be divided into three regions. The \_\_\_\_\_ contains the cell bodies of somatic motor neurons. (8,4)
+
+-   8 Neurons of the dorsal horn receive signals from those in the \_\_\_\_\_. Their own axons extend to reach neurons in the brain stem, diencephalon, etc. (6,4,7)
+
+-   9 \_\_\_\_\_ are white-matter columns consisting of the myelinated axons of neurons associated with the spinal cord. (8)
+
+## Down
+
+-   1 After circulation the CSF returns to the blood by passing through the \_\_\_\_\_, which are clusters of the arachnoid mater which project into the dural sinuses and act as one-way valves. (9,12)
+
+-   2 The axons of the neurons from the \_\_\_\_\_ and \_\_\_\_\_ horns emerge together as the ventral roots. (7,8)
+
+-   3 The butterfly-shaped central core of gray matter in the spinal cord can be divided into three regions. The \_\_\_\_\_ contains interneurons. (9,4)
+
+-   4 \_\_\_\_\_ fills the ventricles and surrounds the brain and spinal cord, acting as a shock absorber, distributing nutritive materials, removing wastes, and providing a chemically stable environment. (13,5)
+
+-   5 After the CSF is formed, it circulates from the lateral ventricles to the third and fourth ventricles, and from there to the \_\_\_\_-\_\_ \_\_\_\_ and central canal of the spinal cord. (3-9,5)
 
 ![](images/_page_357_Figure_0.jpeg)
 
 **Figure 13.33** Brain: Anatomical and Functional Regions.
 
-| 4 | A patient who is able to speak but who chooses words at random and is unable to connect thought to language is likely to have damage to area. (9) |
-|------------------------------------|------------------------------------|
-| 5 | The areas of the cerebral cortex allow us to integrate and consider information. (11) |
-| 6 | The outermost layer of an organ or structure (such as the cerebrum or kidney) is often referred to as the (6) |
-| 7 | Gray matter is found in the cortex of the and (8,10) |
-| 8 | The areas of the cerebral cortex control voluntary movement. (5) |
-| 9 | The cortex allows us to perceive sound and is located in the lobes. (8,8) |
-| 11 | White matter is composed of (10,5) |
-| 14 | The folds and convolutions of the cerebral hemispheres are named for their three-dimensional forms. The shallow grooves are called (singular, ). (5,6) |
-| 15 | A patient who is unable to speak despite having a clear concept of what is conceived (e.g., wanting coffee but unable to think of the word 'coffee') has most likely incurred damage to area (6) |
-| 17 | The folds and convolutions of the cerebral hemispheres are named for their three-dimensional forms. The ridges are called (singular,). (4,5) |
-| Down |  |
-| 1 | The visual cortex is responsible for sight and is located in the (9,4) |
-| 2 | The two hemispheres of the brain are separated by a deep cleft called the (12,7) |
-| 3 | is found in the central region of all major CNS areas. (4,6) |
-| 4 | surrounds the central core of gray matter in the CNS. (5,6) |
-| 10 | The hemisphere usually controls math and logic. (4) |
-| 12 | The folds and convolutions of the cerebral hemispheres are named for their three-dimensional forms. The deep grooves between gyri or regions are called (8) |
-| 13 | The areas of the cerebral cortex are responsible for conscious awareness of sensation. (7) |
-| 16 | The hemisphere usually controls visual and spatial skills, emotion, and artistic skills. (5) |
+## Across
+
+-   4 A patient who is able to speak but who chooses words at random and is unable to connect thought to language is likely to have damage to \_\_\_\_ area. (9)
+
+-   5 The \_\_\_\_\_ areas of the cerebral cortex allow us to integrate and consider information. (11)
+
+-   6 The outermost layer of an organ or structure (such as the cerebrum or kidney) is often referred to as the \_\_\_\_\_. (6)
+
+-   7 Gray matter is found in the cortex of the \_\_\_\_ and \_\_\_\_\_. (8,10)
+
+-   8 The \_\_\_\_\_ areas of the cerebral cortex control voluntary movement. (5)
+
+-   9 The \_\_\_\_\_ cortex allows us to perceive sound and is located in the \_\_\_\_\_ lobes. (8,8)
+
+-   11 White matter is composed of \_\_\_\_ \_\_\_\_. (10,5)
+
+-   14 The folds and convolutions of the cerebral hemispheres are named for their three-dimensional forms. The shallow grooves are called \_\_\_\_\_ (singular, \_\_\_\_\_). (5,6)
+
+-   15 A patient who is unable to speak despite having a clear concept of what is conceived (e.g., wanting coffee but unable to think of the word 'coffee') has most likely incurred damage to \_\_\_\_\_ area (6)
+
+-   17 The folds and convolutions of the cerebral hemispheres are named for their three-dimensional forms. The ridges are called \_\_\_\_\_ (singular, \_\_\_\_\_). (4,5)
+
+## Down
+
+-   1 The visual cortex is responsible for sight and is located in the \_\_\_\_\_ \_\_\_\_\_. (9,4)
+
+-   2 The two hemispheres of the brain are separated by a deep cleft called the \_\_\_\_ \_\_\_. (12,7)
+
+-   3 \_\_\_ \_\_\_ is found in the central region of all major CNS areas. (4,6)
+
+-   4 \_\_\_\_\_ \_\_\_\_ surrounds the central core of gray matter in the CNS. (5,6)
+
+-   10 The \_\_\_\_\_ hemisphere usually controls math and logic. (4)
+
+-   12 The folds and convolutions of the cerebral hemispheres are named for their three-dimensional forms. The deep grooves between gyri or regions are called \_\_\_\_\_. (8)
+
+-   13 The \_\_\_\_\_ areas of the cerebral cortex are responsible for conscious awareness of sensation. (7)
+
+-   16 The \_\_\_\_\_ hemisphere usually controls visual and spatial skills, emotion, and artistic skills. (5)
 
 ![](images/_page_359_Picture_0.jpeg)
 
 **Figure 13.34** Brain components.
 
-|   | Across |   |   |   |   |
-|------------|------------|------------|------------|------------|------------|
-| 2 | Much of the influence of the hypothalamus is due to the release of hormones which control the release of other hormones: appropriately enough, their names usually include the phrase, " ". (9,7) |  |  |  |  |
-| 3 | Integration of impulses from the motor cortex and sensory pathways, and comparison of actual to intended motion, is the function of the (10) |  |  |  |  |
-| 8 | The tough, fibrous, double-layered, outermost meninx is the (4,5) |  |  |  |  |
-| 9 | The continuation of automatic behaviors necessary for survival (e.g., breathing) is controlled by the (5,4) |  |  |  |  |
-| 11 | The separation between the cerebral hemispheres is reinforced by an extension of the dura mater called the (4,7) |  |  |  |  |
-| 12 | The thalamus, hypothalamus, and epithalamus constitute the (12) |  |  |  |  |
-| 14 | The type of memory that allows us to complete actions without committing them to permanent memory is called memory. (5-4) |  |  |  |  |
-| 15 | The wide, cerebrospinal fluid containing space is between the mater and the pia mater and is called the space. (9,3-9) |  |  |  |  |
-|  | Down |  |  |  |  |
-| 1 | Afferent impulses converge in the, where those of similar function are sorted and relayed on as a group. (8) |  |  |  |  |
-| 4 | Respiratory rate, heart rate, and blood pressure are primarily controlled by various nuclei in the of the brain stem. (7,9) |  |  |  |  |
-| 5 | The is the innermost meninx: it clings tightly to the surface of the brain, even in the sulci. (3,5) |  |  |  |  |
-| 6 | fills the ventricles and surrounds the brain and spinal cord, acting as a shock absorber, distributing nutritive materials, removing wastes, and providing a chemically stable environment. (13,5) |  |  |  |  |
-| 7 | The is the middle meninx. (9,5) |  |  |  |  |
-| 10 | The are a set of three connective tissue membranes that surround the CNS. (8) |  |  |  |  |
-| 11 | The is a bundle of nerve tracts linking structures in the limbic system to one another. (6) |  |  |  |  |
-| 13 | Respiration is in part regulated by nuclei of the fibers of which are part of the brain stem. (4) |  |  |  |  |
+## Across
+
+-   2 Much of the influence of the hypothalamus is due to the release of hormones which control the release of other hormones: appropriately enough, their names usually include the phrase, "\_\_\_\_\_\_ \_\_\_\_\_\_". (9,7)
+
+-   3 Integration of impulses from the motor cortex and sensory pathways, and comparison of actual to intended motion, is the function of the \_\_\_\_\_. (10)
+
+-   8 The tough, fibrous, double-layered, outermost meninx is the \_\_\_\_ \_\_\_\_\_. (4,5)
+
+-   9 The continuation of automatic behaviors necessary for survival (e.g., breathing) is controlled by the \_\_\_\_ \_\_\_\_. (5,4)
+
+-   11 The separation between the cerebral hemispheres is reinforced by an extension of the dura mater called the \_\_\_\_ \_\_\_\_\_ (4,7)
+
+-   12 The thalamus, hypothalamus, and epithalamus constitute the \_\_\_\_\_. (12)
+
+-   14 The type of memory that allows us to complete actions without committing them to permanent memory is called \_\_\_-\_\_\_\_\_ memory. (5-4)
+
+-   15 The wide, cerebrospinal fluid containing space is between the \_\_\_\_\_ mater and the pia mater and is called the \_\_\_-\_\_\_\_\_\_\_ space. (9,3-9)
+
+## Down
+
+-   1 Afferent impulses converge in the \_\_\_\_\_, where those of similar function are sorted and relayed on as a group. (8)
+
+-   4 Respiratory rate, heart rate, and blood pressure are primarily controlled by various nuclei in the \_\_\_\_\_\_ \_\_\_\_\_ of the brain stem. (7,9)
+
+-   5 The \_\_\_ is the innermost meninx: it clings tightly to the surface of the brain, even in the sulci. (3,5)
+
+-   6 \_\_\_\_\_ fills the ventricles and surrounds the brain and spinal cord, acting as a shock absorber, distributing nutritive materials, removing wastes, and providing a chemically stable environment. (13,5)
+
+-   7 The \_\_\_\_\_\_ \_\_\_\_\_\_ is the middle meninx. (9,5)
+
+-   10 The \_\_\_\_\_ are a set of three connective tissue membranes that surround the CNS. (8)
+
+-   11 The \_\_\_\_\_ is a bundle of nerve tracts linking structures in the limbic system to one another. (6)
+
+-   13 Respiration is in part regulated by nuclei of the fibers of which are part of the brain stem. (4)
+
+### **Post Lab Activity 13.1**
 
 ### **Identification**
 
-Identify the structures for the following diagrams. (figures 13.36 to 13.40)
+Identify the structures for the following diagrams. (Figures 13.36 to 13.40)
 
 ![](images/_page_361_Picture_3.jpeg)
 
@@ -820,6 +846,12 @@ Match the following structures with the terms below.
 
 -   Arbor vitae
 
+-   Pons
+
+-   Medulla oblongata
+
+-   Spinal cord
+
 -   A
 
 -   B
@@ -831,12 +863,6 @@ Match the following structures with the terms below.
 -   E:
 
 -   F:
-
--   Pons
-
--   Medulla oblongata
-
--   Spinal cord
 
 Identify all of the regions and structures of the brain.
 
@@ -872,119 +898,59 @@ Identify all of the regions and structures of the brain.
 
 ## **Crosswords**
 
-## **Figure 13.33. The Central Nervous system.**
+## **Figure 13.32. The Central Nervous system.**
 
 -   **Across: 6** Dura mater vertebrae, **7** Anterior horn, **8** Dorsal root ganglia, **9** Funiculi.
 -   **Down: 1** Arachnoid granulations, **2** Lateral anterior, **3** Posterior horn, **4** Cerebrospinal fluid, **5** Sub-arachnoid space
 
-## **Figure 13.34. Brain: anatomical and functional regions.**
+## **Figure 13.33. Brain: anatomical and functional regions.**
 
 -   **Across: 4** Wernicke's, **5** Association, **6** Cortex, **7** Cerebrum cerebellum, **8** Motor, **9** Auditory temporal, **11** Myelinated axons, **14** Sulci sulcus, **15** Broca's, **17** Gyri gyrus.
 -   **Down: 1** Occipital lobe, **2** Longitudinal fissure, **3** Gray matter, **4** White matter, **10** Left, **12** Fissures, **13** Sensory, **16** Right.
 
-## **Figure 13.35. Brain components.**
+## **Figure 13.34. Brain components.**
 
 -   **Across: 2** Releasing hormone, **3** Cerebellum, **8** Dura mater, **9** Brain stem, **11** Falx cerebri, **12** Diencephalon, **14** Short-term, **15** Arachnoid sub-arachnoid.
 -   **Down: 1** Thalamus, **4** Medulla oblongata, **5** Pia mater, **6** Cerebrospinal fluid, **7** Arachnoid mater, **10** Meninges, **11** Fornix, **13** Pons.
 
-## **Key: Figure 13.36 Human Brain Left (Mid-Sagittal View, Closeup)**
+## **Key: Figure 13.35 Human Brain Left (Mid-Sagittal View, Closeup)**
 
--   
-
-    1.  Corpus callosum, Rostrum
-
--   
-
-    2.  Corpus callosum, Genu
-
--   
-
-    3.  Corpus callosum, Corpus
-
--   
-
-    4.  Corpus callosum, Splenium
-
--   
-
-    5.  Septum pellucidum
-
--   
-
-    6.  Fornix, Corpus
-
--   
-
-    7.  Glandula epiphysialis
-
--   
-
-    8.  Recessus pinealis
-
--   
-
-    9.  Habenula
-
--   10.Stria medullaris thalami
-
--   11.Thalamus (Pars dorsalis)
-
--   12.Adhaesio interthalamica
-
--   13.Plexus choroideus
-
--   14.Foramen interventriculare
-
--   15.Comissura anterior
-
--   16.Hypothalamus
-
--   17.Lamina terminalis
-
--   18.Recessus supraopticus
-
--   19.Recessus infundibuli
-
--   20.Infundibulum
-
--   21.Tuber cinerum
-
--   22.Corpora mamillaria
-
--   23.Sulcus hypothalamicus (blue line)
-
--   24.Mesencephalon (Crus cerebri)
-
--   25.Tegmentum mesencephali
-
--   26.Aqaeductus mesencephali
-
--   27.Tectum mesencephali,
-
-    -   
-
-        a.  
-
-            a)  Colliculus superior
-
-    -   
-
-        b.  
-
-            b)  C. inferior
-
--   28.Pons
-
--   29.Ventriculus quartus
-
--   30.Cerebellum
-
--   31.Comissura posterior
+1.  Corpus callosum, Rostrum
+2.  Corpus callosum, Genu
+3.  Corpus callosum, Corpus
+4.  Corpus callosum, Splenium
+5.  Septum pellucidum
+6.  Fornix, Corpus
+7.  Glandula epiphysialis
+8.  Recessus pinealis
+9.  Habenula
+10. Stria medullaris thalami
+11. Thalamus (Pars dorsalis)
+12. Adhaesio interthalamica
+13. Plexus choroideus
+14. Foramen interventriculare
+15. Comissura anterior
+16. Hypothalamus
+17. Lamina terminalis
+18. Recessus supraopticus
+19. Recessus infundibuli
+20. Infundibulum
+21. Tuber cinerum
+22. Corpora mamillaria
+23. Sulcus hypothalamicus (blue line)
+24. Mesencephalon (Crus cerebri)
+25. Tegmentum mesencephali
+26. Aqaeductus mesencephali
+27. Tectum mesencephali, a) Colliculus superior b) C. inferior
+28. Pons
+29. Ventriculus quartus
+30. Cerebellum
+31. Comissura posterior
 
 **Chapter 13: Nervous System Gross Anatomy Glossary**
 
 | Term | Definition |
-|------------------------------------|------------------------------------|
+|----------------------------|----------------------------------------|
 | abducens nerve | sixth cranial nerve; responsible for contraction of one of the extraocular muscles |
 | amygdala | nucleus deep in the temporal lobe of the cerebrum that is related to memory and emotional behavior |
 | anterior column | white matter between the anterior horns of the spinal cord composed of many different groups of axons of both ascending and descending tracts |
