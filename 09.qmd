@@ -457,42 +457,35 @@ In this section you will review and identify the movements of the synovial joint
 
 | Answer | Definition | Term |
 |----|----|----|
-|  | 1\. A(n), or joint, is any site where two bones meet. | a\. diarthrotic |
-|  | 2\. The three functional classifications for joints are,, and | b\. synovial |
-|  | 3\. A joint that is immobile is a(n) joint. | c\. synarthrotic; fibrous |
-|  | 4\. A joint that allows only a small amount of movement is a(n) joint. | d\. Bursae |
-|  | 5\. A freely movable joint is a(n) joint. | e\. structure; function |
-|  | 6\. Sutures are joints that are (function) and (structure). | f\. synarthrotic; amphiarthrotic; diarthrotic |
-|  | 7\. Gomphoses are classified as (function) and (structure). | g\. synarthrotic |
-|  | 8\. Most joints in the body are | h\. fibrous |
-|  | 9\. are flattened, fibrous sacs lined with synovial membranes and containing synovial fluid. | i\. fibrous; cartilaginous; synovial |
-|  | 10.For joints, there is no joint cavity and the joints themselves are synarthrotic or at most amphiarthrotic. The bones are joined by fibrous connective tissue and their function is more to prevent separation than to resist compression. | j\. articulation |
-|  | 11.The three structural classifications for joints are ,, and | k\. synarthrotic; amphiarthrotic; |
-|  | 12.The three functional classifications for joints are,, and | l\. amphiarthrotic |
-|  | 13.Joints are classified by two criteria: and | m\. synarthrotic; fibrous |
+|  | 1\. A(n) \_\_\_\_\_, or joint, is any site where two bones meet. | a\. diarthrotic |
+|  | 2\. The three functional classifications for joints are \_\_\_\_\_, \_\_\_\_\_, and \_\_\_\_\_. | b\. synovial |
+|  | 3\. A joint that is immobile is a(n) \_\_\_\_\_ joint. | c\. synarthrotic; fibrous |
+|  | 4\. A joint that allows only a small amount of movement is a(n) \_\_\_\_\_ joint. | d\. Bursae |
+|  | 5\. A freely movable joint is a(n) \_\_\_\_\_ joint. | e\. structure; function |
+|  | 6\. Sutures are joints that are \_\_\_\_\_ (function) and \_\_\_\_ (structure). | f\. synarthrotic; amphiarthrotic; diarthrotic |
+|  | 7\. Gomphoses are classified as \_\_\_\_ (function) and \_\_\_\_\_ (structure). | g\. synarthrotic |
+|  | 8\. Most joints in the body are \_\_\_\_\_. | h\. fibrous |
+|  | 9\. \_\_\_\_\_ are flattened, fibrous sacs lined with synovial membranes and containing synovial fluid. | i\. fibrous; cartilaginous; synovial |
+|  | 10\. For \_\_\_\_\_ joints, there is no joint cavity and the joints themselves are synarthrotic or at most amphiarthrotic. The bones are joined by fibrous connective tissue and their function is more to prevent separation than to resist compression. | j\. articulation |
+|  | 11\. The three structural classifications for joints are \_\_\_\_\_, \_\_\_\_\_, and \_\_\_\_\_. | k\. synarthrotic; amphiarthrotic; |
+|  | 12\. The three functional classifications for joints are \_\_\_\_\_, \_\_\_\_\_, and \_\_\_\_\_. | l\. amphiarthrotic |
+|  | 13\. Joints are classified by two criteria: \_\_\_\_\_ and \_\_\_\_\_. | m\. synarthrotic; fibrous |
 
 ## **Post Lab Activity 9.3**
 
 ## **Labeling**
 
-Label the following diagrams 9.17 and 9.18.
+Label the following diagrams 9.18 and 9.19.
 
 ## **Knee joint anatomy**
 
 -   Quadriceps tendon
-
 -   Patellar ligament
-
 -   Anterior cruciate ligament
-
 -   Posterior cruciate ligament
-
 -   Tibial (medial) collateral ligament
-
 -   Fibular (lateral) collateral ligament
-
 -   Medial meniscus
-
 -   Lateral meniscus
 
 ![](images/_page_244_Picture_12.jpeg)
