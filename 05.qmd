@@ -65,7 +65,11 @@ Using your textbook define or identify the following terms.
 | Papillary layer |            |
 | Reticular layer |            |
 
-**Subcutaneous Layer (Hypodermis)**
+| Term                            | Definition |
+|---------------------------------|------------|
+| Subcutaneous Layer (Hypodermis) |            |
+
+**Integumentary Structures**
 
 | Term                            | Definition |
 |---------------------------------|------------|
