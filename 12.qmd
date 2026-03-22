@@ -45,11 +45,11 @@
     -   Satellite cells
 -   Describe the function of the glial cells, including astrocytes, ependymal cells, Schwann cells, oligodendrocytes, and satellite cells.
 
-# **Pre-lab Activities**
+## **Pre-lab Activities**
 
-# **Prelab Activity 12.1**
+## **Prelab Activity 12.1**
 
-# **Definitions**
+## **Definitions**
 
 | Term                   | Definition |
 |------------------------|------------|
@@ -70,7 +70,7 @@
 | White Matter           |            |
 | Gray Matter            |            |
 
-# **Types of Neuroglial Cells:**
+## **Types of Neuroglial Cells:**
 
 **PNS**
 
@@ -213,11 +213,13 @@ Also, distinguish gray matter from white matter, in terms of what each is made o
     -   In the space below, draw a neuron seen in your slide. Label the cross section of the spinal cord.
 -   Take a picture of the tissue and download it into your study guide. Label the diagram.
 
-# **Post Lab Activities: Check Your Understanding**
+Note: I corrected all of the post lab activity numbers below, which should be 12 but are 13 in the source.
 
-# Post Lab Activity 13.1
+## **Post Lab Activities: Check Your Understanding**
 
-## Identifications
+## **Post Lab Activity 12.1**
+
+### Identifications
 
 ![](images/_page_316_Picture_3.jpeg)
 
@@ -233,7 +235,7 @@ Figure 12.8 Spinal Cord Components.
 | 6\. |     |
 | 7   |     |
 
-# Post Lab Activity 13.2
+## **Post Lab Activity 12.2**
 
 ### **Crossword Puzzle(s)**
 
@@ -243,48 +245,66 @@ Complete the following crossword puzzles.
 
 **Figure 12.9** Nervous System Anatomy.
 
-| Across |   |
-|----|----|
-| 2 | are cells which produce the myelin sheath in the peripheral nervous system, but not in the central nervous system. (7,5) |
-| 3 | A(n) is a coating wrapped around neuronal axons which insulates them and protects them. (6,6) |
-| 5 | The PNS has two major divisions: the division and the division. (7,5) |
-| 7 | The brain and spinal cord make up the nervous system. All other nerves are part of the nervous system. (7,10) |
-| 8 | are excitable cells that transmit electrical signals. (7) |
-| 9 | In the CNS, are supporting cells which guide the migration of young neurons. (10) |
-| **Down** |  |
-| 1 | In the CNS, are cells which line the fluid-filled cavities, and which produce, transport, and circulate the fluid surrounding the brain and spinal cord. (9,5) |
-| 2 | are cells in the PNS which surround the cell bodies of neurons which are grouped in ganglia. They maintain the microenvironment and provide insulation. (9,5) |
-| 4 | The two principal cell types of the nervous system are and supporting cells called (7,5,5) |
-| 6 | are cells which produce the myelin sheath in the central nervous system, but not in the peripheral nervous system. (16) |
+## Across
+
+-   2 \_\_\_\_\_ are cells which produce the myelin sheath in the peripheral nervous system, but not in the central nervous system. (7,5)
+
+-   3 A(n) \_\_\_\_\_ is a coating wrapped around neuronal axons which insulates them and protects them. (6,6)
+
+-   5 The PNS has two major divisions: the \_\_\_\_ division and the \_\_\_\_\_ division. (7,5)
+
+-   7 The brain and spinal cord make up the \_\_\_\_\_ nervous system. All other nerves are part of the \_\_\_\_\_ nervous system. (7,10)
+
+-   8 \_\_\_\_\_ are excitable cells that transmit electrical signals. (7)
+
+-   9 In the CNS, \_\_\_\_\_ are supporting cells which guide the migration of young neurons. (10)
+
+## Down
+
+-   1 In the CNS, \_\_\_\_ are cells which line the fluid-filled cavities, and which produce, transport, and circulate the fluid surrounding the brain and spinal cord. (9,5)
+
+-   2 \_\_\_\_\_ are cells in the PNS which surround the cell bodies of neurons which are grouped in ganglia. They maintain the microenvironment and provide insulation. (9,5)
+
+-   4 The two principal cell types of the nervous system are \_\_\_\_\_ and supporting cells called \_\_\_\_\_. (7,5,5)
+
+-   6 \_\_\_\_\_ are cells which produce the myelin sheath in the central nervous system, but not in the peripheral nervous system. (16)
 
 ![](images/_page_319_Picture_0.jpeg)
 
 **Figure 12.10** Nervous System Physiology.
 
-| Across |   |
-|----|----|
-| 2 | The speed of an action potential is greatest when it is traveling through an axon which is (10) |
-| 3 | A(n) is a junction between a neuron and another cell which allows the transfer of information. (7) |
-| 6 | The myelin sheath of axons in the CNS is formed by (16) |
-| 7 | Neurons can be classified functionally as, or (7,5,12) |
-| 8 | The is the fluid-filled space separating the pre- and postsynaptic cells. (8,5) |
-| **Down** |  |
-| 1 | The neuron conducts the signal to a synapse, while the cell responds or conducts a signal away from it. (11,12) |
-| 2 | White matter is composed of (10,8,5) |
-| 4 | Saltatory conduction depends on the presence of, which are gaps through which ions in the extracellular fluid can reach the neuron's plasma membrane. (5,2,7) |
-| **5** | 40\. In the PNS, the myelin sheath is formed by \_\_\_\_\_. (7,5) |
+## Across
 
-## **Post Lab Activity 13.3: Fill in the blanks.**
+-   2 The speed of an action potential is greatest when it is traveling through an axon which is \_\_\_\_\_. (10)
 
-| 1\. | The supports and protects the neuron. |
-|----|----|
-| 2\. | The of the nerve is also called a soma. |
-| 3\. | The is a long cytoplasmic process that uniformly maintains its diameter. |
-| 4\. | The neuron contains that receives information. |
-| 5\. | The is often referred to as a nerve fiber. |
-| 6\. | The enlarged area between the neuron cell body and the axon. |
-| 7\. | The is the area of rough endoplasmic reticulum located in the neuron cell body. Proteins are manufactured here. |
-| 8\. | are extensions of an axon that form synapses with other neurons. |
+-   3 A(n) \_\_\_\_\_ is a junction between a neuron and another cell which allows the transfer of information. (7)
+
+-   6 The myelin sheath of axons in the CNS is formed by \_\_\_\_\_. (16)
+
+-   7 Neurons can be classified functionally as \_\_\_\_, \_\_\_\_\_ or \_\_\_\_\_. (7,5,12)
+
+-   8 The \_\_\_\_\_ is the fluid-filled space separating the pre- and postsynaptic cells. (8,5)
+
+## Down
+
+-   1 The \_\_\_\_ neuron conducts the signal to a synapse, while the \_\_\_\_\_ cell responds or conducts a signal away from it. (11,12)
+
+-   2 White matter is composed of \_\_\_\_. (10,8,5)
+
+-   4 Saltatory conduction depends on the presence of \_\_\_\_\_, which are gaps through which ions in the extracellular fluid can reach the neuron's plasma membrane. (5,2,7)
+
+-   5 40. In the PNS, the myelin sheath is formed by \_\_\_\_\_. (7,5)
+
+## **Post Lab Activity 12.3: Fill in the blanks.**
+
+1.  The \_\_\_\_\_\_\_ supports and protects the neuron.
+2.  The \_\_\_\_\_\_\_\_ of the nerve is also called a soma.
+3.  The \_\_\_\_\_ is a long cytoplasmic process that uniformly maintains its diameter.
+4.  The neuron contains \_\_\_\_\_\_\_ that receives information.
+5.  The \_\_\_\_\_\_\_\_ is often referred to as a nerve fiber.
+6.  The enlarged area between the neuron cell body and the axon.
+7.  The \_\_\_\_ is the area of rough endoplasmic reticulum located in the neuron cell body. Proteins are manufactured here.
+8.  \_\_\_\_\_\_\_\_\_\_ are extensions of an axon that form synapses with other neurons.
 
 ## **Solutions**
 
@@ -320,7 +340,7 @@ Complete the following crossword puzzles.
 **Chapter 12: Nervous System Microanatomy Glossary**
 
 | Terms | Definitions |
-|----|----|
+|-----------------|-------------------------------------------------------|
 | absolute refractory period | time during an action period when another action potential cannot be generated because the voltage-gated Na+ channel is inactivated |
 | action potential | change in voltage of a cell membrane in response to a stimulus that results in transmission of an electrical signal; unique to neurons and muscle fibers |
 | activation gate | part of the voltage-gated Na+ channel that opens when the membrane voltage reaches threshold |
