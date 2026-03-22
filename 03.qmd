@@ -49,13 +49,13 @@ In this lab you will learn to identify the principle internal and external struc
 -   Identify the function of the stages of the cell cycle.
 -   Identify the events occurring during each stage of mitosis.
 
-# **Prelab Activities**
+## **Prelab Activities**
 
 ## **Prelab Activity 3.1**
 
 Define the terms that are essential to this chapter.
 
-## CELL STRUCTURE AND FUNCTION
+## **Cell Structure and Function**
 
 | Term       | Definition |
 |------------|------------|
@@ -111,7 +111,7 @@ Identify the stages of mitosis and briefly describe their appearance.
 | Telophase   |        |                    |
 | Cytokinesis |        |                    |
 
-## Prelab Activity 3.3
+## **Prelab Activity 3.3**
 
 Using your textbook identify the following structures of the cell.
 
@@ -221,7 +221,7 @@ Define the following terms associated with the cell cycle.
 Organelles in the cell above are labelled as follows:
 
 |  |  |
-|------|--------------------------------------------------------|
+|-------------|----------------------------------------------------------|
 | 1 | Nucleolus |
 | 2 | Nucleus |
 | 3 | Ribosome (dots as part of 5) |
@@ -474,7 +474,7 @@ Complete the crossword activity.
 Note: Except for the letters, Table 3.3 is a duplicate of Table 3.2. I decided not to remove the duplicates and keep the same activity and table numbers as in the source without skipping numbers.
 
 | Name | Description |
-|--------------------------|----------------------------------------------|
+|--------------------------|---------------------------------------------|
 | 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
 | 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
 | 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
@@ -563,7 +563,7 @@ The Cell:
 **Chapter 3: Cells Glossary**
 
 | Terms | Definitions |
-|-----------------------|------------------------------------|
+|----------------------------|--------------------------------------------|
 | active transport | form of transport across the cell membrane that requires input of cellular energy |
 | amphipathic | describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility |
 | anaphase | third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of a dividing cell |

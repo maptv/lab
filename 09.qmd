@@ -77,9 +77,9 @@ In this lab you will learn about the articulations and the joints of the skeleta
 -   Medial meniscus
 -   Lateral meniscus
 
-# **Prelab Activities**
+## **Prelab Activities**
 
-# Prelab Activity 9.1:
+## **Prelab Activity 9.1:**
 
 -   Range of motion
     -   Amphiarthrotic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -94,7 +94,7 @@ In this lab you will learn about the articulations and the joints of the skeleta
     -   Symphysis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Synovial joints \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Synovial Joint Components
+### Synovial Joint Components
 
 -   Synovial membrane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     -   Articular cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -102,7 +102,7 @@ In this lab you will learn about the articulations and the joints of the skeleta
     -   Articular cavity \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     -   Bursae \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Knee Joint Anatomy
+### Knee Joint Anatomy
 
 -   Quadriceps tendon \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Patellar ligament \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -113,7 +113,7 @@ In this lab you will learn about the articulations and the joints of the skeleta
 -   Medial meniscus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Lateral meniscus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Types of Synovial Joint Movements:
+### Types of Synovial Joint Movements:
 
 -   Gliding movements \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     -   Angular movements \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -142,9 +142,9 @@ In this lab you will learn about the articulations and the joints of the skeleta
 -   **Dorsiflexion** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   **Plantar flexion** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# Prelab Activity 9.2
+## **Prelab Activity 9.2**
 
-## Fill in the table.
+### Fill in the table.
 
 From your text, p. 180, complete the table below.
 
@@ -456,7 +456,7 @@ In this section you will review and identify the movements of the synovial joint
 **Table 9.2 Match the Correct Term with the Definition to the Left**
 
 | Answer | Definition | Term |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 |  | 1\. A(n) \_\_\_\_\_, or joint, is any site where two bones meet. | a\. diarthrotic |
 |  | 2\. The three functional classifications for joints are \_\_\_\_\_, \_\_\_\_\_, and \_\_\_\_\_. | b\. synovial |
 |  | 3\. A joint that is immobile is a(n) \_\_\_\_\_ joint. | c\. synarthrotic; fibrous |
@@ -505,7 +505,7 @@ Label the following diagrams 9.18 and 9.19.
 **Chapter 9. The Articulations and Joints Glossary**
 
 | Terms | Definitions |
-|----|----|
+|------------------------------------|------------------------------------|
 | abduction | The movement which separates a limb or other part from the axis, or middle line, of the body |
 | adduction | the movement of a limb toward the midline of the body |
 | articular cartilage | a type of smooth cartilage found only in diarthrodial joints, where it allows for easy articulation, weight distribution and shock absorption. |

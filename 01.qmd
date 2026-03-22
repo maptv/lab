@@ -18,7 +18,7 @@
 
 ## **Regional Terms**
 
-## *Anterior View*
+## **Anterior View**
 
 -   Abdominal
 -   Antebrachial
@@ -614,7 +614,7 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 | 11b          |                                      |
 +--------------+--------------------------------------+
 
-# **Post Lab Activity: Review material**
+## **Post Lab Activity: Review material**
 
 ## **Post Lab Activity 1.1**
 

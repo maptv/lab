@@ -421,7 +421,7 @@ Label the structures within the bone.
 
 **Figure 6.19** Diagram of the Compact and Spongy Bone.
 
-# **Keys**
+## **Keys**
 
 ## **Bone features**
 

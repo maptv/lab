@@ -89,9 +89,9 @@
 -   Metatarsals
 -   Phalanges
 
-# **Prelab Activities**
+## **Prelab Activities**
 
-# **Prelab Activity 8.1: Definitions**
+## **Prelab Activity 8.1: Definitions**
 
 ### Appendicular Skeleton
 
@@ -400,7 +400,7 @@ Figure 8.16 Femur and Patella.
 -   Use this tutorial [(http://openstax.org/l/footbones)](http://openstax.org/l/footbones) to review the bones of the foot. Which tarsal bones are in the proximal, intermediate, and distal groups?
 -   Visit this site [(http://openstax.org/l/kneesurgery)](http://openstax.org/l/kneesurgery) to watch a virtual knee replacement surgery. The prosthetic knee components must be properly aligned to function properly. How is this alignment ensured?
 
-# **Testing your understanding**
+## **Testing your understanding**
 
 **Post Lab Activity 8.1: Labeling**
 

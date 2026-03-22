@@ -97,11 +97,11 @@ The objectives of this lab are to complete the following:
 
 Figure 10.2 Skeletal Muscle Fiber.
 
-# **Prelab Activities**
+## **Prelab Activities**
 
-# Prelab Activity 10.1
+## **Prelab Activity 10.1**
 
-# **Definitions Muscle Structures**
+## **Definitions Muscle Structures**
 
 | Term                    | Definition |
 |-------------------------|------------|
@@ -154,7 +154,7 @@ Label the structures, membranes, or layers of the muscle in figures 10.3 and 10.
 | 7                | Connective tissue layer: |
 | 8                | Structure:               |
 
-## Label the following structures of the skeletal muscle:
+### Label the following structures of the skeletal muscle:
 
 ![](images/_page_252_Picture_1.jpeg)
 
@@ -356,7 +356,7 @@ Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofi
 Write the correct choice or choices in the "Answers" column.
 
 | Answers | Definitions | Choices |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 |  | Muscle fiber cell membrane | Endomysium |
 |  | Surrounds the whole muscle | Perimysium |
 |  | Connective tissue that covers the body under the skin as well as the whole muscles. | Exomysium |
@@ -438,7 +438,7 @@ Complete the crossword puzzles.
 **Chapter 10: Skeletal Muscle Histology and Microanatomy Glossary**
 
 | Terms | Definitions |
-|----|----|
+|------------------------------------|------------------------------------|
 | acetylcholine (ACh) | neurotransmitter that binds at a motor endplate to trigger depolarization |
 | actin | protein that makes up most of the thin myofilaments in a sarcomere muscle fiber |
 | action potential | change in voltage of a cell membrane in response to a stimulus that results in transmission of an electrical signal; unique to neurons and muscle fibers |

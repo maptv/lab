@@ -83,7 +83,7 @@ b)  Identify vertebra from different regions by their characteristic features if
 -   Costal cartilages (an important structural component of the thorax, but not a bone)
 -   Identify ribs as True, False, and/or Floating ribs.
 
-# **Prelab Activities**
+## **Prelab Activities**
 
 ## **Prelab Activity 7.1**
 
