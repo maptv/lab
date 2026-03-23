@@ -19819,15 +19819,14 @@ Figure 21.20 Renal Physiology.
 16.  Renal papilla
 17.  Renal column
 
-| Chapter 21: Urinary System Glossary   | Chapter 21: Urinary System Glossary                                                                                |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+### Chapter 21: Urinary System Glossary
+
 | Terms                                 | Definitions                                                                                                        |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Afferent arteriole                    | an arteriole that feeds blood into the glomerulus in the nephron                                                   |
 | anatomical sphincter                  | smooth or skeletal muscle surrounding the lumen of a vessel or hollow organ that can restrict flow when contracted |
 | angiotensin I                         | protein produced by the enzymatic action of renin on angiotensinogen; inactive precursor of angiotensin II         |
-
 | angiotensin II                            | protein produced by the enzymatic action of ACE on inactive angiotensin I; actively causes vasoconstriction and stimulates aldosterone release by the adrenal cortex                                                                  |
-|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Arcuate vein                              | a vessel of the renal circulation located at the border of the renal cortex and renal medulla                                                                                                                                         |
 | angiotensin- converting enzyme (ACE)      | enzyme produced by the lungs that catalyzes the reaction of inactive angiotensin I into active angiotensin II                                                                                                                         |
 | angiotensinogen                           | inactive protein in the circulation produced by the liver; precursor of angiotensin I; must be modified by the enzymes renin and ACE to be activated                                                                                  |
@@ -19853,9 +19852,7 @@ Figure 21.20 Renal Physiology.
 | glycosuria                                | presence of glucose in the urine; caused by high blood glucose levels that exceed the ability of the kidneys to reabsorb the glucose; usually the result of untreated or poorly controlled diabetes mellitus                          |
 | hilum                                     | a depression or fissure in an organ where structures such as blood vessels and nerves enter or exit                                                                                                                                   |
 | incontinence                              | loss of ability to control micturition                                                                                                                                                                                                |
-
 | intercalated cell               | specialized cell of the collecting ducts that secrete or absorb acid or bicarbonate; important in acid-base balance                                                                                                                           |
-|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Interlobar vein                 | See corticular radiate vein                                                                                                                                                                                                                   |
 | internal urinary sphincter      | smooth muscle at the juncture of the bladder and urethra; relaxes as the bladder fills to allow urine into the urethra                                                                                                                        |
 | inulin                          | plant polysaccharide injected to determine GFR; is neither secreted nor absorbed by the kidney, so its appearance in the urine is directly proportional to its filtration rate                                                                |
@@ -19880,9 +19877,7 @@ Figure 21.20 Renal Physiology.
 | peritubular capillaries         | second capillary bed of the renal portal system; surround the proximal and distal convoluted tubules; associated with the vasa recta                                                                                                          |
 | physiological sphincter         | sphincter consisting of circular smooth muscle indistinguishable from adjacent muscle but possessing differential innervations, permitting its function as a sphincter; structurally weak                                                     |
 | podocytes                       | cells forming finger-like processes; form the visceral layer of Bowman's capsule; pedicels of the podocytes interdigitate to form a filtration membrane                                                                                       |
-
 | polyuria                           | urine production in excess of 2.5 L/day; may be caused by diabetes insipidus, diabetes mellitus, or excessive use of diuretics                                                                                                               |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | principal cell                     | cell found in collecting ducts and possess channels for the recovery or loss of sodium and potassium; under the control of aldosterone; also have aquaporin channels under ADH control to regulate recovery of water                         |
 | proximal convoluted tubules (PCTs) | tortuous tubules receiving filtrate from Bowman's capsule; most active part of the nephron in reabsorption and secretion                                                                                                                     |
 | renal columns                      | extensions of the renal cortex into the renal medulla; separates the renal pyramids; contains blood vessels and connective tissues                                                                                                           |
@@ -20365,9 +20360,10 @@ Figure 22.11 Reproductive Anatomy
 - Across: 5 Seminal vesicles, 6 Testosterone, 7 Prepuce foreskin, 8 Prostate urethra, 9 Acrosome, 10 Corpus spongiosum, 11 Midpiece tail head DNA.
 - Down: 1 Seminal prostatic sperm, 2 Erectile, 3 Bulbourethral Cowper's, 4 Accessory
 
-| Reproductive Anatomy                           | Reproductive Anatomy                                                                                                                                                                                 |
-|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+### **Chapter 22 Reproductive Anatomy Glossary**
+
 | Terms                                          | Definitions                                                                                                                                                                                          |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | blood-testis barrier                           | tight junctions between Sertoli cells that prevent bloodborne pathogens from gaining access to later stages of spermatogenesis and prevent the potential for an autoimmune reaction to haploid sperm |
 | bulbourethral glands (also, Cowper's glands)   | glands that secrete a lubricating mucus that cleans and lubricates the urethra prior to and during ejaculation                                                                                       |
 | corpus cavernosum                              | either of two columns of erectile tissue in the penis that fill with blood during an erection                                                                                                        |
@@ -20382,9 +20378,7 @@ Figure 22.11 Reproductive Anatomy
 | gonadotropin- releasing hormone (GnRH)         | hormone released by the hypothalamus that regulates the production of follicle-stimulating hormone and luteinizing hormone from the pituitary gland                                                  |
 | gonads                                         | reproductive organs (testes and ovaries) that produce gametes and reproductive hormones                                                                                                              |
 | granulosa cells                                | supportive cells in the ovarian follicle that produce estrogen                                                                                                                                       |
-
 | Head of sperm                             | the oval anterior end of a spermatozoon, which contains the male pronucleus and is surrounded by the acrosome.                                 |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | inguinal canal                            | opening in abdominal wall that connects the testes to the abdominal cavity                                                                     |
 | Leydig cells                              | cells between the seminiferous tubules of the testes that produce testosterone; a type of interstitial cell                                    |
 | Midpiece of sperm                         | the central region of a sperm cell located between the head and the tail. It plays a vital role in the sperm's motility and energy production. |
@@ -21132,9 +21126,10 @@ Corpus luteum
 
 Primary follicle
 
-| Chapter 23: The Female Reproductive System           | Chapter 23: The Female Reproductive System                                                                                                               |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+### **Chapter 23: The Female Reproductive System**
+
 | Terms                                                | Definitions                                                                                                                                              |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | adipose tissue of breast                             | tissue is located in the breast (breast tissue)                                                                                                          |
 | alveoli (of the breast)                              | milk-secreting cells in the mammary gland                                                                                                                |
 | ampulla (of the uterine tube)                        | middle portion of the uterine tube in which fertilization often occurs                                                                                   |
@@ -21164,9 +21159,7 @@ Primary follicle
 | isthmus                                              | narrow, medial portion of the uterine tube that joins the uterus                                                                                         |
 | labia majora                                         | hair-covered folds of skin located behind the mons pubis                                                                                                 |
 | labia minora                                         | thin, pigmented, hairless flaps of skin located medial and deep to the labia majora                                                                      |
-
 | lactiferous ducts                           | ducts that connect the mammary glands to the nipple and allow for the transport of milk                                                                                                |
-|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | lactiferous sinus                           | area of milk collection between alveoli and lactiferous duct                                                                                                                           |
 | mammary glands                              | glands inside the breast that secrete milk                                                                                                                                             |
 | menarche                                    | first menstruation in a pubertal female                                                                                                                                                |
@@ -21197,9 +21190,7 @@ Primary follicle
 | suspensory ligaments                        | bands of connective tissue that suspend the breast onto the chest wall by attachment to the overlying dermis                                                                           |
 | tertiary follicles (also, antral follicles) | ovarian follicles with a primary or secondary oocyte, multiple layers of granulosa cells, and a fully formed antrum                                                                    |
 | theca                                       | cells estrogen-producing cells in a maturing ovarian follicle                                                                                                                          |
-
 | Urethra/urethral orifice                          | (aka the urinary meatus) is the opening of the penis or vulva where urine exits the urethra during urination.               |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | uterine tubes (also, fallopian tubes or oviducts) | ducts that facilitate transport of an ovulated oocyte to the uterus                                                         |
 | uterus                                            | muscular hollow organ in which a fertilized egg develops into a fetus                                                       |
 | vagina (vaginal opening)                          | tunnel-like organ that provides access to the uterus for the insertion of semen and from the uterus for the birth of a baby |

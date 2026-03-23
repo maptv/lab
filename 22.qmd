@@ -79,26 +79,24 @@ By the end of this lesson, you will be able to:
 
 Complete the essential definitions before you come into the lab:
 
-| •   | Testes                    |     |     |
-|-----|---------------------------|-----|-----|
-|     | Seminiferous tubules      |     |     |
-|     | o Spermatozoa             |     |     |
-| •   | Scrotum                   |     |     |
-| •   | Epididymis                |     |     |
-| •   | Ductus deferens           |     |     |
-| •   | Spermatic cord            |     |     |
-| •   |                           |     |     |
-| •   | Urethra                   |     |     |
-| •   | Prostatic urethra         |     |     |
-| •   | Membranous urethra        |     |     |
-|     | ○ Spongy urethra          |     |     |
-| •   | Penis                     |     |     |
-|     | Corpora cavernosa         |     |     |
-|     | Corpus spongiosum         |     |     |
-| •   | Glans penis               |     |     |
-| •   | Prepuce                   |     |     |
-| •   | External urethral orifice |     |     |
-
+-   Testes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Seminiferous tubules \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Spermatozoa \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Scrotum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Epididymis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Ductus deferens \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Spermatic cord \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Ejaculatory duct \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Urethra \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Prostatic urethra \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Membranous urethra \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Spongy urethra \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Penis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Corpora cavernosa \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Corpus spongiosum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Glans penis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Prepuce \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   External urethral orifice \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Sperm cell \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Acrosome \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Head \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -121,7 +119,7 @@ Identify and label the structures found in figures 22.2 and 22.3.
 
 ![](images/_page_650_Figure_0.jpeg)
 
-Figure 22.3 Hunam Testicle, Unlabeled.
+Figure 22.3 Human Testicle, Unlabeled.
 
 ## **Lab Activities**
 
@@ -272,61 +270,29 @@ Fill in the table below with the appropriate structure identification.
 
 Complete the questions below.
 
--   
+1.  What are male gametes called?
 
-    1.  What are male gametes called?
+    a.  ova
+    b.  sperm
+    c.  testes
+    d.  testosterone
 
-    -   
+2.  Leydig cells \_\_\_\_\_\_\_\_.
 
-        a.  ova
+    a.  secrete testosterone.
+    b.  activate the sperm flagellum.
+    c.  support spermatogenesis
+    d.  secrete seminal fluid.
 
-    -   
+3.  Briefly explain why mature gametes carry only one set of chromosomes.
 
-        b.  sperm
+4.  What special features are evident in sperm cells but not in somatic cells, and how do these specializations function?
 
-    -   
+5.  What do each of the three male accessory glands contribute to the semen?
 
-        c.  testes
+6.  Follow the path of the sperm from its origin to its ejaculation in the vagina. Include all structures of the male reproductive tract that the sperm must swim traverse.
 
-    -   
-
-        d.  testosterone
-
--   
-
-    2.  Leydig cells \_\_\_\_\_\_\_\_.
-
-    -   
-
-        a.  secrete testosterone.
-
-    -   
-
-        b.  activate the sperm flagellum.
-
-    -   
-
-        c.  support spermatogenesis
-
-    -   
-
-        d.  secrete seminal fluid.
-
--   
-
-    3.  Briefly explain why mature gametes carry only one set of chromosomes.
-
--   
-
-    4.  What special features are evident in sperm cells but not in somatic cells, and how do these specializations function?
-
--   
-
-    5.  What do each of the three male accessory glands contribute to the semen?
-
--   
-
-    6.  Follow the path of the sperm from its origin to its ejaculation in the vagina. Include all structures of the male reproductive tract that the sperm must swim traverse.
+Note: There is no Post Lab Activity 22.4
 
 ## **Post Lab Activity 22.5: Crossword Puzzles**
 
@@ -336,56 +302,65 @@ Complete the following crossword puzzles.
 
 **Figure 22.10** Testes
 
-| 6 | The testes are initially formed in the cavity; but because sperm can only be produced if the testes temperature is than the body, they descend before birth into the (14,6,7) |   |
-|----|----|----|
-| 8 | The are regions that house the coiled seminiferous tubules. (7) |  |
-| 9 produce (13,5) | Two types of cells are found in the seminiferous tubules, the cells |  |
-| 10 (7) | The primary sex organs in the male are the organs that actually produce |  |
-| 11 | Interstitial endocrine cells which surround the seminiferous tubules are called These produce male sex hormones. (6,5) |  |
-| 12 (6,6) | Sperm, the gametes produced by the male, are produced by the or |  |
-| Down |  |  |
-| 1 | Two types of cells are found in the seminiferous tubules, the or cells support and the sperm. (20,7) |  |
-| 2 | Sperm production occurs in the (12,7) |  |
-| 3 sperm (10,7) | The is a comma-shaped organ adjoining each testis. This is where |  |
-| 4 | The production of sperm is called (15) |  |
-| 5 | Sperm are stored up to several months in the tail of the and the after which they are destroyed (10,6,8) |  |
-| 6 When the male becomes sexually aroused, peristaltic contractions conduct sperm to the, the widest part of the ductus deferens and the final storage site for the sperm prior to ejaculation. (7) |  |  |
-| 7 | The ductus deferens, blood vessels, lymphatic vessels and nerves enter or leave the scrotom inside the, a connective tissue tube. (9,4) |  |
+### **Across**
+
+**6** The testes are initially formed in the \_\_\_ cavity; but because sperm can only be produced if the testes temperature is \_\_\_ than the body, they descend before birth into the \_\_\_. (14,6,7)
+
+**8** The \_\_\_ are regions that house the coiled seminiferous tubules. (7)
+
+**9** Two types of cells are found in the seminiferous tubules, the \_\_\_ cells produce \_\_\_. (13,5)
+
+**10** The primary sex organs in the male are the organs that actually produce \_\_\_. (7)
+
+**11** Interstitial endocrine cells which surround the seminiferous tubules are called \_\_\_ \_\_\_. These produce male sex hormones. (6,5)
+
+**12** Sperm, the gametes produced by the male, are produced by the \_\_\_ or \_\_\_. (6,6)
+
+### **Down**
+
+**1** Two types of cells are found in the seminiferous tubules, the \_\_\_ or \_\_\_ cells support and \_\_\_ the sperm. (20,7)
+
+**2** Sperm production occurs in the \_\_\_ \_\_\_ (12,7)
+
+**3** The \_\_\_\_ is a comma-shaped organ adjoining each testis. This is where sperm \_\_\_\_. (10,7)
+
+**4** The production of sperm is called \_\_\_. (15)
+
+**5** Sperm are stored up to several months in the tail of the \_\_\_ and the \_\_\_ \_\_\_ after which they are destroyed (10,6,8)
+
+**6** When the male becomes sexually aroused, peristaltic contractions conduct sperm to the \_\_\_, the widest part of the ductus deferens and the final storage site for the sperm prior to ejaculation. (7)
+
+**7** The ductus deferens, blood vessels, lymphatic vessels and nerves enter or leave the scrotom inside the \_\_\_ \_\_\_, a connective tissue tube. (9,4)
 
 ![](images/_page_662_Picture_0.jpeg)
 
 **Figure 22.11** Reproductive Anatomy
 
-| Across |   |
-|----|----|
-| 5 | The are adjacent to the ampulla of the ductus deferens, behind |
-|  | the bladder. They produce a bit more than half of the liquid which forms the semen. |
-| (7,8) |  |
-| 6 | Sperm maturation depends on, the hormone which controls it. (12) |
-| 7 | The glans penis is hidden by an encircling fold of skin called the or |
-| (7,8) |  |
-| 8 | The gland is inferior to the bladder, surrounding the, and |
-|  | produces a bit less than half of the liquid which forms the semen. (8,7) |
-| 9 | In addition to the DNA, the tip of the sperm also contains the, a |
-|  | specialized lysosome which contains enzymes that allow the sperm to penetrate and |
-| egg's surface. (8) |  |
-| 10 | The urethra travels through one of the erectile bodies, the (6,10) |
-| 11 | The sperm is a specialized cell which swims well by using ATP supplied |
-|  | by many mitochondria in the; a long, or flagellum for propulsion; and a bullet |
-|  | shaped which contains the, the genetic material. (8,4,4,3) |
-|  |  |
-| Down |  |
-| 1 | Semen is a mixture of three major components: fluid which contains |
-|  | fructose, buffers and factors that activate the sperm; secretions, which include an |
-|  | antibiotic; and of course, the (7,9,5) |
-| 2 | The penis consists largely of three long cylinders consisting of tissue. |
-| \(8\) |  |
-| 3 | When a male becomes sexually excited and is approaching orgasm, the |
-|  | or glands secrete an alkaline, clear mucus into the urethra to neutralize any |
-|  | acidity remaining from the urine, preparing the way for the sperm. (13,8) |
-| 4 | The seminal vesicles, bulbourethral glands and the prostate glands are |
-|  | called the organs. (9) |
-|  |  |
+### **Across**
+
+**5** The \_\_\_ \_\_\_ are adjacent to the ampulla of the ductus deferens, behind the bladder. They produce a bit more than half of the liquid which forms the semen. (7,8)
+
+**6** Sperm maturation depends on \_\_\_, the hormone which controls it. (12)
+
+**7** The glans penis is hidden by an encircling fold of skin called the \_\_\_ or \_\_\_. (7,8)
+
+**8** The \_\_\_ gland is inferior to the bladder, surrounding the \_\_\_, and produces a bit less than half of the liquid which forms the semen. (8,7)
+
+**9** In addition to the DNA, the tip of the sperm also contains the \_\_\_, a specialized lysosome which contains enzymes that allow the sperm to penetrate and egg's surface. (8)
+
+**10** The urethra travels through one of the erectile bodies, the \_\_\_ \_\_\_. (6,10)
+
+**11** The sperm is a specialized cell which swims well by using ATP supplied by many mitochondria in the \_\_\_; a long \_\_\_, or flagellum for propulsion; and a bullet shaped \_\_\_ which contains the \_\_\_, the genetic material. (8,4,4,3)
+
+### **Down**
+
+**1** Semen is a mixture of three major components: \_\_\_ fluid which contains fructose, buffers and factors that activate the sperm; \_\_\_ secretions, which include an antibiotic; and of course, the \_\_\_. (7,9,5)
+
+**2** The penis consists largely of three long cylinders consisting of \_\_\_ tissue. (8)
+
+**3** When a male becomes sexually excited and is approaching orgasm, the \_\_\_ or \_\_\_ glands secrete an alkaline, clear mucus into the urethra to neutralize any acidity remaining from the urine, preparing the way for the sperm. (13,8)
+
+**4** The seminal vesicles, bulbourethral glands, and prostate glands are called the \_\_\_\_ organs. (9)
 
 ## **Keys**
 
@@ -399,64 +374,45 @@ Complete the following crossword puzzles.
 -   **Across: 5** Seminal vesicles, **6** Testosterone, **7** Prepuce foreskin, **8** Prostate urethra, **9** Acrosome, **10** Corpus spongiosum, **11** Midpiece tail head DNA.
 -   **Down: 1** Seminal prostatic sperm, **2** Erectile, **3** Bulbourethral Cowper's, **4** Accessory
 
-|   | Reproductive Anatomy |   |   |   |
-|----|----|----|----|----|
-| Terms blood–testis barrier | Definitions tight junctions between Sertoli cells that prevent bloodborne pathogens from gaining access to later stages of spermatogenesis and prevent the potential for an autoimmune reaction to haploid sperm |  |  |  |
-| bulbourethral glands (also, Cowper's glands) | glands that secrete a lubricating mucus that cleans and lubricates the urethra prior to and during ejaculation |  |  |  |
-| corpus cavernosum | either of two columns of erectile tissue in the penis that fill with blood during an erection |  |  |  |
-| corpus luteum | transformed follicle after ovulation that secretes progesterone |  |  |  |
-| corpus spongiosum (plural = corpora cavernosa) | column of erectile tissue in the penis that fills with blood during an erection and surrounds the penile urethra on the ventral portion of the penis |  |  |  |
-| ductus deferens (also, vas deferens) | duct that transports sperm from the epididymis through the spermatic cord and into the ejaculatory duct; also referred as the vas deferens |  |  |  |
-| ejaculatory duct | duct that connects the ampulla of the ductus deferens with the duct of the seminal vesicle at the prostatic urethra |  |  |  |
-| epididymis (plural = epididymides) | coiled tubular structure in which sperm start to mature and are stored until ejaculation |  |  |  |
-| flagellum of sperm | a hair-like appendage that protrudes from animal sperm cells to provide motility. |  |  |  |
-| gamete | haploid reproductive cell that contributes genetic material to form an offspring |  |  |  |
-| glans penis | bulbous end of the penis that contains a large number of nerve endings |  |  |  |
-| gonadotropin releasing hormone (GnRH) | hormone released by the hypothalamus that regulates the production of follicle-stimulating hormone and luteinizing hormone from the pituitary gland |  |  |  |
-| gonads | reproductive organs (testes and ovaries) that produce gametes and reproductive hormones |  |  |  |
-| granulosa cells | supportive cells in the ovarian follicle that produce estrogen |  |  |  |
+### **Chapter 22 Reproductive Anatomy Glossary**
 
-| Head of sperm | the oval anterior end of a spermatozoon, which contains the male pronucleus |
+| Terms | Definitions |
 |----|----|
-|  | and is surrounded by the acrosome. |
+| blood-testis barrier | tight junctions between Sertoli cells that prevent bloodborne pathogens from gaining access to later stages of spermatogenesis and prevent the potential for an autoimmune reaction to haploid sperm |
+| bulbourethral glands (also, Cowper's glands) | glands that secrete a lubricating mucus that cleans and lubricates the urethra prior to and during ejaculation |
+| corpus cavernosum | either of two columns of erectile tissue in the penis that fill with blood during an erection |
+| corpus luteum | transformed follicle after ovulation that secretes progesterone |
+| corpus spongiosum (plural = corpora cavernosa) | column of erectile tissue in the penis that fills with blood during an erection and surrounds the penile urethra on the ventral portion of the penis |
+| ductus deferens (also, vas deferens) | duct that transports sperm from the epididymis through the spermatic cord and into the ejaculatory duct; also referred as the vas deferens |
+| ejaculatory duct | duct that connects the ampulla of the ductus deferens with the duct of the seminal vesicle at the prostatic urethra |
+| epididymis (plural = epididymides) | coiled tubular structure in which sperm start to mature and are stored until ejaculation |
+| flagellum of sperm | a hair-like appendage that protrudes from animal sperm cells to provide motility. |
+| gamete | haploid reproductive cell that contributes genetic material to form an offspring |
+| glans penis | bulbous end of the penis that contains a large number of nerve endings |
+| gonadotropin- releasing hormone (GnRH) | hormone released by the hypothalamus that regulates the production of follicle-stimulating hormone and luteinizing hormone from the pituitary gland |
+| gonads | reproductive organs (testes and ovaries) that produce gametes and reproductive hormones |
+| granulosa cells | supportive cells in the ovarian follicle that produce estrogen |
+| Head of sperm | the oval anterior end of a spermatozoon, which contains the male pronucleus and is surrounded by the acrosome. |
 | inguinal canal | opening in abdominal wall that connects the testes to the abdominal cavity |
-| Leydig cells | cells between the seminiferous tubules of the testes that produce |
-|  | testosterone; a type of interstitial cell |
-| Midpiece of sperm | the central region of a sperm cell located between the head and the tail. It |
-|  | plays a vital role in the sperm's motility and energy production. |
+| Leydig cells | cells between the seminiferous tubules of the testes that produce testosterone; a type of interstitial cell |
+| Midpiece of sperm | the central region of a sperm cell located between the head and the tail. It plays a vital role in the sperm's motility and energy production. |
 | penis | male organ of copulation |
-| prepuce (also, | flap of skin that forms a collar around, and thus protects and lubricates, the |
-| foreskin) | glans penis; also referred as the foreskin |
-| prostate gland | doughnut-shaped gland at the base of the bladder surrounding the urethra |
-|  | and contributing fluid to semen during ejaculation |
-| puberty | life stage during which a male or female adolescent becomes anatomically |
-|  | and physiologically capable of reproduction |
+| prepuce (also, foreskin) | flap of skin that forms a collar around, and thus protects and lubricates, the glans penis; also referred as the foreskin |
+| prostate gland | doughnut-shaped gland at the base of the bladder surrounding the urethra and contributing fluid to semen during ejaculation |
+| puberty | life stage during which a male or female adolescent becomes anatomically and physiologically capable of reproduction |
 | scrotum | external pouch of skin and muscle that houses the testes |
-| secondary sex | physical characteristics that are influenced by sex steroid hormones and have |
-| characteristics | supporting roles in reproductive function |
-| semen | ejaculatory fluid composed of sperm and secretions from the seminal |
-|  | vesicles, prostate, and bulbourethral glands |
+| secondary sex characteristics | physical characteristics that are influenced by sex steroid hormones and have supporting roles in reproductive function |
+| semen | ejaculatory fluid composed of sperm and secretions from the seminal vesicles, prostate, and bulbourethral glands |
 | seminal vesicle | seminal vesicle gland that produces seminal fluid, which contributes to semen |
-| seminiferous | tube structures within the testes where spermatogenesis occurs |
-| tubules |  |
-| Sertoli cells | cells that support germ cells through the process of spermatogenesis; a type |
-|  | of sustentacular cell |
-| sperm (also, | male gamete |
-| spermatozoon) |  |
-| spermatic cord | bundle of nerves and blood vessels that supplies the testes; contains ductus |
-|  | deferens |
+| seminiferous tubules | tube structures within the testes where spermatogenesis occurs |
+| Sertoli cells | cells that support germ cells through the process of spermatogenesis; a type of sustentacular cell |
+| sperm (also, spermatozoon) | male gamete |
+| spermatic cord | bundle of nerves and blood vessels that supplies the testes; contains ductus deferens |
 | spermatid | immature sperm cells produced by meiosis II of secondary spermatocytes |
-| spermatocyte | cell that results from the division of spermatogonium and undergoes meiosis I |
-|  | and meiosis II to form spermatids |
+| spermatocyte | cell that results from the division of spermatogonium and undergoes meiosis I and meiosis II to form spermatids |
 | spermatogenesis | formation of new sperm, occurs in the seminiferous tubules of the testes |
-| spermatogonia | diploid precursor cells that become sperm |
-| (singular = |  |
-| spermatogonium) |  |
+| spermatogonia (singular = spermatogonium) | diploid precursor cells that become sperm |
 | spermiogenesis | transformation of spermatids to spermatozoa during spermatogenesis |
-| testes (singular = | male gonads |
-| testis) |  |
-| Urethra/urethral | (aka the urinary meatus) is the opening of the penis or vulva where urine exits |
-| orifice | the urethra during urination. |
-| Wolffian duct | duct system present in the embryo that will eventually form the internal male |
-|  |  |
-|  | reproductive structures |
+| testes (singular = testis) | male gonads |
+| Urethra/urethral orifice | (aka the urinary meatus) is the opening of the penis or vulva where urine exits the urethra during urination. |
+| Wolffian duct | duct system present in the embryo that will eventually form the internal male reproductive structures |
