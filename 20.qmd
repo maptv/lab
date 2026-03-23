@@ -128,7 +128,7 @@ By the end of this lab, you should:
 
 For this exercise you need to define the following terms using your textbook or another reliable academic resource.
 
-## **Definitions**
+### **Definitions**
 
 -   Alimentary Canal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Muscularis mucosa \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -174,7 +174,7 @@ For this exercise you need to define the following terms using your textbook or 
 -   Liver \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Gall bladder \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Prelab Activity 20.2.
+## **Prelab Activity 20.2**
 
 Identify and label the four major layers of the alimentary canal.
 
@@ -182,7 +182,7 @@ Identify and label the four major layers of the alimentary canal.
 
 **Figure 20.2** Layers of the Digestive Tract.
 
-## **Prelab Activity 20.3:**
+## **Prelab Activity 20.3**
 
 Identify and label the anatomical features of the mouth, pharynx, and larynx.
 
@@ -204,7 +204,7 @@ Complete Table 20.1 with the name of the structure, region, feature, or organ th
 | 6   | 13  |
 | 7   |     |
 
-## **Prelab Activity 20.4:**
+## **Prelab Activity 20.4**
 
 Identify the components of the alimentary canal.
 
@@ -223,7 +223,7 @@ Fill in Table 20.2 with the name of the structure, region, or organ that corresp
 | 5\. | 6\. |
 | 7\. |     |
 
-## **Prelab Activity 20.5:**
+## **Prelab Activity 20.5**
 
 Identifying anatomical structures of the stomach.
 
@@ -231,7 +231,7 @@ Fill in the table below with the name of the digestive system structure, region,
 
 ![](images/_page_572_Picture_3.jpeg)
 
-## **20.5** Anatomy of the Stomach.
+## **Anatomy of the Stomach**
 
 **Table 20.3 Identification of the Anatomy of the Stomach**
 
