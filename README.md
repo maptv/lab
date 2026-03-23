@@ -38,5 +38,23 @@ usethis::use_git_config(
 usethis::create_github_token()
 ```
 
-## Version Control Workflow
+## Updating
 
+0. Make at least one change to a file in your repo
+1. Click the Git tab in the top right pane of Posit Cloud
+2. Click the checkbox next to the file you changed
+3. Click "Commit"
+4. Close the popup window (modal) and click "Push" to push your commit to GitHub
+
+## Publishing
+
+0. Push at least one commit to your repo using the instructions above so that the credentials manager has your username and PAT
+1. Copy the command below, paste it into the terminal, and press Enter/Return
+```bash
+quarto publish gh-pages
+```
+2. Go to your repo on GitHub, click "Settings" in the navigation bar and then "Pages" in the sidebar
+3. In the dropdown menu under "Build and deployment" and "Branch", select gh-pages and click "Save"
+4. Take a break at this point while your site is being built and published, then click the link to your published site to verify that it works
+
+If all goes according to plan, your site will be built and published whenever you update your site by pushing at least one commit to your repo using the instructions above.
