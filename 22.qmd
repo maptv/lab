@@ -4,7 +4,7 @@
 
 **Figure 22.1** The Male Reproductive System.
 
-# **Objectives**
+## **Objectives**
 
 In this laboratory, you will use models, diagrams, and histological samples to study the anatomy of the male reproductive system. As you study this organization, remember that a male's reproductive system is responsible for not just producing male gametes, but also transporting for these gametes to the female reproductive tract, as well as secreting the reproductive hormone testosterone.
 
@@ -55,11 +55,11 @@ By the end of this lesson, you will be able to:
 - Flagellum
 - Bulbourethral gland
 
-# **Prelab Activities**
+## **Prelab Activities**
 
-# **Male Reproductive System**
+## **Male Reproductive System**
 
-# **Prelab Activity 22.1: Definitions**
+## **Prelab Activity 22.1: Definitions**
 
 Complete the essential definitions before you come into the lab:
 

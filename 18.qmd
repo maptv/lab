@@ -48,8 +48,6 @@ The **primary lymphoid organs** are the bone marrow and thymus gland. The lympho
 
 ## **Lymphatic System**
 
-## Lymphatic System
-
 -   Primary Lymphatic System \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Secondary Lymphatic System \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Lymph nodes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -68,7 +66,7 @@ The **primary lymphoid organs** are the bone marrow and thymus gland. The lympho
 -   Pharyngeal tonsil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Lingual tonsil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Lymph Node structures
+## **Lymph Node structures**
 
 -   Cortex \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Medulla \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -210,7 +208,7 @@ Obtain a 3-D model of the mid-sagittal section of the head from the classroom la
 
 **Figure 18.8** Tonsils and throat.
 
-## Spleen
+## **Spleen**
 
 ![](images/_page_521_Picture_1.jpeg)
 
@@ -271,7 +269,7 @@ Identify and label the structures and organs of the lymphatic system.
 
 **Figure 18.15** Unlabeled Lymphatic System
 
-## Post Lab Activity 18.3
+## **Post Lab Activity 18.3**
 
 ## **Crosswords**
 

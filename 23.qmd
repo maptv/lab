@@ -63,9 +63,9 @@ By the end of this lab session, you will be able to:
 - Nipple
 - Suspensory ligament
 
-# **Prelab Activities**
+## **Prelab Activities**
 
-# **Prelab Activity 22.1**
+## **Prelab Activity 22.1**
 
 ## **Definitions**
 
@@ -118,7 +118,7 @@ Complete the essential definitions before you come into the lab:
 
 ## **Prelab Activity 22.2**
 
-## **Identifications**
+### **Identifications**
 
 Using the diagrams in this manual and your text, identify and label the structures found in figures 23.2 and 23.3.
 
@@ -186,7 +186,7 @@ Figure 23.7 Oogenesis.
 - Fimbriae
 - Ampulla
 
-## • Infundibulum
+## **Infundibulum**
 
 ## **Uterus**
 
@@ -278,7 +278,7 @@ Figure 23.12 Diagram of the Sagittal View of the Breast.
 - Female Reproductive Anatomy | Review and Practice. Anatomy Hero. [https://youtu.be/JfOn477MUzw?si=F\\_3w3C339at56xCV.](https://youtu.be/JfOn477MUzw?si=F_3w3C339at56xCV)
 - Watch this video **(http://openstaxcollege.org/l/ovulation)** to observe ovulation and its initiation in response to the release of FSH and LH from the pituitary gland. What specialized structures help guide the oocyte from the ovary into the uterine tube?
 
-# **Post-Lab Activities Test your recall**
+## **Post-Lab Activities Test your recall**
 
 **Post Lab Activity 23.1**
 
@@ -369,7 +369,7 @@ Figure 23.12 Diagram of the Sagittal View of the Breast.
   - d. ovaries
 - Trace the pathway of ejaculated sperm from the vagina to the oocyte. Include all structures of the female reproductive tract that the sperm must swim through to reach the egg.
 
-• Explain the hormonal regulation of the phases of the menstrual cycle.
+- Explain the hormonal regulation of the phases of the menstrual cycle.
 
 ## **Matching:**
 

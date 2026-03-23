@@ -627,7 +627,7 @@ Complete the following questions.
 
 ## **Post Lab Activity 14.3**
 
-## Identifications
+### **Identifications**
 
 Complete the following diagrams for Figures 14.19 to 14.20.
 
