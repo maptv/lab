@@ -110,7 +110,7 @@ You must be able to identify the following structures on a paper figure, a sheep
 -   White blood cells \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Platelets \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Heart Structures
+## **Heart Structures**
 
 -   Right atrium \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Right ventricle \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -149,7 +149,7 @@ You must be able to identify the following structures on a paper figure, a sheep
 
 ## **Prelab Activity 16.2**
 
-## Identification
+## **Identification**
 
 Name the numbered heart structures (chamber or blood vessel)
 
@@ -242,7 +242,7 @@ Identify and describe the structure and function of the formed elements of the b
 
 ## **Pericardium and the heart wall**
 
-## **Terms**
+### **Terms**
 
 -   Parietal pericardium
 
@@ -349,7 +349,7 @@ Pair up into groups and use the labeled diagram at the left to identify the stru
 
 ## **Electrical Conduction System of the Heart**
 
-## **Terms**
+### **Terms**
 
 -   Sinoatrial node
 -   Atrioventricular node
@@ -423,7 +423,7 @@ Form groups of three (3) to dissect the sheep heart. Each person will have a spe
 
 • Beginning with a drop of blood in the superior / inferior vena cavae, trace and list the pathway taken by a drop of blood as it travels throughout the heart and the pulmonary system. Include as many heart chambers, structures, great vessels, and valves as you can. You will end at the **Aorta**.
 
-## **Terms**
+### **Terms**
 
 ## **Cardiac Cycle**
 

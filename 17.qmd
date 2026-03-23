@@ -107,11 +107,11 @@ Blood Vessel Structure
 
 -   Great saphenous
 
-## Prelab Activities:
+## **Prelab Activities:**
 
-### Prelab Activity: 17.1
+### **Prelab Activity: 17.1**
 
-### Blood Vessels
+### **Blood Vessels**
 
 -   Tunica intima \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Tunica media \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -145,7 +145,7 @@ Blood Vessel Structure
 -   Anterior tibial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Posterior tibial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Specific Veins
+## **Specific Veins**
 
 -   Superior vena cava \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Brachiocephalic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -434,7 +434,7 @@ Break up into your assigned groups. Obtain a plaque, 3-D model of the veins and 
 
 ## **Fetal Circulation**
 
-## **Terms**
+### **Terms**
 
 -   Ductus arteriosus
 -   Ligamentum arteriosum

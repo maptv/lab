@@ -11,7 +11,7 @@
 -   Identify disarticulated bones as left or right. Be able to describe how you made this determination.
 -   Identify the 24 bones and select bone markings on articulated skeletons (or portions of the skeleton) and disarticulated bones. The list below specifies the appendicular bones you need to know, and the specific bone markings required for each bone.
 
-## **Terms**
+### **Terms**
 
 ## **Pectoral Girdle and Upper Extremities**
 
@@ -193,7 +193,7 @@ Label the appendicular skeletal bones.
 -   Use some labelling tape to identify each bone's markings and have another group check your work for correctness. Have your instructor review your material as well.
 -   Remember to take some pictures of your work to include in your study guide.
 
-## **Terms**
+### **Terms**
 
 -   Humerus
 -   Greater tubercle
@@ -214,7 +214,7 @@ Label the appendicular skeletal bones.
 
 Figure 8.10 The Humerus and Elbow.
 
-## **Terms**
+### **Terms**
 
 -   Ulnar
     -   Olecranon process,
@@ -326,7 +326,7 @@ Lab activity 8.4 is missing in the source; I decided to keep the original activi
 -   Use some labelling tape to identify each bone's markings and have another group check your work for correctness. Have your instructor review your material as well.
 -   Remember to take some pictures of your work to include in your study guide.
 
-### Terms
+### **Terms**
 
 -   Femur
     -   Head
@@ -341,7 +341,7 @@ Lab activity 8.4 is missing in the source; I decided to keep the original activi
 
 Figure 8.16 Femur and Patella.
 
-## **Terms**
+### **Terms**
 
 -   Tibia
 -   Medial and lateral condyles

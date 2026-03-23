@@ -258,7 +258,7 @@ Identify the following terms on a diagram or model.
 
 ## **Sarcomere Structures in the Myofibril**
 
-## **Terms**
+### **Terms**
 
 Sarcolemma Sarcoplasm Sarcoplasmic reticulum T tubules Nuclei Mitochondria Myofibril
 

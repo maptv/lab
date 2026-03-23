@@ -122,7 +122,7 @@
 
 ## **Classification of Neurons by Shape**
 
-## **Terms**
+### **Terms**
 
 • Unipolar neuron • Bipolar neuron • Multipolar neuron
 

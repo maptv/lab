@@ -136,9 +136,9 @@
 
 ## **Prelab Activity 11.1**
 
-### Definitions
+### **Definitions**
 
-#### Terms
+### **Terms**
 
 -   Muscle Origin \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 -   Muscle Insertion \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -282,7 +282,7 @@ Table 11.2. List of Medical Roots, Suffixes, and Prefixes Continued
 
 ## **Muscles of the Head and Neck**
 
-## **Terms**
+### **Terms**
 
 -   Frontalis
 
@@ -342,7 +342,7 @@ Complete the table by naming the origin and insertion as well as the action for 
 
 ## **Thorax and Abdomen (Anterior and Posterior)**
 
-## **Terms**
+### **Terms**
 
 -   Pectoralis major
 
@@ -575,7 +575,7 @@ Complete the table below using information from your text.
 
 ## **Posterior Hip Muscles**
 
-## **Terms**
+### **Terms**
 
 -   Gluteus maximus
 
@@ -621,7 +621,7 @@ Complete the following table using the information from your textbook.
 
 ## **Leg muscles**
 
-## **Terms**
+### **Terms**
 
 ![](images/_page_295_Picture_3.jpeg)
 

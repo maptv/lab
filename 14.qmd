@@ -98,7 +98,7 @@ In a model, dissected specimen, or diagram of the eye, identify and describe the
 
 Define the following terms.
 
-## Structure of the Eye:
+## **Structure of the Eye**:
 
 -   Outer fibrous tunic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     -   Sclera \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -135,7 +135,7 @@ Define the following terms.
     -   Lacrimal sac \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     -   Nasolacrimal duct \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Structure of the Ear:
+## **Structure of the Ear**:
 
 -   Outer Ear \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     -   Auricle \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -245,7 +245,7 @@ Go to the area where the ears and eyes are stored and obtain the model of the ea
 
 ## **Outer Ear**
 
-## **Terms**
+### **Terms**
 
 -   Auricle
 -   External auditory canal
@@ -255,7 +255,7 @@ Go to the area where the ears and eyes are stored and obtain the model of the ea
 
 ### **Middle Ear**
 
-## **Terms**
+### **Terms**
 
 -   Malleus
 
@@ -291,7 +291,7 @@ Go to the area where the ears and eyes are stored and obtain the model of the ea
 
 ## **Structures within the Cochlea**
 
-## **Terms**
+### **Terms**
 
 -   Cochlear duct
 
@@ -324,7 +324,7 @@ Obtain a model of the cochlea from the storage area in the lab.
 
 ## **Structure of the Eye**
 
-## **Terms**
+### **Terms**
 
 -   Sclera
 
@@ -662,7 +662,7 @@ Identify the structures of the eye and explain their function.
 
 Match these terms with their correct definitions.
 
-## Table 41.1 The Ear
+### Table 41.1 The Ear
 
 | Answer | Definition | Term |
 |------------------------|------------------------|------------------------|
@@ -676,7 +676,7 @@ Match these terms with their correct definitions.
 |  | Membrane separating the external ear from the middle ear | h\) Cochlea |
 |  | Tube running from the outer ear to the middle ear | i\) Inner ear |
 
-## Table 14.2 The Eye
+### Table 14.2 The Eye
 
 | Answer | Definition | Term |
 |------------------------|------------------------|------------------------|
@@ -687,7 +687,7 @@ Match these terms with their correct definitions.
 |  | Paired, exocrine gland that secretes the aqueous layer of the tear film | e\) Lacrimal duct |
 |  | Small channels in each eyelid that drain lacrimal fluid | f\) Nasolacrimal duct |
 
-## Table 14.3 The Eye
+### Table 14.3 The Eye
 
 | Answer | Definition | Term |
 |------------------------|------------------------|------------------------|

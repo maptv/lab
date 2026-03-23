@@ -16,7 +16,7 @@
 -   Thyroid gland
 -   Parathyroid glands
 
-## Pancreas
+## **Pancreas**
 
 -   Pancreatic Islets (Islets of Langerhans)
 -   Alpha cells **(α cells)**
@@ -89,7 +89,7 @@ Label structures and cells designated by 1, 2, and the arrow.
 
 ## **Endocrine System**
 
-## **Terms**
+### **Terms**
 
 -   Pituitary
 
@@ -196,7 +196,7 @@ From the models' storage area obtain a plastic model of the human brain and an e
 
 ## **Pancreas**
 
-### Terms
+### **Terms**
 
 -   Endocrine cells; Pancreatic Islets (Islets of Langerhans)
     -   Alpha cells **(α-cells)**

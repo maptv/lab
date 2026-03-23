@@ -101,7 +101,7 @@ Label the following parts of the lymph node:
 
 ## **Lab Activities**
 
-## **Terms**
+### **Terms**
 
 ## **Lymphatic System**
 
@@ -156,7 +156,7 @@ Label the following parts of the lymph node:
 
 ## **Lymph Node**
 
-## **Terms**
+### **Terms**
 
 -   Afferent lymphatic vessel
 
