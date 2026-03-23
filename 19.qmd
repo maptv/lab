@@ -356,7 +356,7 @@ Know and identify the stages of ventilation.
 
 Measuring your lung volumes
 
-### Steps
+### **Steps**
 
 1.  Initial steps: Setting up the spirometer.
 
