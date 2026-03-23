@@ -1,4 +1,5 @@
-on:
+mkdir -p .github/workflows
+echo "on:
   workflow_dispatch:
   push:
     branches: main
@@ -22,5 +23,5 @@ jobs:
         with:
           target: gh-pages
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+" > .github/workflows/publish.yml
