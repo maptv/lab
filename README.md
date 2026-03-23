@@ -60,6 +60,6 @@ quarto publish gh-pages
 4.  Upload the `setup.zip` file provided by your instructor to your Posit Cloud by clicking
     a.  "Upload" in the "Files" tab in the bottom right pane and
     b.  "Choose File" in the modal
-5.  Stage, commit, and push all of the files including `.github/workflows/publish.yml` as per the "Updating" instructions above.
+5.  Stage, commit, and push all of the files including `.github/workflows/publish.yml` as per the "Updating" instructions above
 
 If all goes according to plan, you will never need to run `quarto publish gh-pages` again for this repo because thanks to `.github/workflows/publish.yml` your site will be built and published whenever you update your site by pushing at least one commit to your repo using the "Updating" instructions above.

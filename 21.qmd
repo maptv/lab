@@ -505,7 +505,7 @@ Fill in the following table and answer the following questions:
 **Table 21.2 Urinalysis Results**
 
 | Characteristics | Normal | Possible abnormal results pathologies | Patient A | Patient B | Patient C | Patient D | Patient E |
-|---------|---------|---------|---------|---------|---------|---------|---------|
+|----|----|----|----|----|----|----|----|
 | Color | Light yellow to amber | Dehydration, liver disease, muscular breakdown |  |  |  |  |  |
 | Clarity | Clear | infection |  |  |  |  |  |
 | pH | 4.6-8 | Acidosis, alkalosis |  |  |  |  |  |
@@ -607,7 +607,7 @@ Complete the following crossword puzzles:
 **Figure 21.18** Renal anatomy 1.
 
 | 3 | The medial surface is concave and has a(n) (or) where ureters, blood vessels, nerves and lymphatics enter and leave the kidney. (5,5) |   |   |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | 4 | Blood leaves the glomerulus via the arterioles, which take it to a second capillary bed called the (8,11,11) |  |  |
 | 6 | Each renal pyramid projects into a tube within the renal sinus which conducts urine out from the kidney. The projection itself is called the; the tube which it enters is called a(n) (the plural is "') (5,7,5,5,5,7) |  |  |
 | 8 | The kidneys are encased in a fibrous layer of connective tissue called the (5,7) |  |  |
@@ -635,7 +635,7 @@ opening. (8)
 **Figure 21.20** Renal Physiology.
 
 | 2 | The tubular portion of the nephron is divided into several sections both functionally and conceptually; the tube farthest from the renal corpuscle is the Its primary function is to resorb (6,10,6,5) |   |   |   |   |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | 8 | Each nephron has two major parts: the in the cortex and a thin, u shaped the center, which extends from the cortex into the medulla and back. (5,9,6) |  |  |  |  |
 | 9 | The renal corpuscle has two arts: the central portion is a tangled ball of capillaries called the The surrounding outer portion, a double-walled, cup like chamber is called the (10,7,7) |  |  |  |  |
 | 10 | forces liquid to leave the capillaries in the glomerulus, while the formed elements and large molecules remain behind. (5,8) |  |  |  |  |
@@ -673,7 +673,7 @@ opening. (8)
 1.  Renal pyramid 2. Interlobular artery 3. Renal artery 4. Renal vein 5. Renal hilum 6. Renal pelvis 7. Ureter 8. Minor calyx 10.Inferior extremity 11.Superior extremity 12.Interlobar vein 13.Nephron 14.Renal sinus 15.Major calyx 16.Renal papilla 17.Renal column
 
 | Chapter 21: Urinary System Glossary |   |   |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Terms | Definitions |  |
 | Afferent arteriole | an arteriole that feeds blood into the glomerulus in the nephron |  |
 | anatomical | smooth or skeletal muscle surrounding the lumen of a vessel or hollow organ |  |
@@ -682,7 +682,7 @@ opening. (8)
 |  | precursor of angiotensin II |  |
 
 | angiotensin II | protein produced by the enzymatic action of ACE on inactive angiotensin I; actively causes vasoconstriction and stimulates aldosterone release by the adrenal cortex |
-|------------------------------------|------------------------------------|
+|----|----|
 | Arcuate vein | a vessel of the renal circulation located at the border of the renal cortex and renal medulla |
 | angiotensin converting enzyme (ACE) | enzyme produced by the lungs that catalyzes the reaction of inactive angiotensin I into active angiotensin II |
 | angiotensinogen | inactive protein in the circulation produced by the liver; precursor of angiotensin I; must be modified by the enzymes renin and ACE to be activated |
@@ -711,7 +711,7 @@ opening. (8)
 | incontinence | loss of ability to control micturition |
 
 | intercalated cell | specialized cell of the collecting ducts that secrete or absorb acid or bicarbonate; important in acid–base balance |
-|------------------------------------|------------------------------------|
+|----|----|
 | Interlobar vein | See corticular radiate vein |
 | internal urinary | smooth muscle at the juncture of the bladder and urethra; relaxes as the bladder |
 | sphincter | fills to allow urine into the urethra |
@@ -766,7 +766,7 @@ opening. (8)
 |  |  |
 
 | polyuria urine production in excess of 2.5 L/day; may be caused by diabetes insipidus, diabetes mellitus, or excessive use of diuretics principal cell cell found in collecting ducts and possess channels for the recovery or loss of sodium and potassium; under the control of aldosterone; also have aquaporin channels under ADH control to regulate recovery of water proximal tortuous tubules receiving filtrate from Bowman's capsule; most active part of the convoluted tubules nephron in reabsorption and secretion (PCTs) renal columns extensions of the renal cortex into the renal medulla; separates the renal pyramids; contains blood vessels and connective tissues renal corpuscle consists of the glomerulus and Bowman's capsule renal cortex outer part of kidney containing all of the nephrons; some nephrons have loops of Henle extending into the medulla renal fat pad adipose tissue between the renal fascia and the renal capsule that provides protective cushioning to the kidney renal hilum recessed medial area of the kidney through which the renal artery, renal vein, ureters, lymphatics, and nerves pass renal papillae medullary area of the renal pyramids where collecting ducts empty urine into the minor calyces Renal pelvis renal pyramids six to eight cone-shaped tissues in the medulla of the kidney containing collecting ducts and the loops of Henle of juxtamedullary nephrons Renal vein large-caliber veins that drain blood filtered by the kidneys into the inferior vena cava. renin enzyme produced by juxtaglomerular cells in response to decreased blood pressure or sympathetic nervous activity; catalyzes the conversion of angiotensinogen into angiotensin I retroperitoneal behind the peritoneum; in the case of the kidney and ureters, between the parietal peritoneum and the abdominal wall sacral micturition group of neurons in the sacral region of the spinal cord that controls urination; center acts reflexively unless its action is modified by higher brain centers to allow voluntary urination specific gravity weight of a liquid compared to pure water, which has a specific gravity of 1.0; |
-|------------------------------------------------------------------------|
+|----|
 |  |
 |  |
 |  |

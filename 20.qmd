@@ -705,7 +705,7 @@ Identify the structures found in figures 20.29 to 20.32.
 **Table 20.10. Word Bank for Figure 20.31**
 
 | Word Bank |   |   |   |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Salivary glands | Sublingual gland | Parotid gland | Submandibular gland |
 |  | Oral cavity | Tongue | Hard palate |
 | Soft palate | Uvula | Esophagus | Lower esophageal |
@@ -948,7 +948,7 @@ Complete the following crossword puzzles.
 **Chapter 20: Digestive System Glossary**
 
 | Terms | Definitions |
-|--------------------|----------------------------------------------------|
+|----|----|
 | absorption | passage of digested products from the intestinal lumen through mucosal cells and into the bloodstream or lacteals |
 | accessory digestive organ | includes teeth, tongue, salivary glands, gallbladder, liver, and pancreas |
 | accessory duct (also, duct of Santorini) | duct that runs from the pancreas into the duodenum |
