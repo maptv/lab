@@ -21,5 +21,7 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          # To install LaTeX to build PDF book 
+          tinytex: true 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
