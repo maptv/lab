@@ -447,7 +447,7 @@ Complete the crossword activity.
 
 **Figure 3.24** The Cell.
 
-**Across**
+### **Across**
 
 -   **3** a large organelle in eukaryotic organisms which protects the DNA (4,7)
 
@@ -457,7 +457,7 @@ Complete the crossword activity.
 
 -   **7** membrane-bound organelles involved in lipid metabolism and the conversion of reactive oxygen species such as hydrogen peroxide into safer molecules like water and oxygen. (10)
 
-**Down**
+### **Down**
 
 -   **1** the site in the nucleus where the several different parts of ribosomes are produced and exported (9)
 

@@ -511,7 +511,7 @@ Complete the following crossword puzzles.
 
 **Figure 14.19** The Eye.
 
-## Across
+### **Across**
 
 -   1 Posterior to the ciliary body is the \_\_\_\_\_ a dark brown membrane that contains the \_\_\_\_ (7,5,7)
 
@@ -531,7 +531,7 @@ Complete the following crossword puzzles.
 
 -   16 The lacrimal apparatus includes the \_\_\_\_\_, which produces tears, and the ducts that drain excess liquid into the \_\_\_\_\_. (8,5,5,7)
 
-## Down
+### **Down**
 
 -   2 There are two types of photoreceptor cell: \_\_\_\_\_, which respond to as little as a single photon of light, regardless of color, and \_\_\_\_\_, which are less sensitive but respond color. (4,5)
 
@@ -551,7 +551,7 @@ Complete the following crossword puzzles.
 
 **Figure 14.20** The Ear.
 
-## Across
+### **Across**
 
 -   5 The swollen regions at the entrance to each semicircular canal are the \_\_\_\_\_ (8)
 
@@ -573,7 +573,7 @@ Complete the following crossword puzzles.
 
 -   20 The cochlea is a snail shaped organ in the inner ear which is responsible for \_\_\_\_\_. (7)
 
-## Down
+### **Down**
 
 -   1 As vibrations in the ear cause the eardrum to vibrate, the eardrum pushes against the \_\_\_\_\_. (7,5,3,6)
 

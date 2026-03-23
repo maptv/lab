@@ -523,14 +523,14 @@ Complete the following crossword puzzles.
 
 **Figure 19.15** Respiratory-1
 
-**Across**
+### **Across**
 
 -   2 The \_\_\_\_\_ is the region of the pharynx that only serves as an air passageway. (11)
 -   4 The \_\_\_\_ divides the nasal cavity into the right and left sides. (6)
 -   6 The nostrils are also known as the \_\_\_\_. (singular \_\_\_\_) (5,5)
 -   7 The superior boundary of the larynx is the \_\_\_\_\_ \_\_\_\_\_, above which is the laryngopharynx. Inferior to the larynx is the \_\_\_\_\_. (5,4,7)
 
-**Down**
+### **Down**
 
 -   **1** Hair , mucus and cilia which line the nasal cavity prevent \_\_\_ and \_\_\_ from entering the lungs. (4,6)
 -   **3** Air enters the nose and encounters the \_\_\_\_ \_\_\_\_\_, which creates turbulence thereby increasing the chances that airborne contaminants will contact the nasal mucosa rather than flowing directly into the lungs. (5,7)
@@ -540,7 +540,7 @@ Complete the following crossword puzzles.
 
 **Figure 19.16** Respiratory-2
 
-**Across**
+### **Across**
 
 -   **2** The top of the lung is \_\_\_\_\_; the bottom is the \_\_\_\_\_: (4,4)
 -   **5** The \_\_\_\_\_ lung is divided into two lobes. (4)
@@ -548,7 +548,7 @@ Complete the following crossword puzzles.
 -   **7** \_\_\_\_\_ \_\_\_\_\_ is the process of gas exchange between the blood and the lungs. (8,11)
 -   **8** The \_\_\_\_\_ lung is divided into three lobes. (5)
 
-**Down**
+### **Down**
 
 -   **1** \_\_\_\_\_ \_\_\_\_\_ is the process of gas exchange between the fluids of the body and the cells. (8,11)
 -   **3** Each lung is surrounded by its own \_\_\_\_\_ \_\_\_\_\_. (7,6)
@@ -558,13 +558,13 @@ Complete the following crossword puzzles.
 
 **Figure 19.17** Respiratory-3
 
-**Across**
+### **Across**
 
 -   **4** Pulmonary function tests evaluate respiratory function using a(n) \_\_\_\_\_ to measure respiratory volumes and capacities. (10)
 
 -   **5** The \_\_\_\_ \_\_\_\_ \_\_\_\_ is the maximum amount of air that can fill the lungs. (5,4,8)
 
-**Down**
+### **Down**
 
 -   **1** The maximum amount of air that can be expelled after fully inhaling. (5,8)
 

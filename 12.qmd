@@ -245,7 +245,7 @@ Complete the following crossword puzzles.
 
 **Figure 12.9** Nervous System Anatomy.
 
-## Across
+### **Across**
 
 -   2 \_\_\_\_\_ are cells which produce the myelin sheath in the peripheral nervous system, but not in the central nervous system. (7,5)
 
@@ -259,7 +259,7 @@ Complete the following crossword puzzles.
 
 -   9 In the CNS, \_\_\_\_\_ are supporting cells which guide the migration of young neurons. (10)
 
-## Down
+### **Down**
 
 -   1 In the CNS, \_\_\_\_ are cells which line the fluid-filled cavities, and which produce, transport, and circulate the fluid surrounding the brain and spinal cord. (9,5)
 
@@ -273,7 +273,7 @@ Complete the following crossword puzzles.
 
 **Figure 12.10** Nervous System Physiology.
 
-## Across
+### **Across**
 
 -   2 The speed of an action potential is greatest when it is traveling through an axon which is \_\_\_\_\_. (10)
 
@@ -285,7 +285,7 @@ Complete the following crossword puzzles.
 
 -   8 The \_\_\_\_\_ is the fluid-filled space separating the pre- and postsynaptic cells. (8,5)
 
-## Down
+### **Down**
 
 -   1 The \_\_\_\_ neuron conducts the signal to a synapse, while the \_\_\_\_\_ cell responds or conducts a signal away from it. (11,12)
 

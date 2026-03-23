@@ -360,7 +360,7 @@ Complete the crossword puzzles below.
 
 -   **6** Together, the \_\_\_\_ and \_\_\_\_\_ regulate the secretion of virtually every hormone in the body. (12,9)
 
-### Down
+### **Down**
 
 -   **1** \_\_\_\_\_ based hormones are made from an amino acid by chemical modification or made by joining amino acids to form a peptide (very smallx protein). (5,4)
 
@@ -372,7 +372,7 @@ Complete the crossword puzzles below.
 
 **Figure 15.33** Crossword of the Endocrine Hormones.
 
-## Across
+### **Across**
 
 -   2 In the pancreas, \_\_\_\_\_ cells produce insulin; \_\_\_\_\_ cells produce glucagon. (4,5)
 -   5 Epinephrine and norepinephrine are released into the blood by the \_\_\_\_\_. (7,7)
@@ -380,7 +380,7 @@ Complete the crossword puzzles below.
 -   7 \_\_\_\_\_ stimulates milk production by the breasts and is produced by the \_\_\_\_\_. (8,8,9)
 -   10 the anterior portion of the pituitary is the \_\_\_\_\_ (15)
 
-## Down
+### **Down**
 
 -   1 The third hormone produced by the thyroid is unlike the other two: it helps to regulate \_\_\_\_\_ metabolism and is called \_\_\_\_\_. (7,10)
 -   3 In the male, \_\_\_\_\_ initiates maturation of male reproductive organs, causes appearance of secondary sexual characteristics and sex drive, is necessary for sperm production, and maintains sex organs in their functional state. (12)

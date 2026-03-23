@@ -785,7 +785,7 @@ Complete the following crossword puzzles.
 
 **Figure 20.33** Digestive System-1
 
-## Across
+### **Across**
 
 -   4 The organs of the digestive system which are found in the abdominal cavity, and the cavity itself, are lined by a(n) \_\_\_\_ membrane, the \_\_\_\_. (6,10)
 
@@ -797,7 +797,7 @@ Complete the following crossword puzzles.
 
 -   10 The \_\_\_\_ holds abdominal organs in place and prevents them from shifting within the abdominal cavity. In addition , fat accumulates within its folds. (9)
 
-## Down
+### **Down**
 
 -   1 The roof of the oral cavit is divided into two parts, the bony \_\_\_\_ \_\_\_\_ and the \_\_\_\_ \_\_\_\_. (4,6,4,6)
 
@@ -813,7 +813,7 @@ Complete the following crossword puzzles.
 
 **Figure 20.34** Digestive, Alimentary Canal
 
-## Across
+### **Across**
 
 -   4 The gastrointestinal tract is sometimes called the \_\_\_\_ \_\_\_\_. (10,5)
 -   5 The posterior part of the mouth leads into the \_\_\_\_. (7)
@@ -821,7 +821,7 @@ Complete the following crossword puzzles.
 -   9 The organs of the digestive system which are found in the abdominal cavity, and the cavity itself, are lined by a(n) \_\_\_\_ membrane, the \_\_\_\_. (6,10)
 -   10 The most visible mesentery, upon dissection, is the folded layer which hangs like a curtain from the stomach and transverse colon; it is called the \_\_\_\_ \_\_\_\_. (7,7)
 
-## Down
+### **Down**
 
 -   1 The \_\_\_\_ is the "dangly" part of the soft palate; together with the soft palate it prevents \_\_\_ from entering the nose as one swallows. (5,4)
 -   2 The \_\_\_\_ are double layered extensions of the peritoneum which connect the abdominal organs to the abdominal walls. Collectively these extensions are called the \_\_\_\_\_ (11,11)
@@ -833,7 +833,7 @@ Complete the following crossword puzzles.
 
 **Figure 20.35** Digestive - Stomach
 
-## Across
+### **Across**
 
 -   4 The upper opening of the stomach is the \_\_\_ or \_\_\_ opening. (16,7)
 
@@ -843,7 +843,7 @@ Complete the following crossword puzzles.
 
 -   7 The part of the stomach that is superior to the cardiac sphincter is the \_\_\_\_. (6)
 
-## Down
+### **Down**
 
 -   1 The esophagus connects the \_\_\_ to the \_\_\_ and has a(n) \_\_\_ at each end to control the entry and exit of food and drink. (7,7,9)
 
@@ -855,7 +855,7 @@ Complete the following crossword puzzles.
 
 **Figure 20.36** Digestive; Intestines and Accessory organs
 
-## Across
+### **Across**
 
 -   4 The pancreas is a long, roughly triangular organ nested in the curve of the \_\_\_, lying posterior to the \_\_\_\_. (8,7)
 
@@ -869,7 +869,7 @@ Complete the following crossword puzzles.
 
 -   14 The anal canal is a passageway which conducts feces out of the rectum. It includes two \_\_\_\_; the inner one is involuntary, the outer is voluntary. (10)
 
-## Down
+### **Down**
 
 -   1 The large intestine is divided into five regions. Approximately one half of the \_\_\_ is found on the left side of the body; from there feces reach the \_\_\_ their final storage place prior to their exit through the \_\_\_\_ \_\_\_\_. (5,6,4,5)
 
@@ -891,7 +891,7 @@ Complete the following crossword puzzles.
 
 **Figure 20.37** Digestive - Teeth
 
-## **Across**
+### **Across**
 
 -   **7** The boundary between the tooth crown and the root is the \_\_\_\_\_\_ (4)
 -   **8** The outer layer of a tooths root is the \_\_\_\_ (6)
@@ -900,7 +900,7 @@ Complete the following crossword puzzles.
 -   **13** \_\_\_\_ are teeth which tear (7)
 -   **14** \_\_\_\_ and \_\_\_\_ are teeth which grind (9,6)
 
-## **Down**
+### **Down**
 
 -   **1** The \_\_\_\_ salivary glands are located beneath the tongue (10)
 

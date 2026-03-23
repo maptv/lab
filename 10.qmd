@@ -392,7 +392,7 @@ Complete the crossword puzzles.
 
 **Figure 10.13** Skeletal Muscle Fibers.
 
-## Across
+### **Across**
 
 -   **3** The myofibrils of \_\_\_\_\_ muscle are not aligned, so that the muscle appears to be \_\_\_\_\_. (6,6)
 -   **4** Muscle cells are also called muscle \_\_\_\_\_. (6)
@@ -401,7 +401,7 @@ Complete the crossword puzzles.
 -   **9** A group of muscle fibers is called a muscle \_\_\_\_\_, which means 'bundle'. (8)
 -   **10** Cardiac muscle fibers contain large numbers of \_\_\_\_\_, which provides the power to allow them to have incredible endurance. (12)
 
-## Down
+### **Down**
 
 -   **1** For many muscles, the connective tissue membranes within the muscle merge at the ends with a connective tissue 'rope' called a(n) \_\_\_\_\_. (6)
 -   **2** When a muscle attaches directly to a bone, rather than to a tendon which is attached to a bone, the \_\_\_\_\_ of the muscle fuses with the \_\_\_\_\_ of the bone. (9,10)

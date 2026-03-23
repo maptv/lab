@@ -629,7 +629,7 @@ Complete the following crosswords.
 
 **Figure 13.32** The Central Nervous System.
 
-## Across
+### **Across**
 
 -   6 In the inferior regions, there is a gap between the \_\_\_\_\_ and the \_\_\_\_\_ into which anesthetics are often introduced ("epidural" - "upon the dura") (4,5,9)
 
@@ -639,7 +639,7 @@ Complete the following crosswords.
 
 -   9 \_\_\_\_\_ are white-matter columns consisting of the myelinated axons of neurons associated with the spinal cord. (8)
 
-## Down
+### **Down**
 
 -   1 After circulation the CSF returns to the blood by passing through the \_\_\_\_\_, which are clusters of the arachnoid mater which project into the dural sinuses and act as one-way valves. (9,12)
 
@@ -655,7 +655,7 @@ Complete the following crosswords.
 
 **Figure 13.33** Brain: Anatomical and Functional Regions.
 
-## Across
+### **Across**
 
 -   4 A patient who is able to speak but who chooses words at random and is unable to connect thought to language is likely to have damage to \_\_\_\_ area. (9)
 
@@ -677,7 +677,7 @@ Complete the following crosswords.
 
 -   17 The folds and convolutions of the cerebral hemispheres are named for their three-dimensional forms. The ridges are called \_\_\_\_\_ (singular, \_\_\_\_\_). (4,5)
 
-## Down
+### **Down**
 
 -   1 The visual cortex is responsible for sight and is located in the \_\_\_\_\_ \_\_\_\_\_. (9,4)
 
@@ -699,7 +699,7 @@ Complete the following crosswords.
 
 **Figure 13.34** Brain components.
 
-## Across
+### **Across**
 
 -   2 Much of the influence of the hypothalamus is due to the release of hormones which control the release of other hormones: appropriately enough, their names usually include the phrase, "\_\_\_\_\_\_ \_\_\_\_\_\_". (9,7)
 
@@ -717,7 +717,7 @@ Complete the following crosswords.
 
 -   15 The wide, cerebrospinal fluid containing space is between the \_\_\_\_\_ mater and the pia mater and is called the \_\_\_-\_\_\_\_\_\_\_ space. (9,3-9)
 
-## Down
+### **Down**
 
 -   1 Afferent impulses converge in the \_\_\_\_\_, where those of similar function are sorted and relayed on as a group. (8)
 

@@ -754,7 +754,7 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 -   **8** Protects underlying organs from drying out and mechanical damage (13)
 -   **10** Moves the limbs (8)
 
-### Down
+### **Down**
 
 -   **1** Provides for conception and childbearing (12)
 -   **3** Brain, nerves, sensory receptors (7)
@@ -769,12 +769,12 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 Note: The clues include the number of letters in a word in the parentheses at the end of the clue: e.g., "for one word; includes the heart (14)" or for two words; "a large organelle in eukaryotic organisms which protects the DNA (4,7)."
 
-## **Across**
+### **Across**
 
 -   **4** Cavity surrounded by the rib cage, bounded inferiorly by the diaphragm. (8)
 -   **5** Cavities lateral to the heart which contain the lungs (7)
 
-## **Down**
+### **Down**
 
 -   **1** Medial portion of the thoracic cavity; consists of heart, thymus gland, trachea, and blood vessels (11)
 -   **2** Small space enclosed by the pelvic bones. (6)

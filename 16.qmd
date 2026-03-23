@@ -549,7 +549,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 **Figure 16.25** Heart – 3
 
-**Across**
+### **Across**
 
 **6** \_\_\_\_ refers to the time during which a chamber is contracting, while \_\_\_\_ refers to the period of relaxation. (7,8)
 
@@ -559,7 +559,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 **10** During fetal development there is a connection called the ductus arteriosus between the pulmonary trunk and the aorta. In the adult all that remains of this is the \_\_ \_\_\_. (10,10)
 
-**Down**
+### **Down**
 
 **1** The \_\_\_ is the highest, strongest peak on a normal ECG. (3,7)
 
@@ -577,7 +577,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 **Figure 16.26** Cardiovascular System and the Heart
 
-## Across
+### **Across**
 
 -   4 The \_\_\_\_ collects blood from the greater cardiac veins and delivers it into the \_\_\_\_ near the fossa ovalis. (8,5,5,6)
 
@@ -595,7 +595,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 -   17 the heart is found in the \_\_\_ (the Cavity) and 2/3 of it lies to the left of the midsternal line. (11)
 
-## Down
+### **Down**
 
 -   1 The force needed to pump the blood through the body is greater than the lungs, so the strongest muscle of the heart forms the myocardium of the \_\_\_ \_\_\_\_. (4,9)
 
@@ -619,7 +619,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 **Figure 16.27** Heart Structures - 2.
 
-## Across
+### **Across**
 
 -   4 There are collagen cords called the \_\_\_ \_\_\_ anchoring the AV valves to the muscular protrusions of the ventricle's walls. (7,8)
 
@@ -629,7 +629,7 @@ Name the numbered heart structures (chamber or blood vessel)
 
 -   9 The Semilunar valves \_\_\_ during contraction of the ventricles. (4)
 
-## Down
+### **Down**
 
 -   1 The semilunar closed due to \_\_\_ \_\_\_\_ from blood in the vessels. (8,8)
 

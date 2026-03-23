@@ -433,7 +433,7 @@ In this section you will review and identify the movements of the synovial joint
 
 **Figure 9.17** The Articulations.
 
-**Across**
+### **Across**
 
 -   **2** modified ball-and-socket joints; range of motion is biaxial (9)
 
@@ -443,7 +443,7 @@ In this section you will review and identify the movements of the synovial joint
 
 -   **6** convex cylinder applied to a concavity; monoaxial movement (5)
 
-**Down**
+### **Down**
 
 -   **1** round head fitting into a round depression; multiaxial (4-3-6)
 

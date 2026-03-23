@@ -690,7 +690,7 @@ Complete the following crossword puzzles.
 
 **Figure 11.27** Head and Neck Actions.
 
-**Across**
+### **Across**
 
 -   **3** The direction of a muscle's pull is determined by the direction of the \_\_\_\_\_. (6)
 -   **5** The \_\_\_\_\_ pulls the mouth down, tensing the skin of the neck. (8)
@@ -698,7 +698,7 @@ Complete the following crossword puzzles.
 -   **10** The \_\_\_\_\_ muscles (one on each side) pull the mastoid process of the skull toward the sternum and clavicle. When both contract together, they flex the neck. (19)
 -   **11** To purse the lips when we want to kiss or whistle, we contract the \_\_\_\_\_. (11,4)
 
-**Down**
+### **Down**
 
 -   **1** The prime mover for inspiration (breathing in) is the \_\_\_\_\_, which presses into the abdominal cavity, expanding the thoracic cavity as it does. (9)
 -   **2** One winks, blinks, or squints by contracting the \_\_\_\_\_. (11,5)
@@ -711,13 +711,13 @@ Complete the following crossword puzzles.
 
 **Figure 11.28** Thoracic Muscles.
 
-**Across**
+### **Across**
 
 -   **3** For abduction beyond horizontal (to bring arm above head) the \_\_\_\_\_ and \_\_\_\_\_ must raise and rotate the scapula, so that the glenoid cavity faces upward. (9,8,8)
 -   **5** The \_\_\_\_ is used to flex the shoulder from the adducted position by pulling the humerus upward, toward the clavicle. (7)
 -   **6** The \_\_\_\_\_ extends the shoulder by pulling the intertubercular groove of the humerus toward the vertebral column. (10,5)
 
-**Down**
+### **Down**
 
 -   **1** The \_\_\_\_\_, a pair of segmented muscles, pulls the xiphoid process and costal cartilages of the ribs toward the pubic crest and symphysis, thereby flexing the lumbar vertebrae. (6,9)
 -   **2** Contracting the \_\_\_\_ on one side results in head rotation. (19)
@@ -727,14 +727,14 @@ Complete the following crossword puzzles.
 
 **Figure 11.29** Shoulder and Upper Limb.
 
-**Across**
+### **Across**
 
 -   **4** The glenoid cavity is so shallow and the range of motion so great that the shoulder is held together primarily by the tendons of the muscles that surround it. The four muscles whose tendons contribute the most stability are together called the \_\_\_\_\_. (7,4)
 -   **5** Flexors are on the \_\_\_\_\_ of the forearm. (8)
 -   **6** The \_\_\_\_\_ pulls the radial tuberosity of the radius toward the shoulder, flexing the elbow (6,7)
 -   **7** The \_\_\_\_\_ pulls the posterior surfaces of several bones of the hand toward the lateral epicondyle of the humerus, resulting in both finger and wrist extension. (8,9)
 
-**Down**
+### **Down**
 
 -   **1** Extensors are on the \_\_\_\_\_ of the forearm. (9)
 -   **2** The \_\_\_\_\_ pulls the coronoid process of the ulna toward the humerus, thus flexing the elbow. (10)
@@ -744,7 +744,7 @@ Complete the following crossword puzzles.
 
 **Figure 11.30** Muscles: Hip and Leg.
 
-**Across**
+### **Across**
 
 -   **4** The \_\_\_\_\_ pulls the medial surface of the tibia toward the pubis, thus adducting the thigh. (8)
 -   **5** The \_\_\_\_\_ pulls the greater trochanter of the femur toward the iliac crest, abducting the thigh. (7,6)
@@ -752,7 +752,7 @@ Complete the following crossword puzzles.
 -   **8** The \_\_\_\_\_ pulls the tibial tuberosity toward the ilium, extending the knee (6,7)
 -   **9** The \_\_\_\_\_ pull the fibula and tibia toward the ischial tuberosity of the Os coxa; with the knee locked, this extends the hip. (10)
 
-**Down**
+### **Down**
 
 -   **1** The \_\_\_\_\_ pulls the femur toward the iliac crest, sacrum, and lumbar vertebrae, thus flexing the hip. (9)
 -   **2** The \_\_\_\_\_ pulls the foot toward the lateral tibial condyle and proximal tibia, dorsiflexing the ankle. (8,8)

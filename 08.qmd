@@ -432,7 +432,7 @@ Complete the crossword puzzle.
 
 **Figure 18.22** Appendicular skeleton.
 
-## Across
+### **Across**
 
 -   6 The \_\_\_\_\_, formed by all three bones that make up the coxal bone, articulates with the femur. (10)
 -   7 The lateral end of the clavicle articulates with the \_\_\_\_\_ of the \_\_\_\_\_. (8,7)
@@ -440,7 +440,7 @@ Complete the crossword puzzle.
 -   11 The \_\_\_\_\_ is formed by the two hip bones, the sacrum, and the coccyx. (6)
 -   12 The medial end of the clavicle articulates with the \_\_\_\_\_. (7)
 
-## Down
+### **Down**
 
 -   1 The upper limbs are attached to the trunk by the \_\_\_\_\_ girdle (8)
 -   2 The superior surface of the \_\_\_\_\_ of the \_\_\_\_\_ articulates with the capitulum of the humerus. (4,6)

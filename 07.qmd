@@ -594,7 +594,7 @@ Complete the following crossword puzzle.
 
 **Figure 7.36** Bone Anatomy.
 
-## Across
+### **Across**
 
 -   5 The largest opening in the occipital bone (7,6)
 -   8 A cavity inside a bone (5)
@@ -602,7 +602,7 @@ Complete the following crossword puzzle.
 -   11 The \_\_\_\_\_ bones are found deep to the upper lip; they form part of the 'cheekbone' and the lateral aspects of the bridge of the nose. (7)
 -   12 The coronal suture is formed by articulation of the \_\_\_ and \_\_\_ bones (8,7)
 
-## Down
+### **Down**
 
 -   1 The cribriform plate is a surface filled with small foramina on the \_\_\_\_\_ bone (7)
 -   2 The external acoustic meatus is located in the \_\_\_\_\_ bone. (5,7)

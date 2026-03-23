@@ -326,7 +326,7 @@ Match the following tissue with its function or location.
 
 ![](images/_page_90_Picture_3.jpeg)
 
-### Across
+### **Across**
 
 -   4 kidney glomeruli and alveoli of lungs (6,8,10)
 -   5 Carry action potentials throughout the body (6)
@@ -335,7 +335,7 @@ Match the following tissue with its function or location.
 -   11 Function: secretion and absorption (6,8,10)
 -   12 Attached to the bones, occasionally to the skin (8,6)
 
-### Down
+### **Down**
 
 -   1 Tendons and ligaments (5,7,10,6)
 -   2 Functions as a binding tissue (5,10,6)
