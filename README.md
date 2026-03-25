@@ -18,7 +18,7 @@ We can do everything we need inside Posit Cloud, without installing [GitHub Desk
 7.  Click "New Project"
 8.  Click "New Project from Git repository"
 9.  Paste in the repo url
-10. Clicking "OK"
+10. Click "OK"
 11. Click the green plus sign (+) in the top left to create a new file
 12. Click "R Script"
 13. Save your R Script with the name `git.R`
@@ -52,14 +52,13 @@ usethis::create_github_token()
 1.  Copy the command below, paste it into the Posit Cloud terminal in the bottom left pane, and press Enter/Return
 
 ``` bash
+quarto create project book . lab
 quarto publish gh-pages
 ```
 
-2.  Go to your repo on GitHub, click "Settings" in the navigation bar and then "Pages" in the sidebar
-3.  In the [drop-down menu](https://en.wikipedia.org/wiki/Drop-down_list#:~:text=a%20graphical%20control%20element%2C%20similar%20to%20a%20list%20box%2C%20that%20allows%20the%20user%20to%20choose%20one%20value%20from%20a%20list%20either%20by%20clicking%20or%20hovering%20over%20the%20menu) under "Build and deployment" and "Branch", select `gh-pages` and click "Save"
-4.  Upload the `setup.zip` file provided by your instructor to your Posit Cloud by clicking
+2.  Upload the `setup.zip` file provided by your instructor to your Posit Cloud by clicking
     a.  "Upload" in the "Files" tab in the bottom right pane and
     b.  "Choose File" in the modal
-5.  Stage, commit, and push all of the files including `.github/workflows/publish.yml` as per the "Updating" instructions above
+3.  Stage, commit, and push all of the files including `.github/workflows/publish.yml` as per the "Updating" instructions above
 
-If all goes according to plan, you will never need to run `quarto publish gh-pages` again for this repo because thanks to `.github/workflows/publish.yml` your site will be built and published whenever you update your site by pushing at least one commit to your repo using the "Updating" instructions above.
+If all goes according to plan, you will never need to run `quarto publish gh-pages` again for this repo because – thanks to `.github/workflows/publish.yml` – your site will be built and published whenever you update your site by pushing at least one commit to your repo using the "Updating" instructions above.
