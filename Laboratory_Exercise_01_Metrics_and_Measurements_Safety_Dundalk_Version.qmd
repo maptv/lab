@@ -1,4 +1,4 @@
-# **Laboratory Exercise 1: Laboratory Safety and Measurement**
+# **Laboratory Safety and Measurement**
 
 **Overall Laboratory Unit Objectives**
 
@@ -328,37 +328,41 @@ A primary advantage of the metric system is the ease with which units can be con
 
 **Table 1.1 Metric Prefixes**
 
-+------------+-----------+------------------------+-------------------------+
-|            |           |                        |                         |
-+============+===========+========================+=========================+
-| **Prefix** | **Unit**  | **Multiplier**         | **Scientific Notation** |
-+------------+-----------+------------------------+-------------------------+
-| **Kilo-**  | k         | 1,000                  | 103                     |
-+------------+-----------+------------------------+-------------------------+
-| **Hecto-** | h         | 100                    | 102                     |
-+------------+-----------+------------------------+-------------------------+
-| **Deca-**  | da        | 10                     | 101                     |
-+------------+-----------+------------------------+-------------------------+
-| **One**    | base      | 1                      | 10                      |
-|            |           |                        |                         |
-|            | (m, L, g) |                        |                         |
-+------------+-----------+------------------------+-------------------------+
-| **Deci-**  | d         | 0.1 = 1/10             | 10−1                    |
-+------------+-----------+------------------------+-------------------------+
-| **Centi-** | c         | 0.01 = 1/100           | 10−2                    |
-+------------+-----------+------------------------+-------------------------+
-| **Milli-** | m         | 0.001 = 1/1,000        | 10−3                    |
-+------------+-----------+------------------------+-------------------------+
-| **Micro-** | µ         | 0.000001 = 1/1,000,000 | 10−6                    |
-+------------+-----------+------------------------+-------------------------+
++-------------+-------------+------------------------+-------------------------+
+|             |             |                        |                         |
++=============+=============+========================+=========================+
+| **Prefix**  | **Unit**    | **Multiplier**         | **Scientific Notation** |
++-------------+-------------+------------------------+-------------------------+
+| **Kilo-**   | k           | 1,000                  | 103                     |
++-------------+-------------+------------------------+-------------------------+
+| **Hecto-**  | h           | 100                    | 102                     |
++-------------+-------------+------------------------+-------------------------+
+| **Deca-**   | da          | 10                     | 101                     |
++-------------+-------------+------------------------+-------------------------+
+| **One**     | base        | 1                      | 10                      |
+|             |             |                        |                         |
+|             | (m, L, g)   |                        |                         |
++-------------+-------------+------------------------+-------------------------+
+| **Deci-**   | d           | 0.1 = 1/10             | 10−1                    |
++-------------+-------------+------------------------+-------------------------+
+| **Centi-**  | c           | 0.01 = 1/100           | 10−2                    |
++-------------+-------------+------------------------+-------------------------+
+| **Milli-**  | m           | 0.001 = 1/1,000        | 10−3                    |
++-------------+-------------+------------------------+-------------------------+
+| **Micro-**  | µ           | 0.000001 = 1/1,000,000 | 10−6                    |
++-------------+-------------+------------------------+-------------------------+
 
 **Table 1.2 Mnemonics to help memorize the metric prefixes**
 
-|  |  |  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|----|----|
++----------+----------+-----------+----------+-------------+-----------+---------------+----------+-------------+
+|          |          |           |          |             |           |               |          |             |
++==========+==========+===========+==========+=============+===========+===============+==========+=============+
 | Mnemonic | **K**ing | **H**enry | **D**oes | **U**sually | **D**rink | **C**hocolate | **M**ilk | **M**ondays |
-| Prefix | Kilo- | Hecto- | Deca- | Base units | Deci- | Centi- | Milli- | Micro |
-| unit | k | h | da | m, L, g | d | c | m | µ |
++----------+----------+-----------+----------+-------------+-----------+---------------+----------+-------------+
+| Prefix   | Kilo-    | Hecto-    | Deca-    | Base units  | Deci-     | Centi-        | Milli-   | Micro       |
++----------+----------+-----------+----------+-------------+-----------+---------------+----------+-------------+
+| unit     | k        | h         | da       | m, L, g     | d         | c             | m        | µ           |
++----------+----------+-----------+----------+-------------+-----------+---------------+----------+-------------+
 
 In Metric conversions, when you are converting a smaller unit to a larger unit, you move the decimal point to the left for the proper number of steps. Keep in mind each time you move the decimal point you are dividing by 10. When you are converting from a larger unit to a smaller, you will move the decimal point to the right. This means each time you move the decimal point you are multiplying by 10.
 
@@ -474,13 +478,19 @@ Record your results in table 1.4 as grams (g) and then convert those masses to k
 
 **Table 1.4. Weight Measurements and Unit Conversions**
 
-|       **Object**       | **Mass (g)** | **Mass (kg)** | **Mass (mg)** |
-|:----------------------:|:-------------|:--------------|:--------------|
-| **Black metal object** |              |               |               |
-|     **Test tube**      |              |               |               |
-|   **250 ml beaker**    |              |               |               |
-|     **Weigh boat**     |              |               |               |
-|  **your cell phone**   |              |               |               |
++------------------------+---------------+---------------+---------------+
+| **Object**             | **Mass (g)**  | **Mass (kg)** | **Mass (mg)** |
++:======================:+:==============+:==============+:==============+
+| **Black metal object** |               |               |               |
++------------------------+---------------+---------------+---------------+
+| **Test tube**          |               |               |               |
++------------------------+---------------+---------------+---------------+
+| **250 ml beaker**      |               |               |               |
++------------------------+---------------+---------------+---------------+
+| **Weigh boat**         |               |               |               |
++------------------------+---------------+---------------+---------------+
+| **your cell phone**    |               |               |               |
++------------------------+---------------+---------------+---------------+
 
 **Lab Activity 1.4: Volumetric Measurements**
 
@@ -594,15 +604,23 @@ $$\text{Percentage Error} = \dfrac{|\text{Measured Value} - \text{True Value}|}{
 
 **Table 1.5** Comparison of Target, Actual Volumes and Percent Error Dispensed Using Different Measurement Devices
 
-|  |  |  |  |  |  |
-|----|----|----|----|----|----|
-| **Device used** | **Attempt** | **Target volume dispensed (ml)** | **Weight of Water (g)** | **Actual Volume Dispensed (mL)** | **% Error** |
-| **50 mL graduated cylinder** | trial #1 | 42 |  |  |  |
-| **50 mL graduated cylinder** | trial#2 | 42 |  |  |  |
-| **10 mL pipet** | trial #1 | 6.6 |  |  |  |
-| **10 mL pipet** | trial #2 | 6.6 |  |  |  |
-| **1 mL pipet** | trial #1 | 0.6 |  |  |  |
-| **1 mL pipet** | trial #2 | 0.6 |  |  |  |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
+|                              |             |                                  |                         |                                  |             |
++==============================+=============+==================================+=========================+==================================+=============+
+| **Device used**              | **Attempt** | **Target volume dispensed (ml)** | **Weight of Water (g)** | **Actual Volume Dispensed (mL)** | **% Error** |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
+| **50 mL graduated cylinder** | trial #1    | 42                               |                         |                                  |             |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
+| **50 mL graduated cylinder** | trial#2     | 42                               |                         |                                  |             |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
+| **10 mL pipet**              | trial #1    | 6.6                              |                         |                                  |             |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
+| **10 mL pipet**              | trial #2    | 6.6                              |                         |                                  |             |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
+| **1 mL pipet**               | trial #1    | 0.6                              |                         |                                  |             |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
+| **1 mL pipet**               | trial #2    | 0.6                              |                         |                                  |             |
++------------------------------+-------------+----------------------------------+-------------------------+----------------------------------+-------------+
 
 **Lab Activity 1.7: Accuracy and Precision**
 
@@ -780,40 +798,76 @@ This is a description of how to write lab reports. From New York City College of
 
 ## **Appendix: Laboratory Safety and Measurement Terms**
 
-| **Term** | **Definition** |
-|:---|:---|
-| Accuracy | How close a measured value is to the true or accepted value. |
-| Balance | An instrument used to measure mass. |
-| Base Units | Standard units in the metric system such as meter, gram, liter, and second. |
-| Biological Hazard | Living organisms or biological materials that may cause harm. |
-| Chemical Hazard | A harmful substance that can cause injury or damage. |
-| Contamination | The introduction of unwanted substances can affect results. |
-| Conversion | The process of changing a measurement from one unit to another. |
-| Data Recording | The accurate documentation of observations and measurements is important. |
-| Density | The mass of a substance per unit of volume is incorrect. |
-| Dependent Variable | The variable that is measured or observed in an experiment. |
-| Experimental Error | Deviation from the expected result due to limitations or mistakes. |
-| Eyewash Station | A safety device used to flush the eyes in case of chemical exposure. |
-| Graduated Cylinder | A piece of laboratory glassware used to accurately measure liquid volume. |
-| Graphing | The visual representation of data for analysis is important. |
-| Hazard | A potential source of harm such as chemicals, heat, or sharp objects. |
-| Independent Variable | The variable that is changed or controlled in an experiment is correct. |
-| Laboratory Procedure | Step-by-step instructions followed during an experiment. |
-| Laboratory Safety | Practices are used to prevent accidents and ensure safe working conditions in a lab. |
-| Length | The measurement of distance from one point to another is important. |
-| Mass | The amount of matter in an object. |
-| Meniscus | The curved surface of a liquid in a container used for accurate measurement. |
-| Metric Prefix | A factor that indicates multiples or fractions of base units (e.g., kilo-, milli-, micro-). |
-| Metric System (SI) | A decimal-based system of measurement used in science worldwide. |
-| Percent Error | A calculation that describes how far a measured value is from the true value, expressed as a percentage. |
-| Personal Protective Equipment (PPE) | Protective clothing and gear like goggles and gloves used to prevent injury. |
-| Physical Hazard | Environmental factors such as heat, glass, or equipment that can cause injury. |
-| Pipette | A tool used to measure and transfer small volumes of liquid accurately. |
-| Precision | The consistency or repeatability of measurements is important. |
-| Reproducibility | The ability to obtain consistent results across repeated trials is important. |
-| Scatter Plot | A graph used to display relationships between two variables. |
-| Scientific Measurement | The process of obtaining quantitative data using standardized methods. |
-| Tare | The process of resetting a balance to zero before measuring.8 |
-| Temperature | A measure of the amount of heat energy in a substance. |
-| Volume | The amount of space an object or substance occupies. |
-| Waste Disposal | The proper handling and discarding of laboratory materials. |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| **Term**                            | **Definition**                                                                                           |
++:====================================+:=========================================================================================================+
+| Accuracy                            | How close a measured value is to the true or accepted value.                                             |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Balance                             | An instrument used to measure mass.                                                                      |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Base Units                          | Standard units in the metric system such as meter, gram, liter, and second.                              |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Biological Hazard                   | Living organisms or biological materials that may cause harm.                                            |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Chemical Hazard                     | A harmful substance that can cause injury or damage.                                                     |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Contamination                       | The introduction of unwanted substances can affect results.                                              |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Conversion                          | The process of changing a measurement from one unit to another.                                          |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Data Recording                      | The accurate documentation of observations and measurements is important.                                |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Density                             | The mass of a substance per unit of volume is incorrect.                                                 |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Dependent Variable                  | The variable that is measured or observed in an experiment.                                              |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Experimental Error                  | Deviation from the expected result due to limitations or mistakes.                                       |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Eyewash Station                     | A safety device used to flush the eyes in case of chemical exposure.                                     |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Graduated Cylinder                  | A piece of laboratory glassware used to accurately measure liquid volume.                                |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Graphing                            | The visual representation of data for analysis is important.                                             |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Hazard                              | A potential source of harm such as chemicals, heat, or sharp objects.                                    |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Independent Variable                | The variable that is changed or controlled in an experiment is correct.                                  |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Laboratory Procedure                | Step-by-step instructions followed during an experiment.                                                 |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Laboratory Safety                   | Practices are used to prevent accidents and ensure safe working conditions in a lab.                     |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Length                              | The measurement of distance from one point to another is important.                                      |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Mass                                | The amount of matter in an object.                                                                       |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Meniscus                            | The curved surface of a liquid in a container used for accurate measurement.                             |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Metric Prefix                       | A factor that indicates multiples or fractions of base units (e.g., kilo-, milli-, micro-).              |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Metric System (SI)                  | A decimal-based system of measurement used in science worldwide.                                         |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Percent Error                       | A calculation that describes how far a measured value is from the true value, expressed as a percentage. |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Personal Protective Equipment (PPE) | Protective clothing and gear like goggles and gloves used to prevent injury.                             |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Physical Hazard                     | Environmental factors such as heat, glass, or equipment that can cause injury.                           |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Pipette                             | A tool used to measure and transfer small volumes of liquid accurately.                                  |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Precision                           | The consistency or repeatability of measurements is important.                                           |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Reproducibility                     | The ability to obtain consistent results across repeated trials is important.                            |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Scatter Plot                        | A graph used to display relationships between two variables.                                             |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Scientific Measurement              | The process of obtaining quantitative data using standardized methods.                                   |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Tare                                | The process of resetting a balance to zero before measuring.8                                            |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Temperature                         | A measure of the amount of heat energy in a substance.                                                   |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Volume                              | The amount of space an object or substance occupies.                                                     |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Waste Disposal                      | The proper handling and discarding of laboratory materials.                                              |
++-------------------------------------+----------------------------------------------------------------------------------------------------------+

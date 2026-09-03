@@ -1,4 +1,4 @@
-# **Laboratory Exercise 2: Use of the Microscope**
+# **Use of the Microscope**
 
 ## **Introduction: Use of the Microscope**
 
@@ -812,7 +812,7 @@ It is the responsibility of each student to ensure compliance with all post-labo
 
 ## **Student resources:**
 
-# **Microscopy**
+## **Microscopy**
 
 ## **The Light Microscope. A review of lab materials.**
 
