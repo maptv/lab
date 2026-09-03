@@ -1,6 +1,6 @@
-# Scientific Writing, Citations, and Using Credible Sources {.unnumbered}
+# **Scientific Writing, Citations, and Using Credible Sources** {.unnumbered}
 
-**Student Pre-Lab Questions**
+## **Student Pre-Lab Questions**
 
 1.  What makes a question scientific?
 
@@ -16,7 +16,7 @@
 
 7.  Which section explains why a study was conducted?
 
-**Overview**
+## **Overview**
 
 Biology is a scientific discipline grounded in observation, experimentation, and evidence-based reasoning. Scientific knowledge does not exist in isolation; it builds upon the work of other researchers. As a result, scientists must evaluate credible sources, cite prior work properly, and communicate findings clearly and accurately.
 
@@ -32,7 +32,7 @@ In this course, you will learn how to:
 
 Together, these skills form the foundation of scientific literacy and integrity.
 
-**Learning Objectives**
+## **Learning Objectives**
 
 By the end of this chapter, students will be able to:
 
@@ -56,11 +56,11 @@ By the end of this chapter, students will be able to:
 
 10. Use writing practices that improve clarity, accuracy, and credibility
 
-**Scientific Questions and the Role of Evidence**
+## **Scientific Questions and the Role of Evidence**
 
 Science focuses on questions that can be tested through observation, measurement, and experimentation.
 
-**Scientific Questions**
+## **Scientific Questions**
 
 - Can be investigated empirically
 
@@ -74,7 +74,7 @@ Science focuses on questions that can be tested through observation, measurement
 
 - Does a specific drug reduce disease symptoms?
 
-**Non-Scientific Questions**
+## **Non-Scientific Questions**
 
 - Cannot be tested using scientific methods
 
@@ -88,13 +88,13 @@ Science focuses on questions that can be tested through observation, measurement
 
 Only scientific questions can be addressed in laboratory investigations.
 
-**Using Credible Sources in Biology**
+## **Using Credible Sources in Biology**
 
 Before conducting research, scientists review existing knowledge. Using credible sources ensures accuracy and reliability.
 
-**Types of Scientific Sources**
+## **Types of Scientific Sources**
 
-**Primary Sources**
+## **Primary Sources**
 
 - Original research articles
 
@@ -102,17 +102,17 @@ Before conducting research, scientists review existing knowledge. Using credible
 
 - Peer-reviewed and written by experts
 
-**Secondary Sources**
+## **Secondary Sources**
 
 - Summarize or interpret primary research
 
 - Examples: textbooks, review articles
 
-**Popular vs. Scholarly Sources**
+## **Popular vs. Scholarly Sources**
 
 The following table compares popular and scholarly sources, highlighting key differences in audience, review process, and reliability in scientific research.
 
-**Table 1. Comparison of Popular and Scholarly Sources in Scientific Research**
+## **Table 1. Comparison of Popular and Scholarly Sources in Scientific Research**
 
 This table compares popular and scholarly sources across several characteristics. Popular sources are written for a general audience, are not peer-reviewed, contain few or no citations, use simplified language, and include examples such as blogs and magazines. Scholarly sources are written for an expert audience, are peer-reviewed, include extensive references, use technical language, and include examples such as scientific journals like *Science* and *Nature*.
 
@@ -126,7 +126,7 @@ This table compares popular and scholarly sources across several characteristics
 
 Scientific writing relies primarily on **scholarly sources**.
 
-**Evaluating Credibility: The CRAAP Test**
+## **Evaluating Credibility: The CRAAP Test**
 
 To assess sources, use the CRAAP criteria:
 
@@ -142,9 +142,9 @@ To assess sources, use the CRAAP criteria:
 
 Low-quality sources should not be used in scientific work.
 
-**Citing Sources and Avoiding Plagiarism**
+## **Citing Sources and Avoiding Plagiarism**
 
-**Why Citation Matters**
+## **Why Citation Matters**
 
 Citations:
 
@@ -156,11 +156,11 @@ Citations:
 
 - Maintain academic integrity
 
-**What Is Plagiarism?**
+## **What Is Plagiarism?**
 
 Plagiarism is presenting another person's work as your own.
 
-**Examples:**
+## **Examples:**
 
 - Copying text without citation
 
@@ -168,7 +168,7 @@ Plagiarism is presenting another person's work as your own.
 
 - Submitting someone else's work
 
-**Avoiding Plagiarism**
+## **Avoiding Plagiarism**
 
 Plagiarism is the act of presenting another person's work, ideas, words, or creative output as your own without giving proper credit to the original source. This can include copying text directly, paraphrasing someone else's ideas without acknowledgment, or submitting work that was created by someone else, such as a classmate or an online source. Plagiarism is considered a serious academic and ethical violation because it misrepresents authorship, undermines intellectual honesty, and deprives the original creator of recognition for their work.
 
@@ -180,7 +180,7 @@ Plagiarism is the act of presenting another person's work, ideas, words, or crea
 
 - Use quotes sparingly in science
 
-**Citation Styles in Science**
+## **Citation Styles in Science**
 
 Scientific disciplines use standardized formats such as:
 
@@ -188,11 +188,11 @@ Scientific disciplines use standardized formats such as:
 
 - **CSE (Name--Year commonly used in biology)**
 
-**In-Text Citation Example**
+## **In-Text Citation Example**
 
 - (Smith, 2020)
 
-**Reference List**
+## **Reference List**
 
 - Includes only sources cited in the paper
 
@@ -200,25 +200,25 @@ Scientific disciplines use standardized formats such as:
 
 Consistency in formatting is essential.
 
-**Writing for Science**
+## **Writing for Science**
 
 Scientific writing emphasizes **clarity**, **precision**, and **conciseness** to ensure that ideas and findings are communicated effectively. Clarity means presenting information in a straightforward and understandable manner, avoiding ambiguity or unnecessary complexity. Precision involves using specific, accurate language and terminology so that the meaning is exact and scientifically correct. Conciseness requires eliminating unnecessary words or repetition, allowing the reader to quickly grasp the essential information without distraction. Together, these principles help make scientific communication efficient, credible, and accessible to other researchers.
 
-**Structure of a Scientific Paper**
+## **Structure of a Scientific Paper**
 
 The structure of a scientific paper provides a standardized format that allows researchers to communicate findings clearly and logically. Each section has a specific purpose: the Introduction presents background and the research question, the Methods describe how the study was conducted, the Results report the data, and the Discussion interprets the findings. This organized approach helps readers quickly understand the study and evaluate its validity.
 
-**Title**
+## **Title**
 
 - Concise and descriptive
 
-**Abstract**
+## **Abstract**
 
 - Summary of purpose, methods, results, and conclusions
 
 - Written last
 
-**Introduction**
+## **Introduction**
 
 - Provides background and context
 
@@ -226,7 +226,7 @@ The structure of a scientific paper provides a standardized format that allows r
 
 - Explains importance of the study
 
-**Methods**
+## **Methods**
 
 - Describes how the study was conducted
 
@@ -234,7 +234,7 @@ The structure of a scientific paper provides a standardized format that allows r
 
 - Includes materials and procedures
 
-**Results**
+## **Results**
 
 - Presents data and findings
 
@@ -242,7 +242,7 @@ The structure of a scientific paper provides a standardized format that allows r
 
 - No interpretation
 
-**Discussion**
+## **Discussion**
 
 - Interprets results
 
@@ -250,11 +250,11 @@ The structure of a scientific paper provides a standardized format that allows r
 
 - Explains significance and limitations
 
-**Literature Cited**
+## **Literature Cited**
 
 - Lists all referenced sources
 
-**General Writing Practices**
+## **General Writing Practices**
 
 - Be concise and precise
 
@@ -272,7 +272,7 @@ The structure of a scientific paper provides a standardized format that allows r
 
 - Revise and proofread carefully
 
-**Summary and Application to Laboratory Work**
+## **Summary and Application to Laboratory Work**
 
 This chapter introduces the foundational skills required for success in biology, emphasizing the importance of scientific thinking, credible research, proper citation, and effective communication. Biology relies on evidence-based investigation, meaning that students must be able to ask testable scientific questions, evaluate reliable sources, and interpret data accurately. Understanding how to distinguish between scientific and non-scientific questions ensures that laboratory work remains focused on measurable and reproducible outcomes.
 
@@ -282,7 +282,7 @@ Equally important is the ethical use of information. Proper **citation practices
 
 The chapter also introduces **scientific writing**, which prioritizes clarity, precision, and conciseness. Students learn the standard structure of a scientific paper---including Introduction, Methods, Results, and Discussion---and the purpose of each section. This structure ensures that experiments can be clearly understood, evaluated, and replicated.
 
-**Application to a Pre-Lab or Laboratory Report**
+## **Application to a Pre-Lab or Laboratory Report**
 
 In a **pre-lab**, students apply these skills by:
 
@@ -306,7 +306,7 @@ In a **laboratory report**, students:
 
 Overall, these skills ensure that laboratory work is not only accurate and ethical but also aligned with the standards of the scientific community.
 
-**Student Post-Lab Questions**
+## **Student Post-Lab Questions**
 
 1.  How do citations improve scientific credibility?
 
@@ -356,6 +356,6 @@ Overall, these skills ensure that laboratory work is not only accurate and ethic
 | Source Evaluation | The process of determining the credibility of a source. |
 | Testable | Able to be examined through scientific experiment or observation. |
 
-**Attribution Note**
+## **Attribution Note**
 
 This chapter is adapted and synthesized from openly licensed instructional materials on scientific writing, citation practices, and evaluating sources, including OpenStax Biology and university library resources. Adapted for introductory biology laboratory instruction.
