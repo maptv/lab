@@ -6,7 +6,7 @@ book:
   - name: George Mateja
     affiliations:
       - The Community College of Baltimore County
-  date: 2026
+  date: "2026"
   chapters:
     - index.qmd
     - toc.qmd
