@@ -1,0 +1,491 @@
+**Front matter 1: Scientific Writing, Citations, and Using Credible
+Sources**
+
+**Student Pre-Lab Questions**
+
+1.  What makes a question scientific?
+
+2.  Why must credible sources be used in biology?
+
+3.  What is a primary scientific source?
+
+4.  What is plagiarism?
+
+5.  When must a source be cited?
+
+6.  What is included in an in-text citation?
+
+7.  Which section explains why a study was conducted?
+
+**Overview**
+
+Biology is a scientific discipline grounded in observation,
+experimentation, and evidence-based reasoning. Scientific knowledge does
+not exist in isolation; it builds upon the work of other researchers. As
+a result, scientists must evaluate credible sources, cite prior work
+properly, and communicate findings clearly and accurately.
+
+In this course, you will learn how to:
+
+-   Ask scientific, testable questions
+
+-   Identify and evaluate credible biological sources
+
+-   Properly cite scientific literature
+
+-   Communicate findings using accepted formats of scientific writing
+
+Together, these skills form the foundation of scientific literacy and
+integrity.
+
+**Learning Objectives**
+
+By the end of this chapter, students will be able to:
+
+1.  Distinguish between scientific and non-scientific questions
+
+2.  Identify credible sources appropriate for biological research
+
+3.  Differentiate between primary, secondary, popular, and scholarly
+    sources
+
+4.  Evaluate source credibility using objective criteria (CRAAP test)
+
+5.  Explain the importance of citation in scientific writing
+
+6.  Define plagiarism and identify examples of academic dishonesty
+
+7.  Apply proper in-text citation formats (APA or CSE style)
+
+8.  Describe the structure and purpose of sections in a scientific paper
+
+9.  Distinguish between Results and Discussion sections
+
+10. Use writing practices that improve clarity, accuracy, and
+    credibility
+
+**Scientific Questions and the Role of Evidence**
+
+Science focuses on questions that can be tested through observation,
+measurement, and experimentation.
+
+**Scientific Questions**
+
+-   Can be investigated empirically
+
+-   Rely on measurable data
+
+-   Are testable and repeatable
+
+> **Examples:**
+
+-   What temperature maximizes bacterial growth?
+
+-   Does a specific drug reduce disease symptoms?
+
+**Non-Scientific Questions**
+
+-   Cannot be tested using scientific methods
+
+-   Often involve opinions, beliefs, or ethics
+
+> **Examples:**
+
+-   What is the best genre of music?
+
+-   Should cloning be allowed?
+
+Only scientific questions can be addressed in laboratory investigations.
+
+**Using Credible Sources in Biology**
+
+Before conducting research, scientists review existing knowledge. Using
+credible sources ensures accuracy and reliability.
+
+**Types of Scientific Sources**
+
+**Primary Sources**
+
+-   Original research articles
+
+-   Present new data and experimental findings
+
+-   Peer-reviewed and written by experts
+
+**Secondary Sources**
+
+-   Summarize or interpret primary research
+
+-   Examples: textbooks, review articles
+
+**Popular vs. Scholarly Sources**
+
+The following table compares popular and scholarly sources, highlighting
+key differences in audience, review process, and reliability in
+scientific research.
+
+**Table 1. Comparison of Popular and Scholarly Sources in Scientific
+Research**
+
+This table compares popular and scholarly sources across several
+characteristics. Popular sources are written for a general audience, are
+not peer-reviewed, contain few or no citations, use simplified language,
+and include examples such as blogs and magazines. Scholarly sources are
+written for an expert audience, are peer-reviewed, include extensive
+references, use technical language, and include examples such as
+scientific journals like *Science* and *Nature*.
+
+  -----------------------------------------------------------------------
+  **Popular Sources**                  **Scholarly Sources**
+  ------------------------------------ ----------------------------------
+  General audience                     Expert audience
+
+  Not peer-reviewed                    Peer-reviewed
+
+  Few or no citations                  Extensive references
+
+  Simplified language                  Technical language
+
+  Examples: blogs, magazines           Examples: *Science*, *Nature*
+  -----------------------------------------------------------------------
+
+Scientific writing relies primarily on **scholarly sources**.
+
+**Evaluating Credibility: The CRAAP Test**
+
+To assess sources, use the CRAAP criteria:
+
+-   **Currency** -- Is the information recent?
+
+-   **Reliability** -- Is it from a trusted organization or journal?
+
+-   **Authority** -- Is the author qualified?
+
+-   **Accuracy** -- Is it supported by evidence?
+
+-   **Purpose** -- Is the content objective or biased?
+
+Low-quality sources should not be used in scientific work.
+
+**Citing Sources and Avoiding Plagiarism**
+
+**Why Citation Matters**
+
+Citations:
+
+-   Distinguish your ideas from others
+
+-   Credit original authors
+
+-   Allow verification of information
+
+-   Maintain academic integrity
+
+**What Is Plagiarism?**
+
+Plagiarism is presenting another person's work as your own.
+
+**Examples:**
+
+-   Copying text without citation
+
+-   Paraphrasing without credit
+
+-   Submitting someone else's work
+
+**Avoiding Plagiarism**
+
+Plagiarism is the act of presenting another person's work, ideas, words,
+or creative output as your own without giving proper credit to the
+original source. This can include copying text directly, paraphrasing
+someone else's ideas without acknowledgment, or submitting work that was
+created by someone else, such as a classmate or an online source.
+Plagiarism is considered a serious academic and ethical violation
+because it misrepresents authorship, undermines intellectual honesty,
+and deprives the original creator of recognition for their work.
+
+-   Use your own words
+
+-   Cite all non-original ideas
+
+-   Keep accurate research notes
+
+-   Use quotes sparingly in science
+
+**Citation Styles in Science**
+
+Scientific disciplines use standardized formats such as:
+
+-   **APA (Author--Year)**
+
+-   **CSE (Name--Year commonly used in biology)**
+
+**In-Text Citation Example**
+
+-   (Smith, 2020)
+
+**Reference List**
+
+-   Includes only sources cited in the paper
+
+-   Organized alphabetically
+
+Consistency in formatting is essential.
+
+**Writing for Science**
+
+Scientific writing emphasizes **clarity**, **precision**, and
+**conciseness** to ensure that ideas and findings are communicated
+effectively. Clarity means presenting information in a straightforward
+and understandable manner, avoiding ambiguity or unnecessary complexity.
+Precision involves using specific, accurate language and terminology so
+that the meaning is exact and scientifically correct. Conciseness
+requires eliminating unnecessary words or repetition, allowing the
+reader to quickly grasp the essential information without distraction.
+Together, these principles help make scientific communication efficient,
+credible, and accessible to other researchers.
+
+**Structure of a Scientific Paper**
+
+The structure of a scientific paper provides a standardized format that
+allows researchers to communicate findings clearly and logically. Each
+section has a specific purpose: the Introduction presents background and
+the research question, the Methods describe how the study was conducted,
+the Results report the data, and the Discussion interprets the findings.
+This organized approach helps readers quickly understand the study and
+evaluate its validity.
+
+**Title**
+
+-   Concise and descriptive
+
+**Abstract**
+
+-   Summary of purpose, methods, results, and conclusions
+
+-   Written last
+
+**Introduction**
+
+-   Provides background and context
+
+-   States research question or hypothesis
+
+-   Explains importance of the study
+
+**Methods**
+
+-   Describes how the study was conducted
+
+-   Allows replication
+
+-   Includes materials and procedures
+
+**Results**
+
+-   Presents data and findings
+
+-   Includes figures and tables
+
+-   No interpretation
+
+**Discussion**
+
+-   Interprets results
+
+-   Connects findings to existing research
+
+-   Explains significance and limitations
+
+**Literature Cited**
+
+-   Lists all referenced sources
+
+**General Writing Practices**
+
+-   Be concise and precise
+
+-   Use appropriate scientific terminology
+
+-   Prefer active voice when appropriate
+
+-   Use past tense for results, present tense for general knowledge
+
+-   Avoid ambiguity and unnecessary detail
+
+-   Treat "data" as plural
+
+-   Italicize scientific names (*Homo sapiens*)
+
+-   Revise and proofread carefully
+
+**Summary and Application to Laboratory Work**
+
+This chapter introduces the foundational skills required for success in
+biology, emphasizing the importance of scientific thinking, credible
+research, proper citation, and effective communication. Biology relies
+on evidence-based investigation, meaning that students must be able to
+ask testable scientific questions, evaluate reliable sources, and
+interpret data accurately. Understanding how to distinguish between
+scientific and non-scientific questions ensures that laboratory work
+remains focused on measurable and reproducible outcomes.
+
+A key component of scientific work is the use of **credible sources**,
+particularly scholarly and peer-reviewed materials. Students learn to
+differentiate between primary and secondary sources and to evaluate
+credibility using criteria such as the CRAAP test. This ensures that
+conclusions are based on accurate, unbiased, and scientifically valid
+information.
+
+Equally important is the ethical use of information. Proper **citation
+practices** allow students to give credit to original researchers, avoid
+plagiarism, and strengthen the credibility of their work. Using
+consistent citation formats such as APA or CSE helps maintain
+professional standards in scientific communication.
+
+The chapter also introduces **scientific writing**, which prioritizes
+clarity, precision, and conciseness. Students learn the standard
+structure of a scientific paper---including Introduction, Methods,
+Results, and Discussion---and the purpose of each section. This
+structure ensures that experiments can be clearly understood, evaluated,
+and replicated.
+
+**Application to a Pre-Lab or Laboratory Report**
+
+In a **pre-lab**, students apply these skills by:
+
+-   Formulating testable scientific questions or hypotheses
+
+-   Researching background information using credible sources
+
+-   Properly citing references used to justify the experiment
+
+In a **laboratory report**, students:
+
+-   Use the **Introduction** to explain the scientific question and
+    support it with cited research
+
+-   Describe procedures clearly in the **Methods** to allow replication
+
+-   Present data objectively in the **Results** section
+
+-   Interpret findings in the **Discussion**, connecting results to
+    scientific literature
+
+-   Include a properly formatted **Literature Cited** section
+
+Overall, these skills ensure that laboratory work is not only accurate
+and ethical but also aligned with the standards of the scientific
+community.
+
+**Student Post-Lab Questions**
+
+1.  How do citations improve scientific credibility?
+
+2.  What distinguishes scholarly from popular sources?
+
+3.  Give one example of plagiarism and explain why it is incorrect.
+
+4.  Why must Methods be replicable?
+
+5.  Why is interpretation excluded from Results?
+
+6.  How does Discussion differ from Results?
+
+7.  How do credible sources strengthen scientific conclusions?
+
+# **Appendix: Scientific Writing, Citations, and Credible Sources Terms**
+
+  -----------------------------------------------------------------------
+  Term              Definition
+  ----------------- -----------------------------------------------------
+  Abstract          A brief summary of a scientific paper including
+                    purpose, methods, results, and conclusions.
+
+  Accuracy          The correctness of information, supported by evidence
+                    and reliable sources.
+
+  APA Style         A citation format that uses author and date for
+                    referencing sources.
+
+  Authority         The credibility and qualifications of an author or
+                    source.
+
+  Bias              A tendency to present information in a non-objective
+                    or unfair way.
+
+  Citation          A reference to a source used to give credit and allow
+                    verification.
+
+  Clarity           The quality of being easy to understand in writing.
+
+  Conciseness       Expressing ideas clearly using as few words as
+                    necessary.
+
+  CRAAP Test        A tool used to evaluate sources based on Currency,
+                    Reliability, Authority, Accuracy, and Purpose.
+
+  Credible Source   A reliable and trustworthy source of information
+                    supported by evidence and expertise.
+
+  CSE Style         A citation format commonly used in biology that
+                    emphasizes author and year.
+
+  Discussion        A section of a scientific paper that interprets
+                    results and explains their significance.
+
+  Empirical         Based on observation or experiment rather than theory
+                    alone.
+
+  Introduction      The section of a paper that provides background and
+                    states the research question or hypothesis.
+
+  Literature Cited  A list of all sources referenced in a scientific
+                    paper.
+
+  Methods           The section describing how an experiment was
+                    conducted.
+
+  Peer Review       The evaluation of scientific work by experts before
+                    publication.
+
+  Plagiarism        Using another person's work or ideas without giving
+                    proper credit.
+
+  Precision         Using exact and accurate language in scientific
+                    writing.
+
+  Primary Source    An original research article presenting new data.
+
+  Purpose           The intended goal or objective of a source or study.
+
+  Reliability       The consistency and dependability of a source.
+
+  Results           The section that presents data without
+                    interpretation.
+
+  Scholarly Source  A peer-reviewed source written for a scientific
+                    audience.
+
+  Scientific        A question that can be tested through observation and
+  Question          experimentation.
+
+  Secondary Source  A source that summarizes or interprets primary
+                    research.
+
+  Significance      The importance or meaning of findings in a scientific
+                    context.
+
+  Source Evaluation The process of determining the credibility of a
+                    source.
+
+  Testable          Able to be examined through scientific experiment or
+                    observation.
+  -----------------------------------------------------------------------
+
+**Attribution Note**
+
+This chapter is adapted and synthesized from openly licensed
+instructional materials on scientific writing, citation practices, and
+evaluating sources, including OpenStax Biology and university library
+resources. Adapted for introductory biology laboratory instruction.
