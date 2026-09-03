@@ -13,6 +13,7 @@ book:
     - Front_Matter_1_Scientific_Writing,_Citations,_and_Using_Credible_Sources.qmd
     - Front_Matter_2_PRE-LAB_PREPARATION_AND_RESPONSIBLE_USE_OF_AI.qmd
     - Laboratory_Exercise_01_Metrics_and_Measurements_Safety_Dundalk_Version.qmd
+    - Laboratory_Exercise_02_Use_of_the_Microscope.qmd
 format:
   html:
     theme:
