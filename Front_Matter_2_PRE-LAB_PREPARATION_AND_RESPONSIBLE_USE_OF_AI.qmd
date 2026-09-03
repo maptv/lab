@@ -203,7 +203,7 @@ This pre-lab assignment is designed to help you prepare for the laboratory exper
 
 Remember: success in this course depends on **preparation, critical thinking, and academic integrity**. Responsible use of AI and independent learning are essential skills for both this class and future scientific work.
 
-# **Appendix: Pre-Lab Preparation and Responsible Use of AI Terms**
+## **Appendix: Pre-Lab Preparation and Responsible Use of AI Terms**
 
 | **Term** | **Definition** |
 |:---|:---|

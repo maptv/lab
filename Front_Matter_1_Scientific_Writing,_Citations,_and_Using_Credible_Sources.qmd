@@ -322,7 +322,7 @@ Overall, these skills ensure that laboratory work is not only accurate and ethic
 
 7.  How do credible sources strengthen scientific conclusions?
 
-# **Appendix: Scientific Writing, Citations, and Credible Sources Terms**
+## **Appendix: Scientific Writing, Citations, and Credible Sources Terms**
 
 | Term | Definition |
 |:---|:---|
