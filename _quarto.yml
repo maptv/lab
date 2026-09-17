@@ -7,6 +7,8 @@ book:
     affiliations:
       - The Community College of Baltimore County
   date: "2026"
+  repo-url: https://github.com/maptv/lab
+  downloads: [pdf, epub, docx]
   chapters:
     - index.qmd
     - toc.qmd
@@ -14,8 +16,12 @@ book:
     - Front_Matter_2_PRE-LAB_PREPARATION_AND_RESPONSIBLE_USE_OF_AI.qmd
     - Laboratory_Exercise_01_Metrics_and_Measurements_Safety_Dundalk_Version.qmd
     - Laboratory_Exercise_02_Use_of_the_Microscope.qmd
+    - Laboratory_Exercise_03_Molecules_Water_and_pH.qmd
 format:
   html:
     theme:
       - cosmo
       - brand
+  pdf: default
+  epub: default
+  docx: default
