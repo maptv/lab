@@ -2,6 +2,8 @@
 
 The published version of this lab notebook is available at <https://maptv.github.io/lab>.
 
+The chapter for each lab will be published at least one week before each lab.
+
 ## Setup
 
 0. Log in to or sign up for GitHub
