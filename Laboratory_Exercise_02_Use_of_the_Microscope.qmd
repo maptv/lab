@@ -350,13 +350,13 @@ Arrange the slide so that the horizontal line is aligned along the midline of th
 
     a.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ mm.
 
-    b.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ um
+    b.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ µm
 
 2.  Measure the distance of the field of view for the low power lens (10x)
 
     a.  \_\_\_\_\_\_\_\_\_\_ mm
 
-    b.  \_\_\_\_\_\_\_\_\_\_ um
+    b.  \_\_\_\_\_\_\_\_\_\_ µm
 
 When you use high-power and oil-immersion lenses, you should not be able to measure the field of view directly. At this point, you will have to calculate the field of view. This calculation is a simple conversion using the formula below:
 
@@ -370,7 +370,7 @@ In this case "A" stands for the known field information of the measured field of
 
     a)  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ mm.
 
-    b)  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ um
+    b)  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ µm
 
 <!-- -->
 
@@ -378,7 +378,7 @@ In this case "A" stands for the known field information of the measured field of
 
     a)  \_\_\_\_\_\_\_\_\_\_ mm
 
-    b)  \_\_\_\_\_\_\_\_\_\_ um
+    b)  \_\_\_\_\_\_\_\_\_\_ µm
 
 **Focusing Exercise(s)**
 

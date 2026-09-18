@@ -1,0 +1,782 @@
+# **Enzyme Activity: Turnip Peroxidase**
+
+## **Objectives**
+
+**At the completion of this lab, students will be able to:**
+
+1)  Define the term *enzyme* and identify the class of macromolecules to which enzymes belong.
+
+2)  Identify the substrate and products of the peroxidase-catalyzed reaction.
+
+3)  Explain the role of guaiacol in this reaction.
+
+4)  Use a colorimeter to detect product formation during an enzyme-mediated reaction.
+
+5)  Determine the effects of the following conditions on the rate of an enzyme-catalyzed reaction:
+
+    a)  Substrate concentration
+
+    b)  Enzyme concentration
+
+    c)  Temperature
+
+    d)  PH
+
+    e)  The inhibitor hydroxylamine
+
+6)  Use Excel, or a suitable software program, to plot the following:\
+    a. Raw data versus time\
+    b. Reaction rate versus treatment (substrate concentration, enzyme concentration, temperature, pH, and presence of inhibitors)
+
+## **Pre-Lab Activities**
+
+**Reminder:** Please complete your pre-lab assignment *before coming to the lab*. This work is intended to help you understand the experiment and be prepared to participate fully.
+
+Your instructor may collect and grade the pre-lab at the beginning of the lab session, so be sure to have it finished and ready to submit the material.
+
+**Pre-Lab Activity 5.1: DefineTerms**
+
+- Enzyme
+
+- Catalyst
+
+- Substrate
+
+- Active site
+
+- Enzyme specificity
+
+- Product
+
+- Enzyme-catalyzed reaction
+
+- Activation energy
+
+- Peroxidase
+
+- Hydrogen peroxide (H₂O₂)
+
+- Guaiacol
+
+- Tetraguaiacol
+
+- Oxidation
+
+- Reduction
+
+- Reducing agent
+
+- Oxidizing agent
+
+- Absorbance
+
+- Transmittance
+
+- Colorimeter
+
+- Wavelength (nm)
+
+- Reaction rate
+
+- Inhibitor
+
+- Denaturation
+
+- pH
+
+- Temperature (effects on enzymes)
+
+**Pre-Lab Activity 5.2: Multiple Choice Questions**
+
+1.  Enzymes function primarily to:\
+    A. Increase the temperature of reactions\
+    B. Speed up chemical reactions\
+    C. Provide energy for reactions\
+    D. Change the final products
+
+2.  Enzymes are classified as:\
+    A. Lipids\
+    B. Carbohydrates\
+    C. Proteins\
+    D. Nucleic acids
+
+3.  The molecule an enzyme acts upon is called the:\
+    A. Product\
+    B. Substrate\
+    C. Catalyst\
+    D. Inhibitor
+
+4.  In this experiment, guaiacol is used because it:\
+    A. Slows the reaction\
+    B. Produces a visible color change\
+    C. Breaks down enzymes\
+    D. Neutralizes pH
+
+5.  As tetraguaiacol forms, the solution becomes:\
+    A. Clear\
+    B. Blue\
+    C. Brown/orange\
+    D. Green
+
+6.  A colorimeter measures:\
+    A. Temperature\
+    B. Mass\
+    C. Light absorption/transmission\
+    D. pH
+
+7.  Increasing enzyme concentration will generally:\
+    A. Decrease reaction rate\
+    B. Increase reaction rate\
+    C. Have no effect\
+    D. Stop the reaction
+
+**Pre-Lab Activity 5.3: Short Answer Questions**
+
+1.  Explain why enzymes are important for living organisms.
+
+2.  What role does guaiacol play in the peroxidase reaction?
+
+3.  Why is hydrogen peroxide necessary for this reaction?
+
+4.  How does a colorimeter indirectly measure product formation?
+
+5.  Predict what might happen to enzyme activity at extremely elevated temperatures.
+
+6.  When calibrating and testing a sample, why should you wipe off the cuvette?
+
+7.  What is the catalyst in this series of experiments?
+
+8.  At what temperature do enzymes normally work in the body of a warm-blooded organism? Would your answer differ if the enzyme came from a plant or yeast? Give a specific example of your answer.
+
+9.  From the literature, what temperatures and pH values are reported to be optimum for turnip peroxidase?
+
+10. Based on information you've gleaned from your text, the internet (e.g., the Khan Academy) or your classes, construct a set of separate hypotheses for each of the five experiments (enzyme concentration, substrate concentration, temperature effects, pH effects and inhibitor effects) that will describe how, and why, the different treatments will affect the rates of reaction of absorbance.
+
+Hypothesis/Prediction Construction -- Remember that this is set this up as an - **if.... then...** statement. For example: If heat is applied to particles in a balloon, **then** because of the heated air, it is based on an increase in the gas pressure as predicted by the gas laws. This example is meant to be very general; your job is to use your answer to question \# 1 and make it into a more specific if-then statement based on your understanding prior to conduction the experiment
+
+## **Introduction**
+
+As you have learned in the lecture part of this course, enzymes are protein molecules that catalyze various reactions in living organisms. They allow organisms to carry out complex chemical activities at relatively low temperatures and are highly specific for one or a group of related reactions. Enzymes bring substrates together in a manner that increases the likelihood that a reaction will occur. One of the unique features of enzyme-catalyzed reactions is that enzymes are not consumed during the process. That is, enzymes stay unchanged during the reaction and can be reused repeatedly.
+
+Many factors can affect enzyme activity, and in this laboratory, we will study the effects of substrate concentration, enzyme concentration, temperature, pH, and inhibitors on enzyme activity (Pitkin, 1992).
+
+In this series of experiments, you will use enzyme peroxidase isolated from turnips. Peroxidases catalyze the decomposition of hydrogen peroxide. In reactions catalyzed by peroxidase, reducing agents, such as guaiacol, donate electrons and hydrogen atoms, while hydrogen peroxide acts as the oxidizing agent. These reactions result in the formation of water and an oxidized organic compound, tetraguaiacol, as shown in the equation below:
+
+**4 H₂O₂ + 4 guaiacol → tetraguaiacol + 4 H₂O**
+
+Guaiacol acts as the hydrogen donor (i.e., it is the reducing agent). When guaiacol is oxidized, it changes from a colorless liquid to a dark orange-brown compound (tetraguaiacol). In this experiment, blue light (470 nm) will be passed through the solution, and a colorimeter will measure the amount of light transmitted. This measurement is based on the absorption of blue light by the brown-colored solution (Enzyme Activity Guided Inquiry Lab: Turnip Peroxidase, 2018).
+
+## **Materials**
+
+- Gloves
+
+- Goggles
+
+- Bottle of distilled water
+
+- Bottle of turnip extract
+
+- Bottle of substrate mix
+
+- Colorimeter/Spectrometer cuvettes
+
+- Micropipette (100-1000µl)
+
+- Box of tissue wipes.
+
+- Cup for waste pipettes
+
+- Cup for waste liquids.
+
+- Pipettes: 1, 5, and/or 10ml
+
+- Pipetters
+
+    - Green: the 5 & 10 ml pipettes
+
+    - Blue: the 1 ml pipettes
+
+## **Methods**
+
+**Lab Activity 5.1: Practice experiments**
+
+1)  **Obtain and wear gloves and goggles**
+
+2)  **Practice run #1: 5-minute data collection**
+
+    a)  Set the collection time. To set the collection time, you need to find the sampling time button, which looks like a clock on the upper right-hand side of the top bar. When you activate this program, you should set the collection duration for 300 seconds (5 min.) and collect each sample every 30 seconds (30 seconds/sample)
+
+    b)  Add the following to the cuvette.
+
+        i)  **2.2 ml of distilled water**
+
+        ii) **400 µl of turnip extract**
+
+    c)  Calibrate the sensor
+
+        i)  Press the (\<or\>) button to select the 470 nm wavelength. You will not have to do this during the other runs.
+
+        ii) Close the colorimeter lid. Press and hold the CAL button until the red light begins to flash.
+
+            (1) The absorbance should read 0.001 or less. If the display is set for transmittance, then the reading should be approximately 100%.
+
+            (2) When the light stops flashing, the system is calibrated.
+
+    d)  Test the sample
+
+        i)  Open the lid and **add 400 µl of the substrate mix** to the cuvette.
+
+        ii) Close the lid at once and hit the collect button (The green button at the right of the top bar)
+
+        iii) Record the data from your 5-minute experiment in table 5.6 of the Results Section.
+
+3)  **Practice run #2: 1 minute data collection**
+
+    a)  Set the collection time. To set the collection time, you need to find the sampling time button that looks like a clock on the upper right-hand side of the top bar. When you activate this program, you should set the collection duration for 60 seconds (1 min.) and collect each sample every 10 seconds (10 seconds/sample)
+
+        i)  Add the following to the cuvette.
+
+            (1) **2.2 ml of distilled water**
+
+            (2) **400 µl of turnip extract**
+
+    b)  Calibrate the sensor
+
+        i)  Close the colorimeter lid. Press and hold the CAL button until the red light begins to flash.
+
+            (1) The absorbance should read 0.001 or less.
+
+            (2) When the light stops flashing, the system is calibrated.
+
+        ii) Open the lid and **add 400 µl of the substrate mix** to the cuvette.
+
+        iii) Close the lid immediately and hit the collect button (The green button at the right of the top bar)
+
+        iv) Record the data from your 1-minute experiment in table 5.7 of the Results section below.
+
+**\
+**
+
+**Lab Activity 5.2: Experimental data collections**
+
+1)  **Enzyme concentration**
+
+**Table 5.1: Enzyme Experimental Setup**
+
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+| **Concentration** | **Distilled Water (ml)** | **Turnip Extract (µl)** | **Substrate Mix (µl)** | **Total**   |
+|                   |                          |                         |                        |             |
+|                   |                          |                         |                        | **(ml)**    |
++:=================:+:========================:+:=======================:+:======================:+:===========:+
+| **0.5 x**         | 2.4                      | 200                     | 400                    | 3.0         |
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+| **1.0 x**         | 2.2                      | 400                     | 400                    | 3.0         |
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+| **2.0 x**         | 1.8                      | 800                     | 400                    | 3.0         |
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+
+a.  From now on, you do not have to reset the time.
+
+b.  Add the proper amount of distilled water and Turnip extract as is shown in the table above.
+
+c.  Calibrate the spectrophotometer using the methods outlined previously
+
+d.  Add the proper amount of substrate for the run you need to run.
+
+e.  Close the lid immediately and hit the collect button (The green button at the right of the top bar)
+
+<!-- -->
+
+a.  Record the data from your enzyme concentration experiment in table 3 of the Results section.
+
+<!-- -->
+
+2)  **Substrate Concentration**
+
+**Table 5.2: Substrate Experimental Setup**
+
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+| **Concentration** | **Distilled Water (ml)** | **Turnip Extract (µl)** | **Substrate Mix (µl)** | **Total**   |
+|                   |                          |                         |                        |             |
+|                   |                          |                         |                        | **(ml)**    |
++:=================:+:========================:+:=======================:+:======================:+:===========:+
+| **0.5 x**         | 2.4                      | 400                     |                        | 3.0         |
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+| **1.0 x**         | 2.2                      | 400                     |                        | 3.0         |
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+| **2.0 x**         | 1.8                      | 400                     |                        | 3.0         |
++-------------------+--------------------------+-------------------------+------------------------+-------------+
+
+a.  Complete the chart above
+
+b.  Setup each cuvette using the amounts shown in the chart above
+
+c.  Close the lid immediately and hit the collect button (The green button at the right of the top bar)
+
+d.  Record the data from your substrate concentration experiment in table 4 of the Results section.
+
+<!-- -->
+
+3)  **pH effects**
+
+**Table 5.3: pH Experimental Setup**
+
++----------------------+--------------------------+-------------------------+---------------------------------------+-----------+
+| **pH**               | **Distilled Water (ml)** | **Turnip Extract (µl)** | **Buffered Water Substrate Mix (µl)** | **Total** |
+|                      |                          |                         |                                       |           |
+|                      |                          |                         |                                       | **(ml)**  |
++:====================:+:========================:+:=======================:+:=====================================:+:=========:+
+| **All pH solutions** | 2.2                      | 400                     | 400                                   | 3.0       |
++----------------------+--------------------------+-------------------------+---------------------------------------+-----------+
+
+a.  Complete the chart above
+
+b.  Setup each cuvette using the amounts showed in the chart above
+
+c.  Close the lid immediately and hit the collect button (The green button at the right of the top bar)
+
+d.  Record the data from your pH experiment in table 5 of the Results section.
+
+<!-- -->
+
+4)  **Temperature effects**
+
+**Table 5.4: Temperature Effects Experimental Setup**
+
++-----------------------------+------------------------------+--------------------------+-------------------------+---------------------------------+-----------+
+| **Temperature description** | **Actual Water Temperature** | **Distilled Water (ml)** | **Turnip Extract (µl)** | **Buffered Substrate Mix (µl)** | **Total** |
+|                             |                              |                          |                         |                                 |           |
+|                             |                              |                          |                         |                                 | **(ml)**  |
++:===========================:+:============================:+:========================:+:=======================:+:===============================:+:=========:+
+| **Ice water**               | \_\_\_\_ **^o^C**            | 2.2                      | 400                     | 400                             | 3.0       |
++-----------------------------+------------------------------+--------------------------+-------------------------+---------------------------------+-----------+
+| **Room Temperature**        | \_\_\_\_ **^o^C**            | 2.2                      | 400                     | 400                             | 3.0       |
++-----------------------------+------------------------------+--------------------------+-------------------------+---------------------------------+-----------+
+| **Body Temperature**        | \_\_\_\_ **^o^C**            | 2.2                      | 400                     | 400                             | 3.0       |
++-----------------------------+------------------------------+--------------------------+-------------------------+---------------------------------+-----------+
+| **Boiling water**           | \_\_\_\_ **^o^C**            | 2.2                      | 400                     | 400                             | 3.0       |
++-----------------------------+------------------------------+--------------------------+-------------------------+---------------------------------+-----------+
+
+a.  Complete the chart above
+
+b.  Setup each cuvette using the amounts indicated in the chart above
+
+c.  Close the lid immediately and hit the collect button (The green button at the right of the top bar)
+
+d.  Record the data from your temperature effects experiment in table 6 of the Results section.
+
+<!-- -->
+
+5)  **Inhibitor**
+
+**Table 5.5: Inhibitor Experimental Setup**
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+    **Experiment**    **Distilled Water (ml)**   **Turnip Extract (µl)**   **substrate mix (µl)**   **Inhibitor (µl)**   **Total (ml)**
+  ------------------ -------------------------- ------------------------- ------------------------ -------------------- ----------------
+    **Inhibitor**               1.8                        400                      400                    400                3.0
+
+   **No inhibitor**             2.2                        400                      400                     0                 3.0
+  --------------------------------------------------------------------------------------------------------------------------------------
+
+a.  Setup each cuvette using the amounts indicated in the chart above
+
+b.  Close the lid immediately and hit the collect button (The green button at the right of the top bar)
+
+c.  Record the data from your inhibitor experiment in table 7 of the Results section.
+
+## **Results**
+
+1)  **Experimental data**
+
+> **Table 5.6.: Five-minute Practice Run**
+
++------------------------------+---------------------------------------+
+| > **Time (in seconds)**      | > **Absorbance**                      |
++:============================:+=======================================+
+| **0**                        |                                       |
++------------------------------+---------------------------------------+
+| **30**                       |                                       |
++------------------------------+---------------------------------------+
+| **60**                       |                                       |
++------------------------------+---------------------------------------+
+| **90**                       |                                       |
++------------------------------+---------------------------------------+
+| **120**                      |                                       |
++------------------------------+---------------------------------------+
+| **180**                      |                                       |
++------------------------------+---------------------------------------+
+| **210**                      |                                       |
++------------------------------+---------------------------------------+
+| **240**                      |                                       |
++------------------------------+---------------------------------------+
+| **270**                      |                                       |
++------------------------------+---------------------------------------+
+| **300**                      |                                       |
++------------------------------+---------------------------------------+
+
+> **Table 5.7: One-minute Practice Run**
+
++------------------------------+---------------------------------------+
+| > **Time (in seconds)**      | > **Absorbance**                      |
++==============================+=======================================+
+| > **0**                      |                                       |
++------------------------------+---------------------------------------+
+| > **10**                     |                                       |
++------------------------------+---------------------------------------+
+| > **20**                     |                                       |
++------------------------------+---------------------------------------+
+| > **30**                     |                                       |
++------------------------------+---------------------------------------+
+| > **40**                     |                                       |
++------------------------------+---------------------------------------+
+| > **50**                     |                                       |
++------------------------------+---------------------------------------+
+| > **60**                     |                                       |
++------------------------------+---------------------------------------+
+
+> **Table 5.8: Enzyme Concentration Experimental Data**
+
+  ----------------------------------------------------------------------------
+   **Enzyme Concentration**                                    
+  -------------------------- ---------------- ---------------- ---------------
+    **Time (in seconds)**       **0.5 x**         **1.0x**        **2.0x**
+
+            **0**                                              
+
+            **10**                                             
+
+            **20**                                             
+
+            **30**                                             
+
+            **40**                                             
+
+            **50**                                             
+
+            **60**                                             
+  ----------------------------------------------------------------------------
+
+> **Table 5.9: Substrate Concentration Experimental Data**
+
+  -------------------------------------------------------------------------------------
+   **Substrate Concentration**                                        
+  ----------------------------- ------------------ ------------------ -----------------
+      **Time (in seconds)**         **0.5 x**           **1.0x**          **2.0x**
+
+              **0**                                                   
+
+             **10**                                                   
+
+             **20**                                                   
+
+             **30**                                                   
+
+             **40**                                                   
+
+             **50**                                                   
+
+             **60**                                                   
+  -------------------------------------------------------------------------------------
+
+> **Table 5.10: pH Experimental Data**
+
+  -----------------------------------------------------------------------------------
+   **Time (in seconds)**   **pH 2**    **pH 5**    **pH 7**    **pH 8**    **pH 10**
+  ----------------------- ----------- ----------- ----------- ----------- -----------
+           **0**                                                          
+
+          **10**                                                          
+
+          **20**                                                          
+
+          **30**                                                          
+
+          **40**                                                          
+
+          **50**                                                          
+
+          **60**                                                          
+  -----------------------------------------------------------------------------------
+
+> **Table 5.11: Temperature Effects Data**
+
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| **Time (in seconds)** | **Ice water**             | **Room Temp.**            | **Body Temp.**            | **Hot/Boiling Temp.**     |
+|                       |                           |                           |                           |                           |
+|                       | **\_\_\_\_\_\_\_\_ ^o^C** | **\_\_\_\_\_\_\_\_ ^o^C** | **\_\_\_\_\_\_\_\_ ^o^C** | **\_\_\_\_\_\_\_\_ ^o^C** |
++:=====================:+:=========================:+:=========================:+:=========================:+:=========================:+
+| **0**                 |                           |                           |                           |                           |
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| **10**                |                           |                           |                           |                           |
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| **20**                |                           |                           |                           |                           |
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| **30**                |                           |                           |                           |                           |
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| **40**                |                           |                           |                           |                           |
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| **50**                |                           |                           |                           |                           |
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+| **60**                |                           |                           |                           |                           |
++-----------------------+---------------------------+---------------------------+---------------------------+---------------------------+
+
+> **Table 5.12: Inhibitor Experiment Data**
+
+  ------------------------------------------------------------------------
+   **Time (in seconds)**      **No Inhibitor**          **Inhibitor**
+  ------------------------ ----------------------- -----------------------
+           **0**                                   
+
+           **10**                                  
+
+           **20**                                  
+
+           **30**                                  
+
+           **40**                                  
+
+           **50**                                  
+
+           **60**                                  
+  ------------------------------------------------------------------------
+
+**Lab Activity 5.3: Data analysis**
+
+Create a set of graphs using the data generated from these experiments. The first set of graphs requires that you plot the absorbance data over time. The trend-line of this graph will enable you to determine the rate of reaction (slope) of the absorbance data.
+
+The second plot requires you to plot the rate of reaction (slope) of the absorbance versus the treatment. Instructions to calculate and plot the data to complete each of the graphs described above are in the Appendix.
+
+**Reaction rate data**
+
+> **\*Student Note:** Graphs "a" through "d" should be created as scatterplots with the data points connected.
+
+a)  **Enzyme concentration experiment**
+
+> **Table 5.13: Enzyme Treatment vs. Enzyme Reaction Rate Data**
+
+  -----------------------------------------------------------------------
+       **Enzyme concentration**       **Reaction Rate**
+  ----------------------------------- -----------------------------------
+               **0.5 x**              
+
+               **1.0 x**              
+
+               **2.0 x**              
+  -----------------------------------------------------------------------
+
+> Describe the relationship between the enzyme concentration vs. the reaction rate trend that you plotted in your graphs.
+
+b)  **Substrate concentration experiment**
+
+> **Table 5.14: Substrate Treatment vs. Enzyme Reaction Rate Data**
+
+  -----------------------------------------------------------------------
+      **Substrate concentration**     **Reaction Rate**
+  ----------------------------------- -----------------------------------
+               **0.5x**               
+
+               **1.0x**               
+
+               **2.0x**               
+  -----------------------------------------------------------------------
+
+> Describe the relationship between the substrate concentration vs. the reaction rate trend that you plotted in your graphs.
+
+c)  **Effects of pH experiment**
+
+> **Table 5.15: pH Treatment vs. Enzyme Reaction Rate Data**
+
+  -----------------------------------------------------------------------
+           **pH**                        **Reaction Rate**
+  ------------------------ ----------------------------------------------
+             2             
+
+             5             
+
+             7             
+
+             8             
+
+             10            
+  -----------------------------------------------------------------------
+
+> Describe the relationship between the pH vs. the reaction rate trend that you plotted in your graphs.
+
+d)  **Effects of temperature experiment**
+
+> **Table 5.16: Temperature Treatment vs. Enzyme Reaction Rate Data**
+
+  -----------------------------------------------------------------------
+      **Water Temperature ^O^C**      **Reaction Rate**
+  ----------------------------------- -----------------------------------
+       \_\_\_\_\_\_\_\_ **^o^C**      
+
+       \_\_\_\_\_\_\_\_ **^o^C**      
+
+       \_\_\_\_\_\_\_\_ **^o^C**      
+
+       \_\_\_\_\_\_\_\_ **^o^C**      
+
+       \_\_\_\_\_\_\_\_ **^o^C**      
+  -----------------------------------------------------------------------
+
+> Describe the relationship between the substrate concentration vs. the reaction rate trend that you plotted in your graphs.
+
+e)  **Inhibitor experiment: \*Note to the student, this graph is best plotted as a bar graph**
+
+> **Table 5.17: Inhibitor Treatment vs. Enzyme Reaction Rate Data**
+
+  -----------------------------------------------------------------------
+               **Inhibitor**              **Reaction Rate**
+  --------------------------------------- -------------------------------
+                  Present                 
+
+                  Absence                 
+  -----------------------------------------------------------------------
+
+> Describe the relationship between the presence or absence vs. the reaction rate trend that you plotted in your graphs.
+
+## **Post-Lab Activities: Discussion Questions**
+
+**After completing the lab**, be sure to work through the post-lab questions. These are designed to help you analyze your results and better understand the concepts explored in the experiment.
+
+You should review your answers with your lab instructor before the session ends. Some instructors may ask you to submit your post-lab work for a grade at the end of class, so plan your time accordingly.
+
+From your results, explain the following:
+
+**Post-Lab Activity 5.1: Multiple Choice Questions**
+
+1.  If the enzyme becomes saturated with substrate, increasing substrate concentration will:\
+    A. Increase rate indefinitely\
+    B. Decrease rate\
+    C. Have little to no effect\
+    D. Destroy the enzyme
+
+2.  A decrease in reaction rate at elevated temperature is most likely due to:\
+    A. Increased substrate collisions\
+    B. Denaturation of the enzyme\
+    C. Increased pH\
+    D. Increased absorbance
+
+3.  If hydroxylamine inhibits peroxidase, it most likely:\
+    A. Acts as a substrate\
+    B. Blocks the active site or alters enzyme structure\
+    C. Increases temperature\
+    D. Changes color of guaiacol
+
+4.  Which condition would decrease conductivity?\
+    A. Optimal pH\
+    B. High substrate concentration\
+    C. Extreme pH\
+    D. Moderate temperature
+
+**Post-Lab Activity 5.2: Short Answer / Analysis Questions**
+
+1.  Interpret your data: How did reaction rate change with increasing substrate concentration? Explain biologically.
+
+2.  Compare the effects of temperature and pH on enzyme activity. Which had the greatest impact and why?
+
+3.  Explain why enzyme activity decreases at molecular level with extreme pH values.
+
+4.  Describe how the presence of an inhibitor affected your results. What type of inhibition might occur?
+
+5.  Why is it important to measure reaction rate instead of just the final amount of product?
+
+6.  If your data did not match expected trends, identify two sources of experimental error.
+
+7.  Based on your results, describe the best conditions for peroxidase activity.
+
+8.  How did changing the concentration of the enzyme affect the rate of decomposition of H~2~O~2~?
+
+    1.  Did the trend you observed follow your hypothesis?
+
+    2.  If you increased the concentration of enzyme to 8x, what do you think will happen to the rate of reaction? Predict what the rate would be for a concentration of 8x.
+
+9.  How did the changes in temperature affect the reaction rate?
+
+    a.  At what temperature was the greatest rate of enzyme activity? The least? Explain.
+
+    b.  Did the result support or reject your hypotheses explain why?
+
+    c.  Organisms that depend on external temperatures often show varying metabolic rates throughout the day. Analyze how fluctuations in environmental temperature influence enzyme behavior and metabolic processes in these organisms.
+
+10. Research and choose an enzyme related to genetic disorder. Write a summary of the enzyme effects and their influences on the body.
+
+11. Imagine you are working in an international research laboratory as a prominent research scientist. Knowing that each enzyme has a set of optimal conditions (pH, temperature). Describe how you will go about to find out the best conditions for a newly discovered enzyme.
+
+## **Appendix: Enzyme Activity and Experimental Methods Terms**
+
+  --------------------------------------------------------------------------------------------------------------------------------
+  Term                       Definition
+  -------------------------- -----------------------------------------------------------------------------------------------------
+  Absorbance                 A measure of how much light is absorbed by a solution; used to estimate concentration of a product.
+
+  Active Site                The region of an enzyme where the substrate binds and the reaction occurs.
+
+  Calibration                The process of adjusting an instrument to ensure accurate measurements.
+
+  Colorimeter                An instrument used to measure the absorbance of light by a solution.
+
+  Control                    A standard for comparison in an experiment where variables are kept constant.
+
+  Cuvette                    A small transparent container used to hold samples for spectrophotometer or colorimeter readings.
+
+  Data Collection            The process of gathering measurements during an experiment.
+
+  Denaturation               A change in protein structure that causes loss of function, often due to extreme temperature or pH.
+
+  Enzyme                     A protein that speeds up chemical reactions in living systems without being consumed.
+
+  Enzyme Concentration       The amount of enzyme present, which can affect the rate of a reaction.
+
+  Experimental Variable      A factor that is changed or tested in an experiment (e.g., pH, temperature).
+
+  Graphing                   The process of visually representing data to analyze trends.
+
+  Hydrogen Peroxide (H2O2)   A chemical compound that serves as the substrate for peroxidase in this experiment.
+
+  Inhibitor                  A substance that decreases or stops enzyme activity.
+
+  Optimal Conditions         The specific conditions (temperature, pH, concentration) at which an enzyme works best.
+
+  pH                         A measure of how acidic or basic a solution is.
+
+  Reaction Mixture           The combined solution of enzyme, substrate, and other components used in an experiment.
+
+  Reaction Rate              The speed at which reactants are converted into products.
+
+  Sampling Interval          The time between each data collection point during an experiment.
+
+  Slope                      The rate of change in a graph, often used to determine reaction rate.
+
+  Spectrophotometer          An instrument used to measure how much light a sample absorbs at a specific wavelength.
+
+  Substrate                  The molecule upon which an enzyme acts.
+
+  Substrate Concentration    The amount of substrate available in a reaction, affecting reaction rate.
+
+  Temperature                A measure of heat that can influence enzyme activity and reaction rates.
+
+  Transmittance              The amount of light that passes through a sample.
+
+  Turnip Peroxidase          An enzyme extracted from turnips that catalyzes the breakdown of hydrogen peroxide.
+
+  Wavelength                 The distance between peaks of light waves, measured in nanometers, used in absorbance readings.
+  --------------------------------------------------------------------------------------------------------------------------------
+
+## **Acknowledgment of Use**
+
+Portions of this laboratory exercise were developed using and adapted from previously published educational resources. The authors gratefully acknowledge the contributions of the following works:
+
+The **Enzyme Activity Guided Inquiry Lab: Turnip Peroxidase** (2018), developed by Flinn Scientific Inc., provided foundational concepts and methodological approaches that informed the design of this laboratory activity. This resource was retrieved from: <https://www.flinnsci.com/api/library/Download/c72433f3c1c4436ebec63bd06bee4768>
+
+Conceptual and instructional elements were also informed by:
+
+- Pitkin, R. (1992). *Enzyme investigations for introductory courses*, in **Tested Studies for Laboratory Teaching**, Vol. 13 (C. A. Goldman, Ed.), Proceedings of the 13th Workshop/Conference of the Association for Biology Laboratory Education (ABLE).
+
+Additional material was adapted from:
+
+- Kilbourne, J., & Montgomery, L. (2009). *Laboratory investigations for BIOL 110* (pp. 59--75). Kendall Hunt Publishing Company. This material has been used with permission; further reproduction is subject to the original copyright.
+
+These resources have been modified, reorganized, and integrated for instructional use in this laboratory manual. Any errors, omissions, or interpretations are the responsibility of the author.

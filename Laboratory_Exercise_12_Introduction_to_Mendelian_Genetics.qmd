@@ -1,0 +1,1055 @@
+# **Introduction to Mendelian Genetics**
+
+## **Introduction**
+
+Gregor Mendel is widely recognized as the **father of modern genetics** because his experiments provided the first clear explanation of how inherited characteristics are transmitted from one generation to the next. Mendel was born in 1822 and grew up on a farm, where he developed an early interest in plants. His later education in mathematics and science, especially at the University of Vienna, helped him apply quantitative reasoning to biological questions.
+
+Between 1856 and 1865, Mendel conducted controlled breeding experiments using pea plants (*Pisum sativum*). He selected pea plants because they possessed easily observed traits, reproduced quickly, and could be artificially fertilized under controlled conditions. By tracking characteristics such as seed shape, seed color, flower color, and plant height across generations, he demonstrated that traits are inherited as discrete hereditary units rather than blending together. These findings became the conceptual basis for what are now called genes.
+
+Mendel presented his results to the Natural History Society of Brno in 1865 and published them in 1866 in a paper titled *Experiments in Plant Hybridization*. Despite the importance of his conclusions, the work attracted little attention at the time. Historians and science references note that his paper circulated only narrowly and that many contemporary scientists did not appreciate the significance of his mathematical treatment of inheritance. Mendel's work was not widely recognized until about 1900, when other scientists rediscovered similar inheritance patterns and connected them to his earlier publication.
+
+The modern language of genetics emerged after Mendel, but the principles he discovered remain foundational. A **gene** is a unit of heredity, and a **trait** is a heritable characteristic influenced by one or more genes. Alternative versions of a gene are called **alleles**, and the specific physical position of a gene on a chromosome is its **locus**. Diploid organisms inherit two alleles for most genes, one from each parent. When both alleles are the same, the organism is **homozygous** for that gene; when the alleles differ, the organism is **heterozygous**.
+
+The outward expression of a genetic characteristic is the **phenotype**, whereas the underlying allele combination is the **genotype**. In classical Mendelian inheritance, a **dominant** allele is expressed in the phenotype whenever it is present, while a **recessive** allele is expressed only when two recessive copies are inherited. However, not all inheritance patterns follow simple dominance. In **incomplete dominance**, the heterozygous phenotype is intermediate between the two homozygous phenotypes. In **codominance**, both alleles are fully expressed in the heterozygote. In **sex-linked inheritance**, the gene responsible for a trait is located on a sex chromosome, most often the X chromosome.
+
+In this laboratory, students will first analyze a **monohybrid cross**, which follows the inheritance of a single trait. Monohybrid crosses are especially useful for examining complete dominance, incomplete dominance, codominance, and sex-linked traits. Students will then examine a **dihybrid cross**, which tracks two traits simultaneously and illustrates how genes may assort independently during gamete formation. Together, these exercises introduce the predictive framework of Mendelian genetics.
+
+**Objectives**
+
+Upon completion of this laboratory exercise, students should be able to:
+
+1.  Describe the historical significance of Gregor Mendel's work in establishing the foundations of modern genetics.
+
+2.  Define essential genetic terms, including **gene, trait, locus, allele, genotype, phenotype, homozygous, heterozygous, dominant,** and **recessive**.
+
+3.  Distinguish between **monohybrid** and **dihybrid** crosses and explain the biological questions each type of cross addresses.
+
+4.  Predict genotypic and phenotypic ratios from monohybrid crosses involving complete dominance.
+
+5.  Interpret inheritance patterns that deviate from simple dominance, including **codominance, incomplete dominance,** and **sex-linked inheritance**.
+
+6.  Use Punnett square analysis to evaluate expected outcomes of genetic crosses.
+
+7.  Relate observed inheritance patterns to Mendel's principles of segregation and independent assortment.
+
+**Topics Covered in This Laboratory**
+
+- Monohybrid crosses with complete dominance
+
+- Monohybrid crosses with codominance
+
+- Monohybrid crosses with sex linkage
+
+- Monohybrid crosses with incomplete dominance
+
+- Dihybrid crosses
+
+## **Pre-Lab Activity 12.1: Questions and Definitions**
+
+1.  Why is Gregor Mendel considered the founder of modern genetics?
+
+2.  Why were pea plants especially useful for Mendel's studies of inheritance?
+
+3.  Define the terms **gene**, **trait**, **allele**, and **locus** in your own words.
+
+4.  What is the difference between **genotype** and **phenotype**?
+
+5.  What is the difference between a **homozygous** individual and a **heterozygous** individual?
+
+6.  In a trait showing complete dominance, how does the phenotype of a heterozygote compare with that of a homozygous dominant individual?
+
+7.  What is the difference between **complete dominance**, **incomplete dominance**, and **codominance**?
+
+8.  What distinguishes a **monohybrid cross** from a **dihybrid cross**?
+
+9.  Why are sex-linked traits often inherited differently from autosomal traits?
+
+10. If two heterozygous individuals are crossed for a single trait showing complete dominance, what genotypic and phenotypic ratios would you predict?
+
+## **Monohybrid Cross Problems Using a Punnett Square**
+
+A **monohybrid cross** follows the inheritance of a **single gene or trait**. In a Punnett square, the possible **gametes** from one parent are written across the top, and the possible gametes from the other parent are written along the side. Each box inside the square represents one possible offspring genotype. This allows students to predict both **genotypic ratios** and **phenotypic ratios** for a cross.
+
+For a trait that follows **complete dominance**, the **dominant allele** is expressed whenever it is present, while the **recessive allele** is expressed only when an individual has two recessive copies.
+
+**Problem 1: Worked Example: Homozygous Dominant × Homozygous Recessive**
+
+In pea plants, **purple flowers (P)** are dominant to **white flowers (p\*)**. Cross a **homozygous dominant purple-flowered plant** with a **homozygous recessive white-flowered plant**.
+
+- Parent 1 genotype = **PP**
+
+- Parent 2 genotype = **p\*p\***
+
+**Step 1. Determine the gametes from each parent**
+
+Because each gamete receives only **one allele** for the gene, the **PP** parent can produce only **P** gametes, and the **p\*p\*** parent can produce only **p\*** gametes. This follows Mendel's principle of segregation.
+
+- Gametes from **PP**: **\_\_\_\_\_, \_\_\_\_\_**
+
+- Gametes from **p\*p\***: **\_\_\_\_\_, \_\_\_\_\_**
+
+**Step 2. Set up the Punnett square**
+
+**Fill in the outer boxes below**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+                                                  
+  ----------------------- ----------------------- -----------------------
+
+**Step 3. Identify the offspring genotypes**
+
+All four boxes contain the genotype **Pp\***.
+
+- Offspring genotypes: **100% Pp\***
+
+- Genotypic ratio: **0 PP : 4 Pp\* : 0 p\*p\***
+
+- Simplified genotypic ratio: **100% heterozygous**
+
+**Step 4. Identify the offspring phenotypes**
+
+Because **P** is dominant, every offspring with genotype **Pp\*** will have **purple flowers**. In complete dominance, a heterozygote shows the dominant phenotype.
+
+- Offspring phenotypes: **100% purple flowers**
+
+- Phenotypic ratio: **4 purple : 0 white**
+
+**Conclusion**
+
+A cross between a **homozygous dominant** parent and a **homozygous recessive** parent produces offspring that are:
+
+- **100% heterozygous**
+
+- **100% dominant phenotype**
+
+This is a useful first example because every offspring has the same genotype and the same phenotype.
+
+**How to Solve Any Monohybrid Cross**
+
+You can use the following method for every problem:
+
+1.  **Write the genotypes of both parents.**
+
+2.  **Determine the possible gametes** from each parent. Each gamete carries only one allele for the trait.
+
+3.  **Draw a 2 × 2 Punnett square** for a monohybrid cross.
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+                                                  
+  ----------------------- ----------------------- -----------------------
+
+4.  Place one **allele** from each parent in one of the outside boxes.
+
+5.  **Fill in the four internal boxes** by combining one allele from each parent.
+
+6.  **Count the genotypes** to determine the **genotypic ratio**.
+
+7.  **Use dominance rules** to determine the **phenotypic ratio**.
+
+**Practice Problems for you to complete.** Below are **five additional monohybrid cross problems** for you to solve.
+
+**Problem 1: Homozygous Dominant × Heterozygous**
+
+In pea plants, **tall (T)** is dominant to **short (t\*)**. Cross a **homozygous dominant tall plant** with a **heterozygous tall plant**.
+
+- Parent 1 genotype = **TT**
+
+- Parent 2 genotype = **Tt\***
+
+**You must determine:**
+
+- The gametes from each parent
+
+- The Punnett square
+
+- The offspring genotypes
+
+- The genotypic ratio
+
+- The phenotypic ratio
+
+**Problem 2: Heterozygous × Heterozygous**
+
+In pea plants, **yellow seeds (Y)** are dominant to **green seeds (y\*)**. Cross two **heterozygous yellow-seeded plants**.
+
+- Parent 1 genotype = **Yy\***
+
+- Parent 2 genotype = **Yy\***
+
+**You must determine:**
+
+- The Punnett square
+
+- The genotypic ratio
+
+- The phenotypic ratio
+
+A heterozygote × heterozygote monohybrid cross is the classic cross that produces a **1:2:1 genotypic ratio** and a **3:1 phenotypic ratio** under complete dominance.
+
+**Problem 3: Heterozygous × Homozygous Recessive**
+
+In pea plants, **round seeds (R)** are dominant to **wrinkled seeds (r\*)**. Cross a **heterozygous round-seeded plant** with a **homozygous recessive wrinkled-seeded plant**.
+
+- Parent 1 genotype = **Rr\***
+
+- Parent 2 genotype = **r\*r\***
+
+**Students should determine:**
+
+- The gametes from each parent
+
+- The Punnett square
+
+- The genotypic ratio
+
+- The phenotypic ratio
+
+**Problem 4: Homozygous Recessive × Homozygous Recessive**
+
+In pea plants, **green pods (g\*)** are recessive to **yellow pods (G)**. Cross two **homozygous recessive green-podded plants**.
+
+- Parent 1 genotype = **g\*g\***
+
+- Parent 2 genotype = **g\*g\***
+
+**You must determine:**
+
+- The Punnett square
+
+- The genotype of all offspring
+
+- The phenotype of all offspring
+
+**Problem 5: Test Cross**
+
+In pea plants, **purple flowers (P)** are dominant to **white flowers (p\*)**. A purple-flowered plant has the genotype **P\_**, meaning the second allele is unknown. To determine whether it is **PP** or **Pp\***, it is crossed with [a **white-flowered plant (p\*p\*)**.]{.underline}
+
+**Part A**
+
+Assume the unknown purple-flowered plant is **PP**.
+
+- Cross: **PP × p\*p\***
+
+**Part B**
+
+Assume the unknown purple-flowered plant is **Pp\***.
+
+- Cross: **Pp\* × p\*p\***
+
+**Students should determine:**
+
+- The Punnett square for each cross
+
+- The phenotypic ratio for each cross
+
+- Which result would indicate that the unknown parent is heterozygous
+
+A **test cross** uses a homozygous recessive parent to help reveal the genotype of an individual showing the dominant phenotype.
+
+**Problem 6.**
+
+In rabbits, **black fur (B)** is dominant to **white fur (b\*)**.\
+A **black rabbit** is crossed with a **white rabbit**, and **half** of the offspring are black and **half** are white.
+
+**Questions**
+
+- What must the genotype of the white rabbit be?
+
+- What must the genotype of the black rabbit be?
+
+- Draw the Punnett square that explains the results.
+
+A recessive phenotype must always be homozygous recessive in a complete-dominance system.
+
+**Problem 7. Unknown Genotype (Test Cross)**
+
+In pea plants, **purple flowers (P)** are dominant to **white flowers (p\*)**.\
+A purple-flowered plant has the genotype **P\_**, meaning its second allele is unknown. To determine its genotype, it is crossed with a **white-flowered plant (p\*p\*)**.
+
+**Questions**
+
+1.  If the unknown purple-flowered plant is **PP**, what offspring are expected?
+
+2.  If the unknown purple-flowered plant is **Pp\***, what offspring are expected?
+
+3.  What result would prove that the unknown parent is **heterozygous**?
+
+A **test cross** uses a homozygous recessive individual to identify the genotype of an organism showing the dominant phenotype.
+
+**Problem 8. Reverse Reasoning from Offspring Data**
+
+In a species of flowering plant, **red flowers (R)** are dominant to **white flowers (r\*)**.\
+Two red-flowered plants are crossed, and the offspring include **75% red-flowered plants** and **25% white-flowered plants**.
+
+**Questions**
+
+- What are the most likely genotypes of the two parents?
+
+- Draw the Punnett square for the cross.
+
+- Why are white-flowered offspring possible even though both parents are red?
+
+Note: A **3:1 phenotypic ratio** is the classic result of a heterozygote × heterozygote monohybrid cross when one allele is completely dominant over the other.
+
+**Problem 9. Predicting Probabilities**
+
+In dogs, **short hair (H)** is dominant to **long hair (h\*)**.\
+Two heterozygous short-haired dogs are crossed.
+
+- Parent 1: **Hh\***
+
+- Parent 2: **Hh\***
+
+**Questions**
+
+- What is the probability that an offspring will be **long-haired**?
+
+- What is the probability that an offspring will be **heterozygous**?
+
+- If this cross produces **four puppies**, how many would you *expect* to be short-haired?
+
+Remember: Punnett squares predict **expected proportions**, not guaranteed outcomes for a small number of offspring.
+
+**Problem 10. Multi-Part Inference Problem**
+
+In corn plants, **smooth kernels (S)** are dominant to **wrinkled kernels (s\*)**.\
+A smooth-kernel plant is crossed with a wrinkled-kernel plant. Among the offspring, **all are smooth**.
+
+**Questions**
+
+1.  What is the genotype of the wrinkled-kernel plant?
+
+2.  What are the two possible genotypes of the smooth-kernel parent before the cross is analyzed?
+
+3.  Based on the fact that **all offspring are smooth**, what is the most likely genotype of the smooth-kernel parent?
+
+4.  Draw the Punnett square that supports your answer.
+
+**\
+**
+
+## **Extensions of Monohybrid Crosses**
+
+Not all inherited traits follow the simple dominant--recessive pattern first described by Mendel in pea plants. Although Mendel's work established the basic principles of segregation and inheritance, later studies demonstrated that some traits exhibit alternative inheritance patterns, including codominance, incomplete dominance, and sex-linked inheritance. These patterns can still be analyzed using the same general approach as a standard monohybrid cross, but the relationship between genotype and phenotype differs from that seen in complete dominance. [\[Experiment\...gor Mendel\]](http://www.mendelianum.cz/images/files/Mendel-paper-1866-english.pdf), [\[en.wikipedia.org\]](https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization)
+
+In the following sections, you will examine three important extensions of Mendelian inheritance. For each pattern, you should determine the parental genotypes, identify the possible gametes, construct a Punnett square, and then predict both the genotypic and phenotypic outcomes of the cross. Although the Punnett square method remains the same, interpretation of the offspring changes depending on the dominance relationship between the alleles or on whether the gene is carried on an autosome or a sex chromosome.
+
+### **Monohybrid Crosses with Codominance**
+
+In codominance, both alleles in a heterozygous individual are fully and distinctly expressed in the phenotype; one allele does not mask the other. A classic biological example is the ABO blood group system, in which the **Iᴬ** and **Iᴮ** alleles are **codominant** and are both expressed in individuals with genotype **IᴬIᴮ,** producing blood type **AB**. Allele **i**, when it appears, is recessive and is masked by either **I^A^** or **I^B^**. In laboratory exercises, codominance is often illustrated with coat-color traits in animals, such as red and white coat alleles in cattle, where the heterozygote displays both red and white hairs.
+
+**Solved Example: Codominance**
+
+In cattle, red coat color (**Cᴿ**) and white coat color (**Cᵂ**) are codominant. A heterozygous animal with genotype **CᴿCᵂ** has a roan coat, meaning that both red and white hairs are visible. Cross two roan cattle.
+
+**Parental genotypes:**
+
+- **Parent 1: CᴿCᵂ**
+
+- **Parent 2: CᴿCᵂ**
+
+**Possible gametes:**
+
+- Each parent produces Cᴿ and Cᵂ gametes.
+
+  ------------------------------------------------------------------------
+  **         **            **Cᴿ       **            **Cᵂ**
+  ------------------------ ------------------------ ----------------------
+  **Cᴿ  **                 **CᴿCᴿ   **              **CᴿCᵂ**
+
+  **Cᵂ  **                 **CᴿCᵂ   **              **CᵂCᵂ**
+  ------------------------------------------------------------------------
+
+**Offspring genotypes:**
+
+- **1 CᴿCᴿ**
+
+- **2 CᴿCᵂ**
+
+- **1 CᵂCᵂ**
+
+**Genotypic ratio: 1 : 2 : 1**
+
+**Offspring phenotypes:**
+
+- **CᴿCᴿ = red**
+
+- **CᴿCᵂ = roan**
+
+- **CᵂCᵂ = white**
+
+**Phenotypic ratio: 1 red : 2 roan : 1 white**
+
+This example illustrates that, in codominance, the heterozygote has a phenotype in which both alleles are visibly expressed, rather than one allele masking the other or producing an intermediate blend.
+
+**Practice Questions: Codominance**
+
+**Practice**
+
+1.  In cattle, red coat color (Cᴿ) and white coat color (Cᵂ) are codominant. Cross a red cow (CᴿCᴿ) with a white cow (CᵂCᵂ). Determine the expected genotypes and phenotypes of the offspring.
+
+2.  Cross a roan cow (CᴿCᵂ) with a red cow (CᴿCᴿ). Determine the genotypic ratio and phenotypic ratio of the offspring.
+
+<!-- -->
+
+3.  In a species of birds, black feathers (Fᴮ) and white feathers (Fᵂ) are codominant, and heterozygotes are speckled.
+
+    - Cross two speckled birds. What fraction of the offspring will be black, speckled, and white?
+
+4.  A roan bull is crossed with a white cow, producing 9 roan calves and 11 white calves.
+
+    - What are the most likely parental genotypes, and
+
+    - What phenotypic ratio would be expected from this cross?
+
+5.  A red calf is produced from one roan parent.
+
+    - What are the possible genotypes of the other parent?
+
+    - Explain all possible crosses that could produce a red calf.
+
+6.  Two animals with the same phenotype are crossed in a codominant system, and all three phenotypes appear among the offspring. What must the parental phenotype and genotype be?
+
+7.  In a codominant system, why does a 1 : 2 : 1 phenotypic ratio occur in a heterozygote × heterozygote cross rather than the 3 : 1 phenotypic ratio seen in complete dominance?
+
+### **Monohybrid Crosses with Sex Linkage**
+
+A sex-linked trait is determined by a gene located on a sex chromosome, most commonly the X chromosome. In humans and many other organisms, females typically have two X chromosomes (XX) and males have one X and one Y chromosome (XY). Because males have only one X chromosome, they possess only a single copy of most X-linked genes and will express a recessive X-linked allele whenever it is present. Females generally must inherit two recessive alleles to express a recessive X-linked trait. As a result, X-linked recessive conditions often occur more frequently in males than in females.
+
+A common instructional example is red--green color blindness, which is usually treated as an X-linked recessive trait. In this notation, Xᴺ represents the normal-vision allele and Xⁿ represents the color-blind allele; the Y chromosome does not carry a corresponding allele for this trait.
+
+**Solved Example: Sex Linkage**
+
+Color blindness is X-linked recessive. Cross a carrier female with a normal male.
+
+**Parental genotypes:**
+
+- **Female: XᴺXⁿ**
+
+- **Male: XᴺY**
+
+**Possible gametes:** Write down the gametes in the spaces below
+
+- **Female gametes: \_\_\_\_, \_\_\_\_\_**
+
+- **Male gametes: \_\_\_\_\_, \_\_\_\_**
+
+Complete the Punnett Square below.
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+**       **
+
+**Offspring genotypes and phenotypes:**
+
+- **XᴺXᴺ = normal female**
+
+- **XᴺXⁿ = carrier female**
+
+- **XᴺY = normal male**
+
+- **XⁿY = color-blind male**
+
+**Predicted outcomes:**
+
+- **Daughters: \_\_\_\_\_% normal, \_\_\_\_\_% carriers**
+
+- **Sons: \_\_\_\_\_% normal, \_\_\_\_\_% color-blind**
+
+This cross demonstrates why X-linked recessive traits are commonly observed in males: a male needs only one recessive allele on his single X chromosome in order to express the phenotype.
+
+**Practice Questions: Sex Linkage**
+
+**Simple Practice**
+
+1.  **Color blindness is X-linked recessive. Cross a color-blind male (XⁿY) with a normal homozygous female (XᴺXᴺ). What are the genotypes and phenotypes of all offspring?**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+2.  **Cross a carrier female (XᴺXⁿ) with a color-blind male (XⁿY).** What fraction of daughters will be color-blind, and what fraction of sons will be color-blind?
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+3.  **Hemophilia is an X-linked recessive trait. A carrier mother and a normal father have children. What is the probability that a son will have hemophilia? What is the probability that a daughter will be a carrier?**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+4.  **A woman has normal vision, but her father was color-blind. She has children with a normal-vision man. What must the woman's genotype be, and what is the probability that one of their sons will be color-blind?** <https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization>
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+5.  **A normal-vision father and a normal-vision mother have a color-blind son. What must the mother's genotype be? Could a daughter in this family be color-blind? Explain your answer.**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+6.  **A color-blind female is crossed with a normal male. Determine the genotypes and phenotypes of all daughters and all sons. Explain how this cross differs from an autosomal recessive cross.**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+7.  **Why is the notation for sex-linked crosses different from that used in autosomal monohybrid crosses? Relate your answer to the fact that the Y chromosome often lacks a corresponding allele for many X-linked genes.**
+
+### **Monohybrid Crosses with Incomplete Dominance**
+
+In incomplete dominance, neither allele is completely dominant over the other, and the heterozygote displays an intermediate phenotype between the two homozygotes. This pattern differs from codominance because the heterozygote does not show both traits distinctly; instead, it shows a phenotype that appears blended or intermediate. A classic example is snapdragon flower color, in which red-flowered plants and white-flowered plants produce pink-flowered heterozygous offspring.
+
+**A commonly used notation for this trait is:**
+
+- **CᴿCᴿ = red**
+
+- **CᵂCᵂ = white**
+
+- **CᴿCᵂ = pink**
+
+**Solved Example: Incomplete Dominance**
+
+**In snapdragons, flower color shows incomplete dominance. Cross two pink flowers.**
+
+**Parental genotypes:**
+
+- **Parent 1: CᴿCᵂ**
+
+- **Parent 2: CᴿCᵂ**
+
+**Possible gametes:**
+
+- **Each parent produces \_\_\_\_\_\_ and \_\_\_\_\_\_ gametes.**
+
+Complete the Punnett Square below.
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+**Offspring genotypes:**
+
+- **\_\_\_\_ CᴿCᴿ**
+
+- **\_\_\_\_ CᴿCᵂ**
+
+- **\_\_\_\_ CᵂCᵂ**
+
+**Offspring phenotypes:**
+
+- **CᴿCᴿ = red**
+
+- **CᴿCᵂ = pink**
+
+- **CᵂCᵂ = white**
+
+**Genotypic ratio: 1 : 2 : 1**
+
+**Phenotypic ratio: 1 red : 2 pink : 1 white**
+
+This example shows that in incomplete dominance the heterozygote has an intermediate phenotype, and therefore the phenotypic ratio matches the genotypic ratio in a heterozygote × heterozygote cross.
+
+**Practice Questions: Incomplete Dominance**
+
+1.  **In snapdragons, cross a red flower (CᴿCᴿ) with a white flower (CᵂCᵂ). What genotype and phenotype will all offspring have?**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+2.  **Cross a pink flower (CᴿCᵂ) with a white flower (CᵂCᵂ). Determine the expected offspring genotypes and phenotypes.**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+3.  **In a species of fish, blue scales (BᴮBᴮ) and yellow scales (BʸBʸ) show incomplete dominance, and heterozygotes are green. Cross two green fish and determine the expected genotypic and phenotypic ratios.**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+4.  **A pink snapdragon is crossed with a red snapdragon. What fraction of the offspring will be pink, and what fraction will be red?**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+5.  **Two flowers produce offspring in the ratio 1 red : 2 pink : 1 white. What were the parental genotypes, and how does the ratio support your answer?**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+6.  **A breeder crosses two flowers and observes 50% pink and 50% white offspring, with no red offspring. What were the parental genotypes? Draw the Punnett square to support your answer.**
+
+  ----------------------- ----------------------- -----------------------
+                                                  
+
+  **  **                                          
+  ----------------------- ----------------------- -----------------------
+
+7.  **Explain why incomplete dominance can appear similar to "blending inheritance" at first glance yet still follows predictable Mendelian segregation patterns.**
+
+### **Comparative Summary**
+
+These three types of monohybrid crosses illustrate that not all single-gene traits follow complete dominance. In codominance, both alleles are fully expressed in the heterozygote. In incomplete dominance, neither allele is fully dominant, and the heterozygote has an intermediate phenotype. In sex-linked inheritance, the pattern of transmission depends on whether the gene is located on a sex chromosome and whether the offspring is male or female. Despite these differences, each pattern can still be analyzed using the same stepwise process of identifying parental genotypes, determining gametes, constructing a Punnett square, and interpreting the resulting genotypic and phenotypic ratios., <https://courses.lumenlearning.com/suny-oneonta-osbiology2e-1/chapter/characteristics-and-traits/>
+
+## **Dihybrid Crosses**
+
+A **dihybrid cross** is a genetic cross that examines the inheritance of **two different traits (two genes) simultaneously**. While a monohybrid cross follows one trait, a dihybrid cross allows us to observe how alleles of different genes are inherited together and whether they assort independently. This concept reflects **Mendel's principle of independent assortment**, which states that alleles of different genes are distributed independently into gametes (provided the genes are not linked).
+
+In a dihybrid cross, each parent contributes **two alleles for each of two genes**, and each gamete receives **one allele from each gene**. As a result, more combinations of gametes are possible compared to a monohybrid cross.
+
+**Using FOIL to Determine Gametes**
+
+To solve dihybrid crosses efficiently, students can use the **FOIL method**, a technique adapted from algebra:
+
+- **F**irst
+
+- **O**uter
+
+- **I**nner
+
+- **L**ast
+
+This method helps determine all possible gamete combinations from a heterozygous individual.
+
+**Example:**
+
+For a genotype **AaBb**, apply FOIL:
+
+- First: **A B** → AB
+
+- Outer: **A b** → Ab\*
+
+- Inner: **a B** → a\*B
+
+- Last: **a b** → a\*b\*
+
+Thus, this individual produces **four types of gametes**:
+
+- **AB, Ab\*, a\*B, a\*b\***
+
+**Solved Example: Dihybrid Cross**
+
+**Problem**
+
+In pea plants:
+
+- **Seed shape:** Round (R) is dominant to wrinkled (r)
+
+- **Seed color:** Yellow (Y) is dominant to green (y)
+
+Cross two plants that are **heterozygous for both traits**:
+
+- Parent 1: **Rr\*Yy\***
+
+- Parent 2: **Rr\*Yy\***
+
+**Step 1: Determine gametes using FOIL**
+
+Each parent produces:
+
+- **RY, Ry\*, r\*Y, r\*y\***
+
+**Step 2: Set up a 4 × 4 Punnett square**
+
+Complete the following table.
+
+  --------------------------------------------------------------------------
+                       RY            Ry\*           r\*Y          r\*y\*
+  -------------- -------------- -------------- -------------- --------------
+        RY                                                    
+
+       Ry\*                                                   
+
+       r\*Y                                                   
+
+      r\*y\*                                                  
+  --------------------------------------------------------------------------
+
+**Step 3: Determine phenotypes**
+
+- **Round Yellow (R_Y\_)**
+
+- **Round Green (R_y\*y\*)**
+
+- **Wrinkled Yellow (r\*r\*Y\_)**
+
+- **Wrinkled Green (r\*r\*y\*y\*)**
+
+**Step 4: Count phenotypes**
+
+- Round Yellow = \_\_\_\_\_\_
+
+- Round Green = \_\_\_\_\_\_
+
+- Wrinkled Yellow = \_\_\_\_\_\_
+
+- Wrinkled Green = \_\_\_\_\_\_
+
+**Final Answer**
+
+**Phenotypic ratio: \_\_\_\_\_\_: \_\_\_\_\_\_: \_\_\_\_\_\_: \_\_\_\_\_\_**
+
+**Conclusion**
+
+A dihybrid cross between two heterozygous individuals produces a **9:3:3:1 phenotypic ratio** when the genes assort independently and follow complete dominance.
+
+**Practice Problems: Dihybrid Crosses**
+
+**Simple Problem 1**
+
+In pea plants:
+
+- **Tall (T)** is dominant to short (t\*)
+
+- **Purple flowers (P)** are dominant to white (p\*)
+
+**Cross:**
+
+- Parent 1: **Tt\*Pp\***
+
+- Parent 2: **Tt\*Pp\***
+
+**Questions:**
+
+- List all possible gametes using FOIL
+
+- Construct the Punnett square
+
+- Determine the phenotypic ratio
+
+  -------------- -------------- -------------- -------------- --------------
+                                                              
+
+                                                              
+
+                                                              
+
+                                                              
+  -------------- -------------- -------------- -------------- --------------
+
+**Simple Problem 2**
+
+In guinea pigs:
+
+- **Black fur (B)** is dominant to brown (b\*)
+
+- **Short hair (H)** is dominant to long hair (h\*)
+
+Cross:
+
+- Parent 1: **Bb\*Hh\***
+
+- Parent 2: **b\*b\*h\*h\***
+
+**Questions:**
+
+- What gametes can each parent produce?
+
+- What is the phenotypic ratio of offspring?
+
+**More Advanced Problems**
+
+**Challenge Problem 1**
+
+In plants:
+
+- **Red flowers (R)** are dominant to white (r\*)
+
+- **Tall (T)** is dominant to short (t\*)
+
+Cross a **heterozygous plant (Rr\*Tt\*)** with a **plant that is homozygous recessive for both traits (r\*r\*t\*t\*)**.
+
+**Questions:**
+
+- What are the gametes produced by each parent? List the type you expect to see below
+
+> \_\_\_\_\_\_, \_\_\_\_\_\_, \_\_\_\_\_\_, \_\_\_\_\_\_\_
+
+- What phenotypic ratio would you expect?
+
+> \_\_\_\_\_\_: \_\_\_\_\_\_: \_\_\_\_\_\_: \_\_\_\_\_\_
+
+- Why is this type of cross called a **test cross**?
+
+**Challenge Problem 2**
+
+In mice:
+
+- **Gray fur (G)** is dominant to white (g\*)
+
+- **Normal tail (T)** is dominant to short tail (t\*)
+
+Two mice are crossed, both with genotype **Gg\*Tt\***.
+
+**Questions:**
+
+- What phenotypic ratio is expected?
+
+> \_\_\_\_\_\_: \_\_\_\_\_\_: \_\_\_\_\_\_: \_\_\_\_\_\_
+
+- What is the probability of producing a white mouse with a short tail?
+
+- What fraction of offspring will be heterozygous for both traits?
+
+**Challenge Problem 3**
+
+In a dihybrid cross, the offspring phenotypes are observed in the ratio:
+
+- 9 dominant for both traits
+
+- 3 dominant for first trait, recessive for second
+
+- 3 recessive for first trait, dominant for second
+
+- 1 recessive for both traits
+
+**Questions:**
+
+- What were the genotypes of the parents?
+
+- Explain why this ratio indicates independent assortment
+
+- What would happen to this ratio if the genes were linked?
+
+**Challenge Problem 4**
+
+In corn:
+
+- **Smooth kernels (S)** are dominant to wrinkled (s\*)
+
+- **Yellow kernels (Y)** are dominant to white (y\*)
+
+A smooth yellow plant is crossed with a wrinkled white plant and produces offspring in equal proportions of:
+
+- Smooth yellow
+
+- Smooth white
+
+- Wrinkled yellow
+
+- Wrinkled white
+
+**Questions:**
+
+- What must be the genotype of the smooth yellow parent?
+
+- Explain how the data supports your answer
+
+- Draw the appropriate Punnett square
+
+**Challenge Problem 5**
+
+A dihybrid cross is performed between two organisms. You observe that:
+
+- 50% of offspring show both dominant traits
+
+- 50% show both recessive traits
+
+No mixed phenotypes appear.
+
+**Questions:**
+
+- What are the genotypes of the parents?
+
+\_\_\_\_\_\_, \_\_\_\_\_\_, \_\_\_\_\_\_, \_\_\_\_\_\_\_
+
+- Why are only two phenotypes observed?
+
+- How does this differ from the typical 9:3:3:1 ratio?
+
+**Summary**
+
+Dihybrid crosses extend the principles learned in monohybrid crosses by examining **two traits simultaneously**. The use of the **FOIL method** simplifies the process of determining gametes, and Punnett squares allow prediction of offspring outcomes. When both parents are heterozygous and genes assort independently, the expected phenotypic ratio is **9:3:3:1**, but deviations from this ratio can reveal additional biological insights such as **linkage or test crosses**.
+
+## **Key Terms / Glossary**
+
+**Trait** -- A heritable characteristic or feature of an organism, such as flower color or seed shape.
+
+**Gene** -- A basic unit of heredity that contributes to a specific biological characteristic.
+
+**Locus** -- The specific location of a gene on a chromosome.
+
+**Allele** -- One of two or more alternative versions of a gene at a given locus.
+
+**Homozygous** -- Having two identical alleles for a gene.
+
+**Heterozygous** -- Having two different alleles for a gene.
+
+**Dominant** -- Refers to an allele that is expressed in the phenotype when present in a heterozygous individual.
+
+**Recessive** -- Refers to an allele whose effect is masked in a heterozygous individual and expressed only when two recessive alleles are present.
+
+**Phenotype** -- The observable physical or physiological characteristics of an organism.
+
+**Genotype** -- The allele combination or genetic constitution of an organism.
+
+**Monohybrid Cross** -- A genetic cross that tracks the inheritance of a single trait or gene.
+
+**Dihybrid Cross** -- A genetic cross that tracks the inheritance of two different traits or genes at the same time.
+
+**Complete Dominance** -- A pattern of inheritance in which the heterozygote has the same phenotype as the homozygous dominant individual.
+
+**Incomplete Dominance** -- A pattern of inheritance in which the heterozygous phenotype is intermediate between the two homozygous phenotypes.
+
+**Codominance** -- A pattern of inheritance in which both alleles are fully expressed in the heterozygous phenotype.
+
+**Sex-Linked Inheritance** -- Inheritance of traits determined by genes located on the sex chromosomes, commonly the X chromosome.
+
+## **Post-Lab Analysis Questions**
+
+1.  Briefly explain how Mendel's experiments with pea plants contributed to the development of modern genetics.
+
+2.  In your own words, distinguish between a **gene**, an **allele**, and a **trait**.
+
+3.  Why is it important to distinguish between **phenotype** and **genotype** when analyzing a genetic cross?
+
+4.  In a monohybrid cross involving complete dominance, why can two organisms with the same phenotype have different genotypes?
+
+5.  What genotypic ratio is expected when two heterozygous individuals are crossed for a trait with complete dominance?
+
+6.  What phenotypic ratio is expected in the same cross?
+
+7.  How does the phenotypic ratio in **incomplete dominance** differ from the phenotypic ratio in **complete dominance** for a heterozygote × heterozygote cross?
+
+8.  How does **codominance** differ conceptually from **incomplete dominance**?
+
+9.  Why do sex-linked traits often appear more frequently in one sex than in the other?
+
+10. What additional information can be learned from a **dihybrid cross** that cannot be learned from a **monohybrid cross**?
+
+11. Explain how a dihybrid cross can be used to illustrate the principle of independent assortment.
+
+12. If observed data from a cross do not exactly match expected ratios, what biological or experimental factors might explain the discrepancy?
+
+13. Which type of inheritance pattern in this lab did you find most conceptually challenging, and why?
+
+14. How does understanding patterns of inheritance help biologists interpret heredity in plants, animals, and humans?
+
+> **Attribution Statement**
+>
+> This laboratory manual chapter incorporates and adapts content from a variety of educational and scholarly sources. The following materials were used in the development of this work:
+>
+> Content related to fundamental principles of genetics, Mendelian inheritance, and Punnett square analysis was adapted from *Biology 2e* by OpenStax, which is licensed under a Creative Commons Attribution (CC BY 4.0) License. OpenStax resources are freely available at: <https://openstax.org/details/books/biology-2e>. The material has been edited, arranged, and framed to match the learning goals of this laboratory exercise.
+>
+> Historical context and interpretation of Gregor Mendel's work were informed by:
+
+- Abbott, S., and Fairbanks, D. (2016), *Perspectives: Experiments on Plant Hybrids by Gregor Mendel*, *Genetics* 116:195--198.
+
+- Mendel, G. (1865), *Experiments in Plant Hybridization*, English translations available at:
+
+    - <http://www.mendelweb.org/Mendel.html>
+
+    - <http://www.esp.org/books/bateson/mendel/facsimile/contents/bateson-mendel-3-peas.pdf>
+
+> Additional supporting material and explanatory context were drawn from:
+
+- *Introductory Biology* (Copyright © will1278 and various authors), licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+- "Experiments on Plant Hybridization," *Wikipedia*, available at https://en.wikipedia.org/wiki/Experiments_on_Plant_Hybridization.
+
+- Andrei, A. (2013), "*Experiments in Plant Hybridization (1866), by Johann Gregor Mendel*," *Embryo Project Encyclopedia*, ISSN 1940-5030, https://hdl.handle.net/10776/6240.
+
+> All third-party materials have been used in accordance with their respective licensing terms. This lab manual chapter represents a modified and integrated educational resource, and any errors or interpretations are the responsibility of the author.
+
+## **Procedure Overview**
+
+**Part I. Review of Mendelian Terminology and Genetic Notation**
+
+1.  Review the definitions of the terms provided in the glossary.
+
+2.  Practice writing genotypes using standard letter notation for dominant and recessive alleles.
+
+3.  Distinguish between genotype and phenotype for several sample organisms or traits.
+
+**Part II. Monohybrid Crosses with Complete Dominance**
+
+1.  Examine a genetic trait controlled by two alleles in which one allele is completely dominant to the other.
+
+2.  Construct Punnett squares for parental crosses provided by the instructor or laboratory handout.
+
+3.  Determine the expected genotypic and phenotypic ratios for the offspring.
+
+4.  Compare predicted ratios with any observed class or sample data, if provided.
+
+**Part III. Monohybrid Crosses with Incomplete Dominance**
+
+1.  Analyze a trait in which the heterozygous phenotype is intermediate between the two homozygous phenotypes.
+
+2.  Use Punnett square analysis to predict offspring genotypes and phenotypes.
+
+3.  Record expected ratios and compare them with complete dominance outcomes.
+
+**Part IV. Monohybrid Crosses with Codominance**
+
+1.  Examine a trait in which both alleles are expressed in the heterozygous condition.
+
+2.  Complete Punnett square analysis for the assigned codominant cross.
+
+3.  Compare the resulting phenotypic ratios with those seen in complete and incomplete dominance.
+
+**Part V. Monohybrid Crosses with Sex Linkage**
+
+1.  Review the inheritance of a trait controlled by a gene located on the X chromosome.
+
+2.  Use sex-linked notation to represent parental genotypes.
+
+3.  Predict the expected phenotypic distribution among male and female offspring.
+
+4.  Identify why reciprocal crosses may produce different results in sex-linked inheritance.
+
+**Part VI. Dihybrid Crosses**
+
+1.  Construct Punnett squares or use a forked-line method to analyze a cross involving two separately inherited traits.
+
+2.  Determine the expected genotypic and phenotypic ratios.
+
+3.  Evaluate how the results illustrate Mendel's principle of independent assortment.
+
+**Part VII. Interpretation and Discussion**
+
+1.  Summarize the inheritance pattern observed in each type of cross.
+
+2.  Compare different modes of inheritance and identify how they alter expected phenotypic ratios.
+
+3.  Answer post-laboratory questions using both calculations and written explanations.
