@@ -1,0 +1,16 @@
+/*-- scss:rules --*/
+
+// Most images in this book are line-art/diagrams exported with a
+// transparent background, which are nearly invisible against the
+// dark theme's dark background. Inverting them in dark mode keeps
+// dark lines/text visible without needing per-image edits.
+#quarto-document-content img {
+  filter: invert(100%);
+}
+
+// Real photographs (and richly-colored rendered diagrams) look like
+// color negatives when inverted, so they're tagged with .no-invert
+// (see the images in the .qmd source) to keep their original colors.
+#quarto-document-content img.no-invert {
+  filter: none;
+}

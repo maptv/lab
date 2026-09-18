@@ -29,7 +29,7 @@ format:
   html:
     theme:
       light: [cosmo, brand]
-      dark: [darkly, brand]
+      dark: [darkly, brand, dark.scss]
   pdf: default
   epub: default
   docx: default
