@@ -28,5 +28,5 @@ html:not(.pdf-export) .reveal .critical-values table {
 
 /* Keep the caption below the plot clear of the footer */
 .reveal .observed-expected .cell-output-display img {
-  width: 58%;
+  width: 72%;
 }
