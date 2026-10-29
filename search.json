@@ -1638,5 +1638,15 @@
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>**Introduction to Mendelian Genetics**</span>"
     ]
+  },
+  {
+    "objectID": "presentation/index.html",
+    "href": "presentation/index.html",
+    "title": "Quarto presentation",
+    "section": "",
+    "text": "With Quarto, you can turn Quarto markdown (qmd) files into documents like articles or reports, websites such as blogs, and different kinds of presentations including sales pitches.\nLike other digital deliverables created by Quarto, presentations can be rendered as HTML, viewed in a web browser, and saved as a PDF using the print dialog.\nBefore saving, we should make sure the Layout is set to Landscape.\n\nA PDF presentation should have only one slide per page, but putting multiple slides on one page may be convenient if we want to read the slides instead of presenting them.\n\nFor best results, I suggest following the PDF export instructions in the RevealJS documentation: https://revealjs.com/pdf-export/.\nPDF files are ubiquitous and it is good to know that you can generate one with nothing more than a web browser whenever necessary, but HTML files can do many things that PDF files simply cannot.\nThe HTML presentation below demonstrates all of the features described in its slides, many of which are not active in the PDF presentation beneath it.\n\n\n\n\n\n\nInstead of embedding your presentation in a webpage as shown above, you can view it in its own browser tab in HTML or PDF format.\nTo edit a presentation, you can modify the plain text of the associated qmd file in a text editor or work with a WYSIWYG version via the Visual Mode in RStudio, VSCode, Codespaces, or Positron.\nWhen you want to update the presentation on your website, all you have to do is add, commit, and push your changes. It may take some time for your site to update after you push changes. You can see the status and logs of all of your website builds in the Actions tab of your repo on &lt;github.com&gt;.",
+    "crumbs": [
+      "Quarto presentation"
+    ]
   }
 ]
