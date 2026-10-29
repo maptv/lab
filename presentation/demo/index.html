@@ -194,6 +194,12 @@
       margin-right: 0; 
     }
   </style>
+  <script>
+    // Opening the deck with ?pdf-export (used to make demo.pdf) turns off browser-only styles
+    if (new URLSearchParams(window.location.search).has("pdf-export")) {
+      document.documentElement.classList.add("pdf-export");
+    }
+  </script>
   <script src="https://cdn.jsdelivr.net/npm/requirejs@2.3.6/require.min.js" integrity="sha384-c9c+LnTbwQ3aujuU7ULEPVvgLs+Fn6fJUvIGTsuu1ZcCf11fiEubah0ttpca4ntM sha384-6V1/AdqZRWk1KAlWbKBlGhN7VG4iE/yAZcO6NZPMF8od0vukrvr0tg4qY6NSrItx" crossorigin="anonymous"></script>
   
   <script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
@@ -212,7 +218,7 @@
 Example Student
 </div>
         <p class="quarto-title-affiliation">
-            BIOL 109 · The Community College of Baltimore County
+            BIOL 110 · The Community College of Baltimore County
           </p>
     </div>
 </div>
@@ -347,7 +353,7 @@ Example Student
       }</style></aside>
 </div>
 </section>
-<section id="critical-values" class="slide level2">
+<section id="critical-values" class="slide level2 critical-values">
 <h2>Critical values</h2>
 <p>If <span class="math inline">\(\chi^2\)</span> is greater than the critical value, we <strong>reject</strong> <span class="math inline">\(H_0\)</span>.</p>
 <div class="quarto-embed-nb-cell" data-notebook="/home/runner/work/lab/lab/presentation/demo/chisq.ipynb" data-notebook-title="Chi-square (χ²) testing in genetics" data-notebook-cellid="crit-values">
@@ -859,7 +865,7 @@ X-squared = 8.8889, df = 3, p-value = 0.03081</code></pre>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
-<p>χ<sup>2</sup> testing in genetics · BIOL 109 example presentation</p>
+<p>χ<sup>2</sup> testing in genetics · BIOL 110 example presentation</p>
 </div>
 </div></div>
 
