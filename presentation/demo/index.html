@@ -356,6 +356,7 @@ Example Student
 <section id="critical-values" class="slide level2 critical-values">
 <h2>Critical values</h2>
 <p>If <span class="math inline">\(\chi^2\)</span> is greater than the critical value, we <strong>reject</strong> <span class="math inline">\(H_0\)</span>.</p>
+<div class="smallfont">
 <div class="quarto-embed-nb-cell" data-notebook="/home/runner/work/lab/lab/presentation/demo/chisq.ipynb" data-notebook-title="Chi-square (χ²) testing in genetics" data-notebook-cellid="crit-values">
 <div id="crit-values" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;execution&quot;,&quot;value&quot;:{&quot;iopub.execute_input&quot;:&quot;2026-10-29T14:42:05.092339Z&quot;,&quot;iopub.status.busy&quot;:&quot;2026-10-29T14:42:05.092011Z&quot;,&quot;iopub.status.idle&quot;:&quot;2026-10-29T14:42:05.097737Z&quot;,&quot;shell.execute_reply&quot;:&quot;2026-10-29T14:42:05.097281Z&quot;}}" data-execution_count="7">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="" aria-label="1"></a><span class="fu">data.frame</span>(<span class="at">df =</span> <span class="dv">1</span><span class="sc">:</span><span class="dv">4</span>, <span class="at">critical_value =</span> <span class="fu">round</span>(<span class="fu">qchisq</span>(<span class="fl">0.95</span>, <span class="at">df =</span> <span class="dv">1</span><span class="sc">:</span><span class="dv">4</span>), <span class="dv">2</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
@@ -391,6 +392,7 @@ Example Student
 </tr>
 </tbody>
 </table>
+</div>
 </div>
 </div>
 </div>
@@ -890,7 +892,7 @@ X-squared = 8.8889, df = 3, p-value = 0.03081</code></pre>
       // Full list of configuration options available at:
       // https://revealjs.com/config/
       Reveal.initialize({
-'controlsAuto': true,
+'controlsAuto': false,
 'previewLinksAuto': true,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
@@ -901,7 +903,7 @@ X-squared = 8.8889, df = 3, p-value = 0.03081</code></pre>
 'smaller': false,
  
         // Display controls in the bottom right corner
-        controls: false,
+        controls: true,
 
         // Help the user learn the controls by providing hints, for example by
         // bouncing the down arrow when they first encounter a vertical slide
