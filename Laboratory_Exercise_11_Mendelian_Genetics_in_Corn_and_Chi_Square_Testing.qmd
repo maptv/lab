@@ -362,13 +362,13 @@ Using the data you generated from table11.3, you are now going to determine if t
 +===============+==================+==============+===================+==========+======================+
 | **Purple**    |      164         |    166       |        -2         |    4     |      0.0240963855    |
 +---------------+------------------+--------------+-------------------+----------+----------------------+
-| **Yellow**    |       57         |     55       |        2          |    4     |    0.0240963855      |
+| **Yellow**    |       57         |     55       |        2          |    4     |    0.0701754386      |
 +---------------+------------------+--------------+-------------------+----------+----------------------+
-| **Total**     |      221         |     221      |                   |          |                      |
+| **Total**     |      221         |     221      |                   |          |   0.0722891565       |
 +---------------+------------------+--------------+-------------------+----------+----------------------+
 |               |                  |              |                   |          | Sum of all D2/E = c2 |
 |               |                  |              |                   |          |                      |
-|               |                  |              |                   |          | **c2 = 0.048192771** |
+|               |                  |              |                   |          | **c2=0.0722891565**  |
 +---------------+------------------+--------------+-------------------+----------+----------------------+
 
 The ratio predicted from your Punnett square will differ slightly from the ratio you observed when counting the corn kernels. If your calculated χ² value is greater than 3.84, the difference between observed and expected values is considered significant. If it is less than 3.84, the difference is not significant.
