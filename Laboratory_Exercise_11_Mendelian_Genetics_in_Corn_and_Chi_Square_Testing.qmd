@@ -321,13 +321,13 @@ Total Offspring: 221
 
 **Step 1: State the Hypothesis in a full sentence**
 
-Expected phenotypic ratio: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Expected phenotypic ratio: 3:1
 
 **Step 2: Calculate Expected Values**
 
-Expected dominant: \_\_\_\_\_\_
+Expected dominant: 166
 
-Expected recessive: \_\_\_\_\_\_
+Expected recessive: 55
 
 **Hint:**
 
